@@ -44,8 +44,15 @@ session.headers["User-Agent"] = USER_AGENT
 
 
 def get(url, **params):
-    time.sleep(DELAY)
-    r = session.get(url, params=params or None, timeout=30)
+    """GET with a polite delay, backing off and retrying on 429/5xx."""
+    for attempt in range(6):
+        time.sleep(DELAY)
+        r = session.get(url, params=params or None, timeout=30)
+        if r.status_code != 429 and r.status_code < 500:
+            return r
+        wait = int(r.headers.get("Retry-After", 0) or 0) or 5 * 2**attempt
+        print(f"  {r.status_code}, retrying in {wait}s", file=sys.stderr)
+        time.sleep(wait)
     return r
 
 
