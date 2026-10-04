@@ -39,10 +39,9 @@ All word cards exist in **Swedish (`sv`) and English (`en`)**.
 - Each language is built as its **own deck** (e.g. `Ord – Djur` and
   `Words – Animals`) from that shared table.
 - Swedish text must keep `å ä ö`; all files are UTF-8.
-- Swedish nouns are stored with their article where it helps learning
-  (`en katt`, `ett hus`); English without (`cat`).
-  Recordings usually say the bare word (`katt`); the card shows the word with
-  its article and plays the recording as is.
+- The written word always matches exactly what its recording says. If the
+  recording says `katt`, the card shows `katt`; if it says `en katt`, the card
+  shows `en katt`. Adjust the text to the audio, never the other way round.
 
 ### Word selection: media first
 
