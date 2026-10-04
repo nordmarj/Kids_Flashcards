@@ -1,0 +1,13 @@
+id,sv,en,level,image,audio_sv,audio_en
+eye,öga,eye,1,eye.png,eye_sv.mp3,eye_en.mp3
+ear,öra,ear,1,ear.png,ear_sv.mp3,ear_en.mp3
+nose,näsa,nose,1,nose.png,nose_sv.mp3,nose_en.mp3
+mouth,mun,mouth,1,mouth.png,mouth_sv.mp3,mouth_en.mp3
+hand,hand,hand,1,hand.png,hand_sv.mp3,hand_en.mp3
+foot,fot,foot,1,foot.png,foot_sv.mp3,foot_en.mp3
+head,huvud,head,1,head.png,head_sv.mp3,head_en.mp3
+hair,hår,hair,1,hair.png,hair_sv.mp3,hair_en.mp3
+arm,arm,arm,1,arm.png,arm_sv.mp3,arm_en.mp3
+leg,ben,leg,2,leg.png,leg_sv.mp3,leg_en.mp3
+tooth,tand,tooth,2,tooth.png,tooth_sv.mp3,tooth_en.mp3
+finger,finger,finger,2,finger.png,finger_sv.mp3,finger_en.mp3

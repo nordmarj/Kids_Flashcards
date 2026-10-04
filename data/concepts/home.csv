@@ -1,0 +1,15 @@
+id,sv,en,level,image,audio_sv,audio_en
+house,hus,house,1,house.png,house_sv.mp3,house_en.mp3
+door,dörr,door,1,door.png,door_sv.mp3,door_en.mp3
+window,fönster,window,1,window.png,window_sv.mp3,window_en.mp3
+bed,säng,bed,1,bed.png,bed_sv.mp3,bed_en.mp3
+chair,stol,chair,1,chair.png,chair_sv.mp3,chair_en.mp3
+table,bord,table,1,table.png,table_sv.mp3,table_en.mp3
+lamp,lampa,lamp,1,lamp.png,lamp_sv.mp3,lamp_en.mp3
+cup,kopp,cup,1,cup.png,cup_sv.mp3,cup_en.mp3
+spoon,sked,spoon,1,spoon.png,spoon_sv.mp3,spoon_en.mp3
+fork,gaffel,fork,2,fork.png,fork_sv.mp3,fork_en.mp3
+knife,kniv,knife,2,knife.png,knife_sv.mp3,knife_en.mp3
+plate,tallrik,plate,2,plate.png,plate_sv.mp3,plate_en.mp3
+key,nyckel,key,2,key.png,key_sv.mp3,key_en.mp3
+clock,klocka,clock,2,clock.png,clock_sv.mp3,clock_en.mp3

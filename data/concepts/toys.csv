@@ -1,0 +1,4 @@
+id,sv,en,level,image,audio_sv,audio_en
+book,bok,book,1,book.png,book_sv.mp3,book_en.mp3
+ball,boll,ball,1,ball.png,ball_sv.mp3,ball_en.mp3
+kite,drake,kite,2,kite.png,kite_sv.mp3,kite_en.mp3

@@ -1,0 +1,17 @@
+id,sv,en,level,image,audio_sv,audio_en
+apple,äpple,apple,1,apple.png,apple_sv.mp3,apple_en.mp3
+banana,banan,banana,1,banana.png,banana_sv.mp3,banana_en.mp3
+orange,apelsin,orange,1,orange.png,orange_sv.mp3,orange_en.mp3
+pear,päron,pear,1,pear.png,pear_sv.mp3,pear_en.mp3
+strawberry,jordgubbe,strawberry,1,strawberry.png,strawberry_sv.mp3,strawberry_en.mp3
+carrot,morot,carrot,1,carrot.png,carrot_sv.mp3,carrot_en.mp3
+potato,potatis,potato,1,potato.png,potato_sv.mp3,potato_en.mp3
+bread,bröd,bread,1,bread.png,bread_sv.mp3,bread_en.mp3
+milk,mjölk,milk,1,milk.png,milk_sv.mp3,milk_en.mp3
+egg,ägg,egg,1,egg.png,egg_sv.mp3,egg_en.mp3
+cheese,ost,cheese,1,cheese.png,cheese_sv.mp3,cheese_en.mp3
+ice_cream,glass,ice cream,1,ice_cream.png,ice_cream_sv.mp3,ice_cream_en.mp3
+water,vatten,water,1,water.png,water_sv.mp3,water_en.mp3
+tomato,tomat,tomato,2,tomato.png,tomato_sv.mp3,tomato_en.mp3
+cucumber,gurka,cucumber,2,cucumber.png,cucumber_sv.mp3,cucumber_en.mp3
+pizza,pizza,pizza,1,pizza.png,pizza_sv.mp3,pizza_en.mp3

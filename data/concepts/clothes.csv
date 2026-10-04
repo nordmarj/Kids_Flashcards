@@ -1,0 +1,5 @@
+id,sv,en,level,image,audio_sv,audio_en
+sweater,tröja,sweater,2,sweater.png,sweater_sv.mp3,sweater_en.mp3
+dress,klänning,dress,2,dress.png,dress_sv.mp3,dress_en.mp3
+shoe,sko,shoe,1,shoe.png,shoe_sv.mp3,shoe_en.mp3
+sock,strumpa,sock,1,sock.png,sock_sv.mp3,sock_en.mp3

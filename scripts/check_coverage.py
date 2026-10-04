@@ -43,12 +43,22 @@ session = requests.Session()
 session.headers["User-Agent"] = USER_AGENT
 
 
+def api_error(r):
+    """True if the MediaWiki API answered 200 with an error body (e.g. throttled)."""
+    if "json" not in r.headers.get("Content-Type", ""):
+        return False
+    try:
+        return "error" in r.json()
+    except ValueError:
+        return False
+
+
 def get(url, **params):
     """GET with a polite delay, backing off and retrying on 429/5xx."""
     for attempt in range(6):
         time.sleep(DELAY)
         r = session.get(url, params=params or None, timeout=30)
-        if r.status_code != 429 and r.status_code < 500:
+        if r.status_code != 429 and r.status_code < 500 and not api_error(r):
             return r
         wait = int(r.headers.get("Retry-After", 0) or 0) or 5 * 2**attempt
         print(f"  {r.status_code}, retrying in {wait}s", file=sys.stderr)
