@@ -17,7 +17,7 @@ outputs, never edited by hand.
 
 Audience: children who are **just learning to read and count, up to around
 ten years old**. The youngest may barely read, so cards must be visual and
-short, and word cards should be spoken aloud; content can grow harder for
+short, and every word card is spoken aloud; content can grow harder for
 older children (longer words, larger numbers) via separate levelled decks.
 
 ## Deck categories
@@ -30,7 +30,7 @@ older children (longer words, larger numbers) via separate levelled decks.
    the table stays reviewable and the deck stays stable.
 2. **Picture → word (multiple choice)** – a picture is shown with several
    candidate words; the child picks the one that matches. The back reveals the
-   correct word (and plays its audio, when available).
+   correct word and plays its audio.
 
 More categories may be added later; each category gets its own table(s) and
 note type.
@@ -44,6 +44,16 @@ All word cards exist in **Swedish (`sv`) and English (`en`)**.
 - Each language is built as its **own deck** (e.g. `Ord – Djur` and
   `Words – Animals`) from that shared table **(default, unconfirmed)**.
 - Swedish text must keep `å ä ö`; all files are UTF-8.
+
+### Word selection: media first
+
+Every word card has **an image and audio in both Swedish and English**. Words
+are chosen so that all three can be sourced: a concept is only added to a
+concept table once `fetch_media.py` has found an acceptable image, a Swedish
+recording and an English recording for it. Concepts missing any of them stay
+out (they may be listed in `data/candidates/` while searching).
+`build_decks.py` fails if a concept row lacks `image`, `audio_sv` or
+`audio_en`.
 - Swedish nouns are stored with their article where it helps learning
   (`en katt`, `ett hus`) **(default, unconfirmed)**; English without (`cat`).
 
@@ -52,6 +62,7 @@ All word cards exist in **Swedish (`sv`) and English (`en`)**.
 ```
 data/
   concepts/<topic>.csv      # one row per concept: id, sv, en, image, audio_sv, audio_en, tags
+  candidates/<topic>.csv    # words still waiting for complete media
   arithmetic/<range>.csv    # generated: id, question, answer, distractors
 media/
   images/<id>.<ext>         # downloaded pictures
