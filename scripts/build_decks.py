@@ -2,7 +2,10 @@
 """Build Anki decks from data/ into build/*.apkg.
 
 So far this builds the arithmetic deck: one .apkg whose subdecks are the
-CSV files in data/arithmetic/ (written by gen_arithmetic.py).
+CSV files in data/arithmetic/ (written by gen_arithmetic.py). Every sum
+gets two cards: "Choose the answer" (multiple choice) and "Type the
+answer". To use only one style, suspend the other in Anki's browser,
+e.g. search `card:Type*`.
 
     python3 scripts/build_decks.py
 """
@@ -37,10 +40,12 @@ ARITHMETIC_DECKS = {
     "multiplication_1_tables_to_10": ("Arithmetic::3 Multiplication::1 Tables 0-10", 1367887976),
     "multiplication_2_tables_to_20": ("Arithmetic::3 Multiplication::2 Tables to 20", 1238147049),
     "division_1_within_20": ("Arithmetic::4 Division::1 Within 20", 1581320197),
+    "division_2_tables_backwards": ("Arithmetic::4 Division::2 Tables backwards", 1224304286),
 }
 
 DECK_DESCRIPTION = (
-    "Kids Flashcards, arithmetic. Tap the right answer, then show the back. "
+    "Kids Flashcards, arithmetic. Each sum has two cards: tap the right answer, "
+    "and type the answer. "
     "Released under CC BY-NC-SA 4.0: https://github.com/nordmarj/Kids_Flashcards"
 )
 
@@ -54,12 +59,17 @@ def arithmetic_model():
     tpl = ROOT / "templates" / "arithmetic"
     return genanki.Model(
         ARITHMETIC_MODEL_ID,
-        "Kids Flashcards: Arithmetic (multiple choice)",
-        fields=[{"name": "Question"}, {"name": "Answer"}, {"name": "Choices"}],
+        "Kids Flashcards: Arithmetic",
+        fields=[{"name": "Question"}, {"name": "Answer"}, {"name": "Choices"},
+                {"name": "TypeAnswer"}],
         templates=[{
             "name": "Choose the answer",
             "qfmt": (tpl / "front.html").read_text(encoding="utf-8"),
             "afmt": (tpl / "back.html").read_text(encoding="utf-8"),
+        }, {
+            "name": "Type the answer",
+            "qfmt": (tpl / "type_front.html").read_text(encoding="utf-8"),
+            "afmt": (tpl / "type_back.html").read_text(encoding="utf-8"),
         }],
         css=(tpl / "style.css").read_text(encoding="utf-8"),
     )
@@ -99,7 +109,8 @@ def build_arithmetic():
             choices = ";".join(fmt(n) for n in sorted([answer] + distractors))
             deck.add_note(genanki.Note(
                 model=model,
-                fields=[question, fmt(answer), choices],
+                # TypeAnswer uses a plain "-" so it matches what a keyboard types.
+                fields=[question, fmt(answer), choices, str(answer)],
                 guid=genanki.guid_for("kids_flashcards", "arithmetic", card_id),
                 due=due,  # new cards are shown easy-first, in CSV order
             ))
@@ -108,7 +119,7 @@ def build_arithmetic():
     BUILD_DIR.mkdir(exist_ok=True)
     out = BUILD_DIR / "arithmetic.apkg"
     genanki.Package(decks).write_to_file(out)
-    print(f"{len(seen)} cards in {len(decks)} subdecks -> {out.relative_to(ROOT)}")
+    print(f"{len(seen)} sums ({2 * len(seen)} cards) in {len(decks)} subdecks -> {out.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":

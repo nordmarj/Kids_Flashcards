@@ -160,9 +160,14 @@ def multiplication():
 
 
 def division():
-    # Dividend and divisor both 0-20, whole-number answers, never ÷ 0.
-    pairs = [(a, b) for a in R for b in range(1, MAX + 1) if a % b == 0]
-    return {"division_1_within_20": [div_card(*p) for p in easy_first(pairs)]}
+    # The 0-20 multiplication table read backwards: divisor 1-20, whole
+    # answers 0-20, never ÷ 0. Level 1 keeps the dividend within 20.
+    pairs = [(b * q, b) for b in range(1, MAX + 1) for q in R]
+    by_answer = lambda ps: sorted(ps, key=lambda p: (max(p[1], p[0] // p[1]), p[1], p[0]))
+    return {
+        "division_1_within_20": [div_card(*p) for p in easy_first(p for p in pairs if p[0] <= MAX)],
+        "division_2_tables_backwards": [div_card(*p) for p in by_answer(p for p in pairs if p[0] > MAX)],
+    }
 
 
 def all_tables():

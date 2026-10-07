@@ -1,0 +1,15 @@
+<div class="question">{{Question}} = ?</div>
+<div class="typed">{{type:TypeAnswer}}</div>
+<div id="answer" hidden>{{TypeAnswer}}</div>
+<script>
+// Show the number keypad on phones unless the answer is negative
+// (number keypads have no minus key).
+(function () {
+  var input = document.getElementById("typeans");
+  if (!input) return;
+  var answer = document.getElementById("answer").textContent.trim();
+  if (answer.charAt(0) !== "-") input.setAttribute("inputmode", "numeric");
+  input.setAttribute("autocomplete", "off");
+  input.focus();
+})();
+</script>
