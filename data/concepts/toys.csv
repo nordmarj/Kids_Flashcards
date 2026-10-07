@@ -2,3 +2,7 @@ id,sv,en,level,image,audio_sv,audio_en
 book,bok,book,1,book.png,book_sv.mp3,book_en.mp3
 ball,boll,ball,1,ball.png,ball_sv.mp3,ball_en.mp3
 kite,drake,kite,2,kite.png,kite_sv.mp3,kite_en.mp3
+gift,gåva,gift,1,gift.png,gift_sv.mp3,gift_en.mp3
+spinning_top,snurra,spinning top,2,spinning_top.png,spinning_top_sv.mp3,spinning_top_en.mp3
+rocking_horse,gunghäst,rocking horse,1,rocking_horse.png,rocking_horse_sv.mp3,rocking_horse_en.mp3
+football,fotboll,football,1,football.png,football_sv.mp3,football_en.mp3

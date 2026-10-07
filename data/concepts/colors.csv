@@ -1,0 +1,12 @@
+id,sv,en,level,image,audio_sv,audio_en
+red,röd,red,1,red.png,red_sv.mp3,red_en.mp3
+blue,blå,blue,1,blue.png,blue_sv.mp3,blue_en.mp3
+yellow,gul,yellow,1,yellow.png,yellow_sv.mp3,yellow_en.mp3
+green,grön,green,1,green.png,green_sv.mp3,green_en.mp3
+black,svart,black,1,black.png,black_sv.mp3,black_en.mp3
+white,vit,white,1,white.png,white_sv.mp3,white_en.mp3
+brown,brun,brown,1,brown.png,brown_sv.mp3,brown_en.mp3
+grey,grå,grey,1,grey.png,grey_sv.mp3,grey_en.mp3
+pink,rosa,pink,1,pink.png,pink_sv.mp3,pink_en.mp3
+purple,lila,purple,1,purple.png,purple_sv.mp3,purple_en.mp3
+orange_color,orange,orange,1,orange_color.png,orange_color_sv.mp3,orange_color_en.mp3

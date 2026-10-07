@@ -11,3 +11,16 @@ arm,arm,arm,1,arm.png,arm_sv.mp3,arm_en.mp3
 leg,ben,leg,2,leg.png,leg_sv.mp3,leg_en.mp3
 tooth,tand,tooth,2,tooth.png,tooth_sv.mp3,tooth_en.mp3
 finger,finger,finger,2,finger.png,finger_sv.mp3,finger_en.mp3
+face,ansikte,face,1,face.png,face_sv.mp3,face_en.mp3
+elbow,armbåge,elbow,2,elbow.png,elbow_sv.mp3,elbow_en.mp3
+shoulder,axel,shoulder,2,shoulder.png,shoulder_sv.mp3,shoulder_en.mp3
+neck,hals,neck,1,neck.png,neck_sv.mp3,neck_en.mp3
+knee,knä,knee,1,knee.png,knee_sv.mp3,knee_en.mp3
+cheek,kind,cheek,2,cheek.png,cheek_sv.mp3,cheek_en.mp3
+belly,mage,belly,1,belly.png,belly_sv.mp3,belly_en.mp3
+tongue,tunga,tongue,1,tongue.png,tongue_sv.mp3,tongue_en.mp3
+heel,häl,heel,2,heel.png,heel_sv.mp3,heel_en.mp3
+heart,hjärta,heart,1,heart.png,heart_sv.mp3,heart_en.mp3
+brain,hjärna,brain,2,brain.png,brain_sv.mp3,brain_en.mp3
+skin,hud,skin,2,skin.png,skin_sv.mp3,skin_en.mp3
+beard,skägg,beard,2,beard.png,beard_sv.mp3,beard_en.mp3

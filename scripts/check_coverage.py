@@ -12,7 +12,7 @@ Sources (see CLAUDE.md):
            (File:LL-Q9027 (swe)-<speaker>-<word>.wav, LL-Q1860 (eng) for English),
            falling back to classic Commons files (Sv-<word>.ogg, En-us-<word>.ogg)
 
-Usage: python3 scripts/check_coverage.py [--limit N]
+Usage: python3 scripts/check_coverage.py [--limit N] [--recheck]
 """
 
 import argparse
@@ -78,7 +78,7 @@ def arasaac_ids(word):
 def lingua_libre_pattern(lang, word):
     prefix = re.escape(LINGUA_LIBRE[lang])
     return re.compile(
-        rf"^File:{prefix}-.+?-{re.escape(word)}\.(wav|ogg|flac|mp3)$", re.IGNORECASE
+        rf"^File:{prefix}-[^-]+-{re.escape(word)}\.(wav|ogg|flac|mp3)$", re.IGNORECASE
     )
 
 
@@ -127,19 +127,27 @@ def check(row):
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--limit", type=int, help="only check the first N words")
+    ap.add_argument("--recheck", action="store_true", help="look up words already in coverage.csv again")
     args = ap.parse_args()
 
     with CANDIDATES.open(encoding="utf-8") as f:
         rows = list(csv.DictReader(f))[: args.limit]
 
+    # Words already checked keep their result unless --recheck is given, so
+    # adding words to words.csv only costs lookups for the new ones.
+    done = {}
+    if OUTPUT.exists() and not args.recheck:
+        with OUTPUT.open(encoding="utf-8") as f:
+            done = {r["id"]: r for r in csv.DictReader(f)}
+
     results = []
     for i, row in enumerate(rows, 1):
-        res = check(row)
+        res = done.get(row["id"]) or check(row)
         results.append(res)
         print(f"[{i}/{len(rows)}] {row['id']}: {res['status']}", file=sys.stderr)
 
     with OUTPUT.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(results[0]))
+        w = csv.DictWriter(f, fieldnames=list(results[0]), lineterminator="\n")
         w.writeheader()
         w.writerows(results)
 

@@ -64,7 +64,7 @@ trousers,clothes,byxor,trousers,2,2565 7193 13638 24222 29933,0,,,1,File:LL-Q186
 dress,clothes,klänning,dress,2,2613 2781 6627 32135 34569,0,,File:Sv-klänning.ogg,5,File:LL-Q1860 (eng)-Wodencafe-dress.wav,,complete
 shoe,clothes,sko,shoe,1,32922 32923,0,,File:Sv-sko.ogg,3,File:LL-Q1860 (eng)-Nattes à chat-shoe.wav,,complete
 sock,clothes,strumpa,sock,1,8339,0,,File:Sv-strumpa.ogg,2,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-sock.wav,,complete
-hat,clothes,mössa,hat,1,2572 6216,0,,,4,File:LL-Q1860 (eng)-Grendelkhan-hat.wav,,missing audio_sv
+woolly_hat,clothes,mössa,woolly hat,1,,0,,,0,,,missing image+audio_sv+audio_en
 jacket,clothes,jacka,jacket,2,2319 3296 4872 23921,0,,,4,File:LL-Q1860 (eng)-Grendelkhan-jacket.wav,,missing audio_sv
 mitten,clothes,vante,mitten,2,8314 25227,0,,,1,File:LL-Q1860 (eng)-Vealhurl-mitten.wav,,missing audio_sv
 scarf,clothes,halsduk,scarf,2,2290,0,,,1,File:LL-Q1860 (eng)-Marie-Sarah (Opsylac)-scarf.wav,,missing audio_sv
@@ -115,3 +115,159 @@ stone,nature,sten,stone,2,6594,1,File:LL-Q9027 (swe)-Moonhouse-Sten.wav,,9,File:
 sea,nature,hav,sea,2,2925,1,File:LL-Q9027 (swe)-Ainali-hav.wav,,2,File:LL-Q1860 (eng)-Grendelkhan-sea.wav,,complete
 mountain,nature,berg,mountain,2,2909,1,File:LL-Q9027 (swe)-Moonhouse-Berg.wav,,11,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-mountain.wav,,complete
 fire,nature,eld,fire,2,4654 4664 4668 6196 21533,0,,File:Sv-eld.ogg,10,File:LL-Q1860 (eng)-Back ache-fire.wav,,complete
+goat,animals,get,goat,1,2295 25887,1,File:LL-Q9027 (swe)-Moonhouse-get.wav,,4,File:LL-Q1860 (eng)-Nattes à chat-goat.wav,,complete
+goose,animals,gås,goose,1,2878 27780,1,File:LL-Q9027 (swe)-Moonhouse-gås.wav,,1,File:LL-Q1860 (eng)-Muldoonsamuel55-goose.wav,,complete
+squirrel,animals,ekorre,squirrel,1,2257 25815,1,File:LL-Q9027 (swe)-Moonhouse-ekorre.wav,,4,File:LL-Q1860 (eng)-Back ache-Squirrel.wav,,complete
+hedgehog,animals,igelkott,hedgehog,1,26829,1,File:LL-Q9027 (swe)-Moonhouse-igelkott.wav,,2,File:LL-Q1860 (eng)-Back ache-Hedgehog.wav,,complete
+shark,animals,haj,shark,1,2589,1,File:LL-Q9027 (swe)-Moonhouse-haj.wav,,2,File:LL-Q1860 (eng)-Grendelkhan-shark.wav,,complete
+camel,animals,kamel,camel,2,8522,1,File:LL-Q9027 (swe)-Moonhouse-kamel.wav,,0,,File:En-au-camel.ogg File:En-us-camel.ogg,complete
+crab,animals,krabba,crab,2,2312 11200,1,File:LL-Q9027 (swe)-Christoffre-krabba.wav,,1,File:LL-Q1860 (eng)-Berrely-crab.wav,,complete
+ant,animals,myra,ant,1,2425,2,File:LL-Q9027 (swe)-Moonhouse-Myra.wav,,2,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-ant.wav,,complete
+pigeon,animals,duva,pigeon,2,2493 25293,1,File:LL-Q9027 (swe)-Moonhouse-duva.wav,,0,,File:En-us-pigeon.ogg,complete
+eagle,animals,örn,eagle,2,2638,2,File:LL-Q9027 (swe)-Moonhouse-Örn.wav,,2,File:LL-Q1860 (eng)-Rachlel-eagle.wav,,complete
+rat,animals,råtta,rat,2,2821,1,File:LL-Q9027 (swe)-Moonhouse-råtta.wav,,3,File:LL-Q1860 (eng)-GonFreeaks-rat.wav,,complete
+tortoise,animals,sköldpadda,tortoise,2,2596 26503,1,File:LL-Q9027 (swe)-Moonhouse-sköldpadda.wav,,1,File:LL-Q1860 (eng)-Back ache-Tortoise.wav,,complete
+whale,animals,val,whale,1,2268,0,,File:Sv-val.ogg,13,File:LL-Q1860 (eng)-Rachlel-whale.wav,,complete
+lynx,animals,lo,lynx,2,21964,0,,File:Sv-lo.ogg,0,,File:En-us-lynx.ogg,complete
+falcon,animals,falk,falcon,2,38947,1,File:LL-Q9027 (swe)-Moonhouse-Falk.wav,,0,,File:En-us-falcon.ogg,complete
+chick,animals,kyckling,chick,1,2404 2533 4952 24815 25125,0,,File:Sv-kyckling.ogg,14,File:LL-Q1860 (eng)-Grendelkhan-chick.wav,,complete
+worm,animals,mask,worm,1,2935 3344 16727 28485,0,,File:Sv-mask.ogg,14,File:LL-Q1860 (eng)-Grendelkhan-worm.wav,,complete
+salmon,animals,lax,salmon,2,7808 25669 26419,0,,File:Sv-lax.ogg,1,File:LL-Q1860 (eng)-Back ache-salmon.wav,,complete
+donkey,animals,åsna,donkey,1,2291,1,File:LL-Q9027 (swe)-Moonhouse-åsna.wav,,1,File:LL-Q1860 (eng)-Muldoonsamuel55-donkey.wav,,complete
+moth,animals,mal,moth,2,27982,0,,File:Sv-mal.ogg,1,File:LL-Q1860 (eng)-Arlo Barnes-moth.wav,,complete
+tail,animals,svans,tail,2,5967,0,,File:Sv-svans.ogg,11,File:LL-Q1860 (eng)-Grendelkhan-tail.wav,,complete
+pineapple,food,ananas,pineapple,1,2525,1,File:LL-Q9027 (swe)-Moonhouse-ananas.wav,,2,File:LL-Q1860 (eng)-Louisalphonse28-Pineapple.wav,,complete
+apricot,food,aprikos,apricot,2,2983,1,File:LL-Q9027 (swe)-Moonhouse-aprikos.wav,,0,,File:En-uk-apricot.ogg File:En-us-apricot.ogg,complete
+avocado,food,avokado,avocado,2,8009,0,,File:Sv-avokado.ogg,2,File:LL-Q1860 (eng)-Simplificationalizer-avocado.wav,,complete
+lemon,food,citron,lemon,1,3022,1,File:LL-Q9027 (swe)-Moonhouse-citron.wav,,4,File:LL-Q1860 (eng)-Simplificationalizer-lemon.wav,,complete
+raspberry,food,hallon,raspberry,1,36540,0,,File:Sv-hallon.ogg,3,File:LL-Q1860 (eng)-Vealhurl-raspberry.wav,,complete
+cherry,food,körsbär,cherry,1,8303,0,,File:Sv-körsbär.ogg,0,,File:En-au-cherry.ogg File:En-uk-cherry.ogg File:En-us-cherry.ogg,complete
+peach,food,persika,peach,2,2468,1,File:LL-Q9027 (swe)-Moonhouse-persika.wav,,1,File:LL-Q1860 (eng)-Louisalphonse28-Peach.wav,,complete
+corn,food,majs,corn,1,4879 36287,0,,File:Sv-majs.ogg,2,File:LL-Q1860 (eng)-Nattes à chat-corn.wav,,complete
+onion,food,lök,onion,1,2323 35157,0,,File:Sv-lök.ogg,0,,File:En-uk-onion.ogg File:En-us-onion.ogg,complete
+cabbage,food,kål,cabbage,2,2708,1,File:LL-Q9027 (swe)-Allahverdi Verdizade on a flying visit-kål.wav,,0,,File:En-uk-cabbage.ogg File:En-us-cabbage.ogg,complete
+rice,food,ris,rice,1,6911 25556 39387,0,,File:Sv-ris.ogg,4,File:LL-Q1860 (eng)-GonFreeaks-rice.wav,,complete
+soup,food,soppa,soup,1,2573,0,,File:Sv-soppa.ogg,4,File:LL-Q1860 (eng)-Grendelkhan-soup.wav,,complete
+butter,food,smör,butter,1,2461,0,,File:Sv-smör.ogg,2,File:LL-Q1860 (eng)-Grendelkhan-butter.wav,,complete
+sugar,food,socker,sugar,2,25560,0,,File:Sv-socker.ogg,4,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-sugar.wav,,complete
+honey,food,honung,honey,1,2911,1,File:LL-Q9027 (swe)-Moonhouse-honung.wav,,5,File:LL-Q1860 (eng)-Grendelkhan-honey.wav,,complete
+meat,food,kött,meat,2,2316 6961 24807,0,,File:Sv-kött.ogg,10,File:LL-Q1860 (eng)-Back ache-meat.wav,,complete
+meatballs,food,köttbullar,meatballs,1,3249 8335,0,,File:Sv-köttbullar.ogg,1,File:LL-Q1860 (eng)-Wodencafe-meatballs.wav,,complete
+tea,food,te,tea,2,29802,0,,File:Sv-te.ogg,3,File:LL-Q1860 (eng)-Grendelkhan-tea.wav,,complete
+salad,food,sallad,salad,2,2377,0,,File:Sv-sallad.ogg,1,File:LL-Q1860 (eng)-Grendelkhan-salad.wav,,complete
+beetroot,food,rödbeta,beetroot,2,26370,0,,File:Sv-rödbeta.ogg,1,File:LL-Q1860 (eng)-Benluks-beetroot.wav,,complete
+asparagus,food,sparris,asparagus,2,2384 8347 34127,0,,File:Sv-sparris.ogg,0,,File:En-us-asparagus.ogg,complete
+spinach,food,spenat,spinach,2,8311,0,,File:Sv-spenat.ogg,1,File:LL-Q1860 (eng)-Vealhurl-spinach.wav,,complete
+flour,food,mjöl,flour,2,8600 26807 35737,0,,File:Sv-mjöl.ogg,1,File:LL-Q1860 (eng)-Nattes à chat-flour.wav,,complete
+berries,food,bär,berries,2,35145,0,,File:Sv-bär.ogg,1,File:LL-Q1860 (eng)-Arlo Barnes-berries.wav,,complete
+pepper,food,peppar,pepper,2,2838 2839 25331 39388,0,,File:Sv-peppar.ogg,1,File:LL-Q1860 (eng)-Nattes à chat-pepper.wav,,complete
+face,body,ansikte,face,1,2684 31915 37138,0,,File:Sv-ansikte.ogg,6,File:LL-Q1860 (eng)-Grendelkhan-face.wav,,complete
+elbow,body,armbåge,elbow,2,2707,1,File:LL-Q9027 (swe)-Moonhouse-armbåge.wav,,0,,File:En-us-elbow.ogg,complete
+shoulder,body,axel,shoulder,2,2977,1,File:LL-Q9027 (swe)-Moonhouse-Axel.wav,,2,File:LL-Q1860 (eng)-Nattes à chat-shoulder.wav,,complete
+neck,body,hals,neck,1,2727 25040,0,,File:Sv-hals.ogg,9,File:LL-Q1860 (eng)-Wodencafe-neck.wav,,complete
+knee,body,knä,knee,1,2810,0,,File:Sv-knä.ogg,10,File:LL-Q1860 (eng)-Grendelkhan-knee.wav,,complete
+cheek,body,kind,cheek,2,2919,0,,File:Sv-kind.ogg,0,,File:En-us-cheek.ogg,complete
+belly,body,mage,belly,1,2786,0,,File:Sv-mage.ogg,10,File:LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-belly.wav,,complete
+tongue,body,tunga,tongue,1,2944,0,,File:Sv-tunga.ogg,11,File:LL-Q1860 (eng)-Lirazelf-tongue.wav,,complete
+heel,body,häl,heel,2,3399,0,,File:Sv-häl.ogg,0,,File:En-us-heel.ogg,complete
+heart,body,hjärta,heart,1,2715 4613,0,,File:Sv-hjärta.ogg,14,File:LL-Q1860 (eng)-Rachlel-heart.wav,,complete
+brain,body,hjärna,brain,2,2696,0,,File:Sv-hjärna.ogg,4,File:LL-Q1860 (eng)-Grendelkhan-brain.wav,,complete
+skin,body,hud,skin,2,2840 17292 35159,0,,File:Sv-hud.ogg,13,File:LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-skin.wav,,complete
+beard,body,skägg,beard,2,2657,1,File:LL-Q9027 (swe)-Moonhouse-skägg.wav,,2,File:LL-Q1860 (eng)-Wodencafe-beard.wav,,complete
+skirt,clothes,kjol,skirt,1,2391,0,,File:Sv-kjol.ogg,3,File:LL-Q1860 (eng)-VETBAITEDLV-skirt.wav,,complete
+shirt,clothes,skjorta,shirt,1,2308 13640,0,,File:Sv-skjorta.ogg,4,File:LL-Q1860 (eng)-Wodencafe-shirt.wav,,complete
+hat,clothes,hatt,hat,1,2572 6216,0,,File:Sv-hatt.ogg,4,File:LL-Q1860 (eng)-Grendelkhan-hat.wav,,complete
+glove,clothes,handske,glove,1,8353,0,,File:Sv-handske.ogg,0,,File:En-au-glove.ogg File:En-us-glove.ogg,complete
+glasses,clothes,glasögon,glasses,1,2356 2610 3329 9140,0,,File:Sv-glasögon.ogg,3,File:LL-Q1860 (eng)-Ajshul-glasses.wav,,complete
+coat,clothes,rock,coat,2,2242 9197 27978,0,,File:Sv-rock.ogg,5,File:LL-Q1860 (eng)-Simplificationalizer-coat.wav,,complete
+nightdress,clothes,nattlinne,nightdress,2,2311,0,,File:Sv-nattlinne.ogg,1,"File:LL-Q1860 (eng)-Flame, not lame-nightdress.wav",,complete
+ring,clothes,ring,ring,2,2252 6900 7255 10171 36305,0,,File:Sv-ring.ogg,4,File:LL-Q1860 (eng)-Wodencafe-ring.wav,,complete
+bag,clothes,väska,bag,1,23849 27616 39829,0,,File:Sv-väska.ogg,7,File:LL-Q1860 (eng)-Grendelkhan-bag.wav,,complete
+handkerchief,clothes,näsduk,handkerchief,2,17233 17284 17288 33046,0,,File:Sv-näsduk.ogg,0,,File:En-uk-handkerchief.ogg File:En-us-handkerchief.ogg,complete
+sofa,home,soffa,sofa,1,2571 25479,0,,File:Sv-soffa.ogg,1,File:LL-Q1860 (eng)-Status 401-Sofa.wav,,complete
+mirror,home,spegel,mirror,1,2385 8573 37922,0,,File:Sv-spegel.ogg,3,File:LL-Q1860 (eng)-GonFreeaks-mirror.wav,,complete
+pillow,home,kudde,pillow,1,2250,1,File:LL-Q9027 (swe)-Moonhouse-kudde.wav,,2,File:LL-Q1860 (eng)-Simplificationalizer-pillow.wav,,complete
+carpet,home,matta,carpet,2,2249,1,File:LL-Q9027 (swe)-Ainali-matta.wav,,1,File:LL-Q1860 (eng)-Status 401-Carpet.wav,,complete
+bottle,home,flaska,bottle,1,2288 39042 39043,0,,File:Sv-flaska.ogg,14,File:LL-Q1860 (eng)-Graycier-bottle.wav,,complete
+glass,home,glas,glass,1,2356 2610 9140,0,,File:Sv-glas.ogg,5,File:LL-Q1860 (eng)-Wodencafe-glass.wav,,complete
+jar,home,burk,jar,2,3322 39114,0,,File:Sv-burk.ogg,1,File:LL-Q1860 (eng)-Status 401-Jar.wav,,complete
+box,home,låda,box,1,5935 8981 8999 9000 24749,0,,File:Sv-låda.ogg,7,File:LL-Q1860 (eng)-Simplificationalizer-box.wav,,complete
+lock,home,lås,lock,2,3261,0,,File:Sv-lås.ogg,4,File:LL-Q1860 (eng)-Grendelkhan-lock.wav,,complete
+computer,home,dator,computer,1,2487 7190 7214,0,,File:Sv-dator.ogg,7,File:LL-Q1860 (eng)-Grendelkhan-computer.wav,,complete
+radio,home,radio,radio,2,11354 26358 38211,0,,File:Sv-radio.ogg,3,File:LL-Q1860 (eng)-Wodencafe-radio.wav,,complete
+television,home,television,television,1,25498,0,,File:Sv-television.ogg,5,File:LL-Q1860 (eng)-Nattes à chat-television.wav,,complete
+vacuum_cleaner,home,dammsugare,vacuum cleaner,2,3227,1,File:LL-Q9027 (swe)-Christoffre-dammsugare.wav,,2,File:LL-Q1860 (eng)-Vininn126-vacuum cleaner.wav,,complete
+bench,home,bänk,bench,2,3255 4919 5920,0,,File:Sv-bänk.ogg,0,,File:En-us-bench.ogg,complete
+stool,home,pall,stool,2,3291,0,,File:Sv-pall.ogg,0,,File:En-us-stool.ogg,complete
+pencil,home,penna,pencil,1,2440,0,,File:Sv-penna.ogg,2,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-pencil.wav,,complete
+paintbrush,home,pensel,paintbrush,2,2523 2670 2837,1,File:LL-Q9027 (swe)-Ainali-pensel.wav,,2,File:LL-Q1860 (eng)-Vealhurl-paintbrush.wav,,complete
+paper,home,papper,paper,1,2398 8349,0,,File:Sv-papper.ogg,6,File:LL-Q1860 (eng)-Back ache-paper.wav,,complete
+letter,home,brev,letter,2,2688 6963 36356,0,,File:Sv-brev.ogg,5,File:LL-Q1860 (eng)-Grendelkhan-letter.wav,,complete
+bathtub,home,bad,bathtub,2,2272 32142,0,,File:Sv-bad.ogg,1,File:LL-Q1860 (eng)-Vininn126-bathtub.wav,,complete
+lid,home,lock,lid,2,27395 37940,0,,File:Sv-lock.ogg,1,File:LL-Q1860 (eng)-Wodencafe-lid.wav,,complete
+needle,home,nål,needle,2,2639 11166,0,,File:Sv-nål.ogg,3,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-needle.wav,,complete
+thread,home,tråd,thread,2,2978 5453 5454 6490 6489,0,,File:Sv-tråd.ogg,1,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-thread.wav,,complete
+saw,home,såg,saw,2,2800 2799 5588 5586 5587,0,,File:Sv-såg.ogg,10,File:LL-Q1860 (eng)-Back ache-saw.wav,,complete
+screwdriver,home,skruvmejsel,screwdriver,2,2736,1,File:LL-Q9027 (swe)-Ainali-skruvmejsel.wav,,1,File:LL-Q1860 (eng)-Arlo Barnes-screwdriver.wav,,complete
+gift,toys,gåva,gift,1,3149 16879 16881 16877 25381,0,,File:Sv-gåva.ogg,12,File:LL-Q1860 (eng)-Rachlel-gift.wav,,complete
+spinning_top,toys,snurra,spinning top,2,8663,0,,File:Sv-snurra.ogg,1,File:LL-Q1860 (eng)-Vealhurl-spinning top.wav,,complete
+rocking_horse,toys,gunghäst,rocking horse,1,4923,1,File:LL-Q9027 (swe)-Christoffre-gunghäst.wav,,2,"File:LL-Q1860 (eng)-Flame, not lame-rocking horse.wav",,complete
+game,toys,spel,game,2,6170,0,,File:Sv-spel.ogg,4,File:LL-Q1860 (eng)-Nattes à chat-game.wav,,complete
+football,toys,fotboll,football,1,7137 16743 29116 35256 35255,1,File:LL-Q9027 (swe)-Moonhouse-fotboll.wav,,4,File:LL-Q1860 (eng)-Grendelkhan-football.wav,,complete
+ambulance,vehicles,ambulans,ambulance,1,2251 6899 36200 36203 36199,0,,File:Sv-ambulans.ogg,2,File:LL-Q1860 (eng)-Wodencafe-ambulance.wav,,complete
+ship,vehicles,skepp,ship,1,10189 21421,0,,File:Sv-skepp.ogg,5,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-ship.wav,,complete
+wheel,vehicles,hjul,wheel,1,5566 6209 7277 11466 11467,0,,File:Sv-hjul.ogg,5,File:LL-Q1860 (eng)-Grendelkhan-wheel.wav,,complete
+engine,vehicles,motor,engine,2,10334 39582,0,,File:Sv-motor.ogg,4,File:LL-Q1860 (eng)-Wodencafe-engine.wav,,complete
+road,vehicles,väg,road,1,2302 5946 28627,0,,File:Sv-väg.ogg,9,File:LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-road.wav,,complete
+tunnel,vehicles,tunnel,tunnel,2,8972,0,,File:Sv-tunnel.ogg,1,File:LL-Q1860 (eng)-Grendelkhan-tunnel.wav,,complete
+fishing_boat,vehicles,fiskebåt,fishing boat,2,21423,0,,,1,File:LL-Q1860 (eng)-Vealhurl-fishing boat.wav,,missing audio_sv
+grass,nature,gräs,grass,1,3113 11214,0,,File:Sv-gräs.ogg,14,File:LL-Q1860 (eng)-Wodencafe-grass.wav,,complete
+forest,nature,skog,forest,1,2666,1,File:LL-Q9027 (swe)-Ainali-skog.wav,,7,File:LL-Q1860 (eng)-Grendelkhan-forest.wav,,complete
+lake,nature,sjö,lake,1,6022,0,,File:Sv-sjö.ogg,17,File:LL-Q1860 (eng)-Wodencafe-lake.wav,,complete
+beach,nature,strand,beach,1,2826 30518,0,,File:Sv-strand.ogg,4,File:LL-Q1860 (eng)-Grendelkhan-beach.wav,,complete
+cliff,nature,klippa,cliff,2,8007,0,,File:Sv-klippa.ogg,1,File:LL-Q1860 (eng)-Grendelkhan-cliff.wav,,complete
+fir,nature,gran,fir,2,3051,0,,File:Sv-gran.ogg,0,,File:En-uk-fir.ogg File:En-us-fir.ogg,complete
+rose,nature,ros,rose,1,3151,1,File:LL-Q9027 (swe)-Moonhouse-ros.wav,,28,File:LL-Q1860 (eng)-Kasyap-Rose.wav,,complete
+wind,nature,vind,wind,1,7259 23731,0,,File:Sv-vind.ogg,10,File:LL-Q1860 (eng)-Nattes à chat-wind.wav,,complete
+frost,nature,frost,frost,2,25153 34323,1,File:LL-Q9027 (swe)-Moonhouse-Frost.wav,,1,File:LL-Q1860 (eng)-Wodencafe-frost.wav,,complete
+summer,nature,sommar,summer,1,5604,0,,File:Sv-sommar.ogg,5,File:LL-Q1860 (eng)-Wodencafe-summer.wav,,complete
+winter,nature,vinter,winter,1,5493,0,,File:Sv-vinter.ogg,4,File:LL-Q1860 (eng)-Nattes à chat-winter.wav,,complete
+spring,nature,vår,spring,1,5553 24154 28563,0,,File:Sv-vår.ogg,4,File:LL-Q1860 (eng)-Wodencafe-spring.wav,,complete
+sky,nature,himmel,sky,1,6978 38270,0,,File:Sv-himmel.ogg,10,File:LL-Q1860 (eng)-Unignoramus-sky.wav,,complete
+shadow,nature,skugga,shadow,2,6649,0,,File:Sv-skugga.ogg,2,File:LL-Q1860 (eng)-Nattes à chat-shadow.wav,,complete
+snowman,nature,snögubbe,snowman,1,3131,1,File:LL-Q9027 (swe)-LevandeMänniska-snögubbe.wav,,1,File:LL-Q1860 (eng)-Vealhurl-snowman.wav,,complete
+island,nature,ö,island,1,2966 24127,1,File:LL-Q9027 (swe)-Moonhouse-ö.wav,,5,File:LL-Q1860 (eng)-Wodencafe-island.wav,,complete
+desert,nature,öken,desert,2,2734,1,File:LL-Q9027 (swe)-Moonhouse-öken.wav,,3,File:LL-Q1860 (eng)-Grendelkhan-desert.wav,,complete
+river,nature,flod,river,2,2811,1,File:LL-Q9027 (swe)-Moonhouse-flod.wav,,0,,File:En-uk-river.ogg File:En-us-river.ogg,complete
+valley,nature,dal,valley,2,6238,1,File:LL-Q9027 (swe)-Moonhouse-Dal.wav,,2,File:LL-Q1860 (eng)-Back ache-Valley.wav,,complete
+field,nature,fält,field,2,2683 25916,0,,File:Sv-fält.ogg,5,File:LL-Q1860 (eng)-Wodencafe-field.wav,,complete
+clover,nature,klöver,clover,2,7281,0,,File:Sv-klöver.ogg,2,File:LL-Q1860 (eng)-Arlo Barnes-clover.wav,,complete
+mum,people,mamma,mum,1,2458,0,,File:Sv-mamma.ogg,2,File:LL-Q1860 (eng)-Grendelkhan-mum.wav,,complete
+dad,people,pappa,dad,1,31146,0,,File:Sv-pappa.ogg,5,File:LL-Q1860 (eng)-Back ache-dad.wav,,complete
+brother,people,bror,brother,1,2423 37967,1,File:LL-Q9027 (swe)-Moonhouse-Bror.wav,,6,File:LL-Q1860 (eng)-GonFreeaks-brother.wav,,complete
+sister,people,syster,sister,1,2422 37966,0,,File:Sv-syster.ogg,7,File:LL-Q1860 (eng)-Wodencafe-sister.wav,,complete
+grandfather,people,farfar,grandfather,1,2244 4560 23718 23717,0,,File:Sv-farfar.ogg,3,File:LL-Q1860 (eng)-Nattes à chat-grandfather.wav,,complete
+grandmother,people,farmor,grandmother,1,2243 10194 23709 23710,0,,File:Sv-farmor.ogg,3,File:LL-Q1860 (eng)-Nattes à chat-grandmother.wav,,complete
+son,people,son,son,2,9887 10341 36927,0,,File:Sv-son.ogg,6,File:LL-Q1860 (eng)-Nattes à chat-son.wav,,complete
+daughter,people,dotter,daughter,2,9885 10340 36977,0,,File:Sv-dotter.ogg,6,File:LL-Q1860 (eng)-Nattes à chat-daughter.wav,,complete
+cousin,people,kusin,cousin,2,30340 30341 30342 30343 30344,0,,File:Sv-kusin.ogg,3,File:LL-Q1860 (eng)-Wodencafe-cousin.wav,,complete
+family,people,familj,family,1,2392 11728 11731 11729 11735,0,,File:Sv-familj.ogg,6,File:LL-Q1860 (eng)-Grendelkhan-family.wav,,complete
+farmer,people,bonde,farmer,2,2982 3338 6035 6515 11165,1,File:LL-Q9027 (swe)-Moonhouse-Bonde.wav,,1,File:LL-Q1860 (eng)-Rachlel-farmer.wav,,complete
+police,people,polis,police,1,2824 5547 11280 11345 12353,0,,File:Sv-polis.ogg,7,File:LL-Q1860 (eng)-Grendelkhan-police.wav,,complete
+postman,people,brevbärare,postman,2,2690 38546,0,,File:Sv-brevbärare.ogg,1,File:LL-Q1860 (eng)-Arlo Barnes-postman.wav,,complete
+painter,people,målare,painter,2,2835 2834 6596 11341 11342,0,,File:Sv-målare.ogg,2,File:LL-Q1860 (eng)-Simplificationalizer-painter.wav,,complete
+prince,people,prins,prince,1,5555,0,,File:Sv-prins.ogg,5,File:LL-Q1860 (eng)-Mélody Xu YANG WMFr-prince.wav,,complete
+king,people,kung,king,1,5563 34244,0,,File:Sv-kung.ogg,7,File:LL-Q1860 (eng)-Wodencafe-king.wav,,complete
+queen,people,drottning,queen,1,5559 34171,0,,File:Sv-drottning.ogg,4,File:LL-Q1860 (eng)-Wodencafe-queen.wav,,complete
+captain,people,kapten,captain,2,24937 39551,0,,File:Sv-kapten.ogg,5,File:LL-Q1860 (eng)-Back ache-captain.wav,,complete
+red,colors,röd,red,1,2808,0,,File:Sv-röd.ogg,8,File:LL-Q1860 (eng)-Lirazelf-red.wav,,complete
+blue,colors,blå,blue,1,3355 4869,0,,File:Sv-blå.ogg,7,File:LL-Q1860 (eng)-Nattes à chat-blue.wav,,complete
+yellow,colors,gul,yellow,1,2648,0,,File:Sv-gul.ogg,12,File:LL-Q1860 (eng)-Sravani Jampana-yellow.wav,,complete
+green,colors,grön,green,1,4886 4887,0,,File:Sv-grön.ogg,10,File:LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-green.wav,,complete
+black,colors,svart,black,1,2886,0,,File:Sv-svart.ogg,8,File:LL-Q1860 (eng)-Grendelkhan-black.wav,,complete
+white,colors,vit,white,1,2662 6980 8043 36899,0,,File:Sv-vit.ogg,12,File:LL-Q1860 (eng)-Grendelkhan-white.wav,,complete
+brown,colors,brun,brown,1,2923 39858,0,,File:Sv-brun.ogg,6,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-brown.wav,,complete
+grey,colors,grå,grey,1,3340,0,,File:Sv-grå.ogg,5,File:LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-grey.wav,,complete
+pink,colors,rosa,pink,1,2807,2,File:LL-Q9027 (swe)-Moonhouse-Rosa.wav,,1,File:LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-pink.wav,,complete
+purple,colors,lila,purple,1,2907,0,,File:Sv-lila.ogg,1,File:LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-purple.wav,,complete
+orange_color,colors,orange,orange,1,2483 2888,0,,File:Sv-orange.ogg,9,File:LL-Q1860 (eng)-Louisalphonse28-Orange.wav,,complete

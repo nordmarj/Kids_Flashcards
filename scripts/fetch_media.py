@@ -8,8 +8,10 @@ anything is downloaded:
             choose an ARASAAC pictogram and one Swedish and one English
             recording, and write them to data/candidates/media_picks.csv.
             Recordings by the speaker who recorded most of the words are
-            preferred, so a deck sounds like one voice.
-  download  Download everything listed in media_picks.csv into media/,
+            preferred, so a deck sounds like one voice. Words already in
+            media_picks.csv are kept as they are; to swap a picture, edit
+            its arasaac_id, and to drop a word, blank its arasaac_id.
+  download  Download everything in media_picks.csv that isn't in media/ yet,
             record provenance in media/sources.csv and write
             data/concepts/<topic>.csv.
 
@@ -98,43 +100,48 @@ def pick(limit):
     with COVERAGE.open(encoding="utf-8") as f:
         rows = [r for r in csv.DictReader(f) if r["status"] == "complete"][:limit]
 
-    found = []
+    # Keep earlier picks (they may be hand-edited and their media is already
+    # downloaded); only new complete words are looked up.
+    kept = []
+    if PICKS.exists():
+        with PICKS.open(encoding="utf-8") as f:
+            kept = list(csv.DictReader(f))
+    known = {p["id"] for p in kept}
+    rows = [r for r in rows if r["id"] not in known]
+
+    # Prefer the speaker who has recorded the most of our words, so a deck
+    # sounds like one voice: count speakers of earlier picks and of every
+    # recording found so far.
+    rank = {"sv": collections.Counter(), "en": collections.Counter()}
+    for p in kept:
+        for lang in ("sv", "en"):
+            m = re.match(r"File:LL-Q\d+ \(\w+\)-([^-]+)-", p[f"audio_{lang}_title"])
+            if m:
+                rank[lang][m.group(1)] += 2
+
+    picks = list(kept)
     for i, row in enumerate(rows, 1):
-        image = next((p for p in arasaac_ids(row["en"]) if child_safe(p)), "")
-        audio = {}
+        out = {k: row[k] for k in ("id", "topic", "sv", "en", "level")}
+        out["arasaac_id"] = next((p for p in arasaac_ids(row["en"]) if child_safe(p)), "")
         for lang in ("sv", "en"):
             ll = lingua_libre_recordings(lang, row[lang])
-            fallback = [] if ll else commons_fallback_files(lang, row[lang])
-            audio[lang] = (ll, fallback)
-        found.append((row, image, audio))
-        print(f"[{i}/{len(rows)}] {row['id']}", file=sys.stderr)
-
-    # Prefer the speaker who recorded the most of our words in each language.
-    rank = {
-        lang: collections.Counter(s for _, _, a in found for s in a[lang][0])
-        for lang in ("sv", "en")
-    }
-
-    picks = []
-    for row, image, audio in found:
-        out = {k: row[k] for k in ("id", "topic", "sv", "en", "level")}
-        out["arasaac_id"] = image
-        for lang in ("sv", "en"):
-            ll, fallback = audio[lang]
+            rank[lang].update(ll.keys())
             if ll:
                 speaker = max(ll, key=lambda s: rank[lang][s])
                 out[f"audio_{lang}_title"] = ll[speaker]
             else:
+                fallback = commons_fallback_files(lang, row[lang])
                 out[f"audio_{lang}_title"] = fallback[0] if fallback else ""
         picks.append(out)
-
-    with PICKS.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=PICK_FIELDS)
-        w.writeheader()
-        w.writerows(picks)
+        # Save after every word, so an interrupted run resumes where it stopped.
+        with PICKS.open("w", encoding="utf-8", newline="") as f:
+            w = csv.DictWriter(f, fieldnames=PICK_FIELDS, lineterminator="\n")
+            w.writeheader()
+            w.writerows(picks)
+        print(f"[{i}/{len(rows)}] {row['id']}", file=sys.stderr)
 
     gaps = [p["id"] for p in picks if not all(p[k] for k in PICK_FIELDS)]
-    print(f"wrote {len(picks)} picks to {PICKS.relative_to(ROOT)}")
+    print(f"wrote {len(picks)} picks ({len(rows)} new) to {PICKS.relative_to(ROOT)}")
     if gaps:
         print("no longer complete (left out of download): " + ", ".join(gaps))
 
@@ -236,8 +243,19 @@ def download(limit):
     with PICKS.open(encoding="utf-8") as f:
         picks = [p for p in csv.DictReader(f) if all(p[k] for k in PICK_FIELDS)][:limit]
 
+    # Files already downloaded with a provenance row are kept as they are.
+    have = {}
+    if SOURCES.exists():
+        with SOURCES.open(encoding="utf-8") as f:
+            have = {s["file"]: s for s in csv.DictReader(f) if (MEDIA / s["file"]).exists()}
+
     today = datetime.date.today().isoformat()
-    audio_titles = {p[f"audio_{lang}_title"] for p in picks for lang in ("sv", "en")}
+    audio_titles = {
+        p[f"audio_{lang}_title"]
+        for p in picks
+        for lang in ("sv", "en")
+        if f"audio/{lang}/{p['id']}_{lang}.mp3" not in have
+    }
     info = commons_info(audio_titles)
 
     (MEDIA / "images").mkdir(parents=True, exist_ok=True)
@@ -249,24 +267,31 @@ def download(limit):
     for i, p in enumerate(picks, 1):
         cid = p["id"]
         image = MEDIA / "images" / f"{cid}.png"
-        download_file(ARASAAC_PNG.format(p["arasaac_id"]), image)
-        sources.append(
-            dict(
-                zip(
-                    SOURCE_FIELDS,
-                    ["images/" + image.name, "ARASAAC", ARASAAC_PAGE.format(p["arasaac_id"]),
-                     ARASAAC_AUTHOR, *CC_BY_NC_SA, today, sha256(image)],
+        if "images/" + image.name in have:
+            sources.append(have["images/" + image.name])
+        else:
+            download_file(ARASAAC_PNG.format(p["arasaac_id"]), image)
+            sources.append(
+                dict(
+                    zip(
+                        SOURCE_FIELDS,
+                        ["images/" + image.name, "ARASAAC", ARASAAC_PAGE.format(p["arasaac_id"]),
+                         ARASAAC_AUTHOR, *CC_BY_NC_SA, today, sha256(image)],
+                    )
                 )
             )
-        )
         row = {k: p[k] for k in ("id", "sv", "en", "level")}
         row["image"] = image.name
         for lang in ("sv", "en"):
+            dest = MEDIA / "audio" / lang / f"{cid}_{lang}.mp3"
+            row[f"audio_{lang}"] = dest.name
+            if f"audio/{lang}/{dest.name}" in have:
+                sources.append(have[f"audio/{lang}/{dest.name}"])
+                continue
             title = p[f"audio_{lang}_title"]
             url, page, author, licence, licence_url = info[title]
             if not ACCEPTABLE.match(licence):
                 sys.exit(f"{cid}: {title} has licence {licence!r}, which we can't use")
-            dest = MEDIA / "audio" / lang / f"{cid}_{lang}.mp3"
             with tempfile.TemporaryDirectory() as tmp:
                 raw = Path(tmp) / "original.mp3"
                 download_file(transcoded_mp3(url), raw)
@@ -281,18 +306,17 @@ def download(limit):
                     )
                 )
             )
-            row[f"audio_{lang}"] = dest.name
         concepts[p["topic"]].append(row)
         print(f"[{i}/{len(picks)}] {cid}", file=sys.stderr)
 
     for topic, rows in concepts.items():
         with (CONCEPTS / f"{topic}.csv").open("w", encoding="utf-8", newline="") as f:
-            w = csv.DictWriter(f, fieldnames=CONCEPT_FIELDS)
+            w = csv.DictWriter(f, fieldnames=CONCEPT_FIELDS, lineterminator="\n")
             w.writeheader()
             w.writerows(rows)
 
     with SOURCES.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=SOURCE_FIELDS)
+        w = csv.DictWriter(f, fieldnames=SOURCE_FIELDS, lineterminator="\n")
         w.writeheader()
         w.writerows(sorted(sources, key=lambda s: s["file"]))
 
