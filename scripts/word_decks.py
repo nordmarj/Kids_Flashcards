@@ -38,6 +38,9 @@ TOPICS = {
     "places": {"sv": ("Platser", 2033439675), "en": ("Places", 1134089514)},
     "toys": {"sv": ("Leksaker", 1523246323), "en": ("Toys", 1642344530)},
     "vehicles": {"sv": ("Fordon", 1914877154), "en": ("Vehicles", 1469005880)},
+    "music": {"sv": ("Musik", 1752141239), "en": ("Music", 1727409939)},
+    "sports": {"sv": ("Sport", 1803354422), "en": ("Sports", 1926662181)},
+    "school": {"sv": ("Skolan", 1278447885), "en": ("School", 1314221429)},
 }
 ACCEPTABLE = re.compile(
     r"^(CC0|Public domain|CC BY(-SA|-NC|-NC-SA)? [\d.]+)", re.IGNORECASE
@@ -110,10 +113,17 @@ def read_concepts():
         with path.open(encoding="utf-8", newline="") as f:
             rows = list(csv.DictReader(f))
         for line, row in enumerate(rows, start=2):
-            needed = ["id", "image"] + [k for lang in LANGUAGES for k in (lang, f"audio_{lang}")]
-            missing = [k for k in needed if not row.get(k)]
+            # A concept may exist in only some languages, but a language it
+            # has needs both the word and its recording.
+            where = f"{path.relative_to(ROOT)}:{line}"
+            missing = [k for k in ("id", "level", "image") if not row.get(k)]
             if missing:
-                sys.exit(f"{path.relative_to(ROOT)}:{line}: empty {', '.join(missing)}")
+                sys.exit(f"{where}: empty {', '.join(missing)}")
+            for lang in LANGUAGES:
+                if bool(row.get(lang)) != bool(row.get(f"audio_{lang}")):
+                    sys.exit(f"{where}: {lang} needs both the word and audio_{lang}, or neither")
+            if not any(row.get(lang) for lang in LANGUAGES):
+                sys.exit(f"{where}: no language has a word")
         topics[path.stem] = rows
     return topics
 
@@ -152,7 +162,13 @@ def build(langs=tuple(LANGUAGES)):
     out = {}
     for lang in langs:
         decks, files = [], set()
-        for topic, rows in topics.items():
+        for topic, all_rows in topics.items():
+            rows = [r for r in all_rows if r.get(lang)]
+            if not rows:
+                continue
+            if len(rows) < 4:
+                sys.exit(f"data/concepts/{topic}.csv: only {len(rows)} {lang} words, "
+                         "a card needs 3 others from its topic as wrong choices")
             name, deck_id = TOPICS[topic][lang]
             info = LANGUAGES[lang]
             deck = genanki.Deck(deck_id, f"{info['root']}::{name}", description=info["description"])

@@ -40,10 +40,14 @@ note type.
 
 ## Languages
 
-All word cards exist in **Swedish (`sv`) and English (`en`)**.
+Word cards are built in **Swedish (`sv`) and English (`en`)**.
 
-- One concept table holds one row per concept (e.g. "cat") with both the
-  Swedish and English word, so the two languages can never drift apart.
+- One concept table holds one row per concept (e.g. "cat") with the Swedish
+  and English word side by side, so the two languages can never drift apart.
+- A concept may exist in only one language (Jens, 2026-10-08): its other
+  word and recording are left empty and it only appears in that language's
+  deck. Each language holds at most **1,000 words**, all of them suitable
+  for the target audience.
 - Each language is built as its **own deck tree** from that shared table:
   a top-level deck per language, a deck per card type under it, and a
   subdeck per topic, e.g. `Svenska::Ord::Djur` and `English::Words::Animals`.
@@ -60,13 +64,14 @@ All word cards exist in **Swedish (`sv`) and English (`en`)**.
 
 ### Word selection: media first
 
-Every word card has **an image and audio in both Swedish and English**. Words
-are chosen so that all three can be sourced: a concept is only added to a
-concept table once `fetch_media.py` has found an acceptable image, a Swedish
-recording and an English recording for it. Concepts missing any of them stay
-out (they may be listed in `data/candidates/` while searching).
-`build_decks.py` fails if a concept row lacks `image`, `audio_sv` or
-`audio_en`.
+Every word card has **an image and a recording of the word**. Words are
+chosen so that both can be sourced: a concept is only added to a concept
+table once `fetch_media.py` has found an acceptable ARASAAC image and a
+recording in at least one language, and the recording must name what that
+ARASAAC picture shows. Concepts missing them stay out (they may be listed in
+`data/candidates/` while searching). `build_decks.py` fails if a concept row
+lacks `image`, has a word without its recording (or a recording without its
+word), or has no language at all.
 
 Audio is always a real human recording; synthetic (TTS) voices are not used.
 Shape names are the one exception to "every card has audio": Swedish
@@ -176,8 +181,8 @@ Licence consequence: bundling CC BY-SA and CC BY-NC-SA material means the
 
 - Do not hand-edit generated files (`data/arithmetic/*.csv`, `ATTRIBUTION.md`,
   `build/`); change the script and regenerate.
-- When adding words, add both `sv` and `en` in the same row; never leave one
-  language empty.
+- When adding words, put both `sv` and `en` in the same row whenever both
+  have a recording; leave a language empty only when it has none.
 - When fetching media, respect each site's API terms and rate limits, and set
   a descriptive User-Agent (Wikimedia requires one).
 - Built `.apkg` files are published as GitHub Release assets, not committed.
