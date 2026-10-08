@@ -149,7 +149,7 @@ def shapes_model():
         SHAPES_MODEL_ID,
         "Kids Flashcards: Shapes",
         fields=[{"name": "Name"}, {"name": "Picture"}, {"name": "Audio"},
-                {"name": "NameChoices"}, {"name": "PictureChoices"}],
+                {"name": "NameChoices"}, {"name": "PictureChoices"}, {"name": "Credits"}],
         templates=[{
             "name": "Name to picture",
             "qfmt": read("name_front.html"),
@@ -170,15 +170,18 @@ def shape_distractors(shape, shapes):
 
 
 def build_shapes():
+    """Shape decks and the audio files they use."""
     with (ROOT / "data" / "shapes" / "shapes.csv").open(encoding="utf-8", newline="") as f:
         shapes = list(csv.DictReader(f))
     for s in shapes:
         if not (s["id"] and s["sv"] and s["en"]) or s["id"] not in shape_pictures.SHAPES:
             sys.exit(f"shapes.csv: incomplete row or no picture for {s}")
 
+    # Audio is optional here: not every shape name has a recording yet.
+    sources = word_decks.read_sources()
     model = shapes_model()
     button = '<button type="button" class="choice"{ok}>{content}</button>'
-    decks = []
+    decks, media = [], set()
     for lang, (name, deck_id) in SHAPES_DECKS.items():
         deck = genanki.Deck(deck_id, name, description=SHAPES_DESCRIPTION)
         for due, shape in enumerate(shapes):
@@ -187,16 +190,24 @@ def build_shapes():
             names = "".join(button.format(ok=ok(o), content=html.escape(o[lang])) for o in options)
             pictures = "".join(button.format(ok=ok(o), content=shape_pictures.picture(o["id"]))
                                for o in options)
+            sound = credits = ""
+            if shape.get(f"audio_{lang}"):
+                rel = f"audio/{lang}/{shape[f'audio_{lang}']}"
+                media.add(word_decks.media_file(sources, rel))
+                sound = f"[sound:{shape[f'audio_{lang}']}]"
+                label = "Ljud" if lang == "sv" else "Sound"
+                credits = f"{label}: {word_decks.credit(sources[rel])}"
             deck.add_note(genanki.Note(
                 model=model,
-                fields=[html.escape(shape[lang]), shape_pictures.picture(shape["id"]), "",
-                        names, pictures],
+                fields=[html.escape(shape[lang]), shape_pictures.picture(shape["id"]), sound,
+                        names, pictures, credits],
                 guid=genanki.guid_for("kids_flashcards", "shapes", shape["id"], lang),
                 due=due,
             ))
         decks.append(deck)
-    print(f"{len(shapes)} shapes ({4 * len(shapes)} cards) in {len(decks)} language subdecks")
-    return decks
+    print(f"{len(shapes)} shapes ({4 * len(shapes)} cards) in {len(decks)} language subdecks, "
+          f"{len(media)} recordings")
+    return decks, media
 
 
 def main():
@@ -206,9 +217,10 @@ def main():
         genanki.Package(decks, media_files=[str(m) for m in media]).write_to_file(out)
         print(f"-> {out.relative_to(ROOT)}")
 
-    decks = build_arithmetic() + build_shapes()
+    shape_decks, shape_media = build_shapes()
     out = BUILD_DIR / "maths.apkg"
-    genanki.Package(decks).write_to_file(out)
+    genanki.Package(build_arithmetic() + shape_decks,
+                    media_files=[str(m) for m in sorted(shape_media)]).write_to_file(out)
     print(f"-> {out.relative_to(ROOT)}")
 
 
