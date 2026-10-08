@@ -36,8 +36,11 @@ All word cards exist in **Swedish (`sv`) and English (`en`)**.
 
 - One concept table holds one row per concept (e.g. "cat") with both the
   Swedish and English word, so the two languages can never drift apart.
-- Each language is built as its **own deck** (e.g. `Ord – Djur` and
-  `Words – Animals`) from that shared table.
+- Each language is built as its **own deck tree** from that shared table:
+  a top-level deck per language, a deck per card type under it, and a
+  subdeck per topic, e.g. `Svenska::Ord::Djur` and `English::Words::Animals`.
+  Later card types (such as sentences) become siblings of `Ord`/`Words`.
+  The concept `level` becomes a tag (`level1`, `level2`), not a subdeck.
 - Swedish text must keep `å ä ö`; all files are UTF-8.
 - The written word always matches exactly what its recording says. If the
   recording says `katt`, the card shows `katt`; if it says `en katt`, the card
