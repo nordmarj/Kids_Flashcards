@@ -50,8 +50,9 @@ All word cards exist in **Swedish (`sv`) and English (`en`)**.
   Later card types (such as sentences) become siblings of `Ord`/`Words`.
   The concept `level` becomes a tag (`level1`, `level2`), not a subdeck.
 - Arithmetic is language-neutral and lives in its own `Maths` deck tree
-  (`Maths::1 Addition::…`), which currently also holds the shapes
-  (`Maths::5 Shapes`, `Maths::6 Former (svenska)`).
+  (`Maths::1 Addition::…`). The shapes stay there too, in both languages
+  (`Maths::5 Shapes`, `Maths::6 Former (svenska)`), as a deliberate
+  exception to the per-language trees, because they are a maths topic.
 - Swedish text must keep `å ä ö`; all files are UTF-8.
 - The written word always matches exactly what its recording says. If the
   recording says `katt`, the card shows `katt`; if it says `en katt`, the card
