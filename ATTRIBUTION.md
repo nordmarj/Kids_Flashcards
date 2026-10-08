@@ -17,7 +17,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/en/angel_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Grendelkhan-angel.wav) | Speaker: Grendelkhan; Recorder: Grendelkhan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/en/ant_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Wodencafe-ant.wav) | Speaker: Wodencafe; Recorder: Wodencafe | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/en/apple_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Nattes_%C3%A0_chat-apple.wav) | Speaker: Nattes à chat; Recorder: Nattes à chat | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/en/apricot_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-uk-apricot.ogg) | No machine-readable author provided. Chris Melville assumed (based on copyright claims). | [Public domain]() |
+| audio/en/apricot_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-uk-apricot.ogg) | No machine-readable author provided. Chris Melville assumed (based on copyright claims). | Public domain |
 | audio/en/arm_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Nattes_%C3%A0_chat-arm.wav) | Speaker: Nattes à chat; Recorder: Nattes à chat | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/en/asparagus_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-us-asparagus.ogg) | Dvortygirl | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/en/aunt_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Grendelkhan-aunt.wav) | Speaker: Grendelkhan; Recorder: Grendelkhan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -34,7 +34,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/en/bee_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-us-bee.ogg) | Dvortygirl | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/en/beetroot_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Benluks-beetroot.wav) | Speaker: Benluks; Recorder: Benluks | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/en/belly_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Grendelkhan-belly.wav) | Speaker: Grendelkhan; Recorder: Grendelkhan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
-| audio/en/bench_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-us-bench.ogg) | No machine-readable author provided. Dvortygirl assumed (based on copyright claims). | [Public domain]() |
+| audio/en/bench_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-us-bench.ogg) | No machine-readable author provided. Dvortygirl assumed (based on copyright claims). | Public domain |
 | audio/en/berries_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Arlo_Barnes-berries.wav) | Speaker: Arlo Barnes; Recorder: Arlo Barnes | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/en/bicycle_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-Bicycle.wav) | Speaker: Back ache; Recorder: Back ache | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/en/bird_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Grendelkhan-bird.wav) | Speaker: Grendelkhan; Recorder: Grendelkhan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -57,7 +57,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/en/butter_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Grendelkhan-butter.wav) | Speaker: Grendelkhan; Recorder: Grendelkhan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/en/butterfly_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Simplificationalizer-butterfly.wav) | Speaker: Simplificationalizer; Recorder: Simplificationalizer | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/en/cabbage_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-uk-cabbage.ogg) | Association Shtooka, Judith Franck | [CC BY 3.0 us](https://creativecommons.org/licenses/by/3.0/us/deed.en) |
-| audio/en/camel_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-au-camel.ogg) | Tooironic | [Public domain]() |
+| audio/en/camel_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-au-camel.ogg) | Tooironic | Public domain |
 | audio/en/captain_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Grendelkhan-captain.wav) | Speaker: Grendelkhan; Recorder: Grendelkhan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/en/car_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Nattes_%C3%A0_chat-car.wav) | Speaker: Nattes à chat; Recorder: Nattes à chat | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/en/carpet_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Status_401-Carpet.wav) | Speaker: Status 401; Recorder: Status 401 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -114,7 +114,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/en/farmer_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Rachlel-farmer.wav) | Speaker: Rachlel; Recorder: Rachlel | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
 | audio/en/field_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Grendelkhan-field.wav) | Speaker: Grendelkhan; Recorder: Grendelkhan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/en/finger_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Grendelkhan-finger.wav) | Speaker: Grendelkhan; Recorder: Grendelkhan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
-| audio/en/fir_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-uk-fir.ogg) | No machine-readable author provided. Celestianpower assumed (based on copyright claims). | [Public domain]() |
+| audio/en/fir_en.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:En-uk-fir.ogg) | No machine-readable author provided. Celestianpower assumed (based on copyright claims). | Public domain |
 | audio/en/fire_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Nattes_%C3%A0_chat-fire.wav) | Speaker: Nattes à chat; Recorder: Nattes à chat | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/en/fish_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Grendelkhan-fish.wav) | Speaker: Grendelkhan; Recorder: Grendelkhan | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/en/fisherman_en.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-fisherman.wav) | Speaker: Vealhurl; Recorder: Vealhurl | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -366,13 +366,13 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/black_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-svart.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/blue_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-bl%C3%A5.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/boat_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-b%C3%A5t.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/book_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-bok.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/book_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-bok.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/bottle_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-flaska.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/box_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-l%C3%A5da.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/boy_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-pojke.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/brain_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-hj%C3%A4rna.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/branch_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-gren.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/bread_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-br%C3%B6d.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/bread_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-br%C3%B6d.ogg) | Peter Isotalo | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/breakfast_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-frukost.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/bridge_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-bro.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/brother_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-Bror.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -405,7 +405,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/clover_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-kl%C3%B6ver.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/coat_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-rock.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/coins_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-mynt.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/colander_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-sil.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/colander_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-sil.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/computer_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-dator.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/corn_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-majs.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/cousin_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-kusin.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
@@ -421,11 +421,11 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/doctor_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-l%C3%A4kare.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/dog_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-hund.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/donkey_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-%C3%A5sna.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
-| audio/sv/door_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-d%C3%B6rr.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/door_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-d%C3%B6rr.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/dress_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-kl%C3%A4nning.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/duck_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-anka.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/eagle_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-%C3%96rn.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
-| audio/sv/ear_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-%C3%B6ra.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/ear_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-%C3%B6ra.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/egg_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-%C3%A4gg.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/elbow_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-armb%C3%A5ge.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/elephant_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-elefant.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -445,7 +445,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/floor_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-golv.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/flour_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-mj%C3%B6l.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/flower_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-blomma.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/foot_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-fot.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/foot_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-fot.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/football_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-fotboll.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/forest_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Ainali-skog.wav) | Speaker: Ainali; Recorder: Ainali | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sv/fork_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-gaffel.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -474,7 +474,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/head_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-huvud.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/heart_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-hj%C3%A4rta.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/hedgehog_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-igelkott.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
-| audio/sv/heel_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-h%C3%A4l.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/heel_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-h%C3%A4l.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/hen_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-h%C3%B6na.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/honey_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-honung.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/horse_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-h%C3%A4st.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
@@ -482,7 +482,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/hotel_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-hotell.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/house_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-hus.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/ice_cream_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-glass.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/ice_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-is.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/ice_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-is.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/island_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-%C3%B6.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/jar_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-burk.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/key_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Christoffre-nyckel.wav) | Speaker: Christoffre; Recorder: Christoffre | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -504,7 +504,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/lynx_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-lo.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/man_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-man.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/map_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-karta.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/meat_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-k%C3%B6tt.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/meat_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-k%C3%B6tt.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/meatballs_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-k%C3%B6ttbullar.ogg) | No machine-readable author provided. Lelle1987 assumed (based on copyright claims). | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/milk_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-mj%C3%B6lk.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/mirror_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-spegel.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
@@ -513,7 +513,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/moon_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-m%C3%A5ne.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/moose_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-%C3%A4lg.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/morning_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-morgon.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/moth_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-mal.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/moth_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-mal.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/mountain_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-Berg.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/mouse_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-mus.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/mouth_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-mun.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
@@ -521,7 +521,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/museum_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-museum.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/musician_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-musiker.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/neck_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-hals.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/needle_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-n%C3%A5l.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/needle_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-n%C3%A5l.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/neighbour_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-granne.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/nest_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-bo.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/newspaper_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-tidning.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
@@ -554,10 +554,10 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/planet_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Ainali-planet.wav) | Speaker: Ainali; Recorder: Ainali | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sv/plate_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-tallrik.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/police_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-polis.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/postman_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-brevb%C3%A4rare.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/postman_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-brevb%C3%A4rare.ogg) | Peter Isotalo | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/potato_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-potatis.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/prince_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-prins.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/purple_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-lila.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/purple_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-lila.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/queen_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-drottning.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/rabbit_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-kanin.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/radio_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-radio.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
@@ -592,7 +592,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/singer_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-s%C3%A5ngare.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/sister_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-syster.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/skin_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-hud.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/skirt_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-kjol.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/skirt_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-kjol.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/sky_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-himmel.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/smoke_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-r%C3%B6k.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/snake_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-orm.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
@@ -612,7 +612,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/stairs_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-trappa.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/star_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-stj%C3%A4rna.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/stone_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-Sten.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
-| audio/sv/stool_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-pall.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/stool_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-pall.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/strawberry_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-jordgubbe.ogg) | Lydialyla | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sv/street_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-gata.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/sugar_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-socker.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
@@ -620,7 +620,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/sun_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-sol.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/sweater_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-tr%C3%B6ja.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/table_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-bord.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/tail_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-svans.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/tail_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-svans.ogg) | Peter Isotalo | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/tea_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-te.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/teacher_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-l%C3%A4rare.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/telephone_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-telefon.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
@@ -653,6 +653,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/winter_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-vinter.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/wolf_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-varg.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/woman_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-kvinna.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/wool_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-ull.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/wool_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-ull.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/worm_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-mask.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/yellow_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-gul.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
