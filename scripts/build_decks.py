@@ -16,6 +16,8 @@ from pathlib import Path
 
 import genanki
 
+from arithmetic_pictures import picture
+
 ROOT = Path(__file__).resolve().parent.parent
 BUILD_DIR = ROOT / "build"
 MINUS = "−"
@@ -61,7 +63,7 @@ def arithmetic_model():
         ARITHMETIC_MODEL_ID,
         "Kids Flashcards: Arithmetic",
         fields=[{"name": "Question"}, {"name": "Answer"}, {"name": "Choices"},
-                {"name": "TypeAnswer"}],
+                {"name": "TypeAnswer"}, {"name": "Picture"}],
         templates=[{
             "name": "Choose the answer",
             "qfmt": (tpl / "front.html").read_text(encoding="utf-8"),
@@ -110,7 +112,7 @@ def build_arithmetic():
             deck.add_note(genanki.Note(
                 model=model,
                 # TypeAnswer uses a plain "-" so it matches what a keyboard types.
-                fields=[question, fmt(answer), choices, str(answer)],
+                fields=[question, fmt(answer), choices, str(answer), picture(card_id)],
                 guid=genanki.guid_for("kids_flashcards", "arithmetic", card_id),
                 due=due,  # new cards are shown easy-first, in CSV order
             ))

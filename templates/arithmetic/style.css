@@ -61,3 +61,28 @@ code#typeans {
   border: none;
   width: auto;
 }
+.hint {
+  margin: 0 0 24px;
+}
+.hint summary {
+  display: inline-block;
+  font-size: 22px;
+  padding: 6px 18px;
+  border: 2px solid #888;
+  border-radius: 999px;
+  cursor: pointer;
+  list-style: none;
+}
+.hint summary::-webkit-details-marker {
+  display: none;
+}
+.hint[open] summary {
+  display: none;
+}
+.picture-box {
+  margin-top: 24px;
+}
+svg.picture {
+  max-width: 100%;
+  height: auto;
+}
