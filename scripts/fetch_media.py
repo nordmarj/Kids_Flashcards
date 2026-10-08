@@ -168,7 +168,7 @@ def commons_info(titles):
             action="query",
             format="json",
             prop="imageinfo",
-            iiprop="url|extmetadata",
+            iiprop="url|extmetadata|user",
             titles="|".join(titles[start : start + 50]),
         )
         r.raise_for_status()
@@ -184,7 +184,9 @@ def commons_info(titles):
             info[back.get(page["title"], page["title"])] = (
                 ii["url"],
                 ii["descriptionurl"],
-                value("Artist"),
+                # Older Sv-/En- files often lack an Artist field; credit the
+                # uploader then, since CC BY(-SA) requires attribution.
+                value("Artist") or ii.get("user", "").replace("~commonswiki", ""),
                 value("LicenseShortName"),
                 value("LicenseUrl"),
             )

@@ -62,6 +62,12 @@ def read_sources():
     for row in sources.values():
         if not ACCEPTABLE.match(row["licence"]):
             sys.exit(f"media/{row['file']}: licence {row['licence']!r} is not acceptable")
+        if not row["author"]:
+            sys.exit(f"media/{row['file']}: no author in media/sources.csv, which attribution needs")
+    on_disk = {p.relative_to(MEDIA).as_posix() for p in MEDIA.rglob("*")
+               if p.is_file() and p.name != "sources.csv"}
+    if on_disk - sources.keys():
+        sys.exit(f"media files without a row in media/sources.csv: {sorted(on_disk - sources.keys())}")
     return sources
 
 
@@ -76,8 +82,11 @@ def media_file(sources, rel):
 
 
 def credit(row):
-    author = row["author"] or "unknown"
-    return f'{html.escape(author)}, <a href="{html.escape(row["licence_url"])}">{html.escape(row["licence"])}</a>'
+    """Author and licence for a card; public domain files have no licence URL."""
+    licence = html.escape(row["licence"])
+    if row["licence_url"]:
+        licence = f'<a href="{html.escape(row["licence_url"])}">{licence}</a>'
+    return f'{html.escape(row["author"])}, {licence}'
 
 
 def read_concepts():
@@ -118,8 +127,8 @@ def distractors(concept, rows, lang):
     return random.Random(f"words:{concept['id']}:{lang}").sample(pool, 3)
 
 
-def build():
-    """Return {language: (decks, media files)}."""
+def build(langs=("sv", "en")):
+    """Return {language: (decks, media files)} for the given languages."""
     sources = read_sources()
     topics = read_concepts()
     choices_js = (ROOT / "templates" / "shapes" / "choices_script.html").read_text(encoding="utf-8")
@@ -127,7 +136,7 @@ def build():
     button = '<button type="button" class="choice"{ok}>{word}</button>'
 
     out = {}
-    for lang in ("sv", "en"):
+    for lang in langs:
         decks, files = [], set()
         for topic, rows in topics.items():
             name, deck_id = TOPICS[topic][lang]
@@ -181,6 +190,8 @@ def write_attribution(sources):
         if row["source"] == "ARASAAC":
             continue
         author = row["author"].replace("|", "\\|")
+        licence = (f"[{row['licence']}]({row['licence_url']})" if row["licence_url"]
+                   else row["licence"])
         lines.append(f"| {row['file']} | [{row['source']}]({row['source_url']}) | {author} | "
-                     f"[{row['licence']}]({row['licence_url']}) |")
+                     f"{licence} |")
     (ROOT / "ATTRIBUTION.md").write_text("\n".join(lines) + "\n", encoding="utf-8")

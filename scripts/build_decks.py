@@ -11,9 +11,14 @@ word_decks.py) and build/maths.apkg, one "Maths" deck with these subdecks:
 - Shapes: data/shapes/shapes.csv, one subdeck per language. Every shape
   gets two multiple-choice cards: "Name to picture" and "Picture to name".
 
-    python3 scripts/build_decks.py
+By default both languages are built. With --lang sv or --lang en only that
+language is built: its word deck, and a maths deck whose shapes are in that
+language only (build/maths_sv.apkg or build/maths_en.apkg).
+
+    python3 scripts/build_decks.py [--lang sv|en|both]
 """
 
+import argparse
 import csv
 import html
 import random
@@ -56,7 +61,7 @@ ARITHMETIC_DECKS = {
 SHAPES_MODEL_ID = 1988648040
 # language -> (Anki deck name, deck ID)
 SHAPES_DECKS = {
-    "en": ("Maths::5 Shapes", 1748236718),
+    "en": ("Maths::5 Shapes (English)", 1748236718),
     "sv": ("Maths::6 Former (svenska)", 1330122437),
 }
 
@@ -169,8 +174,8 @@ def shape_distractors(shape, shapes):
     return random.Random(f"shapes:{shape['id']}").sample(pool, 3)
 
 
-def build_shapes():
-    """Shape decks and the audio files they use."""
+def build_shapes(langs=("sv", "en")):
+    """Shape decks for the given languages and the audio files they use."""
     with (ROOT / "data" / "shapes" / "shapes.csv").open(encoding="utf-8", newline="") as f:
         shapes = list(csv.DictReader(f))
     for s in shapes:
@@ -182,7 +187,8 @@ def build_shapes():
     model = shapes_model()
     button = '<button type="button" class="choice"{ok}>{content}</button>'
     decks, media = [], set()
-    for lang, (name, deck_id) in SHAPES_DECKS.items():
+    for lang in langs:
+        name, deck_id = SHAPES_DECKS[lang]
         deck = genanki.Deck(deck_id, name, description=SHAPES_DESCRIPTION)
         for due, shape in enumerate(shapes):
             options = [shape] + shape_distractors(shape, shapes)
@@ -205,20 +211,26 @@ def build_shapes():
                 due=due,
             ))
         decks.append(deck)
-    print(f"{len(shapes)} shapes ({4 * len(shapes)} cards) in {len(decks)} language subdecks, "
+    print(f"{len(shapes)} shapes ({2 * len(shapes) * len(decks)} cards) in {len(decks)} language subdecks, "
           f"{len(media)} recordings")
     return decks, media
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Build the Anki decks into build/.")
+    parser.add_argument("--lang", choices=["sv", "en", "both"], default="both",
+                        help="language(s) to build (default: both)")
+    lang_arg = parser.parse_args().lang
+    langs = ("sv", "en") if lang_arg == "both" else (lang_arg,)
+
     BUILD_DIR.mkdir(exist_ok=True)
-    for lang, (decks, media) in word_decks.build().items():
+    for lang, (decks, media) in word_decks.build(langs).items():
         out = BUILD_DIR / word_decks.PACKAGES[lang]
         genanki.Package(decks, media_files=[str(m) for m in media]).write_to_file(out)
         print(f"-> {out.relative_to(ROOT)}")
 
-    shape_decks, shape_media = build_shapes()
-    out = BUILD_DIR / "maths.apkg"
+    shape_decks, shape_media = build_shapes(langs)
+    out = BUILD_DIR / ("maths.apkg" if lang_arg == "both" else f"maths_{lang_arg}.apkg")
     genanki.Package(build_arithmetic() + shape_decks,
                     media_files=[str(m) for m in sorted(shape_media)]).write_to_file(out)
     print(f"-> {out.relative_to(ROOT)}")
