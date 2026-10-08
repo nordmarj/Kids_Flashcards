@@ -39,20 +39,33 @@ TOPICS = {
     "toys": {"sv": ("Leksaker", 1523246323), "en": ("Toys", 1642344530)},
     "vehicles": {"sv": ("Fordon", 1914877154), "en": ("Vehicles", 1469005880)},
 }
-ROOTS = {"sv": "Svenska::Ord", "en": "English::Words"}
-PACKAGES = {"sv": "svenska.apkg", "en": "english.apkg"}
-
 ACCEPTABLE = re.compile(
     r"^(CC0|Public domain|CC BY(-SA|-NC|-NC-SA)? [\d.]+)", re.IGNORECASE
 )
 LICENCE_NOTE = "Released under CC BY-NC-SA 4.0: https://github.com/nordmarj/Kids_Flashcards"
-DESCRIPTION = {
-    "sv": "Kids Flashcards: titta på bilden och tryck på rätt ord. Bilder: ARASAAC "
-    "(Sergio Palao, Aragoniens regering), CC BY-NC-SA. Ljud: Lingua Libre och "
-    "Wikimedia Commons, se varje kort. " + LICENCE_NOTE,
-    "en": "Kids Flashcards: look at the picture and tap the right word. Pictures: "
-    "ARASAAC (Sergio Palao, Government of Aragón), CC BY-NC-SA. Sounds: Lingua "
-    "Libre and Wikimedia Commons, see each card. " + LICENCE_NOTE,
+
+# Every language the decks are built in. To add one: add its entry here, a
+# column with its code (and audio_<code>) to every concept table and to
+# data/shapes/shapes.csv, and its names to TOPICS and build_decks.SHAPES_DECKS.
+LANGUAGES = {
+    "sv": {
+        "root": "Svenska::Ord",
+        "package": "svenska.apkg",
+        "picture": "Bild",
+        "sound": "Ljud",
+        "description": "Kids Flashcards: titta på bilden och tryck på rätt ord. Bilder: "
+        "ARASAAC (Sergio Palao, Aragoniens regering), CC BY-NC-SA. Ljud: Lingua Libre "
+        "och Wikimedia Commons, se varje kort. " + LICENCE_NOTE,
+    },
+    "en": {
+        "root": "English::Words",
+        "package": "english.apkg",
+        "picture": "Picture",
+        "sound": "Sound",
+        "description": "Kids Flashcards: look at the picture and tap the right word. "
+        "Pictures: ARASAAC (Sergio Palao, Government of Aragón), CC BY-NC-SA. Sounds: "
+        "Lingua Libre and Wikimedia Commons, see each card. " + LICENCE_NOTE,
+    },
 }
 
 
@@ -97,7 +110,8 @@ def read_concepts():
         with path.open(encoding="utf-8", newline="") as f:
             rows = list(csv.DictReader(f))
         for line, row in enumerate(rows, start=2):
-            missing = [k for k in ("id", "sv", "en", "image", "audio_sv", "audio_en") if not row[k]]
+            needed = ["id", "image"] + [k for lang in LANGUAGES for k in (lang, f"audio_{lang}")]
+            missing = [k for k in needed if not row.get(k)]
             if missing:
                 sys.exit(f"{path.relative_to(ROOT)}:{line}: empty {', '.join(missing)}")
         topics[path.stem] = rows
@@ -127,7 +141,7 @@ def distractors(concept, rows, lang):
     return random.Random(f"words:{concept['id']}:{lang}").sample(pool, 3)
 
 
-def build(langs=("sv", "en")):
+def build(langs=tuple(LANGUAGES)):
     """Return {language: (decks, media files)} for the given languages."""
     sources = read_sources()
     topics = read_concepts()
@@ -140,7 +154,8 @@ def build(langs=("sv", "en")):
         decks, files = [], set()
         for topic, rows in topics.items():
             name, deck_id = TOPICS[topic][lang]
-            deck = genanki.Deck(deck_id, f"{ROOTS[lang]}::{name}", description=DESCRIPTION[lang])
+            info = LANGUAGES[lang]
+            deck = genanki.Deck(deck_id, f"{info['root']}::{name}", description=info["description"])
             for due, c in enumerate(rows):
                 image = media_file(sources, f"images/{c['image']}")
                 audio = media_file(sources, f"audio/{lang}/{c[f'audio_{lang}']}")
@@ -150,11 +165,8 @@ def build(langs=("sv", "en")):
                     button.format(ok=' data-ok="1"' if o is c else "", word=html.escape(o[lang]))
                     for o in options
                 )
-                credits = (f"Bild: {credit(sources[f'images/{image.name}'])} · "
-                           f"Ljud: {credit(sources[f'audio/{lang}/{audio.name}'])}"
-                           if lang == "sv" else
-                           f"Picture: {credit(sources[f'images/{image.name}'])} · "
-                           f"Sound: {credit(sources[f'audio/{lang}/{audio.name}'])}")
+                credits = (f"{info['picture']}: {credit(sources[f'images/{image.name}'])} · "
+                           f"{info['sound']}: {credit(sources[f'audio/{lang}/{audio.name}'])}")
                 deck.add_note(genanki.Note(
                     model=note_model,
                     fields=[html.escape(c[lang]), f'<img src="{image.name}">',

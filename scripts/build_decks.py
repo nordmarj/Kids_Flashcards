@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Build Anki decks from data/ into build/*.apkg.
 
-Builds build/svenska.apkg and build/english.apkg (picture → word cards, see
-word_decks.py) and build/maths.apkg, one "Maths" deck with these subdecks:
+Builds one picture → word package per language (build/svenska.apkg,
+build/english.apkg; see word_decks.py) and build/maths.apkg, one "Maths" deck
+with these subdecks:
 
 - Arithmetic: one subdeck per CSV file in data/arithmetic/ (written by
   gen_arithmetic.py). Every sum gets two cards: "Choose the answer"
@@ -11,11 +12,12 @@ word_decks.py) and build/maths.apkg, one "Maths" deck with these subdecks:
 - Shapes: data/shapes/shapes.csv, one subdeck per language. Every shape
   gets two multiple-choice cards: "Name to picture" and "Picture to name".
 
-By default both languages are built. With --lang sv or --lang en only that
-language is built: its word deck, and a maths deck whose shapes are in that
-language only (build/maths_sv.apkg or build/maths_en.apkg).
+By default every language in word_decks.LANGUAGES is built. --lang takes
+any list of them and builds only those: their word decks, and a maths deck
+whose shapes are in those languages only, named after them (e.g.
+build/maths_sv.apkg).
 
-    python3 scripts/build_decks.py [--lang sv|en|both]
+    python3 scripts/build_decks.py [--lang LANG ...]
 """
 
 import argparse
@@ -174,12 +176,13 @@ def shape_distractors(shape, shapes):
     return random.Random(f"shapes:{shape['id']}").sample(pool, 3)
 
 
-def build_shapes(langs=("sv", "en")):
+def build_shapes(langs=tuple(word_decks.LANGUAGES)):
     """Shape decks for the given languages and the audio files they use."""
     with (ROOT / "data" / "shapes" / "shapes.csv").open(encoding="utf-8", newline="") as f:
         shapes = list(csv.DictReader(f))
     for s in shapes:
-        if not (s["id"] and s["sv"] and s["en"]) or s["id"] not in shape_pictures.SHAPES:
+        if (not s["id"] or not all(s.get(lang) for lang in word_decks.LANGUAGES)
+                or s["id"] not in shape_pictures.SHAPES):
             sys.exit(f"shapes.csv: incomplete row or no picture for {s}")
 
     # Audio is optional here: not every shape name has a recording yet.
@@ -201,7 +204,7 @@ def build_shapes(langs=("sv", "en")):
                 rel = f"audio/{lang}/{shape[f'audio_{lang}']}"
                 media.add(word_decks.media_file(sources, rel))
                 sound = f"[sound:{shape[f'audio_{lang}']}]"
-                label = "Ljud" if lang == "sv" else "Sound"
+                label = word_decks.LANGUAGES[lang]["sound"]
                 credits = f"{label}: {word_decks.credit(sources[rel])}"
             deck.add_note(genanki.Note(
                 model=model,
@@ -218,19 +221,20 @@ def build_shapes(langs=("sv", "en")):
 
 def main():
     parser = argparse.ArgumentParser(description="Build the Anki decks into build/.")
-    parser.add_argument("--lang", choices=["sv", "en", "both"], default="both",
-                        help="language(s) to build (default: both)")
-    lang_arg = parser.parse_args().lang
-    langs = ("sv", "en") if lang_arg == "both" else (lang_arg,)
+    every = list(word_decks.LANGUAGES)
+    parser.add_argument("--lang", nargs="+", choices=every, default=every, metavar="LANG",
+                        help=f"languages to build, any of {' '.join(every)} (default: all)")
+    chosen = set(parser.parse_args().lang)
+    langs = [lang for lang in every if lang in chosen]
 
     BUILD_DIR.mkdir(exist_ok=True)
     for lang, (decks, media) in word_decks.build(langs).items():
-        out = BUILD_DIR / word_decks.PACKAGES[lang]
+        out = BUILD_DIR / word_decks.LANGUAGES[lang]["package"]
         genanki.Package(decks, media_files=[str(m) for m in media]).write_to_file(out)
         print(f"-> {out.relative_to(ROOT)}")
 
     shape_decks, shape_media = build_shapes(langs)
-    out = BUILD_DIR / ("maths.apkg" if lang_arg == "both" else f"maths_{lang_arg}.apkg")
+    out = BUILD_DIR / ("maths.apkg" if langs == every else f"maths_{'_'.join(langs)}.apkg")
     genanki.Package(build_arithmetic() + shape_decks,
                     media_files=[str(m) for m in sorted(shape_media)]).write_to_file(out)
     print(f"-> {out.relative_to(ROOT)}")
