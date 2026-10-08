@@ -7,7 +7,7 @@
     sub_7_3               7 dots in ten-frames, the last 3 crossed out
     sub_3_7, sub_5_m3     a number line with a jump (negatives involved)
     mul_3_4               3 rows of 4 dots
-    div_12_3              12 dots shared into 3 rows
+    div_12_3              12 dots shared onto 3 plates
 
 Pictures are pure SVG with fixed colours, so they need no media files and
 look the same on Anki desktop, AnkiDroid and AnkiMobile.
@@ -119,6 +119,34 @@ def number_line(start, jump):
     return _svg(width, height, "".join(body))
 
 
+def plates(plates_count, per_plate):
+    """`plates_count` plates in rows of up to five, each holding
+    `per_plate` dots: sharing a ÷ b means dealing a dots onto b plates."""
+    cols = 1 if per_plate == 1 else 2 if per_plate <= 4 else 3 if per_plate <= 9 else 4
+    rows = -(-per_plate // cols)
+    step = 2 * DOT_R + 4
+    radius = int(((cols * step) ** 2 + (rows * step) ** 2) ** 0.5 / 2) + 6
+    gap = 10
+    per_row = min(plates_count, 5)
+    plate_rows = -(-plates_count // 5)
+    size = 2 * radius
+    width = per_row * size + (per_row - 1) * gap + 4
+    height = plate_rows * size + (plate_rows - 1) * gap + 4
+    body = []
+    for p in range(plates_count):
+        cx = 2 + (p % 5) * (size + gap) + radius
+        cy = 2 + (p // 5) * (size + gap) + radius
+        body.append(f'<circle cx="{cx}" cy="{cy}" r="{radius - 1}" fill="none" '
+                    f'stroke="{LINE}" stroke-width="2"/>')
+        for i in range(per_plate):
+            r, c = divmod(i, cols)
+            in_row = min(cols, per_plate - r * cols)  # centre a short last row
+            x = cx + (c - (in_row - 1) / 2) * step
+            y = cy + (r - (rows - 1) / 2) * step
+            body.append(_dot(round(x, 1), round(y, 1), COLOURS[0]))
+    return _svg(width, height, "".join(body))
+
+
 def picture(card_id):
     op, *nums = card_id.split("_")
     nums = [-int(n[1:]) if n.startswith("m") else int(n) for n in nums]
@@ -139,6 +167,6 @@ def picture(card_id):
         a, b = nums
         q = a // b
         if a and max(b, q) <= MAX_ARRAY:
-            return dot_array(b, q, COLOURS)
+            return plates(b, q)
         return ""
     raise ValueError(f"no picture rule for {card_id}")
