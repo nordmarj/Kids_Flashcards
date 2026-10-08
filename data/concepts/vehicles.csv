@@ -1,0 +1,14 @@
+id,sv,en,level,image,audio_sv,audio_en
+car,bil,car,1,car.png,car_sv.mp3,car_en.mp3
+bus,buss,bus,1,bus.png,bus_sv.mp3,bus_en.mp3
+train,tåg,train,1,train.png,train_sv.mp3,train_en.mp3
+boat,båt,boat,1,boat.png,boat_sv.mp3,boat_en.mp3
+airplane,flygplan,airplane,1,airplane.png,airplane_sv.mp3,airplane_en.mp3
+bicycle,cykel,bicycle,1,bicycle.png,bicycle_sv.mp3,bicycle_en.mp3
+truck,lastbil,truck,2,truck.png,truck_sv.mp3,truck_en.mp3
+ambulance,ambulans,ambulance,1,ambulance.png,ambulance_sv.mp3,ambulance_en.mp3
+ship,skepp,ship,1,ship.png,ship_sv.mp3,ship_en.mp3
+wheel,hjul,wheel,1,wheel.png,wheel_sv.mp3,wheel_en.mp3
+engine,motor,engine,2,engine.png,engine_sv.mp3,engine_en.mp3
+road,väg,road,1,road.png,road_sv.mp3,road_en.mp3
+tunnel,tunnel,tunnel,2,tunnel.png,tunnel_sv.mp3,tunnel_en.mp3

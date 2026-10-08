@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Build Anki decks from data/ into build/*.apkg.
 
-So far this builds build/maths.apkg, one "Maths" deck with these subdecks:
+Builds build/svenska.apkg and build/english.apkg (picture → word cards, see
+word_decks.py) and build/maths.apkg, one "Maths" deck with these subdecks:
 
 - Arithmetic: one subdeck per CSV file in data/arithmetic/ (written by
   gen_arithmetic.py). Every sum gets two cards: "Choose the answer"
@@ -22,6 +23,7 @@ from pathlib import Path
 import genanki
 
 import shape_pictures
+import word_decks
 from arithmetic_pictures import picture
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -198,8 +200,13 @@ def build_shapes():
 
 
 def main():
-    decks = build_arithmetic() + build_shapes()
     BUILD_DIR.mkdir(exist_ok=True)
+    for lang, (decks, media) in word_decks.build().items():
+        out = BUILD_DIR / word_decks.PACKAGES[lang]
+        genanki.Package(decks, media_files=[str(m) for m in media]).write_to_file(out)
+        print(f"-> {out.relative_to(ROOT)}")
+
+    decks = build_arithmetic() + build_shapes()
     out = BUILD_DIR / "maths.apkg"
     genanki.Package(decks).write_to_file(out)
     print(f"-> {out.relative_to(ROOT)}")
