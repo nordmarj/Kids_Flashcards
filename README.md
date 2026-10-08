@@ -12,8 +12,13 @@ python3 scripts/build_decks.py
 ```
 
 This writes `build/svenska.apkg` (`Svenska::Ord::…`), `build/english.apkg`
-(`English::Words::…`) and `build/maths.apkg` (`Maths::…`). Import them into
-Anki; re-importing an updated deck keeps the child's progress.
+(`English::Words::…`) and `build/maths.apkg` (`Maths::…`, with the shapes in
+both languages). Import them into Anki; re-importing an updated deck keeps the
+child's progress.
+
+To build one language only, use `--lang sv` or `--lang en`. That writes just
+that language's word deck plus `build/maths_sv.apkg` or `build/maths_en.apkg`,
+whose shapes are in that language only.
 
 ## Licences
 

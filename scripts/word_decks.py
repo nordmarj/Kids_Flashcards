@@ -127,8 +127,8 @@ def distractors(concept, rows, lang):
     return random.Random(f"words:{concept['id']}:{lang}").sample(pool, 3)
 
 
-def build():
-    """Return {language: (decks, media files)}."""
+def build(langs=("sv", "en")):
+    """Return {language: (decks, media files)} for the given languages."""
     sources = read_sources()
     topics = read_concepts()
     choices_js = (ROOT / "templates" / "shapes" / "choices_script.html").read_text(encoding="utf-8")
@@ -136,7 +136,7 @@ def build():
     button = '<button type="button" class="choice"{ok}>{word}</button>'
 
     out = {}
-    for lang in ("sv", "en"):
+    for lang in langs:
         decks, files = [], set()
         for topic, rows in topics.items():
             name, deck_id = TOPICS[topic][lang]
