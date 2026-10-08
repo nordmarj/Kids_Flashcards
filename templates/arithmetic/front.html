@@ -1,0 +1,30 @@
+<div class="question">{{Question}} = ?</div>
+{{#Picture}}<details class="hint"><summary>Show me</summary>{{Picture}}</details>{{/Picture}}
+<div id="choices" class="choices">{{Choices}}</div>
+<div id="answer" hidden>{{Answer}}</div>
+<script>
+// Turn the ';'-separated choices into big buttons in a fresh random order.
+// A wrong tap turns red and the child can try again; the right one turns green.
+(function () {
+  var box = document.getElementById("choices");
+  var answer = document.getElementById("answer").textContent.trim();
+  var values = box.textContent.split(";")
+    .map(function (s) { return s.trim(); })
+    .filter(function (s) { return s; });
+  for (var i = values.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var t = values[i]; values[i] = values[j]; values[j] = t;
+  }
+  box.textContent = "";
+  values.forEach(function (v) {
+    var b = document.createElement("button");
+    b.type = "button";
+    b.className = "choice";
+    b.textContent = v;
+    b.onclick = function () {
+      b.classList.add(v === answer ? "correct" : "wrong");
+    };
+    box.appendChild(b);
+  });
+})();
+</script>

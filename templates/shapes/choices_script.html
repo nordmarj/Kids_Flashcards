@@ -1,0 +1,18 @@
+<script>
+// Shuffle the answer buttons; a wrong tap turns red, the right one green.
+(function () {
+  var box = document.getElementById("choices");
+  if (!box) return;
+  var items = Array.prototype.slice.call(box.children);
+  for (var i = items.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var t = items[i]; items[i] = items[j]; items[j] = t;
+  }
+  items.forEach(function (b) {
+    box.appendChild(b);
+    b.onclick = function () {
+      b.classList.add(b.getAttribute("data-ok") ? "correct" : "wrong");
+    };
+  });
+})();
+</script>
