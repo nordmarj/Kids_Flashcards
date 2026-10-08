@@ -317,6 +317,10 @@ def download(limit):
             w.writeheader()
             w.writerows(rows)
 
+    # Keep provenance rows for media this script doesn't manage (e.g. the
+    # shape recordings from fetch_shape_audio.py).
+    written = {s["file"] for s in sources}
+    sources += [s for f, s in have.items() if f not in written]
     with SOURCES.open("w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=SOURCE_FIELDS, lineterminator="\n")
         w.writeheader()
