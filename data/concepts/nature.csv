@@ -32,3 +32,12 @@ river,flod,river,2,river.png,river_sv.mp3,river_en.mp3
 valley,dal,valley,2,valley.png,valley_sv.mp3,valley_en.mp3
 field,fält,field,2,field.png,field_sv.mp3,field_en.mp3
 clover,klöver,clover,2,clover.png,clover_sv.mp3,clover_en.mp3
+night,natt,night,1,night.png,night_sv.mp3,night_en.mp3
+morning,morgon,morning,1,morning.png,morning_sv.mp3,morning_en.mp3
+afternoon,eftermiddag,afternoon,2,afternoon.png,afternoon_sv.mp3,afternoon_en.mp3
+sand,sand,sand,1,sand.png,sand_sv.mp3,sand_en.mp3
+ice,is,ice,1,ice.png,ice_sv.mp3,ice_en.mp3
+nest,bo,nest,1,nest.png,nest_sv.mp3,nest_en.mp3
+branch,gren,branch,2,branch.png,branch_sv.mp3,branch_en.mp3
+planet,planet,planet,2,planet.png,planet_sv.mp3,planet_en.mp3
+smoke,rök,smoke,2,smoke.png,smoke_sv.mp3,smoke_en.mp3

@@ -271,3 +271,85 @@ grey,colors,grå,grey,1,3340,0,,File:Sv-grå.ogg,5,File:LL-Q1860 (eng)-Samuel Mu
 pink,colors,rosa,pink,1,2807,2,File:LL-Q9027 (swe)-Moonhouse-Rosa.wav,,1,File:LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-pink.wav,,complete
 purple,colors,lila,purple,1,2907,0,,File:Sv-lila.ogg,1,File:LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-purple.wav,,complete
 orange_color,colors,orange,orange,1,2483 2888,0,,File:Sv-orange.ogg,9,File:LL-Q1860 (eng)-Louisalphonse28-Orange.wav,,complete
+girl,people,flicka,girl,1,2484 10362 27509 28283 32845,0,,File:Sv-flicka.ogg,6,File:LL-Q1860 (eng)-Samuel Muldoon (Muldoonsamuel55)-girl.wav,,complete
+boy,people,pojke,boy,1,2485 7176 10363 28287 32840,0,,File:Sv-pojke.ogg,9,File:LL-Q1860 (eng)-Back ache-boy.wav,,complete
+woman,people,kvinna,woman,1,4703 4745 6150 10361 24621,0,,File:Sv-kvinna.ogg,15,File:LL-Q1860 (eng)-Grendelkhan-woman.wav,,complete
+man,people,man,man,1,4665 4744 6010 10360 37526,0,,File:Sv-man.ogg,12,File:LL-Q1860 (eng)-Robust Footman-man.wav,,complete
+doctor,people,läkare,doctor,1,2467 6561 8263 38446 38857,0,,File:Sv-läkare.ogg,6,File:LL-Q1860 (eng)-GonFreeaks-doctor.wav,,complete
+teacher,people,lärare,teacher,1,2457 2456 6556 6555 28003,0,,File:Sv-lärare.ogg,3,File:LL-Q1860 (eng)-Wodencafe-teacher.wav,,complete
+friend,people,vän,friend,1,8486 8487 25786 25790,0,,File:Sv-vän.ogg,7,File:LL-Q1860 (eng)-GonFreeaks-friend.wav,,complete
+neighbour,people,granne,neighbour,2,37228 37229,0,,File:Sv-granne.ogg,2,File:LL-Q1860 (eng)-Ov3for-Neighbour.wav,,complete
+aunt,people,moster,aunt,2,30271 30274 30272 30273 30275,0,,File:Sv-moster.ogg,3,File:LL-Q1860 (eng)-Nattes à chat-aunt.wav,,complete
+uncle,people,farbror,uncle,2,30255 30257 30261 30262 30260,0,,File:Sv-farbror.ogg,4,File:LL-Q1860 (eng)-Nattes à chat-uncle.wav,,complete
+fisherman,people,fiskare,fisherman,2,3366 3367 4718,0,,File:Sv-fiskare.ogg,1,File:LL-Q1860 (eng)-Vealhurl-fisherman.wav,,complete
+singer,people,sångare,singer,2,4585 11201,0,,File:Sv-sångare.ogg,2,File:LL-Q1860 (eng)-Grendelkhan-singer.wav,,complete
+musician,people,musiker,musician,2,2890 6567 11311,0,,File:Sv-musiker.ogg,2,File:LL-Q1860 (eng)-Ltrlg-musician.wav,,complete
+actor,people,skådespelare,actor,2,4554 36075,0,,File:Sv-skådespelare.ogg,3,File:LL-Q1860 (eng)-Back ache-actor.wav,,complete
+nurse,people,sjuksköterska,nurse,2,2375 6050 9196 31390 35239,2,File:LL-Q9027 (swe)-Salgo60-sjuksköterska.wav,,3,File:LL-Q1860 (eng)-Vealhurl-nurse.wav,,complete
+photographer,people,fotograf,photographer,2,3197 11267 38540,2,File:LL-Q9027 (swe)-Salgo60-fotograf.wav,,2,File:LL-Q1860 (eng)-Vealhurl-photographer.wav,,complete
+angel,people,ängel,angel,2,3056 36141,0,,File:Sv-ängel.ogg,3,File:LL-Q1860 (eng)-Wodencafe-angel.wav,,complete
+school,places,skola,school,1,3082 6454 10242 32446,0,,File:Sv-skola.ogg,2,File:LL-Q1860 (eng)-GonFreeaks-school.wav,,complete
+castle,places,slott,castle,1,5422 5421 5950 17279 25411,0,,File:Sv-slott.ogg,4,File:LL-Q1860 (eng)-Simplificationalizer-castle.wav,,complete
+church,places,kyrka,church,1,3118 6530 30903,0,,File:Sv-kyrka.ogg,3,File:LL-Q1860 (eng)-Grendelkhan-church.wav,,complete
+garden,places,trädgård,garden,1,2434 2974 30609 30608 37576,0,,File:Sv-trädgård.ogg,5,File:LL-Q1860 (eng)-Nattes à chat-garden.wav,,complete
+kitchen,places,kök,kitchen,1,5965 10752 10753 33070,0,,File:Sv-kök.ogg,4,File:LL-Q1860 (eng)-Grendelkhan-kitchen.wav,,complete
+bathroom,places,badrum,bathroom,2,5921 6929 6930 15810 15814,1,File:LL-Q9027 (swe)-Moonhouse-badrum.wav,,3,File:LL-Q1860 (eng)-Wodencafe-bathroom.wav,,complete
+room,places,rum,room,2,32234 35325,0,,File:Sv-rum.ogg,6,File:LL-Q1860 (eng)-Grendelkhan-room.wav,,complete
+bridge,places,bro,bridge,1,5557 6194 37257,0,,File:Sv-bro.ogg,4,File:LL-Q1860 (eng)-Nattes à chat-bridge.wav,,complete
+street,places,gata,street,1,2299,0,,File:Sv-gata.ogg,6,File:LL-Q1860 (eng)-Nattes à chat-street.wav,,complete
+tower,places,torn,tower,2,6232 38648,0,,File:Sv-torn.ogg,2,File:LL-Q1860 (eng)-Simplificationalizer-tower.wav,,complete
+hospital,places,sjukhus,hospital,1,3116 6523 36205 36209 36210,1,File:LL-Q9027 (swe)-DavidRHeld-sjukhus.wav,,5,File:LL-Q1860 (eng)-Wodencafe-hospital.wav,,complete
+library,places,bibliotek,library,2,3065 5926 6063 32450,0,,File:Sv-bibliotek.ogg,4,File:LL-Q1860 (eng)-Nattes à chat-library.wav,,complete
+airport,places,flygplats,airport,2,3053 6031 32506,1,File:LL-Q9027 (swe)-Moonhouse-flygplats.wav,,5,File:LL-Q1860 (eng)-Grendelkhan-airport.wav,,complete
+harbour,places,hamn,harbour,2,3145 15535 31326 32410,0,,File:Sv-hamn.ogg,1,File:LL-Q1860 (eng)-Vealhurl-harbour.wav,,complete
+restaurant,places,restaurang,restaurant,2,10283 11361 32408 35391 38477,0,,File:Sv-restaurang.ogg,5,File:LL-Q1860 (eng)-Grendelkhan-restaurant.wav,,complete
+museum,places,museum,museum,2,3132 6566 32406,0,,File:Sv-museum.ogg,2,File:LL-Q1860 (eng)-Knabrupt-museum.wav,,complete
+theatre,places,teater,theatre,2,10284 32412,0,,File:Sv-teater.ogg,0,,File:En-au-theatre.ogg File:En-uk-theatre.ogg File:En-us-theatre.ogg,complete
+circus,places,cirkus,circus,1,6450,0,,File:Sv-cirkus.ogg,1,File:LL-Q1860 (eng)-Grendelkhan-circus.wav,,complete
+city,places,stad,city,2,2704 5963,0,,File:Sv-stad.ogg,5,File:LL-Q1860 (eng)-Grendelkhan-city.wav,,complete
+factory,places,fabrik,factory,2,8581 24507 35393,0,,File:Sv-fabrik.ogg,2,File:LL-Q1860 (eng)-Grendelkhan-factory.wav,,complete
+hotel,places,hotell,hotel,2,9895 15728 15730 28345,0,,File:Sv-hotell.ogg,3,File:LL-Q1860 (eng)-Wodencafe-hotel.wav,,complete
+pharmacy,places,apotek,pharmacy,2,3313 6497 36835 36836 36837,1,File:LL-Q9027 (swe)-Moonhouse-apotek.wav,,0,,File:En-uk-pharmacy.ogg File:En-us-pharmacy.ogg,complete
+roof,home,tak,roof,1,2584,0,,File:Sv-tak.ogg,4,File:LL-Q1860 (eng)-Status 401-Roof.wav,,complete
+wall,home,vägg,wall,1,2860 8266 37620 39074,0,,File:Sv-vägg.ogg,6,File:LL-Q1860 (eng)-Status 401-Wall.wav,,complete
+floor,home,golv,floor,1,2575 11343 37864,0,,File:Sv-golv.ogg,5,File:LL-Q1860 (eng)-Grendelkhan-floor.wav,,complete
+stairs,home,trappa,stairs,1,2379 27491 35489,0,,File:Sv-trappa.ogg,2,File:LL-Q1860 (eng)-Grendelkhan-stairs.wav,,complete
+telephone,home,telefon,telephone,1,2791 4691 21980 26479,0,,File:Sv-telefon.ogg,3,File:LL-Q1860 (eng)-Nattes à chat-telephone.wav,,complete
+map,home,karta,map,2,5505 24161 24296 35181,0,,File:Sv-karta.ogg,7,File:LL-Q1860 (eng)-Adélaïde Calais WMFr-map.wav,,complete
+newspaper,home,tidning,newspaper,2,2845,0,,File:Sv-tidning.ogg,7,File:LL-Q1860 (eng)-Grendelkhan-newspaper.wav,,complete
+money,home,pengar,money,1,4630,1,File:LL-Q9027 (swe)-Moonhouse-pengar.wav,,9,File:LL-Q1860 (eng)-Grendelkhan-money.wav,,complete
+coins,home,mynt,coins,2,8633,0,,File:Sv-mynt.ogg,1,File:LL-Q1860 (eng)-Vealhurl-coins.wav,,complete
+crown,toys,krona,crown,1,2718 25016 38002,0,,File:Sv-krona.ogg,2,File:LL-Q1860 (eng)-Grendelkhan-crown.wav,,complete
+soap,home,tvål,soap,1,2964 6547 8094 25171 34846,1,File:LL-Q9027 (swe)-Moonhouse-tvål.wav,,3,File:LL-Q1860 (eng)-Status 401-Soap.wav,,complete
+colander,home,sil,colander,2,2382,0,,File:Sv-sil.ogg,1,File:LL-Q1860 (eng)-Status 401-Colander.wav,,complete
+parcel,toys,paket,parcel,1,38946,0,,File:Sv-paket.ogg,1,File:LL-Q1860 (eng)-Arlo Barnes-parcel.wav,,complete
+guitar,toys,gitarr,guitar,1,2417,0,,File:Sv-gitarr.ogg,1,File:LL-Q1860 (eng)-Grendelkhan-guitar.wav,,complete
+piano,toys,piano,piano,1,2521,0,,File:Sv-piano.ogg,4,File:LL-Q1860 (eng)-Nattes à chat-piano.wav,,complete
+violin,toys,fiol,violin,2,2615,0,,File:Sv-fiol.ogg,0,,File:En-us-violin.ogg,complete
+chess,toys,schack,chess,2,3054,1,File:LL-Q9027 (swe)-Ainali-schack.wav,,0,,File:En-us-chess.ogg,complete
+tennis,toys,tennis,tennis,2,10158 35263 35264,0,,File:Sv-tennis.ogg,2,File:LL-Q1860 (eng)-Vealhurl-tennis.wav,,complete
+chocolate,food,choklad,chocolate,1,2334 6448 8298 25940 39637,0,,File:Sv-choklad.ogg,7,File:LL-Q1860 (eng)-Nattes à chat-chocolate.wav,,complete
+sausage,food,korv,sausage,1,3280 3290 6647 8326 25883,0,,File:Sv-korv.ogg,1,File:LL-Q1860 (eng)-Wodencafe-sausage.wav,,complete
+pasta,food,pasta,pasta,1,8652 39076,0,,File:Sv-pasta.ogg,2,File:LL-Q1860 (eng)-Vealhurl-pasta.wav,,complete
+peanut,food,jordnöt,peanut,1,8338,0,,File:Sv-jordnöt.ogg,0,,File:En-us-peanut.ogg,complete
+walnut,food,valnöt,walnut,2,2880 28853,0,,File:Sv-valnöt.ogg,0,,File:En-us-walnut.ogg,complete
+almond,food,mandel,almond,2,3174 8292 35143,0,,File:Sv-mandel.ogg,3,File:LL-Q1860 (eng)-Back ache-Almond.wav,,complete
+breakfast,food,frukost,breakfast,1,4625 4626 7012 28667,1,File:LL-Q9027 (swe)-Moonhouse-frukost.wav,,5,File:LL-Q1860 (eng)-Back ache-Breakfast.wav,,complete
+lunch,food,lunch,lunch,1,4609 4611 6990 28669 38057,0,,File:Sv-lunch.ogg,2,File:LL-Q1860 (eng)-Wodencafe-lunch.wav,,complete
+dinner,food,middag,dinner,1,4592 4611 38057,1,File:LL-Q9027 (swe)-Moonhouse-middag.wav,,5,File:LL-Q1860 (eng)-Grendelkhan-dinner.wav,,complete
+dough,food,deg,dough,2,32476 38442,0,,,0,,File:En-uk-dough.ogg File:En-us-dough.ogg,missing audio_sv
+ginger,food,ingefära,ginger,2,37252,0,,File:Sv-ingefära.ogg,2,File:LL-Q1860 (eng)-Vealhurl-ginger.wav,,complete
+cinnamon,food,kanel,cinnamon,2,21486,0,,File:Sv-kanel.ogg,1,File:LL-Q1860 (eng)-Arlo Barnes-cinnamon.wav,,complete
+night,nature,natt,night,1,7181 26997 35789,0,,File:Sv-natt.ogg,13,File:LL-Q1860 (eng)-Wodencafe-night.wav,,complete
+morning,nature,morgon,morning,1,25704,0,,File:Sv-morgon.ogg,6,File:LL-Q1860 (eng)-Nattes à chat-morning.wav,,complete
+afternoon,nature,eftermiddag,afternoon,2,7268,0,,File:Sv-eftermiddag.ogg,3,File:LL-Q1860 (eng)-Grendelkhan-afternoon.wav,,complete
+sand,nature,sand,sand,1,4565 5500,0,,File:Sv-sand.ogg,10,File:LL-Q1860 (eng)-Unignoramus-sand.wav,,complete
+ice,nature,is,ice,1,7128,0,,File:Sv-is.ogg,5,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-ice.wav,,complete
+nest,nature,bo,nest,1,7173,0,,File:Sv-bo.ogg,2,File:LL-Q1860 (eng)-Rachlel-nest.wav,,complete
+branch,nature,gren,branch,2,7224,0,,File:Sv-gren.ogg,3,File:LL-Q1860 (eng)-Nattes à chat-branch.wav,,complete
+reed,nature,vass,reed,2,35467,0,,File:Sv-vass.ogg,0,,File:En-us-reed.ogg,complete
+planet,nature,planet,planet,2,2829 30015,1,File:LL-Q9027 (swe)-Ainali-planet.wav,,3,File:LL-Q1860 (eng)-Wodencafe-planet.wav,,complete
+smoke,nature,rök,smoke,2,6529 7112 7111 28637,0,,File:Sv-rök.ogg,10,File:LL-Q1860 (eng)-Wodencafe-smoke.wav,,complete
+wool,clothes,ull,wool,2,2948,0,,File:Sv-ull.ogg,2,File:LL-Q1860 (eng)-Back ache-Wool.wav,,complete
+cattle,animals,nötkreatur,cattle,2,25640,0,,,0,,File:En-us-cattle.ogg,missing audio_sv
+birthday,people,födelsedag,birthday,1,3087 37363,1,File:LL-Q9027 (swe)-Moonhouse-födelsedag.wav,,3,File:LL-Q1860 (eng)-Wodencafe-birthday.wav,,complete

@@ -54,10 +54,19 @@ def api_error(r):
 
 
 def get(url, **params):
-    """GET with a polite delay, backing off and retrying on 429/5xx."""
+    """GET with a polite delay, backing off and retrying on 429/5xx and
+    dropped connections."""
     for attempt in range(6):
         time.sleep(DELAY)
-        r = session.get(url, params=params or None, timeout=30)
+        try:
+            r = session.get(url, params=params or None, timeout=30)
+        except requests.ConnectionError as e:
+            if attempt == 5:
+                raise
+            wait = 5 * 2**attempt
+            print(f"  {type(e).__name__}, retrying in {wait}s", file=sys.stderr)
+            time.sleep(wait)
+            continue
         if r.status_code != 429 and r.status_code < 500 and not api_error(r):
             return r
         wait = int(r.headers.get("Retry-After", 0) or 0) or 5 * 2**attempt
@@ -124,6 +133,13 @@ def check(row):
     return out
 
 
+def write(results):
+    with OUTPUT.open("w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(results[0]), lineterminator="\n")
+        w.writeheader()
+        w.writerows(results)
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--limit", type=int, help="only check the first N words")
@@ -145,11 +161,11 @@ def main():
         res = done.get(row["id"]) or check(row)
         results.append(res)
         print(f"[{i}/{len(rows)}] {row['id']}: {res['status']}", file=sys.stderr)
+        if row["id"] not in done:
+            # Save as we go, so an interrupted run keeps what it found.
+            write(results + [r for r in done.values() if r["id"] not in {x["id"] for x in results}])
 
-    with OUTPUT.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(results[0]), lineterminator="\n")
-        w.writeheader()
-        w.writerows(results)
+    write(results)
 
     complete = sum(r["status"] == "complete" for r in results)
     print(f"{complete}/{len(results)} words have image + sv audio + en audio")
