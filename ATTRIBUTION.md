@@ -601,7 +601,7 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sv/sea_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Ainali-hav.wav) | Speaker: Ainali; Recorder: Ainali | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sv/shadow_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-skugga.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
 | audio/sv/shape_circle_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-cirkel.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
-| audio/sv/shape_cone_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-kon.ogg) |  | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
+| audio/sv/shape_cone_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-kon.ogg) | Karmosin | [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) |
 | audio/sv/shape_sphere_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Ainali-klot.wav) | Speaker: Ainali; Recorder: Ainali | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sv/shark_sv.mp3 | [Lingua Libre](https://commons.wikimedia.org/wiki/File:LL-Q9027_(swe)-Moonhouse-haj.wav) | Speaker: Moonhouse; Recorder: Moonhouse | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | audio/sv/sheep_sv.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sv-f%C3%A5r.ogg) | M. Kihlstedt, N. Vion | [CC BY 2.0 fr](https://creativecommons.org/licenses/by/2.0/fr/deed.en) |
