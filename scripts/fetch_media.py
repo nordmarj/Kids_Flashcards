@@ -42,6 +42,7 @@ from check_coverage import (  # noqa: E402
     commons_fallback_files,
     get,
 )
+from word_decks import LANGUAGES  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 COVERAGE = ROOT / "data" / "candidates" / "coverage.csv"
@@ -56,8 +57,10 @@ ARASAAC_PAGE = "https://arasaac.org/pictograms/en/{}"
 ARASAAC_AUTHOR = "Sergio Palao, ARASAAC (Government of Aragón)"
 CC_BY_NC_SA = ("CC BY-NC-SA 4.0", "https://creativecommons.org/licenses/by-nc-sa/4.0/")
 
-PICK_FIELDS = ["id", "topic", "sv", "en", "level", "arasaac_id", "audio_sv_title", "audio_en_title"]
-CONCEPT_FIELDS = ["id", "sv", "en", "level", "image", "audio_sv", "audio_en"]
+LANGS = list(LANGUAGES)
+PICK_FIELDS = (["id", "topic", *LANGS, "level", "arasaac_id"]
+               + [f"audio_{lang}_title" for lang in LANGS])
+CONCEPT_FIELDS = ["id", *LANGS, "level", "image"] + [f"audio_{lang}" for lang in LANGS]
 SOURCE_FIELDS = ["file", "source", "source_url", "author", "licence", "licence_url", "retrieved_at", "sha256"]
 
 
@@ -101,7 +104,7 @@ def child_safe(pictogram_id):
 
 def languages(pick):
     """Languages a pick has both a word and a recording for."""
-    return [lang for lang in ("sv", "en") if pick[lang] and pick[f"audio_{lang}_title"]]
+    return [lang for lang in LANGS if pick.get(lang) and pick.get(f"audio_{lang}_title")]
 
 
 def complete(pick):
@@ -151,7 +154,7 @@ def pick(limit):
         picks.append(out)
         # Save after every word, so an interrupted run resumes where it stopped.
         with PICKS.open("w", encoding="utf-8", newline="") as f:
-            w = csv.DictWriter(f, fieldnames=PICK_FIELDS, lineterminator="\n")
+            w = csv.DictWriter(f, fieldnames=PICK_FIELDS, restval="", lineterminator="\n")
             w.writeheader()
             w.writerows(picks)
         print(f"[{i}/{len(rows)}] {row['id']}", file=sys.stderr)
@@ -277,7 +280,7 @@ def download(limit):
     info = commons_info(audio_titles)
 
     (MEDIA / "images").mkdir(parents=True, exist_ok=True)
-    for lang in ("sv", "en"):
+    for lang in LANGS:
         (MEDIA / "audio" / lang).mkdir(parents=True, exist_ok=True)
     CONCEPTS.mkdir(parents=True, exist_ok=True)
 
@@ -298,9 +301,9 @@ def download(limit):
                     )
                 )
             )
-        row = {k: p[k] for k in ("id", "sv", "en", "level")}
+        row = {k: p.get(k, "") for k in ("id", *LANGS, "level")}
         row["image"] = image.name
-        for lang in ("sv", "en"):
+        for lang in LANGS:
             if lang not in languages(p):
                 row[lang] = row[f"audio_{lang}"] = ""
                 continue

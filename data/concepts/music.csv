@@ -1,0 +1,4 @@
+id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
+guitar,gitarr,guitar,Gitarre,gitaa,1,guitar.png,guitar_sv.mp3,guitar_en.mp3,guitar_de.mp3,guitar_sw.mp3
+piano,piano,piano,Klavier,kinanda,1,piano.png,piano_sv.mp3,piano_en.mp3,piano_de.mp3,piano_sw.mp3
+violin,fiol,violin,Geige,fidla,2,violin.png,violin_sv.mp3,violin_en.mp3,violin_de.mp3,violin_sw.mp3

@@ -2,14 +2,15 @@
 """Build Anki decks from data/ into build/*.apkg.
 
 Builds one picture → word package per language (build/svenska.apkg,
-build/english.apkg; see word_decks.py) and build/maths.apkg, one "Maths" deck
+build/english.apkg, build/deutsch.apkg, build/kiswahili.apkg; see word_decks.py) and build/maths.apkg, one "Maths" deck
 with these subdecks:
 
 - Arithmetic: one subdeck per CSV file in data/arithmetic/ (written by
   gen_arithmetic.py). Every sum gets two cards: "Choose the answer"
   (multiple choice) and "Type the answer". To use only one style, suspend
   the other in Anki's browser, e.g. search `card:Type*`.
-- Shapes: data/shapes/shapes.csv, one subdeck per language. Every shape
+- Shapes: data/shapes/shapes.csv, one subdeck per language in SHAPES_DECKS
+  (Swedish and English so far). Every shape
   gets two multiple-choice cards: "Name to picture" and "Picture to name".
 
 By default every language in word_decks.LANGUAGES is built. --lang takes
@@ -177,11 +178,16 @@ def shape_distractors(shape, shapes):
 
 
 def build_shapes(langs=tuple(word_decks.LANGUAGES)):
-    """Shape decks for the given languages and the audio files they use."""
+    """Shape decks for the given languages and the audio files they use.
+
+    Only languages with a SHAPES_DECKS entry (and a column in shapes.csv)
+    get a shapes subdeck; the others are skipped.
+    """
+    langs = [lang for lang in langs if lang in SHAPES_DECKS]
     with (ROOT / "data" / "shapes" / "shapes.csv").open(encoding="utf-8", newline="") as f:
         shapes = list(csv.DictReader(f))
     for s in shapes:
-        if (not s["id"] or not all(s.get(lang) for lang in word_decks.LANGUAGES)
+        if (not s["id"] or not all(s.get(lang) for lang in SHAPES_DECKS)
                 or s["id"] not in shape_pictures.SHAPES):
             sys.exit(f"shapes.csv: incomplete row or no picture for {s}")
 
