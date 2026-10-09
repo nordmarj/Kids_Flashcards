@@ -1,58 +1,58 @@
-id,sv,en,level,image,audio_sv,audio_en
-school,skola,school,1,school.png,school_sv.mp3,school_en.mp3
-castle,slott,castle,1,castle.png,castle_sv.mp3,castle_en.mp3
-church,kyrka,church,1,church.png,church_sv.mp3,church_en.mp3
-garden,trädgård,garden,1,garden.png,garden_sv.mp3,garden_en.mp3
-kitchen,kök,kitchen,1,kitchen.png,kitchen_sv.mp3,kitchen_en.mp3
-bathroom,badrum,bathroom,2,bathroom.png,bathroom_sv.mp3,bathroom_en.mp3
-bridge,bro,bridge,1,bridge.png,bridge_sv.mp3,bridge_en.mp3
-street,gata,street,1,street.png,street_sv.mp3,street_en.mp3
-tower,torn,tower,2,tower.png,tower_sv.mp3,tower_en.mp3
-hospital,sjukhus,hospital,1,hospital.png,hospital_sv.mp3,hospital_en.mp3
-library,bibliotek,library,2,library.png,library_sv.mp3,library_en.mp3
-airport,flygplats,airport,2,airport.png,airport_sv.mp3,airport_en.mp3
-harbour,hamn,harbour,2,harbour.png,harbour_sv.mp3,harbour_en.mp3
-restaurant,restaurang,restaurant,2,restaurant.png,restaurant_sv.mp3,restaurant_en.mp3
-museum,museum,museum,2,museum.png,museum_sv.mp3,museum_en.mp3
-theatre,teater,theatre,2,theatre.png,theatre_sv.mp3,theatre_en.mp3
-circus,cirkus,circus,1,circus.png,circus_sv.mp3,circus_en.mp3
-city,stad,city,2,city.png,city_sv.mp3,city_en.mp3
-factory,fabrik,factory,2,factory.png,factory_sv.mp3,factory_en.mp3
-hotel,hotell,hotel,2,hotel.png,hotel_sv.mp3,hotel_en.mp3
-pharmacy,apotek,pharmacy,2,pharmacy.png,pharmacy_sv.mp3,pharmacy_en.mp3
-bank,bank,bank,2,bank.png,bank_sv.mp3,bank_en.mp3
-cinema,bio,cinema,2,cinema.png,cinema_sv.mp3,cinema_en.mp3
-building,byggnad,building,2,building.png,building_sv.mp3,building_en.mp3
-jetty,brygga,jetty,2,jetty.png,jetty_sv.mp3,jetty_en.mp3
-lift,,lift,2,lift.png,,lift_en.mp3
-letter_box,,letter box,2,letter_box.png,,letter_box_en.mp3
-shower,,shower,2,shower.png,,shower_en.mp3
-sink,,sink,2,sink.png,,sink_en.mp3
-toilet,,toilet,2,toilet.png,,toilet_en.mp3
-barbershop,,barbershop,2,barbershop.png,,barbershop_en.mp3
-bookshop,,bookshop,2,bookshop.png,,bookshop_en.mp3
-kiosk,,kiosk,2,kiosk.png,,kiosk_en.mp3
-town_hall,,town hall,2,town_hall.png,,town_hall_en.mp3
-post_office,,post office,2,post_office.png,,post_office_en.mp3
-bowling_alley,,bowling alley,2,bowling_alley.png,,bowling_alley_en.mp3
-funfair,,funfair,2,funfair.png,,funfair_en.mp3
-roller_coaster,,roller coaster,2,roller_coaster.png,,roller_coaster_en.mp3
-ferris_wheel,,Ferris wheel,2,ferris_wheel.png,,ferris_wheel_en.mp3
-carousel,,carousel,2,carousel.png,,carousel_en.mp3
-tennis_court,,tennis court,2,tennis_court.png,,tennis_court_en.mp3
-cabin,,cabin,2,cabin.png,,cabin_en.mp3
-chimney,,chimney,2,chimney.png,,chimney_en.mp3
-hut,,hut,2,hut.png,,hut_en.mp3
-igloo,,igloo,2,igloo.png,,igloo_en.mp3
-shopping_centre,,shopping centre,2,shopping_centre.png,,shopping_centre_en.mp3
-pizzeria,,pizzeria,2,pizzeria.png,,pizzeria_en.mp3
-tepee,,tepee,2,tepee.png,,tepee_en.mp3
-university,,university,2,university.png,,university_en.mp3
-escalator,,escalator,2,escalator.png,,escalator_en.mp3
-sauna,,sauna,2,sauna.png,,sauna_en.mp3
-art_gallery,,art gallery,2,art_gallery.png,,art_gallery_en.mp3
-kindergarten,,kindergarten,2,kindergarten.png,,kindergarten_en.mp3
-supermarket,,supermarket,2,supermarket.png,,supermarket_en.mp3
-bakery,,bakery,2,bakery.png,,bakery_en.mp3
-ice_cream_shop,,ice cream shop,2,ice_cream_shop.png,,ice_cream_shop_en.mp3
-pet_shop,,pet shop,2,pet_shop.png,,pet_shop_en.mp3
+id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
+school,skola,school,Schule,shule,1,school.png,school_sv.mp3,school_en.mp3,school_de.mp3,school_sw.mp3
+castle,slott,castle,Burg,ngome,1,castle.png,castle_sv.mp3,castle_en.mp3,castle_de.mp3,castle_sw.mp3
+church,kyrka,church,Kirche,kanisa,1,church.png,church_sv.mp3,church_en.mp3,church_de.mp3,church_sw.mp3
+garden,trädgård,garden,Garten,bustani,1,garden.png,garden_sv.mp3,garden_en.mp3,garden_de.mp3,garden_sw.mp3
+kitchen,kök,kitchen,Küche,jiko,1,kitchen.png,kitchen_sv.mp3,kitchen_en.mp3,kitchen_de.mp3,kitchen_sw.mp3
+bathroom,badrum,bathroom,Badezimmer,bafu,2,bathroom.png,bathroom_sv.mp3,bathroom_en.mp3,bathroom_de.mp3,bathroom_sw.mp3
+bridge,bro,bridge,Brücke,daraja,1,bridge.png,bridge_sv.mp3,bridge_en.mp3,bridge_de.mp3,bridge_sw.mp3
+street,gata,street,Straße,mtaa,1,street.png,street_sv.mp3,street_en.mp3,street_de.mp3,street_sw.mp3
+tower,torn,tower,Turm,mnara,2,tower.png,tower_sv.mp3,tower_en.mp3,tower_de.mp3,tower_sw.mp3
+hospital,sjukhus,hospital,Krankenhaus,hospitali,1,hospital.png,hospital_sv.mp3,hospital_en.mp3,hospital_de.mp3,hospital_sw.mp3
+library,bibliotek,library,Bibliothek,maktaba,2,library.png,library_sv.mp3,library_en.mp3,library_de.mp3,library_sw.mp3
+airport,flygplats,airport,Flughafen,uwanja wa ndege,2,airport.png,airport_sv.mp3,airport_en.mp3,airport_de.mp3,airport_sw.mp3
+harbour,hamn,harbour,Hafen,bandari,2,harbour.png,harbour_sv.mp3,harbour_en.mp3,harbour_de.mp3,harbour_sw.mp3
+restaurant,restaurang,restaurant,Restaurant,mgahawa,2,restaurant.png,restaurant_sv.mp3,restaurant_en.mp3,restaurant_de.mp3,restaurant_sw.mp3
+museum,museum,museum,Museum,makumbusho,2,museum.png,museum_sv.mp3,museum_en.mp3,museum_de.mp3,museum_sw.mp3
+theatre,teater,theatre,Theater,,2,theatre.png,theatre_sv.mp3,theatre_en.mp3,theatre_de.mp3,
+circus,cirkus,circus,Zirkus,sarakasi,1,circus.png,circus_sv.mp3,circus_en.mp3,circus_de.mp3,circus_sw.mp3
+city,stad,city,Stadt,mji,2,city.png,city_sv.mp3,city_en.mp3,city_de.mp3,city_sw.mp3
+factory,fabrik,factory,Fabrik,kiwanda,2,factory.png,factory_sv.mp3,factory_en.mp3,factory_de.mp3,factory_sw.mp3
+hotel,hotell,hotel,Hotel,hoteli,2,hotel.png,hotel_sv.mp3,hotel_en.mp3,hotel_de.mp3,hotel_sw.mp3
+pharmacy,apotek,pharmacy,Apotheke,duka la dawa,2,pharmacy.png,pharmacy_sv.mp3,pharmacy_en.mp3,pharmacy_de.mp3,pharmacy_sw.mp3
+bank,bank,bank,,,2,bank.png,bank_sv.mp3,bank_en.mp3,,
+cinema,bio,cinema,,,2,cinema.png,cinema_sv.mp3,cinema_en.mp3,,
+building,byggnad,building,,,2,building.png,building_sv.mp3,building_en.mp3,,
+jetty,brygga,jetty,,,2,jetty.png,jetty_sv.mp3,jetty_en.mp3,,
+lift,,lift,,,2,lift.png,,lift_en.mp3,,
+letter_box,,letter box,,,2,letter_box.png,,letter_box_en.mp3,,
+shower,,shower,,,2,shower.png,,shower_en.mp3,,
+sink,,sink,,,2,sink.png,,sink_en.mp3,,
+toilet,,toilet,,,2,toilet.png,,toilet_en.mp3,,
+barbershop,,barbershop,,,2,barbershop.png,,barbershop_en.mp3,,
+bookshop,,bookshop,,,2,bookshop.png,,bookshop_en.mp3,,
+kiosk,,kiosk,,,2,kiosk.png,,kiosk_en.mp3,,
+town_hall,,town hall,,,2,town_hall.png,,town_hall_en.mp3,,
+post_office,,post office,,,2,post_office.png,,post_office_en.mp3,,
+bowling_alley,,bowling alley,,,2,bowling_alley.png,,bowling_alley_en.mp3,,
+funfair,,funfair,,,2,funfair.png,,funfair_en.mp3,,
+roller_coaster,,roller coaster,,,2,roller_coaster.png,,roller_coaster_en.mp3,,
+ferris_wheel,,Ferris wheel,,,2,ferris_wheel.png,,ferris_wheel_en.mp3,,
+carousel,,carousel,,,2,carousel.png,,carousel_en.mp3,,
+tennis_court,,tennis court,,,2,tennis_court.png,,tennis_court_en.mp3,,
+cabin,,cabin,,,2,cabin.png,,cabin_en.mp3,,
+chimney,,chimney,,,2,chimney.png,,chimney_en.mp3,,
+hut,,hut,,,2,hut.png,,hut_en.mp3,,
+igloo,,igloo,,,2,igloo.png,,igloo_en.mp3,,
+shopping_centre,,shopping centre,,,2,shopping_centre.png,,shopping_centre_en.mp3,,
+pizzeria,,pizzeria,,,2,pizzeria.png,,pizzeria_en.mp3,,
+tepee,,tepee,,,2,tepee.png,,tepee_en.mp3,,
+university,,university,,,2,university.png,,university_en.mp3,,
+escalator,,escalator,,,2,escalator.png,,escalator_en.mp3,,
+sauna,,sauna,,,2,sauna.png,,sauna_en.mp3,,
+art_gallery,,art gallery,,,2,art_gallery.png,,art_gallery_en.mp3,,
+kindergarten,,kindergarten,,,2,kindergarten.png,,kindergarten_en.mp3,,
+supermarket,,supermarket,,,2,supermarket.png,,supermarket_en.mp3,,
+bakery,,bakery,,,2,bakery.png,,bakery_en.mp3,,
+ice_cream_shop,,ice cream shop,,,2,ice_cream_shop.png,,ice_cream_shop_en.mp3,,
+pet_shop,,pet shop,,,2,pet_shop.png,,pet_shop_en.mp3,,

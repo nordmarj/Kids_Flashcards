@@ -27,29 +27,45 @@ MODEL_ID = 1104416739
 
 # topic -> {language: (subdeck name, deck ID)}
 TOPICS = {
-    "animals": {"sv": ("Djur", 1509161000), "en": ("Animals", 1945329914)},
-    "body": {"sv": ("Kroppen", 2093531152), "en": ("Body", 1573961684)},
-    "clothes": {"sv": ("Kläder", 1486385459), "en": ("Clothes", 1298982429)},
-    "colors": {"sv": ("Färger", 2091834092), "en": ("Colours", 1176715808)},
-    "food": {"sv": ("Mat", 1883932933), "en": ("Food", 1786296919)},
-    "home": {"sv": ("Hemma", 1612793067), "en": ("Home", 1162162490)},
-    "nature": {"sv": ("Naturen", 1625126323), "en": ("Nature", 1305707322)},
-    "people": {"sv": ("Människor", 1704314440), "en": ("People", 1280040928)},
-    "places": {"sv": ("Platser", 2033439675), "en": ("Places", 1134089514)},
-    "toys": {"sv": ("Leksaker", 1523246323), "en": ("Toys", 1642344530)},
-    "vehicles": {"sv": ("Fordon", 1914877154), "en": ("Vehicles", 1469005880)},
-    "music": {"sv": ("Musik", 1752141239), "en": ("Music", 1727409939)},
-    "sports": {"sv": ("Sport", 1803354422), "en": ("Sports", 1926662181)},
-    "school": {"sv": ("Skolan", 1278447885), "en": ("School", 1314221429)},
+    "animals": {"sv": ("Djur", 1509161000), "en": ("Animals", 1945329914),
+               "de": ("Tiere", 1719208145), "sw": ("Wanyama", 1172855551)},
+    "body": {"sv": ("Kroppen", 2093531152), "en": ("Body", 1573961684),
+            "de": ("Körper", 1975168587), "sw": ("Mwili", 2049668633)},
+    "clothes": {"sv": ("Kläder", 1486385459), "en": ("Clothes", 1298982429),
+               "de": ("Kleidung", 1258231894), "sw": ("Nguo", 1836690930)},
+    "colors": {"sv": ("Färger", 2091834092), "en": ("Colours", 1176715808),
+              "de": ("Farben", 1320323415), "sw": ("Rangi", 1365366431)},
+    "food": {"sv": ("Mat", 1883932933), "en": ("Food", 1786296919),
+            "de": ("Essen", 1509077666), "sw": ("Chakula", 1473947504)},
+    "home": {"sv": ("Hemma", 1612793067), "en": ("Home", 1162162490),
+            "de": ("Zuhause", 1145172546), "sw": ("Nyumbani", 1889390712)},
+    "nature": {"sv": ("Naturen", 1625126323), "en": ("Nature", 1305707322),
+              "de": ("Natur", 1713924011), "sw": ("Maumbile", 1229174103)},
+    "people": {"sv": ("Människor", 1704314440), "en": ("People", 1280040928),
+              "de": ("Menschen", 1236117708), "sw": ("Watu", 2075743728)},
+    "places": {"sv": ("Platser", 2033439675), "en": ("Places", 1134089514),
+              "de": ("Orte", 1756371340), "sw": ("Mahali", 1290079648)},
+    "toys": {"sv": ("Leksaker", 1523246323), "en": ("Toys", 1642344530),
+            "de": ("Spielzeug", 1481293229), "sw": ("Vitu vya kuchezea", 1254962600)},
+    "vehicles": {"sv": ("Fordon", 1914877154), "en": ("Vehicles", 1469005880),
+                "de": ("Fahrzeuge", 1881566209), "sw": ("Vyombo vya usafiri", 2090973461)},
+    "music": {"sv": ("Musik", 1752141239), "en": ("Music", 1727409939),
+             "de": ("Musik", 1962259706), "sw": ("Muziki", 1281236435)},
+    "sports": {"sv": ("Sport", 1803354422), "en": ("Sports", 1926662181),
+              "de": ("Sport", 1329269040), "sw": ("Michezo", 1988179553)},
+    "school": {"sv": ("Skolan", 1278447885), "en": ("School", 1314221429),
+              "de": ("Schule", 1845751466), "sw": ("Shule", 1133622645)},
 }
 ACCEPTABLE = re.compile(
     r"^(CC0|Public domain|CC BY(-SA|-NC|-NC-SA)? [\d.]+)", re.IGNORECASE
 )
 LICENCE_NOTE = "Released under CC BY-NC-SA 4.0: https://github.com/nordmarj/Kids_Flashcards"
 
-# Every language the decks are built in. To add one: add its entry here, a
-# column with its code (and audio_<code>) to every concept table and to
-# data/shapes/shapes.csv, and its names to TOPICS and build_decks.SHAPES_DECKS.
+# Every language the decks are built in. To add one: add its entry here, its
+# names to TOPICS, and a column with its code (and audio_<code>) to
+# data/candidates/media_picks.csv (fetch_media.py download then adds them to
+# the concept tables). For shape cards too, add a column to
+# data/shapes/shapes.csv and an entry to build_decks.SHAPES_DECKS.
 LANGUAGES = {
     "sv": {
         "root": "Svenska::Ord",
@@ -68,6 +84,24 @@ LANGUAGES = {
         "description": "Kids Flashcards: look at the picture and tap the right word. "
         "Pictures: ARASAAC (Sergio Palao, Government of Aragón), CC BY-NC-SA. Sounds: "
         "Lingua Libre and Wikimedia Commons, see each card. " + LICENCE_NOTE,
+    },
+    "de": {
+        "root": "Deutsch::Wörter",
+        "package": "deutsch.apkg",
+        "picture": "Bild",
+        "sound": "Ton",
+        "description": "Kids Flashcards: schau das Bild an und tippe auf das richtige Wort. "
+        "Bilder: ARASAAC (Sergio Palao, Regierung von Aragonien), CC BY-NC-SA. Ton: "
+        "Lingua Libre und Wikimedia Commons, siehe jede Karte. " + LICENCE_NOTE,
+    },
+    "sw": {
+        "root": "Kiswahili::Maneno",
+        "package": "kiswahili.apkg",
+        "picture": "Picha",
+        "sound": "Sauti",
+        "description": "Kids Flashcards: tazama picha na ubonyeze neno sahihi. Picha: "
+        "ARASAAC (Sergio Palao, Serikali ya Aragon), CC BY-NC-SA. Sauti: Wikimedia "
+        "Commons, angalia kila kadi. " + LICENCE_NOTE,
     },
 }
 
