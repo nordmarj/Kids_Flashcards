@@ -28,13 +28,13 @@ ukulele,,ukulele,Ukulele,,2,ukulele.png,,ukulele_en.mp3,ukulele_de.mp3,
 banjo,,banjo,Banjo,,2,banjo.png,,banjo_en.mp3,banjo_de.mp3,
 music_box,,music box,Spieluhr,,2,music_box.png,,music_box_en.mp3,music_box_de.mp3,
 drum,,drum,Trommel,ngoma,1,drum.png,,drum_en.mp3,drum_de.mp3,drum_sw.mp3
-flute,,,Flöte,filimbi,1,flute.png,,,flute_de.mp3,flute_sw.mp3
-recorder,blockflöjt,,Blockflöte,,1,recorder.png,recorder_sv.mp3,,recorder_de.mp3,
+flute,,flute,Flöte,filimbi,1,flute.png,,flute_en.mp3,flute_de.mp3,flute_sw.mp3
+recorder,blockflöjt,recorder,Blockflöte,,1,recorder.png,recorder_sv.mp3,recorder_en.mp3,recorder_de.mp3,
 drum_kit,,,Schlagzeug,,2,drum_kit.png,,,drum_kit_de.mp3,
 maracas,,,Rassel,,2,maracas.png,,,maracas_de.mp3,
-castanets,,,Kastagnetten,,2,castanets.png,,,castanets_de.mp3,
-tuba,,,Tuba,,2,tuba.png,,,tuba_de.mp3,
-bell,klocka,,Glocke,kengele,1,bell.png,bell_sv.mp3,,bell_de.mp3,bell_sw.mp3
-music_note,,,Note,noti,2,music_note.png,,,music_note_de.mp3,music_note_sw.mp3
-orchestra,orkester,,das Orchester,,2,orchestra.png,orchestra_sv.mp3,,orchestra_de.mp3,
-organ,,,Orgel,,2,organ.png,,,organ_de.mp3,
+castanets,,castanets,Kastagnetten,,2,castanets.png,,castanets_en.mp3,castanets_de.mp3,
+tuba,,tuba,Tuba,,2,tuba.png,,tuba_en.mp3,tuba_de.mp3,
+bell,klocka,bell,Glocke,kengele,1,bell.png,bell_sv.mp3,bell_en.mp3,bell_de.mp3,bell_sw.mp3
+music_note,,note,Note,noti,2,music_note.png,,music_note_en.mp3,music_note_de.mp3,music_note_sw.mp3
+orchestra,orkester,orchestra,das Orchester,,2,orchestra.png,orchestra_sv.mp3,orchestra_en.mp3,orchestra_de.mp3,
+organ,,organ,Orgel,,2,organ.png,,organ_en.mp3,organ_de.mp3,

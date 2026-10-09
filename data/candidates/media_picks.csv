@@ -519,43 +519,43 @@ gong,music,,gong,Gong,upatu,2,36639,,File:LL-Q1860 (eng)-Vealhurl-gong.wav,File:
 ukulele,music,,ukulele,Ukulele,,2,37887,,File:LL-Q1860 (eng)-Vealhurl-ukulele.wav,File:LL-Q188 (deu)-Seshiru (Ltrlg)-Ukulele.wav,
 banjo,music,,banjo,Banjo,,2,38784,,File:LL-Q1860 (eng)-Wodencafe-banjo.wav,File:De-Banjo.ogg,
 music_box,music,,music box,Spieluhr,,2,39915,,File:LL-Q1860 (eng)-Vealhurl-music box.wav,File:De-Spieluhr.ogg,
-architect,people,arkitekt,architect,,,2,2649,File:Sv-arkitekt.ogg,File:LL-Q1860 (eng)-Status 401-Architect.wav,,
-cashier,people,kassör,cashier,,keshia,2,3001,File:LL-Q9027 (swe)-Moonhouse-kassör.wav,File:LL-Q1860 (eng)-Vealhurl-cashier.wav,,File:Sw-ke-keshia.flac
-conductor,people,dirigent,conductor,,,2,3094,File:Sv-dirigent.ogg,File:LL-Q1860 (eng)-Ltrlg-conductor.wav,,
-referee,people,domare,referee,,refa,2,4564,File:Sv-domare.ogg,File:LL-Q1860 (eng)-Arlo Barnes-referee.wav,,File:Sw-ke-refa.flac
-writer,people,författare,writer,,mwandishi,2,8565,File:LL-Q9027 (swe)-Ainali-författare.wav,File:LL-Q1860 (eng)-Grendelkhan-writer.wav,,File:Sw-ke-mwandishi.flac
+architect,people,arkitekt,architect,Architekt,,2,2649,File:Sv-arkitekt.ogg,File:LL-Q1860 (eng)-Status 401-Architect.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Architekt.wav,
+cashier,people,kassör,cashier,Kassierer,keshia,2,3001,File:LL-Q9027 (swe)-Moonhouse-kassör.wav,File:LL-Q1860 (eng)-Vealhurl-cashier.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Kassierer.wav,File:Sw-ke-keshia.flac
+conductor,people,dirigent,conductor,Dirigent,,2,3094,File:Sv-dirigent.ogg,File:LL-Q1860 (eng)-Ltrlg-conductor.wav,File:De-Dirigent.ogg,
+referee,people,domare,referee,Schiedsrichter,refa,2,4564,File:Sv-domare.ogg,File:LL-Q1860 (eng)-Arlo Barnes-referee.wav,File:De-Schiedsrichter.ogg,File:Sw-ke-refa.flac
+writer,people,författare,writer,der Schriftsteller,mwandishi,2,8565,File:LL-Q9027 (swe)-Ainali-författare.wav,File:LL-Q1860 (eng)-Grendelkhan-writer.wav,File:LL-Q188 (deu)-Natschoba-der Schriftsteller.wav,File:Sw-ke-mwandishi.flac
 artist,people,konstnär,artist,Künstler,msanii,2,34767,File:Sv-konstnär.ogg,File:LL-Q1860 (eng)-Grendelkhan-artist.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Künstler.wav,File:Sw-ke-msanii.flac
-scientist,people,forskare,scientist,,mwanasayansi,2,8076,File:Sv-forskare.ogg,File:LL-Q1860 (eng)-Grendelkhan-scientist.wav,,File:Sw-ke-mwanasayansi.flac
+scientist,people,forskare,scientist,Wissenschaftler,mwanasayansi,2,8076,File:Sv-forskare.ogg,File:LL-Q1860 (eng)-Grendelkhan-scientist.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Wissenschaftler.wav,File:Sw-ke-mwanasayansi.flac
 ballerina,people,,ballerina,Ballerina,,2,2653,,File:LL-Q1860 (eng)-Vealhurl-ballerina.wav,File:De-Ballerina.ogg,
 carpenter,people,,carpenter,Tischler,seremala,2,2687,,File:LL-Q1860 (eng)-Vealhurl-carpenter.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Tischler.wav,File:Sw-ke-seremala.flac
 dentist,people,,dentist,der Zahnarzt,daktari wa meno,2,2733,,File:LL-Q1860 (eng)-Drkirstyross-dentist.wav,File:LL-Q188 (deu)-Natschoba-der Zahnarzt.wav,File:Sw-ke-daktari wa meno.flac
-electrician,people,,electrician,,,2,2740,,File:LL-Q1860 (eng)-Vealhurl-electrician.wav,,
+electrician,people,,electrician,Elektriker,,2,2740,,File:LL-Q1860 (eng)-Vealhurl-electrician.wav,File:De-Elektriker.ogg,
 hairdresser,people,,hairdresser,der Friseur,kinyozi,2,2849,,File:LL-Q1860 (eng)-Vealhurl-hairdresser.wav,File:LL-Q188 (deu)-Natschoba-der Friseur.wav,File:Sw-ke-kinyozi.flac
 clown,people,,clown,Clown,mchekeshaji,2,2854,,File:LL-Q1860 (eng)-Grendelkhan-clown.wav,File:De-Clown.ogg,File:Sw-ke-mchekeshaji.flac
 mechanic,people,,mechanic,der Mechaniker,,2,2921,,File:LL-Q1860 (eng)-Wodencafe-mechanic.wav,File:LL-Q188 (deu)-Natschoba-der Mechaniker.wav,
-woodcutter,people,,woodcutter,,mtema kuni,2,2943,,File:LL-Q1860 (eng)-Vealhurl-woodcutter.wav,,File:Sw-ke-mtema kuni.flac
+woodcutter,people,,woodcutter,Holzfäller,mtema kuni,2,2943,,File:LL-Q1860 (eng)-Vealhurl-woodcutter.wav,File:De-Holzfäller.ogg,File:Sw-ke-mtema kuni.flac
 gardener,people,,gardener,Gärtner,,2,2961,,File:LL-Q1860 (eng)-Wodencafe-gardener.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Gärtner.wav,
-garbage_collector,people,,garbage collector,,,2,2993,,File:LL-Q1860 (eng)-Vealhurl-garbage collector.wav,,
-taxi_driver,people,,taxi driver,,,2,3221,,File:LL-Q1860 (eng)-Vealhurl-taxi driver.wav,,
-florist,people,,florist,,,2,3318,,File:LL-Q1860 (eng)-Vealhurl-florist.wav,,
-plumber,people,,plumber,,,2,3321,,File:LL-Q1860 (eng)-Vealhurl-plumber.wav,,
+garbage_collector,people,,garbage collector,Müllmann,,2,2993,,File:LL-Q1860 (eng)-Vealhurl-garbage collector.wav,File:De-Müllmann.ogg,
+taxi_driver,people,,taxi driver,Taxifahrer,,2,3221,,File:LL-Q1860 (eng)-Vealhurl-taxi driver.wav,File:De-Taxifahrer.ogg,
+florist,people,,florist,Florist,,2,3318,,File:LL-Q1860 (eng)-Vealhurl-florist.wav,File:De-Florist.ogg,
+plumber,people,,plumber,Klempner,,2,3321,,File:LL-Q1860 (eng)-Vealhurl-plumber.wav,File:De-Klempner.ogg,
 pilot,people,,pilot,Pilot,rubani,2,3370,,File:LL-Q1860 (eng)-Grendelkhan-pilot.wav,File:De-Pilot.ogg,File:Sw-ke-rubani.flac
 astronaut,people,,astronaut,Astronaut,mwanaanga,2,4569,,File:LL-Q1860 (eng)-Arlo Barnes-astronaut.wav,File:De-Astronaut.ogg,File:Sw-ke-mwanaanga.flac
 actress,people,,actress,die Schauspielerin,,2,4555,,File:LL-Q1860 (eng)-Grendelkhan-actress.wav,File:LL-Q188 (deu)-Natschoba-die Schauspielerin.wav,
 acrobat,people,,acrobat,Akrobat,,2,4762,,File:LL-Q1860 (eng)-Vealhurl-acrobat.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Akrobat.wav,
 chef,people,,chef,der Koch,mpishi,2,6985,,File:LL-Q1860 (eng)-Grendelkhan-chef.wav,File:LL-Q188 (deu)-Natschoba-der Koch.wav,File:Sw-ke-mpishi.flac
-miner,people,,miner,,mchimbaji,2,8631,,File:En-us-miner.ogg,,File:Sw-ke-mchimbaji.flac
-juggler,people,,juggler,,,2,10350,,File:LL-Q1860 (eng)-Vealhurl-juggler.wav,,
+miner,people,,miner,Bergmann,mchimbaji,2,8631,,File:En-us-miner.ogg,File:De-Bergmann.ogg,File:Sw-ke-mchimbaji.flac
+juggler,people,,juggler,Jongleur,,2,10350,,File:LL-Q1860 (eng)-Vealhurl-juggler.wav,File:De-Jongleur.ogg,
 veterinarian,people,,veterinarian,Tierarzt,daktari wa mifugo,2,11392,,File:LL-Q1860 (eng)-Vealhurl-veterinarian.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Tierarzt.wav,File:Sw-ke-daktari wa mifugo.flac
-tailor,people,,tailor,,mshonaji,2,22100,,File:En-us-tailor.ogg,,File:Sw-ke-mshonaji.flac
-flight_attendant,people,,flight attendant,,,2,29084,,"File:LL-Q1860 (eng)-Flame, not lame-flight attendant.wav",,
+tailor,people,,tailor,Schneider,mshonaji,2,22100,,File:En-us-tailor.ogg,File:De-Schneider.ogg,File:Sw-ke-mshonaji.flac
+flight_attendant,people,,flight attendant,Flugbegleiter,,2,29084,,"File:LL-Q1860 (eng)-Flame, not lame-flight attendant.wav",File:De-Flugbegleiter.ogg,
 magician,people,,magician,Zauberer,,2,36299,,File:LL-Q1860 (eng)-Simplificationalizer-magician.wav,File:De-Zauberer.ogg,
 bus_driver,people,,bus driver,Busfahrer,dereva,2,38086,,"File:LL-Q1860 (eng)-Flame, not lame-bus driver.wav",File:De-Busfahrer.ogg,File:Sw-ke-dereva.flac
-beekeeper,people,,beekeeper,,,2,39453,,File:LL-Q1860 (eng)-Vealhurl-beekeeper.wav,,
+beekeeper,people,,beekeeper,Imker,,2,39453,,File:LL-Q1860 (eng)-Vealhurl-beekeeper.wav,File:LL-Q188 (deu)-Mathieu Kappler-Imker.wav,
 baker,people,,baker,Bäcker,mwokaji,2,3358,,File:LL-Q1860 (eng)-Back ache-Baker.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Bäcker.wav,File:Sw-ke-mwokaji.flac
-butcher,people,,butcher,,mchinjaji,2,3008,,File:En-us-butcher.ogg,,File:Sw-ke-mchinjaji.flac
-journalist,people,journalist,,,mwanahabari,2,8664,File:Sv-journalist.ogg,,,File:Sw-ke-mwanahabari.flac
-cowboy,people,,cowboy,,,2,5602,,File:LL-Q1860 (eng)-Rachlel-cowboy.wav,,
+butcher,people,,butcher,Metzger,mchinjaji,2,3008,,File:En-us-butcher.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Metzger.wav,File:Sw-ke-mchinjaji.flac
+journalist,people,journalist,,Journalist,mwanahabari,2,8664,File:Sv-journalist.ogg,,File:LL-Q188 (deu)-Sebastian Wallroth-Journalist.wav,File:Sw-ke-mwanahabari.flac
+cowboy,people,,cowboy,Cowboy,,2,5602,,File:LL-Q1860 (eng)-Rachlel-cowboy.wav,File:LL-Q188 (deu)-Beat Ruest-Cowboy.wav,
 medal,sports,medalj,medal,Medaille,medali,2,3128,File:Sv-medalj.ogg,File:LL-Q1860 (eng)-Back ache-Medal.wav,File:De-Medaille.ogg,File:Sw-ke-medali.flac
 arrow,sports,pil,arrow,Pfeil,mshale,2,5471,File:LL-Q9027 (swe)-Moonhouse-pil.wav,File:En-us-arrow.ogg,File:LL-Q188 (deu)-Mathieu Kappler-Pfeil.wav,File:Sw-ke-mshale.flac
 stadium,sports,stadion,stadium,Stadion,uwanja,2,5993,File:LL-Q9027 (swe)-Ainali-stadion.wav,File:En-us-stadium.ogg,File:De-Stadion.ogg,File:Sw-ke-uwanja.flac
@@ -604,34 +604,34 @@ frisbee,sports,,frisbee,Frisbee,,2,37120,,File:LL-Q1860 (eng)-Vealhurl-Frisbee.w
 goalkeeper,sports,,goalkeeper,Torwart,kipa,2,39837,,File:En-us-goalkeeper.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Torwart.wav,File:Sw-ke-kipa.flac
 tale,school,saga,tale,das Märchen,hadithi,2,2364,File:LL-Q9027 (swe)-Moonhouse-Saga.wav,File:LL-Q1860 (eng)-Grendelkhan-tale.wav,File:LL-Q188 (deu)-Natschoba-das Märchen.wav,File:Sw-ke-hadithi.flac
 blackboard,school,tavla,blackboard,Tafel,ubao,2,2526,File:Sv-tavla.ogg,File:En-us-blackboard.ogg,File:De-Tafel.ogg,File:Sw-ke-ubao.flac
-dictionary,school,ordbok,dictionary,,kamusi,2,7024,File:LL-Q9027 (swe)-Moonhouse-ordbok.wav,File:En-us-dictionary.ogg,,File:Sw-ke-kamusi.flac
-laboratory,school,laboratorium,laboratory,,maabara,2,8150,File:Sv-laboratorium.ogg,File:LL-Q1860 (eng)-Berrely-laboratory.wav,,File:Sw-ke-maabara.flac
+dictionary,school,ordbok,dictionary,Wörterbuch,kamusi,2,7024,File:LL-Q9027 (swe)-Moonhouse-ordbok.wav,File:En-us-dictionary.ogg,File:De-Wörterbuch.ogg,File:Sw-ke-kamusi.flac
+laboratory,school,laboratorium,laboratory,Labor,maabara,2,8150,File:Sv-laboratorium.ogg,File:LL-Q1860 (eng)-Berrely-laboratory.wav,File:De-Labor.ogg,File:Sw-ke-maabara.flac
 bricks,school,tegelstenar,bricks,Bausteine,matofali,2,8508,File:LL-Q9027 (swe)-Moonhouse-tegelstenar.wav,File:LL-Q1860 (eng)-Status 401-Bricks.wav,File:De-Bausteine.ogg,File:Sw-ke-matofali.flac
 prize,school,pris,prize,Pokal,zawadi,2,26845,File:Sv-pris.ogg,File:LL-Q1860 (eng)-Grendelkhan-prize.wav,File:De-Pokal.ogg,File:Sw-ke-zawadi.flac
-sellotape,school,,sellotape,,,2,2325,,File:LL-Q1860 (eng)-Vealhurl-sellotape.wav,,
-stapler,school,,stapler,,,2,2413,,File:LL-Q1860 (eng)-Vealhurl-stapler.wav,,
+sellotape,school,,sellotape,Klebeband,,2,2325,,File:LL-Q1860 (eng)-Vealhurl-sellotape.wav,File:De-Klebeband.ogg,
+stapler,school,,stapler,Tacker,,2,2413,,File:LL-Q1860 (eng)-Vealhurl-stapler.wav,File:De-Tacker.ogg,
 glue,school,,glue,Kleber,gundi,2,2510,,File:LL-Q1860 (eng)-Wodencafe-glue.wav,File:De-Kleber.ogg,File:Sw-ke-gundi.flac
 plasticine,school,lera,plasticine,Knete,,2,2529,File:LL-Q9027 (swe)-Salgo60-lera.wav,File:LL-Q1860 (eng)-Vealhurl-plasticine.wav,File:De-Knete.ogg,
 pencil_sharpener,school,,pencil sharpener,Anspitzer,,2,2553,,"File:LL-Q1860 (eng)-Flame, not lame-pencil sharpener.wav",File:De-Anspitzer.ogg,
 ruler,school,,ruler,Lineal,rula,2,2815,,File:LL-Q1860 (eng)-Nattes à chat-ruler.wav,File:De-Lineal.ogg,File:Sw-ke-rula.flac
-folder,school,,folder,,faili,2,3233,,File:LL-Q1860 (eng)-Lepticed7-folder.wav,,File:Sw-ke-faili.flac
+folder,school,,folder,Ordner,faili,2,3233,,File:LL-Q1860 (eng)-Lepticed7-folder.wav,File:De-Ordner.ogg,File:Sw-ke-faili.flac
 felt_tip_pen,school,,felt-tip pen,Filzstift,,2,3246,,File:LL-Q1860 (eng)-Vealhurl-felt-tip pen.wav,File:De-Filzstift.ogg,
 crayons,school,,crayons,Wachsmalstifte,,2,4951,,File:LL-Q1860 (eng)-Vealhurl-crayons.wav,File:De-Wachsmalstifte.ogg,
-calculator,school,,calculator,,,2,5419,,File:En-us-calculator.ogg,,
+calculator,school,,calculator,Taschenrechner,,2,5419,,File:En-us-calculator.ogg,File:De-Taschenrechner.ogg,
 sandbox,school,,sandbox,Sandkasten,,2,6049,,File:En-us-sandbox.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Sandkasten.wav,
 schoolyard,school,,schoolyard,Schulhof,,2,6204,,File:LL-Q1860 (eng)-Wodencafe-schoolyard.wav,File:LL-Q188 (deu)-ENERGY ENCHANTED-Schulhof.wav,
 notebook,school,,notebook,Heft,daftari,2,7142,,File:LL-Q1860 (eng)-Vealhurl-notebook.wav,File:De-Heft.ogg,File:Sw-ke-daftari.flac
 pencil_case,school,,pencil case,Federmäppchen,,2,8575,,File:LL-Q1860 (eng)-Persent101-pencil case.wav,File:De-Federmäppchen.ogg,
-paper_clip,school,,paper clip,,,2,10309,,File:LL-Q1860 (eng)-Vealhurl-paper clip.wav,,
+paper_clip,school,,paper clip,Büroklammer,,2,10309,,File:LL-Q1860 (eng)-Vealhurl-paper clip.wav,File:LL-Q188 (deu)-Daniel Mietchen-Büroklammer.wav,
 eraser,school,,eraser,Schwamm,kifutio,2,16341,,File:LL-Q1860 (eng)-Vealhurl-eraser.wav,File:De-Schwamm.ogg,File:Sw-ke-kifutio.flac
-abacus,school,,abacus,,,2,23699,,File:En-us-abacus.ogg,,
+abacus,school,,abacus,Abakus,,2,23699,,File:En-us-abacus.ogg,File:LL-Q188 (deu)-Mukeber-Abakus.wav,
 globe,school,,globe,Globus,tufe,2,27798,,File:LL-Q1860 (eng)-Arlo Barnes-globe.wav,File:De-Globus.ogg,File:Sw-ke-tufe.flac
-bookmark,school,,bookmark,,,2,34225,,File:LL-Q1860 (eng)-Vealhurl-bookmark.wav,,
+bookmark,school,,bookmark,Lesezeichen,,2,34225,,File:LL-Q1860 (eng)-Vealhurl-bookmark.wav,File:De-Lesezeichen.ogg,
 sticker,school,,sticker,Aufkleber,stika,2,35425,,File:En-us-sticker.ogg,File:De-Aufkleber.ogg,File:Sw-ke-stika.flac
-glitter,school,,glitter,,,2,36437,,File:En-us-glitter.ogg,,
+glitter,school,,glitter,Glitzer,,2,36437,,File:En-us-glitter.ogg,File:De-Glitzer.ogg,
 rubber_band,school,,rubber band,,,2,,,File:En-us-rubber band.ogg,,
-whiteboard,school,,whiteboard,,,2,37872,,"File:LL-Q1860 (eng)-Flame, not lame-whiteboard.wav",,
-slime,school,,slime,,,2,39030,,File:LL-Q1860 (eng)-Vealhurl-slime.wav,,
+whiteboard,school,,whiteboard,Whiteboard,,2,37872,,"File:LL-Q1860 (eng)-Flame, not lame-whiteboard.wav",File:LL-Q188 (deu)-Beat Ruest-Whiteboard.wav,
+slime,school,,slime,Schleim,,2,39030,,File:LL-Q1860 (eng)-Vealhurl-slime.wav,File:De-Schleim.ogg,
 train_station,vehicles,station,train station,Bahnhof,stesheni,2,3099,File:LL-Q9027 (swe)-Christoffre-station.wav,File:LL-Q1860 (eng)-Vealhurl-train station.wav,File:LL-Q188 (deu)-Poslovitch-Bahnhof.wav,File:Sw-ke-stesheni.flac
 ticket,vehicles,biljett,ticket,Fahrkarte,tikiti,2,29208,File:Sv-biljett.ogg,File:LL-Q1860 (eng)-Grendelkhan-ticket.wav,File:De-Fahrkarte.ogg,File:Sw-ke-tikiti.flac
 tyre,vehicles,däck,tyre,Reifen,tairi,2,37072,File:Sv-däck.ogg,File:LL-Q1860 (eng)-Vealhurl-tyre.wav,File:De-Reifen.ogg,File:Sw-ke-tairi.flac
@@ -641,39 +641,39 @@ motorbike,vehicles,,motorbike,das Motorrad,pikipiki,2,2480,,File:LL-Q1860 (eng)-
 scooter,vehicles,,scooter,Roller,skuta,2,2508,,File:LL-Q1860 (eng)-Simplificationalizer-scooter.wav,File:De-Roller.ogg,File:Sw-ke-skuta.flac
 taxi,vehicles,,taxi,das Taxi,teksi,2,2580,,File:LL-Q1860 (eng)-Grendelkhan-taxi.wav,File:LL-Q188 (deu)-Natschoba-das Taxi.wav,File:Sw-ke-teksi.flac
 tram,vehicles,,tram,die Straßenbahn,,2,2602,,File:LL-Q1860 (eng)-Nattes à chat-tram.wav,File:LL-Q188 (deu)-Natschoba-die Straßenbahn.wav,
-cement_mixer,vehicles,,cement mixer,,,2,2682,,"File:LL-Q1860 (eng)-Flame, not lame-cement mixer.wav",,
+cement_mixer,vehicles,,cement mixer,Betonmischer,,2,2682,,"File:LL-Q1860 (eng)-Flame, not lame-cement mixer.wav",File:De-Betonmischer.ogg,
 submarine,vehicles,,submarine,Unterseeboot,nyambizi,2,3157,,File:LL-Q1860 (eng)-Vealhurl-submarine.wav,File:De-Unterseeboot.ogg,File:Sw-ke-nyambizi.flac
 yacht,vehicles,,yacht,Yacht,,2,3172,,File:LL-Q1860 (eng)-Vealhurl-yacht.wav,File:De-Yacht.ogg,
 caravan,vehicles,,caravan,Wohnwagen,,2,3180,,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-caravan.wav,File:De-Wohnwagen.ogg,
 van,vehicles,,van,Lieferwagen,,2,3275,,File:LL-Q1860 (eng)-Grendelkhan-van.wav,File:De-Lieferwagen.ogg,
 police_car,vehicles,,police car,Polizeiauto,,2,3426,,"File:LL-Q1860 (eng)-Flame, not lame-police car.wav",File:De-Polizeiauto.ogg,
-life_jacket,vehicles,,life jacket,,,2,4597,,"File:LL-Q1860 (eng)-Flame, not lame-life jacket.wav",,
+life_jacket,vehicles,,life jacket,Schwimmweste,,2,4597,,"File:LL-Q1860 (eng)-Flame, not lame-life jacket.wav",File:De-Schwimmweste.ogg,
 lighthouse,vehicles,,lighthouse,Leuchtturm,,2,4646,,File:LL-Q1860 (eng)-Arlo Barnes-lighthouse.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Leuchtturm.wav,
 race_car,vehicles,,race car,Rennwagen,,2,5070,,"File:LL-Q1860 (eng)-Flame, not lame-race car.wav",File:De-Rennwagen.ogg,
-safety_belt,vehicles,,safety belt,,mkanda,2,5962,,File:LL-Q1860 (eng)-Status 401-Safety Belt.wav,,File:Sw-ke-mkanda.flac
+safety_belt,vehicles,,safety belt,Sicherheitsgurt,mkanda,2,5962,,File:LL-Q1860 (eng)-Status 401-Safety Belt.wav,File:De-Sicherheitsgurt.ogg,File:Sw-ke-mkanda.flac
 petrol_station,vehicles,,petrol station,die Tankstelle,kituo cha mafuta,2,6002,,File:LL-Q1860 (eng)-Vealhurl-petrol station.wav,File:LL-Q188 (deu)-Natschoba-die Tankstelle.wav,File:Sw-ke-kituo cha mafuta.flac
 canoe,vehicles,,canoe,Kanu,mtumbwi,2,6179,,File:En-us-canoe.ogg,File:De-Kanu.ogg,File:Sw-ke-mtumbwi.flac
-steering_wheel,vehicles,,steering wheel,,usukani,2,6245,,File:LL-Q1860 (eng)-Vealhurl-steering wheel.wav,,File:Sw-ke-usukani.flac
-car_park,vehicles,,car park,,maegesho,2,6283,,File:LL-Q1860 (eng)-Grendelkhan-car park.wav,,File:Sw-ke-maegesho.flac
-highway,vehicles,,highway,,,2,7046,,File:LL-Q1860 (eng)-Grendelkhan-highway.wav,,
+steering_wheel,vehicles,,steering wheel,das Lenkrad,usukani,2,6245,,File:LL-Q1860 (eng)-Vealhurl-steering wheel.wav,File:LL-Q188 (deu)-Natschoba-das Lenkrad.wav,File:Sw-ke-usukani.flac
+car_park,vehicles,,car park,Parkplatz,maegesho,2,6283,,File:LL-Q1860 (eng)-Grendelkhan-car park.wav,File:De-Parkplatz.ogg,File:Sw-ke-maegesho.flac
+highway,vehicles,,highway,Autobahn,,2,7046,,File:LL-Q1860 (eng)-Grendelkhan-highway.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Autobahn.wav,
 railway,vehicles,,railway,Eisenbahn,reli,2,7299,,File:LL-Q1860 (eng)-Vealhurl-railway.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Eisenbahn.wav,File:Sw-ke-reli.flac
 garbage_truck,vehicles,,garbage truck,Müllauto,,2,8523,,File:LL-Q1860 (eng)-Vealhurl-garbage truck.wav,File:De-Müllauto.ogg,
 spaceship,vehicles,,spaceship,Space Shuttle,,2,9206,,"File:LL-Q1860 (eng)-Flame, not lame-spaceship.wav",File:LL-Q188 (deu)-Beat Ruest-Space Shuttle.wav,
-wing,vehicles,,wing,,bawa,2,11169,,File:LL-Q1860 (eng)-Grendelkhan-wing.wav,,File:Sw-ke-bawa.flac
-snowplow,vehicles,,snowplow,,,2,13362,,"File:LL-Q1860 (eng)-Flame, not lame-snowplow.wav",,
-bullet_train,vehicles,,bullet train,,,2,21399,,File:LL-Q1860 (eng)-Vealhurl-bullet train.wav,,
-tow_truck,vehicles,,tow truck,,,2,21545,,File:LL-Q1860 (eng)-Persent101-tow truck.wav,,
-cruise_ship,vehicles,,cruise ship,,,2,21573,,File:LL-Q1860 (eng)-Vealhurl-cruise ship.wav,,
-stagecoach,vehicles,,stagecoach,,,2,21795,,File:LL-Q1860 (eng)-Grendelkhan-stagecoach.wav,,
-cable_car,vehicles,,cable car,,,2,22119,,File:LL-Q1860 (eng)-NaomiAmethyst-cable car.wav,,
+wing,vehicles,,wing,Flügel,bawa,2,11169,,File:LL-Q1860 (eng)-Grendelkhan-wing.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Flügel.wav,File:Sw-ke-bawa.flac
+snowplow,vehicles,,snowplow,Schneepflug,,2,13362,,"File:LL-Q1860 (eng)-Flame, not lame-snowplow.wav",File:De-Schneepflug.ogg,
+bullet_train,vehicles,,bullet train,Schnellzug,,2,21399,,File:LL-Q1860 (eng)-Vealhurl-bullet train.wav,File:De-Schnellzug.ogg,
+tow_truck,vehicles,,tow truck,Abschleppwagen,,2,21545,,File:LL-Q1860 (eng)-Persent101-tow truck.wav,File:De-Abschleppwagen.ogg,
+cruise_ship,vehicles,,cruise ship,Kreuzfahrtschiff,,2,21573,,File:LL-Q1860 (eng)-Vealhurl-cruise ship.wav,File:De-Kreuzfahrtschiff.ogg,
+stagecoach,vehicles,,stagecoach,Postkutsche,,2,21795,,File:LL-Q1860 (eng)-Grendelkhan-stagecoach.wav,File:De-Postkutsche.ogg,
+cable_car,vehicles,,cable car,Seilbahn,,2,22119,,File:LL-Q1860 (eng)-NaomiAmethyst-cable car.wav,File:De-Seilbahn.ogg,
 parachute,vehicles,,parachute,der Fallschirm,parachuti,2,27949,,File:En-us-parachute.ogg,File:LL-Q188 (deu)-Natschoba-der Fallschirm.wav,File:Sw-ke-parachuti.flac
 ferry,vehicles,,ferry,Fähre,kivuko,2,30612,,File:En-us-ferry.ogg,File:De-Fähre.ogg,File:Sw-ke-kivuko.flac
 school_bus,vehicles,,school bus,Schulbus,,2,32370,,File:LL-Q1860 (eng)-Vealhurl-school bus.wav,File:De-Schulbus.ogg,
-gondola,vehicles,,gondola,,,2,37677,,File:LL-Q1860 (eng)-Vealhurl-gondola.wav,,
-food_truck,vehicles,,food truck,,,2,38302,,"File:LL-Q1860 (eng)-Flame, not lame-food truck.wav",,
-jet_ski,vehicles,,jet ski,,,2,38736,,File:LL-Q1860 (eng)-Vealhurl-jet ski.wav,,
-drone,vehicles,,drone,,droni,2,39123,,File:LL-Q1860 (eng)-Vealhurl-drone.wav,,File:Sw-ke-droni.flac
-bow_tie,clothes,fluga,bow tie,,,2,4712,File:LL-Q9027 (swe)-Moonhouse-fluga.wav,"File:LL-Q1860 (eng)-Flame, not lame-bow tie.wav",,
+gondola,vehicles,,gondola,Gondel,,2,37677,,File:LL-Q1860 (eng)-Vealhurl-gondola.wav,File:De-Gondel.ogg,
+food_truck,vehicles,,food truck,Foodtruck,,2,38302,,"File:LL-Q1860 (eng)-Flame, not lame-food truck.wav",File:De-Foodtruck.ogg,
+jet_ski,vehicles,,jet ski,Jetski,,2,38736,,File:LL-Q1860 (eng)-Vealhurl-jet ski.wav,File:De-Jetski.ogg,
+drone,vehicles,,drone,Drohne,droni,2,39123,,File:LL-Q1860 (eng)-Vealhurl-drone.wav,File:De-Drohne.ogg,File:Sw-ke-droni.flac
+bow_tie,clothes,fluga,bow tie,Fliege,,2,4712,File:LL-Q9027 (swe)-Moonhouse-fluga.wav,"File:LL-Q1860 (eng)-Flame, not lame-bow tie.wav",File:LL-Q188 (deu)-Sebastian Wallroth-Fliege.wav,
 vest,clothes,väst,vest,,,2,39534,File:Sv-väst.ogg,File:En-us-vest.ogg,,
 clothes,clothes,kläder,clothes,Kleidung,nguo,2,7233,File:Sv-kläder.ogg,File:LL-Q1860 (eng)-Grendelkhan-clothes.wav,File:De-Kleidung.ogg,File:Sw-ke-nguo.flac
 blouse,clothes,,blouse,Bluse,blauzi,2,2280,,File:LL-Q1860 (eng)-Vealhurl-blouse.wav,File:De-Bluse.ogg,File:Sw-ke-blauzi.flac
@@ -682,7 +682,7 @@ boots,clothes,,boots,der Stiefel,buti,2,2287,,File:LL-Q1860 (eng)-Grendelkhan-bo
 bib,clothes,,bib,Lätzchen,,2,2267,,File:En-us-bib.ogg,File:De-Lätzchen.ogg,
 underpants,clothes,,underpants,Unterhose,chupi,2,2303,,File:LL-Q1860 (eng)-Vealhurl-underpants.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Unterhose.wav,File:Sw-ke-chupi.flac
 t_shirt,clothes,,t-shirt,T-Shirt,fulana,2,2309,,File:LL-Q1860 (eng)-Vealhurl-t-shirt.wav,File:De-T-Shirt.ogg,File:Sw-ke-fulana.flac
-tracksuit,clothes,,tracksuit,,,2,2332,,"File:LL-Q1860 (eng)-Flame, not lame-tracksuit.wav",,
+tracksuit,clothes,,tracksuit,Jogginganzug,,2,2332,,"File:LL-Q1860 (eng)-Flame, not lame-tracksuit.wav",File:De-Jogginganzug.ogg,
 belt,clothes,,belt,Gürtel,mshipi,2,2336,,File:LL-Q1860 (eng)-Grendelkhan-belt.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Gürtel.wav,File:Sw-ke-mshipi.flac
 tights,clothes,,tights,Strumpfhose,,2,2466,,File:LL-Q1860 (eng)-I learned some phrases-tights.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Strumpfhose.wav,
 umbrella,clothes,,umbrella,Regenschirm,mwavuli,2,2500,,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-umbrella.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Regenschirm.wav,File:Sw-ke-mwavuli.flac
@@ -703,16 +703,16 @@ necklace,clothes,,necklace,Halskette,mkufu,2,6988,,File:LL-Q1860 (eng)-Grendelkh
 hood,clothes,,hood,Kapuze,,2,7050,,File:LL-Q1860 (eng)-Grendelkhan-hood.wav,File:De-Kapuze.ogg,
 earring,clothes,,earring,Ohrring,hereni,2,8363,,File:LL-Q1860 (eng)-Vealhurl-earring.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Ohrring.wav,File:Sw-ke-hereni.flac
 sandal,clothes,,sandal,die Sandale,ndara,2,8368,,File:LL-Q1860 (eng)-Vealhurl-sandal.wav,File:LL-Q188 (deu)-Natschoba-die Sandale.wav,File:Sw-ke-ndara.flac
-top_hat,clothes,,top hat,,,2,8541,,File:LL-Q1860 (eng)-Wodencafe-top hat.wav,,
-clogs,clothes,,clogs,,,2,11402,,File:LL-Q1860 (eng)-Wodencafe-clogs.wav,,
-wig,clothes,,wig,,wigi,2,14258,,File:LL-Q1860 (eng)-Wodencafe-wig.wav,,File:Sw-ke-wigi.flac
-suspenders,clothes,,suspenders,,,2,16901,,"File:LL-Q1860 (eng)-Flame, not lame-suspenders.wav",,
-laundry_basket,clothes,,laundry basket,,,2,22175,,File:LL-Q1860 (eng)-Status 401-Laundry basket.wav,,
-poncho,clothes,,poncho,,,2,24316,,File:LL-Q1860 (eng)-Simplificationalizer-poncho.wav,,
+top_hat,clothes,,top hat,Zylinder,,2,8541,,File:LL-Q1860 (eng)-Wodencafe-top hat.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Zylinder.wav,
+clogs,clothes,,clogs,Clogs,,2,11402,,File:LL-Q1860 (eng)-Wodencafe-clogs.wav,File:De-Clogs.ogg,
+wig,clothes,,wig,Perücke,wigi,2,14258,,File:LL-Q1860 (eng)-Wodencafe-wig.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Perücke.wav,File:Sw-ke-wigi.flac
+suspenders,clothes,,suspenders,Hosenträger,,2,16901,,"File:LL-Q1860 (eng)-Flame, not lame-suspenders.wav",File:LL-Q188 (deu)-Sebastian Wallroth-Hosenträger.wav,
+laundry_basket,clothes,,laundry basket,Wäschekorb,,2,22175,,File:LL-Q1860 (eng)-Status 401-Laundry basket.wav,File:De-Wäschekorb.ogg,
+poncho,clothes,,poncho,Poncho,,2,24316,,File:LL-Q1860 (eng)-Simplificationalizer-poncho.wav,File:De-Poncho.ogg,
 bracelet,clothes,,bracelet,Armband,bangili,2,26700,,File:LL-Q1860 (eng)-Vealhurl-bracelet.wav,File:De-Armband.ogg,File:Sw-ke-bangili.flac
-cloak,clothes,,cloak,,joho,2,36003,,File:LL-Q1860 (eng)-Arlo Barnes-cloak.wav,,File:Sw-ke-joho.flac
+cloak,clothes,,cloak,Umhang,joho,2,36003,,File:LL-Q1860 (eng)-Arlo Barnes-cloak.wav,File:De-Umhang.ogg,File:Sw-ke-joho.flac
 sweatpants,clothes,,sweatpants,Jogginghose,,2,36423,,File:LL-Q1860 (eng)-Wodencafe-sweatpants.wav,File:De-Jogginghose.ogg,
-beret,clothes,,beret,,bereti,2,38441,,File:En-us-beret.ogg,,File:Sw-ke-bereti.flac
+beret,clothes,,beret,Baskenmütze,bereti,2,38441,,File:En-us-beret.ogg,File:De-Baskenmütze.ogg,File:Sw-ke-bereti.flac
 bowl,home,skål,bowl,Schüssel,bakuli,2,3257,File:Sv-skål.ogg,File:LL-Q1860 (eng)-Grendelkhan-bowl.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Schüssel.wav,File:Sw-ke-bakuli.flac
 frame,home,ram,frame,Bilderrahmen,fremu,2,3281,File:Sv-ram.ogg,File:LL-Q1860 (eng)-Grendelkhan-frame.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Bilderrahmen.wav,File:Sw-ke-fremu.flac
 chest_of_drawers,home,byrå,chest of drawers,Kommode,,2,16281,File:LL-Q9027 (swe)-Moonhouse-byrå.wav,File:LL-Q1860 (eng)-Vealhurl-chest of drawers.wav,File:De-Kommode.ogg,
@@ -841,12 +841,12 @@ slide,toys,,slide,Rutsche,,2,4759,,File:LL-Q1860 (eng)-Grendelkhan-slide.wav,Fil
 toyshop,toys,,toyshop,Spielzeugladen,,2,11385,,"File:LL-Q1860 (eng)-Flame, not lame-toyshop.wav",File:De-Spielzeugladen.ogg,
 coconut_palm,nature,kokospalm,coconut palm,Kokospalme,mnazi,2,3188,File:Sv-kokospalm.ogg,File:LL-Q1860 (eng)-Vealhurl-coconut palm.wav,File:De-Kokospalme.ogg,File:Sw-ke-mnazi.flac
 waterfall,nature,vattenfall,waterfall,Wasserfall,,2,5951,File:Sv-vattenfall.ogg,File:En-us-waterfall.ogg,File:De-Wasserfall.ogg,
-oasis,nature,oas,oasis,,,2,6159,File:LL-Q9027 (swe)-Moonhouse-Oas.wav,File:LL-Q1860 (eng)-Wodencafe-oasis.wav,,
+oasis,nature,oas,oasis,Oase,,2,6159,File:LL-Q9027 (swe)-Moonhouse-Oas.wav,File:LL-Q1860 (eng)-Wodencafe-oasis.wav,File:De-Oase.ogg,
 stream,nature,ström,stream,Bach,kijito,2,23757,File:LL-Q9027 (swe)-Moonhouse-Ström.wav,File:En-us-stream.ogg,File:De-Bach.ogg,File:Sw-ke-kijito.flac
-archipelago,nature,skärgård,archipelago,,,2,30492,File:Sv-skärgård.ogg,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-archipelago.wav,,
+archipelago,nature,skärgård,archipelago,Archipel,,2,30492,File:Sv-skärgård.ogg,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-archipelago.wav,File:De-Archipel.ogg,
 fog,nature,dimma,fog,Nebel,ukungu,2,35049,File:Sv-dimma.ogg,File:LL-Q1860 (eng)-Grendelkhan-fog.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Nebel.wav,File:Sw-ke-ukungu.flac
 pond,nature,damm,pond,Teich,bwawa,2,39264,File:Sv-damm.ogg,File:En-us-pond.ogg,File:De-Teich.ogg,File:Sw-ke-bwawa.flac
-comet,nature,,comet,,,2,2711,,File:LL-Q1860 (eng)-Wodencafe-comet.wav,,
+comet,nature,,comet,Komet,,2,2711,,File:LL-Q1860 (eng)-Wodencafe-comet.wav,File:De-Komet.ogg,
 lightning,nature,,lightning,Blitz,umeme,2,2819,,File:LL-Q1860 (eng)-Grendelkhan-lightning.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Blitz.wav,File:Sw-ke-umeme.flac
 cactus,nature,,cactus,Kaktus,,2,3070,,File:LL-Q1860 (eng)-Wodencafe-cactus.wav,File:De-Kaktus.ogg,
 hail,nature,,hail,Hagel,mvua ya mawe,2,3110,,File:LL-Q1860 (eng)-Grendelkhan-hail.wav,File:De-Hagel.ogg,File:Sw-ke-mvua ya mawe.flac
@@ -860,67 +860,67 @@ tent,nature,,tent,das Zelt,hema,2,4756,,File:LL-Q1860 (eng)-Grendelkhan-tent.wav
 sandcastle,nature,,sandcastle,Sandburg,,2,4790,,File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-sandcastle.wav,File:De-Sandburg.ogg,
 seaweed,nature,,seaweed,Alge,mwani,2,6040,,File:LL-Q1860 (eng)-Vealhurl-seaweed.wav,File:De-Alge.ogg,File:Sw-ke-mwani.flac
 volcano,nature,,volcano,Vulkan,volkano,2,6247,,File:En-us-volcano.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Vulkan.wav,File:Sw-ke-volkano.flac
-poppy,nature,,poppy,,,2,6897,,File:LL-Q1860 (eng)-Wodencafe-poppy.wav,,
+poppy,nature,,poppy,Klatschmohn,,2,6897,,File:LL-Q1860 (eng)-Wodencafe-poppy.wav,File:De-Klatschmohn.ogg,
 bouquet,nature,,bouquet,Blumenstrauß,shada,2,7804,,File:LL-Q1860 (eng)-Simplificationalizer-bouquet.wav,File:De-Blumenstrauß.ogg,File:Sw-ke-shada.flac
 compass,nature,,compass,Kompass,dira,2,8045,,File:En-us-compass.ogg,File:De-Kompass.ogg,File:Sw-ke-dira.flac
 binoculars,nature,,binoculars,Fernglas,darubini,2,8198,,File:En-us-binoculars.ogg,File:De-Fernglas.ogg,File:Sw-ke-darubini.flac
-bonsai,nature,,bonsai,,,2,8512,,File:En-us-bonsai.ogg,,
-fern,nature,,fern,,,2,8601,,File:LL-Q1860 (eng)-Wodencafe-fern.wav,,
-new_moon,nature,,new moon,,,2,10295,,File:LL-Q1860 (eng)-Vealhurl-new moon.wav,,
-bud,nature,,bud,,chipukizi,2,11202,,File:LL-Q1860 (eng)-Grendelkhan-bud.wav,,File:Sw-ke-chipukizi.flac
+bonsai,nature,,bonsai,Bonsai,,2,8512,,File:En-us-bonsai.ogg,File:De-Bonsai.ogg,
+fern,nature,,fern,Farn,,2,8601,,File:LL-Q1860 (eng)-Wodencafe-fern.wav,File:De-Farn.ogg,
+new_moon,nature,,new moon,Neumond,,2,10295,,File:LL-Q1860 (eng)-Vealhurl-new moon.wav,File:De-Neumond.ogg,
+bud,nature,,bud,Knospe,chipukizi,2,11202,,File:LL-Q1860 (eng)-Grendelkhan-bud.wav,File:De-Knospe.ogg,File:Sw-ke-chipukizi.flac
 sunflower,nature,,sunflower,Sonnenblume,alizeti,2,11274,,File:LL-Q1860 (eng)-Vealhurl-sunflower.wav,File:De-Sonnenblume.ogg,File:Sw-ke-alizeti.flac
-orchid,nature,,orchid,,,2,11321,,File:LL-Q1860 (eng)-Vealhurl-orchid.wav,,
+orchid,nature,,orchid,Orchidee,,2,11321,,File:LL-Q1860 (eng)-Vealhurl-orchid.wav,File:De-Orchidee.ogg,
 bamboo,nature,,bamboo,Bambus,mwanzi,2,21413,,File:En-us-bamboo.ogg,File:De-Bambus.ogg,File:Sw-ke-mwanzi.flac
 sunscreen,nature,,sunscreen,Sonnencreme,,2,21568,,"File:LL-Q1860 (eng)-Flame, not lame-sunscreen.wav",File:LL-Q188 (deu)-Sebastian Wallroth-Sonnencreme.wav,
-constellation,nature,,constellation,,,2,24994,,File:LL-Q1860 (eng)-Vealhurl-constellation.wav,,
-buoy,nature,,buoy,,boya,2,26696,,File:LL-Q1860 (eng)-Vealhurl-buoy.wav,,File:Sw-ke-boya.flac
-daffodil,nature,,daffodil,,,2,28567,,File:LL-Q1860 (eng)-Vealhurl-daffodil.wav,,
-moss,nature,,moss,,,2,28843,,File:En-us-moss.ogg,,
+constellation,nature,,constellation,Sternbild,,2,24994,,File:LL-Q1860 (eng)-Vealhurl-constellation.wav,File:De-Sternbild.ogg,
+buoy,nature,,buoy,Boje,boya,2,26696,,File:LL-Q1860 (eng)-Vealhurl-buoy.wav,File:De-Boje.ogg,File:Sw-ke-boya.flac
+daffodil,nature,,daffodil,Narzisse,,2,28567,,File:LL-Q1860 (eng)-Vealhurl-daffodil.wav,File:De-Narzisse.ogg,
+moss,nature,,moss,Moos,,2,28843,,File:En-us-moss.ogg,File:De-Moos.ogg,
 bush,nature,,bush,Busch,kichaka,2,30241,,File:LL-Q1860 (eng)-Grendelkhan-bush.wav,File:De-Busch.ogg,File:Sw-ke-kichaka.flac
-meteorite,nature,,meteorite,,kimondo,2,34241,,File:LL-Q1860 (eng)-Wodencafe-meteorite.wav,,File:Sw-ke-kimondo.flac
-solar_system,nature,,solar system,,,2,37979,,File:LL-Q1860 (eng)-Vealhurl-Solar System.wav,,
+meteorite,nature,,meteorite,Meteorit,kimondo,2,34241,,File:LL-Q1860 (eng)-Wodencafe-meteorite.wav,File:De-Meteorit.ogg,File:Sw-ke-kimondo.flac
+solar_system,nature,,solar system,Sonnensystem,,2,37979,,File:LL-Q1860 (eng)-Vealhurl-Solar System.wav,File:De-Sonnensystem.ogg,
 snowflake,nature,,snowflake,Schneeflocke,,2,38027,,File:LL-Q1860 (eng)-Simplificationalizer-snowflake.wav,File:De-Schneeflocke.ogg,
-aurora_borealis,nature,norrsken,aurora borealis,,,2,38416,File:LL-Q9027 (swe)-Moonhouse-norrsken.wav,File:En-us-aurora borealis.ogg,,
+aurora_borealis,nature,norrsken,aurora borealis,Nordlicht,,2,38416,File:LL-Q9027 (swe)-Moonhouse-norrsken.wav,File:En-us-aurora borealis.ogg,File:De-Nordlicht.ogg,
 hill,nature,backe,hill,Hügel,kilima,2,38728,File:Sv-backe.ogg,File:LL-Q1860 (eng)-Grendelkhan-hill.wav,File:De-Hügel.ogg,File:Sw-ke-kilima.flac
-eclipse,nature,,eclipse,,,2,8096,,File:LL-Q1860 (eng)-Arlo Barnes-eclipse.wav,,
+eclipse,nature,,eclipse,Finsternis,,2,8096,,File:LL-Q1860 (eng)-Arlo Barnes-eclipse.wav,File:De-Finsternis.ogg,
 sea_shells,nature,skal,,Muscheln,kombe,2,4612,File:Sv-skal.ogg,,File:De-Muscheln.ogg,File:Sw-ke-kombe.flac
 calla_lily,nature,kalla,,,,2,25894,File:Sv-kalla.ogg,,,
 bank,places,bank,bank,Bank,benki,2,3062,File:Sv-bank.ogg,File:LL-Q1860 (eng)-Grendelkhan-bank.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Bank.wav,File:Sw-ke-benki.flac
 cinema,places,bio,cinema,Kino,sinema,2,4602,File:Sv-bio.ogg,File:LL-Q1860 (eng)-Rachlel-cinema.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Kino.wav,File:Sw-ke-sinema.flac
 building,places,byggnad,building,Gebäude,jengo,2,35655,File:Sv-byggnad.ogg,File:LL-Q1860 (eng)-Grendelkhan-building.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Gebäude.wav,File:Sw-ke-jengo.flac
-jetty,places,brygga,jetty,,gati,2,39667,File:Sv-brygga.ogg,File:LL-Q1860 (eng)-Vealhurl-jetty.wav,,File:Sw-ke-gati.flac
+jetty,places,brygga,jetty,Steg,gati,2,39667,File:Sv-brygga.ogg,File:LL-Q1860 (eng)-Vealhurl-jetty.wav,File:De-Steg.ogg,File:Sw-ke-gati.flac
 lift,places,,lift,Aufzug,lifti,2,2260,,File:LL-Q1860 (eng)-Grendelkhan-lift.wav,File:De-Aufzug.ogg,File:Sw-ke-lifti.flac
 letter_box,places,,letter box,der Briefkasten,sanduku la posta,2,2293,,File:LL-Q1860 (eng)-Vealhurl-letter box.wav,File:LL-Q188 (deu)-Natschoba-der Briefkasten.wav,File:Sw-ke-sanduku la posta.flac
 shower,places,,shower,die Dusche,,2,2370,,File:LL-Q1860 (eng)-Grendelkhan-shower.wav,File:LL-Q188 (deu)-Natschoba-die Dusche.wav,
 sink,places,,sink,Waschbecken,sinki,2,2399,,File:LL-Q1860 (eng)-Grendelkhan-sink.wav,File:De-Waschbecken.ogg,File:Sw-ke-sinki.flac
 toilet,places,,toilet,die Toilette,choo,2,2430,,File:LL-Q1860 (eng)-Grendelkhan-toilet.wav,File:LL-Q188 (deu)-Natschoba-die Toilette.wav,File:Sw-ke-choo.flac
-barbershop,places,,barbershop,,kinyozi,2,2850,,"File:LL-Q1860 (eng)-Flame, not lame-barbershop.wav",,File:Sw-ke-kinyozi.flac
-bookshop,places,,bookshop,,duka la vitabu,2,2941,,File:LL-Q1860 (eng)-Wodencafe-bookshop.wav,,File:Sw-ke-duka la vitabu.flac
-kiosk,places,,kiosk,,,2,2956,,File:En-us-kiosk.ogg,,
-town_hall,places,,town hall,,,2,3060,,File:LL-Q1860 (eng)-Vealhurl-town hall.wav,,
-post_office,places,,post office,,posta,2,3086,,File:LL-Q1860 (eng)-Berrely-post office.wav,,File:Sw-ke-posta.flac
-bowling_alley,places,,bowling alley,,,2,4579,,"File:LL-Q1860 (eng)-Flame, not lame-bowling alley.wav",,
+barbershop,places,,barbershop,Friseursalon,kinyozi,2,2850,,"File:LL-Q1860 (eng)-Flame, not lame-barbershop.wav",File:De-Friseursalon.ogg,File:Sw-ke-kinyozi.flac
+bookshop,places,,bookshop,Buchladen,duka la vitabu,2,2941,,File:LL-Q1860 (eng)-Wodencafe-bookshop.wav,File:De-Buchladen.ogg,File:Sw-ke-duka la vitabu.flac
+kiosk,places,,kiosk,Kiosk,,2,2956,,File:En-us-kiosk.ogg,File:De-Kiosk.ogg,
+town_hall,places,,town hall,Rathaus,,2,3060,,File:LL-Q1860 (eng)-Vealhurl-town hall.wav,File:De-Rathaus.ogg,
+post_office,places,,post office,Post,posta,2,3086,,File:LL-Q1860 (eng)-Berrely-post office.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Post.wav,File:Sw-ke-posta.flac
+bowling_alley,places,,bowling alley,Kegelbahn,,2,4579,,"File:LL-Q1860 (eng)-Flame, not lame-bowling alley.wav",File:De-Kegelbahn.ogg,
 funfair,places,,funfair,Jahrmarkt,maonyesho,2,4649,,"File:LL-Q1860 (eng)-Flame, not lame-funfair.wav",File:De-Jahrmarkt.ogg,File:Sw-ke-maonyesho.flac
 roller_coaster,places,,roller coaster,Achterbahn,,2,4699,,"File:LL-Q1860 (eng)-Flame, not lame-roller coaster.wav",File:De-Achterbahn.ogg,
 ferris_wheel,places,,Ferris wheel,Riesenrad,,2,4704,,File:LL-Q1860 (eng)-Persent101-Ferris wheel.wav,File:De-Riesenrad.ogg,
 carousel,places,,carousel,Karussell,,2,4757,,File:LL-Q1860 (eng)-Vealhurl-carousel.wav,File:De-Karussell.ogg,
-tennis_court,places,,tennis court,,,2,5068,,File:LL-Q1860 (eng)-Vealhurl-tennis court.wav,,
+tennis_court,places,,tennis court,Tennisplatz,,2,5068,,File:LL-Q1860 (eng)-Vealhurl-tennis court.wav,File:De-Tennisplatz.ogg,
 cabin,places,,cabin,Blockhütte,,2,8049,,File:LL-Q1860 (eng)-Grendelkhan-cabin.wav,File:De-Blockhütte.ogg,
 chimney,places,,chimney,Schornstein,dohani,2,8072,,File:LL-Q1860 (eng)-Status 401-Chimney.wav,File:De-Schornstein.ogg,File:Sw-ke-dohani.flac
 hut,places,,hut,Hütte,kibanda,2,8075,,File:En-us-hut.ogg,File:De-Hütte.ogg,File:Sw-ke-kibanda.flac
 igloo,places,,igloo,Iglu,,2,8137,,File:LL-Q1860 (eng)-Vealhurl-igloo.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Iglu.wav,
-shopping_centre,places,,shopping centre,,,2,11211,,"File:LL-Q1860 (eng)-Flame, not lame-shopping centre.wav",,
-pizzeria,places,,pizzeria,,,2,11344,,File:LL-Q1860 (eng)-Vealhurl-pizzeria.wav,,
-tepee,places,,tepee,,,2,13636,,File:LL-Q1860 (eng)-Wodencafe-tepee.wav,,
-university,places,universitet,university,,chuo kikuu,2,15537,File:Sv-universitet.ogg,File:LL-Q1860 (eng)-Grendelkhan-university.wav,,File:Sw-ke-chuo kikuu.flac
-escalator,places,,escalator,,,2,21830,,File:LL-Q1860 (eng)-Vealhurl-escalator.wav,,
-sauna,places,,sauna,,,2,25433,,File:LL-Q1860 (eng)-Arlo Barnes-sauna.wav,,
-art_gallery,places,galleri,art gallery,,,2,36898,File:Sv-galleri.ogg,File:LL-Q1860 (eng)-Vealhurl-art gallery.wav,,
+shopping_centre,places,,shopping centre,Einkaufszentrum,,2,11211,,"File:LL-Q1860 (eng)-Flame, not lame-shopping centre.wav",File:De-Einkaufszentrum.ogg,
+pizzeria,places,,pizzeria,Pizzeria,,2,11344,,File:LL-Q1860 (eng)-Vealhurl-pizzeria.wav,File:De-Pizzeria.ogg,
+tepee,places,,tepee,Tipi,,2,13636,,File:LL-Q1860 (eng)-Wodencafe-tepee.wav,File:De-Tipi.ogg,
+university,places,universitet,university,Universität,chuo kikuu,2,15537,File:Sv-universitet.ogg,File:LL-Q1860 (eng)-Grendelkhan-university.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Universität.wav,File:Sw-ke-chuo kikuu.flac
+escalator,places,,escalator,Rolltreppe,,2,21830,,File:LL-Q1860 (eng)-Vealhurl-escalator.wav,File:De-Rolltreppe.ogg,
+sauna,places,,sauna,Sauna,,2,25433,,File:LL-Q1860 (eng)-Arlo Barnes-sauna.wav,File:De-Sauna.ogg,
+art_gallery,places,galleri,art gallery,Galerie,,2,36898,File:Sv-galleri.ogg,File:LL-Q1860 (eng)-Vealhurl-art gallery.wav,File:De-Galerie.ogg,
 kindergarten,places,,kindergarten,Kindergarten,chekechea,2,39661,,File:LL-Q1860 (eng)-Vealhurl-kindergarten.wav,File:De-Kindergarten.ogg,File:Sw-ke-chekechea.flac
 supermarket,places,,supermarket,der Supermarkt,,2,3389,,File:LL-Q1860 (eng)-Simplificationalizer-supermarket.wav,File:LL-Q188 (deu)-Natschoba-der Supermarkt.wav,
 bakery,places,,bakery,die Bäckerei,,2,2864,,File:En-us-bakery.ogg,File:LL-Q188 (deu)-Natschoba-die Bäckerei.wav,
 ice_cream_shop,places,,ice cream shop,Eisdiele,,2,3347,,"File:LL-Q1860 (eng)-Flame, not lame-ice cream shop.wav",File:De-Eisdiele.ogg,
-pet_shop,places,,pet shop,,,2,16980,,File:En-us-pet shop.oga,,
+pet_shop,places,,pet shop,Tierhandlung,,2,16980,,File:En-us-pet shop.oga,File:De-Tierhandlung.ogg,
 body,body,kropp,body,der Körper,mwili,2,2728,File:Sv-kropp.ogg,File:LL-Q1860 (eng)-Grendelkhan-body.wav,File:LL-Q188 (deu)-Natschoba-der Körper.wav,File:Sw-ke-mwili.flac
 forehead,body,panna,forehead,Stirn,paji,2,3326,File:Sv-panna.ogg,File:LL-Q1860 (eng)-Simplificationalizer-forehead.wav,File:De-Stirn.ogg,File:Sw-ke-paji.flac
 moustache,body,,moustache,Schnurrbart,masharubu,2,2661,,File:En-us-moustache.ogg,File:De-Schnurrbart.ogg,File:Sw-ke-masharubu.flac
@@ -942,13 +942,13 @@ toes,body,,toes,Zehen,,2,26035,,File:LL-Q1860 (eng)-Vealhurl-toes.wav,File:LL-Q1
 feet,body,,feet,Füße,,2,37227,,File:LL-Q1860 (eng)-Grendelkhan-feet.wav,File:LL-Q188 (deu)-Natschoba-Füße.wav,
 forearm,body,,forearm,Unterarm,kigasha,2,39124,,File:LL-Q1860 (eng)-Vealhurl-forearm.wav,File:De-Unterarm.ogg,File:Sw-ke-kigasha.flac
 children,people,barn,children,Kinder,watoto,2,7178,File:Sv-barn.ogg,File:LL-Q1860 (eng)-Grendelkhan-children.wav,File:LL-Q188 (deu)-Natschoba-Kinder.wav,File:Sw-ke-watoto.flac
-grandchild,people,barnbarn,grandchild,,mjukuu,2,10343,File:Sv-barnbarn.ogg,File:LL-Q1860 (eng)-Vealhurl-grandchild.wav,,File:Sw-ke-mjukuu.flac
-person,people,person,person,,mtu,2,34558,File:Sv-person.ogg,File:LL-Q1860 (eng)-Grendelkhan-person.wav,,File:Sw-ke-mtu.flac
+grandchild,people,barnbarn,grandchild,Enkel,mjukuu,2,10343,File:Sv-barnbarn.ogg,File:LL-Q1860 (eng)-Vealhurl-grandchild.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Enkel.wav,File:Sw-ke-mjukuu.flac
+person,people,person,person,die Person,mtu,2,34558,File:Sv-person.ogg,File:LL-Q1860 (eng)-Grendelkhan-person.wav,File:LL-Q188 (deu)-Natschoba-die Person.wav,File:Sw-ke-mtu.flac
 baby,people,baby,baby,Baby,mtoto,2,2275,File:LL-Q9027 (swe)-Ainali-baby.wav,File:LL-Q1860 (eng)-Grendelkhan-baby.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Baby.wav,File:Sw-ke-mtoto.flac
 twins,people,,twins,Zwillinge,pacha,2,7115,,File:LL-Q1860 (eng)-Grendelkhan-twins.wav,File:De-Zwillinge.ogg,File:Sw-ke-pacha.flac
 parents,people,,parents,die Eltern,wazazi,2,35059,,File:LL-Q1860 (eng)-Grendelkhan-parents.wav,File:LL-Q188 (deu)-Natschoba-die Eltern.wav,File:Sw-ke-wazazi.flac
-family_tree,people,,family tree,,,2,39097,,"File:LL-Q1860 (eng)-Flame, not lame-family tree.wav",,
-teenagers,people,ungdomar,,,vijana,2,38817,File:LL-Q9027 (swe)-Allahverdi Verdizade-ungdomar.wav,,,File:Sw-ke-vijana.flac
+family_tree,people,,family tree,der Stammbaum,,2,39097,,"File:LL-Q1860 (eng)-Flame, not lame-family tree.wav",File:LL-Q188 (deu)-Natschoba-der Stammbaum.wav,
+teenagers,people,ungdomar,,Jugendliche,vijana,2,38817,File:LL-Q9027 (swe)-Allahverdi Verdizade-ungdomar.wav,,File:De-Jugendliche.ogg,File:Sw-ke-vijana.flac
 giraffe,animals,,giraffe,Giraffe,twiga,1,2437,,File:LL-Q1860 (eng)-Vealhurl-giraffe.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Giraffe.wav,File:Sw-ke-twiga.flac
 frog,animals,,frog,Frosch,chura,1,2543,,File:En-us-frog.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Frosch.wav,File:Sw-ke-chura.flac
 snail,animals,,snail,Schnecke,konokono,1,8061,,File:En-us-snail.ogg,File:De-Schnecke.ogg,File:Sw-ke-konokono.flac
@@ -969,146 +969,146 @@ teddy_bear,toys,teddybjörn,teddy bear,Teddybär,,1,4945,File:LL-Q9027 (swe)-Moo
 balloon,toys,,balloon,Luftballon,puto,1,8313,,File:LL-Q1860 (eng)-Wodencafe-balloon.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Luftballon.wav,File:Sw-ke-puto.flac
 drum,music,,drum,Trommel,ngoma,1,2578,,File:En-us-drum.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Trommel.wav,File:Sw-ke-ngoma.flac
 leaf,nature,blad,leaf,Blatt,jani,1,5077,File:Sv-blad.ogg,File:LL-Q1860 (eng)-Grendelkhan-leaf.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Blatt.wav,File:Sw-ke-jani.flac
-fishing_boat,vehicles,,,Fischerboot,,2,21423,,,File:De-Fischerboot.ogg,
-dough,food,,,der Teig,,2,38442,,,File:LL-Q188 (deu)-Natschoba-der Teig.wav,
+fishing_boat,vehicles,,fishing boat,Fischerboot,,2,21423,,File:LL-Q1860 (eng)-Vealhurl-fishing boat.wav,File:De-Fischerboot.ogg,
+dough,food,,dough,der Teig,,2,38442,,File:En-us-dough.ogg,File:LL-Q188 (deu)-Natschoba-der Teig.wav,
 rooster,animals,,rooster,Hahn,jogoo,1,2404,,File:LL-Q1860 (eng)-Wodencafe-rooster.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Hahn.wav,File:Sw-ke-jogoo.flac
 bull,animals,,bull,Stier,fahali,1,2595,,File:LL-Q1860 (eng)-Grendelkhan-bull.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Stier.wav,File:Sw-ke-fahali.flac
 bat,animals,,bat,Fledermaus,popo,1,2903,,File:LL-Q1860 (eng)-Grendelkhan-bat.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Fledermaus.wav,File:Sw-ke-popo.flac
 polar_bear,animals,,polar bear,Eisbär,,1,2868,,File:LL-Q1860 (eng)-Wodencafe-polar bear.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Eisbär.wav,
 deer,animals,,deer,Hirsch,kulungu,1,3263,,File:LL-Q1860 (eng)-Nattes à chat-deer.wav,File:De-Hirsch.ogg,File:Sw-ke-kulungu.flac
 fly,animals,fluga,fly,Fliege,nzi,1,2478,File:LL-Q9027 (swe)-Moonhouse-fluga.wav,File:LL-Q1860 (eng)-Grendelkhan-fly.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Fliege.wav,File:Sw-ke-nzi.flac
-wild_boar,animals,,,Wildschwein,,2,2965,,,File:LL-Q188 (deu)-Sebastian Wallroth-Wildschwein.wav,
+wild_boar,animals,,wild boar,Wildschwein,,2,2965,,File:En-uk-wild boar.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Wildschwein.wav,
 pony,animals,,pony,Pony,,1,8324,,File:En-au-pony.ogg,File:De-Pony.ogg,
 unicorn,toys,,unicorn,Einhorn,,1,6237,,File:LL-Q1860 (eng)-Wodencafe-unicorn.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Einhorn.wav,
-panther,animals,,,Panther,,2,24226,,,File:LL-Q188 (deu)-Mukeber-Panther.wav,
-coffee,food,kaffe,,der Kaffee,kahawa,2,2296,File:Sv-kaffe.ogg,,File:LL-Q188 (deu)-Natschoba-der Kaffee.wav,File:Sw-ke-kahawa.flac
+panther,animals,,panther,Panther,,2,24226,,File:LL-Q1860 (eng)-Vealhurl-panther.wav,File:LL-Q188 (deu)-Mukeber-Panther.wav,
+coffee,food,kaffe,coffee,der Kaffee,kahawa,2,2296,File:Sv-kaffe.ogg,File:LL-Q1860 (eng)-Grendelkhan-coffee.wav,File:LL-Q188 (deu)-Natschoba-der Kaffee.wav,File:Sw-ke-kahawa.flac
 juice,food,,juice,der Saft,juisi,1,11461,,File:LL-Q1860 (eng)-Grendelkhan-juice.wav,File:LL-Q188 (deu)-Natschoba-der Saft.wav,File:Sw-ke-juisi.flac
 fried_egg,food,,fried egg,das Spiegelei,,1,2428,,File:En-au-fried egg.ogg,File:LL-Q188 (deu)-Natschoba-das Spiegelei.wav,
-garlic,food,vitlök,,der Knoblauch,kitunguu saumu,2,2641,File:LL-Q9027 (swe)-Moonhouse-vitlök.wav,,File:LL-Q188 (deu)-Natschoba-der Knoblauch.wav,File:Sw-ke-kitunguu saumu.flac
+garlic,food,vitlök,garlic,der Knoblauch,kitunguu saumu,2,2641,File:LL-Q9027 (swe)-Moonhouse-vitlök.wav,File:En-uk-garlic.ogg,File:LL-Q188 (deu)-Natschoba-der Knoblauch.wav,File:Sw-ke-kitunguu saumu.flac
 lentils,food,,,Linsen,dengu,2,2448,,,File:LL-Q188 (deu)-Sebastian Wallroth-Linsen.wav,File:Sw-ke-dengu.flac
-leek,food,,,der Lauch,,2,3378,,,File:LL-Q188 (deu)-Natschoba-der Lauch.wav,
-gherkin,food,,,Essiggurke,,2,36567,,,File:LL-Q188 (deu)-Sebastian Wallroth-Essiggurke.wav,
+leek,food,,leek,der Lauch,,2,3378,,File:LL-Q1860 (eng)-Arlo Barnes-leek.wav,File:LL-Q188 (deu)-Natschoba-der Lauch.wav,
+gherkin,food,,gherkin,Essiggurke,,2,36567,,File:En-au-gherkin.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Essiggurke.wav,
 sweets,food,,sweets,Süßigkeiten,peremende,1,22182,,"File:LL-Q1860 (eng)-Flame, not lame-sweets.wav",File:LL-Q188 (deu)-Sebastian Wallroth-Süßigkeiten.wav,File:Sw-ke-peremende.flac
 toast,food,rostat bröd,toast,Toast,,1,2787,File:Sv-rostat bröd.ogg,File:LL-Q1860 (eng)-Grendelkhan-toast.wav,File:De-Toast.ogg,
 biscuit,food,,biscuit,Keks,,1,8312,,File:En-us-biscuit.ogg,File:De-Keks.ogg,
 chips,food,pommes frites,chips,Pommes frites,chipsi,1,2505,File:Sv-pommes frites.ogg,File:LL-Q1860 (eng)-Grendelkhan-chips.wav,File:LL-Q188 (deu)-Ziko-Pommes frites.wav,File:Sw-ke-chipsi.flac
 hot_dog,food,,hot dog,Hotdog,,1,7201,,File:LL-Q1860 (eng)-Wodencafe-hot dog.wav,File:De-Hotdog.ogg,
-omelette,food,,,Omelett,kimanda,2,4967,,,File:De-Omelett.ogg,File:Sw-ke-kimanda.flac
-bell_pepper,food,,,die Paprika,pilipili hoho,1,2839,,,File:LL-Q188 (deu)-Natschoba-die Paprika.wav,File:Sw-ke-pilipili hoho.flac
-pomegranate,food,,,Granatapfel,komamanga,2,,,,File:De-Granatapfel.ogg,File:Sw-ke-komamanga.flac
+omelette,food,,omelette,Omelett,kimanda,2,4967,,File:En-uk-omelette.ogg,File:De-Omelett.ogg,File:Sw-ke-kimanda.flac
+bell_pepper,food,,pepper,die Paprika,pilipili hoho,1,2839,,File:LL-Q1860 (eng)-Nattes à chat-pepper.wav,File:LL-Q188 (deu)-Natschoba-die Paprika.wav,File:Sw-ke-pilipili hoho.flac
+pomegranate,food,,pomegranate,Granatapfel,komamanga,2,,,File:En-uk-pomegranate.ogg,File:De-Granatapfel.ogg,File:Sw-ke-komamanga.flac
 papaya,food,,,Papaya,papai,2,16829,,,File:De-Papaya.ogg,File:Sw-ke-papai.flac
 raisins,food,,,Rosinen,,2,8648,,,File:De-Rosinen.ogg,
-cheesecake,food,ostkaka,,Käsekuchen,,2,38499,File:LL-Q9027 (swe)-Christoffre-ostkaka.wav,,File:LL-Q188 (deu)-Sebastian Wallroth-Käsekuchen.wav,
-parsley,food,,,die Petersilie,,2,11334,,,File:LL-Q188 (deu)-Natschoba-die Petersilie.wav,
-mint,food,,,die Minze,nanaa,2,21982,,,File:LL-Q188 (deu)-Natschoba-die Minze.wav,File:Sw-ke-nanaa.flac
-iron,home,,,Bügeleisen,pasi,1,2528,,,File:LL-Q188 (deu)-Sebastian Wallroth-Bügeleisen.wav,File:Sw-ke-pasi.flac
-tablecloth,home,,,Tischdecke,,2,2460,,,File:LL-Q188 (deu)-Sebastian Wallroth-Tischdecke.wav,
-curtain,home,,,Vorhang,pazia,1,8344,,,File:LL-Q188 (deu)-Sebastian Wallroth-Vorhang.wav,File:Sw-ke-pazia.flac
-calendar,school,,,Kalender,kalenda,2,3071,,,File:LL-Q188 (deu)-Sebastian Wallroth-Kalender.wav,File:Sw-ke-kalenda.flac
+cheesecake,food,ostkaka,cheesecake,Käsekuchen,,2,38499,File:LL-Q9027 (swe)-Christoffre-ostkaka.wav,File:LL-Q1860 (eng)-Vealhurl-cheesecake.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Käsekuchen.wav,
+parsley,food,,parsley,die Petersilie,,2,11334,,File:En-us-parsley.ogg,File:LL-Q188 (deu)-Natschoba-die Petersilie.wav,
+mint,food,,mint,die Minze,nanaa,2,21982,,File:En-us-mint.ogg,File:LL-Q188 (deu)-Natschoba-die Minze.wav,File:Sw-ke-nanaa.flac
+iron,home,,iron,Bügeleisen,pasi,1,2528,,File:LL-Q1860 (eng)-Grendelkhan-iron.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Bügeleisen.wav,File:Sw-ke-pasi.flac
+tablecloth,home,,tablecloth,Tischdecke,,2,2460,,File:LL-Q1860 (eng)-Status 401-Tablecloth.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Tischdecke.wav,
+curtain,home,,curtain,Vorhang,pazia,1,8344,,File:En-us-curtain.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Vorhang.wav,File:Sw-ke-pazia.flac
+calendar,school,,calendar,Kalender,kalenda,2,3071,,File:En-us-calendar.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Kalender.wav,File:Sw-ke-kalenda.flac
 candle,home,ljus,candle,die Kerze,mshumaa,1,6242,File:Sv-ljus.ogg,File:LL-Q1860 (eng)-Wodencafe-candle.wav,File:LL-Q188 (deu)-Natschoba-die Kerze.wav,File:Sw-ke-mshumaa.flac
 torch,home,,torch,Taschenlampe,tochi,1,6138,,File:En-us-torch.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Taschenlampe.wav,File:Sw-ke-tochi.flac
-nail,home,,,der Nagel,msumari,2,8306,,,File:LL-Q188 (deu)-Natschoba-der Nagel.wav,File:Sw-ke-msumari.flac
-plant,nature,växt,,die Pflanze,mmea,1,38613,File:LL-Q9027 (swe)-Moonhouse-växt.wav,,File:LL-Q188 (deu)-Natschoba-die Pflanze.wav,File:Sw-ke-mmea.flac
-tap,home,,,Wasserhahn,bomba,1,3339,,,File:De-Wasserhahn.ogg,File:Sw-ke-bomba.flac
-teapot,home,,,Teekanne,buli,1,7276,,,File:De-Teekanne.ogg,File:Sw-ke-buli.flac
-thermometer,home,,,Thermometer,kipimajoto,2,2789,,,File:De-Thermometer.ogg,File:Sw-ke-kipimajoto.flac
-scales,home,,,Waage,mizani,2,2659,,,File:LL-Q188 (deu)-Sebastian Wallroth-Waage.wav,File:Sw-ke-mizani.flac
-whisk,home,,,Schneebesen,,2,8504,,,File:LL-Q188 (deu)-Sebastian Wallroth-Schneebesen.wav,
-can,home,,,,kopo,2,6544,,,,File:Sw-ke-kopo.flac
+nail,home,,nail,der Nagel,msumari,2,8306,,File:LL-Q1860 (eng)-Grendelkhan-nail.wav,File:LL-Q188 (deu)-Natschoba-der Nagel.wav,File:Sw-ke-msumari.flac
+plant,nature,växt,plant,die Pflanze,mmea,1,38613,File:LL-Q9027 (swe)-Moonhouse-växt.wav,File:LL-Q1860 (eng)-Grendelkhan-plant.wav,File:LL-Q188 (deu)-Natschoba-die Pflanze.wav,File:Sw-ke-mmea.flac
+tap,home,,tap,Wasserhahn,bomba,1,3339,,File:LL-Q1860 (eng)-Grendelkhan-tap.wav,File:De-Wasserhahn.ogg,File:Sw-ke-bomba.flac
+teapot,home,,teapot,Teekanne,buli,1,7276,,File:En-uk-teapot.ogg,File:De-Teekanne.ogg,File:Sw-ke-buli.flac
+thermometer,home,,thermometer,Thermometer,kipimajoto,2,2789,,File:LL-Q1860 (eng)-Wodencafe-thermometer.wav,File:De-Thermometer.ogg,File:Sw-ke-kipimajoto.flac
+scales,home,,scales,Waage,mizani,2,2659,,File:En-us-scales.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Waage.wav,File:Sw-ke-mizani.flac
+whisk,home,,whisk,Schneebesen,,2,8504,,File:LL-Q1860 (eng)-Vealhurl-whisk.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Schneebesen.wav,
+can,home,,can,,kopo,2,6544,,File:LL-Q1860 (eng)-Grendelkhan-can.wav,,File:Sw-ke-kopo.flac
 pacifier,home,,pacifier,Schnuller,,1,4599,,File:LL-Q1860 (eng)-Vealhurl-pacifier.wav,File:De-Schnuller.ogg,
-baby_bottle,home,,,Babyflasche,,1,4577,,,File:De-Babyflasche.ogg,
+baby_bottle,home,,baby bottle,Babyflasche,,1,4577,,"File:LL-Q1860 (eng)-Flame, not lame-baby bottle.wav",File:De-Babyflasche.ogg,
 pram,vehicles,,pram,Kinderwagen,,1,6281,,File:En-au-pram.ogg,File:De-Kinderwagen.ogg,
 nappy,home,,nappy,Windel,,1,22017,,File:En-us-nappy.ogg,File:De-Windel.ogg,
 high_chair,home,,,Hochstuhl,,2,35961,,,File:De-Hochstuhl.ogg,
-fireplace,home,,,Kamin,,2,8072,,,File:De-Kamin.ogg,
-plug,home,kontakt,,Stecker,plagi,2,32890,File:Sv-kontakt.ogg,,File:De-Stecker.ogg,File:Sw-ke-plagi.flac
-piggy_bank,toys,,,Sparschwein,,1,4666,,,File:De-Sparschwein.ogg,
+fireplace,home,,fireplace,Kamin,,2,8072,,File:En-us-fireplace.ogg,File:De-Kamin.ogg,
+plug,home,kontakt,plug,Stecker,plagi,2,32890,File:Sv-kontakt.ogg,File:LL-Q1860 (eng)-Wodencafe-plug.wav,File:De-Stecker.ogg,File:Sw-ke-plagi.flac
+piggy_bank,toys,,piggy bank,Sparschwein,,1,4666,,"File:LL-Q1860 (eng)-Flame, not lame-piggy bank.wav",File:De-Sparschwein.ogg,
 cap,clothes,,cap,Kappe,,1,2411,,File:LL-Q1860 (eng)-Grendelkhan-cap.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Kappe.wav,
 shorts,clothes,,shorts,die Shorts,kaptura,1,13638,,File:En-us-shorts.ogg,File:LL-Q188 (deu)-Natschoba-die Shorts.wav,File:Sw-ke-kaptura.flac
 button,clothes,knapp,button,der Knopf,kifungo,1,2668,File:LL-Q9027 (swe)-Salgo60-knapp.wav,File:LL-Q1860 (eng)-Grendelkhan-button.wav,File:LL-Q188 (deu)-Natschoba-der Knopf.wav,File:Sw-ke-kifungo.flac
-suit,clothes,kostym,,,suti,2,39694,File:Sv-kostym.ogg,,,File:Sw-ke-suti.flac
-apron,clothes,,,,aproni,2,2366,,,,File:Sw-ke-aproni.flac
+suit,clothes,kostym,suit,der Anzug,suti,2,39694,File:Sv-kostym.ogg,File:LL-Q1860 (eng)-Grendelkhan-suit.wav,File:LL-Q188 (deu)-Natschoba-der Anzug.wav,File:Sw-ke-suti.flac
+apron,clothes,,apron,Schürze,aproni,2,2366,,File:LL-Q1860 (eng)-Arlo Barnes-apron.wav,File:De-Schürze.ogg,File:Sw-ke-aproni.flac
 jeans,clothes,,jeans,Jeans,,1,24222,,File:LL-Q1860 (eng)-Vealhurl-jeans.wav,File:De-Jeans.ogg,
 backpack,school,,backpack,Rucksack,,1,2475,,File:En-uk-backpack.ogg,File:De-Rucksack.ogg,
 watch,clothes,klocka,watch,Armbanduhr,saa,1,2549,File:LL-Q9027 (swe)-Ainali-klocka.wav,File:LL-Q1860 (eng)-Grendelkhan-watch.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Armbanduhr.wav,File:Sw-ke-saa.flac
-mask,toys,mask,,Maske,kinyago,2,5904,File:Sv-mask.ogg,,File:LL-Q188 (deu)-Sebastian Wallroth-Maske.wav,File:Sw-ke-kinyago.flac
-goggles,sports,,,Schwimmbrille,,2,3105,,,File:De-Schwimmbrille.ogg,
-root,nature,rot,,Wurzel,mzizi,2,3148,File:LL-Q9027 (swe)-Moonhouse-rot.wav,,File:LL-Q188 (deu)-Sebastian Wallroth-Wurzel.wav,File:Sw-ke-mzizi.flac
-seed,nature,,,Samen,mbegu,2,8321,,,File:LL-Q188 (deu)-Sebastian Wallroth-Samen.wav,File:Sw-ke-mbegu.flac
-iceberg,nature,,,Eisberg,,2,6014,,,File:LL-Q188 (deu)-Sebastian Wallroth-Eisberg.wav,
+mask,toys,mask,mask,Maske,kinyago,2,5904,File:Sv-mask.ogg,File:LL-Q1860 (eng)-Grendelkhan-mask.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Maske.wav,File:Sw-ke-kinyago.flac
+goggles,sports,,goggles,Schwimmbrille,,2,3105,,File:En-us-goggles.ogg,File:De-Schwimmbrille.ogg,
+root,nature,rot,root,Wurzel,mzizi,2,3148,File:LL-Q9027 (swe)-Moonhouse-rot.wav,File:LL-Q1860 (eng)-Grendelkhan-root.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Wurzel.wav,File:Sw-ke-mzizi.flac
+seed,nature,,seed,Samen,mbegu,2,8321,,File:LL-Q1860 (eng)-Grendelkhan-seed.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Samen.wav,File:Sw-ke-mbegu.flac
+iceberg,nature,,iceberg,Eisberg,,2,6014,,File:En-au-iceberg.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Eisberg.wav,
 earth,nature,jorden,Earth,Erde,dunia,1,30014,File:LL-Q9027 (swe)-Moonhouse-jorden.wav,File:LL-Q1860 (eng)-Grendelkhan-earth.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Erde.wav,File:Sw-ke-dunia.flac
 autumn,nature,höst,autumn,Herbst,,1,5531,File:LL-Q9027 (swe)-Salgo60-höst.wav,File:LL-Q1860 (eng)-Nattes à chat-autumn.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Herbst.wav,
 puddle,nature,,puddle,Pfütze,dimbwi,1,25936,,File:LL-Q1860 (eng)-Vealhurl-puddle.wav,File:De-Pfütze.ogg,File:Sw-ke-dimbwi.flac
-stick,nature,,,Stock,fimbo,1,11322,,,File:LL-Q188 (deu)-Sebastian Wallroth-Stock.wav,File:Sw-ke-fimbo.flac
-acorn,nature,,,Eichel,,2,8041,,,File:De-Eichel.ogg,
-tornado,nature,,,Tornado,kimbunga,2,5598,,,File:De-Tornado.ogg,File:Sw-ke-kimbunga.flac
+stick,nature,,stick,Stock,fimbo,1,11322,,File:LL-Q1860 (eng)-Grendelkhan-stick.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Stock.wav,File:Sw-ke-fimbo.flac
+acorn,nature,,acorn,Eichel,,2,8041,,File:En-us-acorn.ogg,File:De-Eichel.ogg,
+tornado,nature,,tornado,Tornado,kimbunga,2,5598,,File:LL-Q1860 (eng)-Arlo Barnes-tornado.wav,File:De-Tornado.ogg,File:Sw-ke-kimbunga.flac
 cave,places,,cave,Höhle,pango,1,2729,,File:LL-Q1860 (eng)-Grendelkhan-cave.wav,File:De-Höhle.ogg,File:Sw-ke-pango.flac
-mars,nature,Mars,,Mars,Mirihi,2,10296,File:LL-Q9027 (swe)-Moonhouse-Mars.wav,,File:LL-Q188 (deu)-Sebastian Wallroth-Mars.wav,File:Sw-ke-Mirihi.flac
-saturn,nature,Saturnus,,Saturn,Zohali,2,10300,File:LL-Q9027 (swe)-Moonhouse-Saturnus.wav,,File:LL-Q188 (deu)-Sebastian Wallroth-Saturn.wav,File:Sw-ke-Zohali.flac
-jupiter,nature,Jupiter,,Jupiter,Mshtarii,2,10293,File:LL-Q9027 (swe)-Moonhouse-Jupiter.wav,,File:LL-Q188 (deu)-Sebastian Wallroth-Jupiter.wav,File:Sw-ke-Mshtarii.flac
+mars,nature,Mars,Mars,Mars,Mirihi,2,10296,File:LL-Q9027 (swe)-Moonhouse-Mars.wav,File:LL-Q1860 (eng)-Wodencafe-Mars.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Mars.wav,File:Sw-ke-Mirihi.flac
+saturn,nature,Saturnus,Saturn,Saturn,Zohali,2,10300,File:LL-Q9027 (swe)-Moonhouse-Saturnus.wav,File:En-us-Saturn.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Saturn.wav,File:Sw-ke-Zohali.flac
+jupiter,nature,Jupiter,Jupiter,Jupiter,Mshtarii,2,10293,File:LL-Q9027 (swe)-Moonhouse-Jupiter.wav,File:En-us-Jupiter.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Jupiter.wav,File:Sw-ke-Mshtarii.flac
 firefighter,people,,firefighter,Feuerwehrmann,mzimamoto,1,2664,,File:LL-Q1860 (eng)-Vealhurl-firefighter.wav,File:De-Feuerwehrmann.ogg,File:Sw-ke-mzimamoto.flac
 pirate,people,,pirate,Pirat,haramia,1,6180,,File:En-us-pirate.ogg,File:De-Pirat.ogg,File:Sw-ke-haramia.flac
 knight,people,,knight,Ritter,,1,5406,,File:LL-Q1860 (eng)-Grendelkhan-knight.wav,File:De-Ritter.ogg,
 princess,people,,princess,Prinzessin,binti mfalme,1,5554,,File:LL-Q1860 (eng)-Grendelkhan-princess.wav,File:De-Prinzessin.ogg,File:Sw-ke-binti mfalme.flac
-witch,people,,,Hexe,mchawi,2,5404,,,File:LL-Q188 (deu)-Sebastian Wallroth-Hexe.wav,File:Sw-ke-mchawi.flac
+witch,people,,witch,Hexe,mchawi,2,5404,,File:LL-Q1860 (eng)-Grendelkhan-witch.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Hexe.wav,File:Sw-ke-mchawi.flac
 fairy,people,,fairy,Fee,,1,5482,,File:LL-Q1860 (eng)-Grendelkhan-fairy.wav,File:LL-Q188 (deu)-Trypeds-Fee.wav,
-ghost,people,,,Gespenst,mzimu,2,5469,,,File:LL-Q188 (deu)-Sebastian Wallroth-Gespenst.wav,File:Sw-ke-mzimu.flac
-father_christmas,people,tomte,,Weihnachtsmann,,1,3139,File:LL-Q9027 (swe)-Christoffre-tomte.wav,,File:LL-Q188 (deu)-Sebastian Wallroth-Weihnachtsmann.wav,
-sailor,people,,,Matrose,baharia,2,5507,,,File:De-Matrose.ogg,File:Sw-ke-baharia.flac
-waiter,people,,,,mhudumu,2,11198,,,,File:Sw-ke-mhudumu.flac
-pupil,people,elev,,Schüler,mwanafunzi,1,5900,File:Sv-elev.ogg,,File:LL-Q188 (deu)-Sebastian Wallroth-Schüler.wav,File:Sw-ke-mwanafunzi.flac
+ghost,people,,ghost,Gespenst,mzimu,2,5469,,File:LL-Q1860 (eng)-Grendelkhan-ghost.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Gespenst.wav,File:Sw-ke-mzimu.flac
+father_christmas,people,tomte,Father Christmas,Weihnachtsmann,,1,3139,File:LL-Q9027 (swe)-Christoffre-tomte.wav,File:LL-Q1860 (eng)-Vealhurl-Father Christmas.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Weihnachtsmann.wav,
+sailor,people,,sailor,Matrose,baharia,2,5507,,File:En-us-sailor.ogg,File:De-Matrose.ogg,File:Sw-ke-baharia.flac
+waiter,people,,waiter,Kellner,mhudumu,2,11198,,File:En-us-waiter.ogg,File:De-Kellner.ogg,File:Sw-ke-mhudumu.flac
+pupil,people,elev,pupil,Schüler,mwanafunzi,1,5900,File:Sv-elev.ogg,File:LL-Q1860 (eng)-Wodencafe-pupil.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Schüler.wav,File:Sw-ke-mwanafunzi.flac
 grandparents,people,morföräldrar,,Großeltern,,1,6876,File:Sv-morföräldrar.ogg,,File:LL-Q188 (deu)-Sebastian Wallroth-Großeltern.wav,
 farm,places,gård,farm,Bauernhof,shamba,1,3337,File:Sv-gård.ogg,File:LL-Q1860 (eng)-Grendelkhan-farm.wav,File:LL-Q188 (deu)-Mathieu Kappler-Bauernhof.wav,File:Sw-ke-shamba.flac
 zoo,places,,zoo,Zoo,bustani ya wanyama,1,4773,,File:En-us-zoo.ogg,File:LL-Q188 (deu)-PetiteTrolline-Zoo.wav,File:Sw-ke-bustani ya wanyama.flac
-village,places,by,,Dorf,kijiji,2,2823,File:Sv-by.ogg,,File:LL-Q188 (deu)-Sebastian Wallroth-Dorf.wav,File:Sw-ke-kijiji.flac
-fountain,places,,,Brunnen,chemchemi,2,3274,,,File:LL-Q188 (deu)-Michael Schoenitzer (MichaelSchoenitzer)-Brunnen.wav,File:Sw-ke-chemchemi.flac
-stage,places,scen,,Bühne,jukwaa,2,8106,File:Sv-scen.ogg,,File:LL-Q188 (deu)-Sebastian Wallroth-Bühne.wav,File:Sw-ke-jukwaa.flac
-windmill,places,,,Windmühle,,2,13086,,,File:De-Windmühle.ogg,
-pyramid,places,,,Pyramide,piramidi,2,8190,,,File:LL-Q188 (deu)-Sebastian Wallroth-Pyramide.wav,File:Sw-ke-piramidi.flac
+village,places,by,village,Dorf,kijiji,2,2823,File:Sv-by.ogg,File:LL-Q1860 (eng)-Grendelkhan-village.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Dorf.wav,File:Sw-ke-kijiji.flac
+fountain,places,,fountain,Brunnen,chemchemi,2,3274,,File:En-us-fountain.ogg,File:LL-Q188 (deu)-Michael Schoenitzer (MichaelSchoenitzer)-Brunnen.wav,File:Sw-ke-chemchemi.flac
+stage,places,scen,stage,Bühne,jukwaa,2,8106,File:Sv-scen.ogg,File:LL-Q1860 (eng)-Grendelkhan-stage.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Bühne.wav,File:Sw-ke-jukwaa.flac
+windmill,places,,windmill,Windmühle,,2,13086,,File:LL-Q1860 (eng)-Wodencafe-windmill.wav,File:De-Windmühle.ogg,
+pyramid,places,,pyramid,Pyramide,piramidi,2,8190,,File:En-us-pyramid.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Pyramide.wav,File:Sw-ke-piramidi.flac
 shop,places,affär,shop,das Geschäft,duka,1,9116,File:Sv-affär.ogg,File:LL-Q1860 (eng)-Grendelkhan-shop.wav,File:LL-Q188 (deu)-Natschoba-das Geschäft.wav,File:Sw-ke-duka.flac
-police_station,places,,,,kituo cha polisi,2,3083,,,,File:Sw-ke-kituo cha polisi.flac
-stable,places,stall,,,zizi,2,26712,File:Sv-stall.ogg,,,File:Sw-ke-zizi.flac
-classroom,school,,,Klassenzimmer,darasa,1,33072,,,File:De-Klassenzimmer.ogg,File:Sw-ke-darasa.flac
-pen,school,penna,,Kugelschreiber,kalamu,1,10313,File:Sv-penna.ogg,,File:LL-Q188 (deu)-Sebastian Wallroth-Kugelschreiber.wav,File:Sw-ke-kalamu.flac
-chalk,school,,,Kreide,chaki,1,36602,,,File:De-Kreide.ogg,File:Sw-ke-chaki.flac
-alphabet,school,alfabet,,Alphabet,alfabeti,1,3050,File:LL-Q9027 (swe)-Moonhouse-alfabet.wav,,File:LL-Q188 (deu)-Trypeds-Alphabet.wav,File:Sw-ke-alfabeti.flac
+police_station,places,,police station,Polizeistation,kituo cha polisi,2,3083,,File:LL-Q1860 (eng)-Vealhurl-police station.wav,File:De-Polizeistation.ogg,File:Sw-ke-kituo cha polisi.flac
+stable,places,stall,stable,Stall,zizi,2,26712,File:Sv-stall.ogg,File:LL-Q1860 (eng)-Grendelkhan-stable.wav,File:De-Stall.ogg,File:Sw-ke-zizi.flac
+classroom,school,,classroom,Klassenzimmer,darasa,1,33072,,File:En-uk-classroom.ogg,File:De-Klassenzimmer.ogg,File:Sw-ke-darasa.flac
+pen,school,penna,pen,Kugelschreiber,kalamu,1,10313,File:Sv-penna.ogg,File:LL-Q1860 (eng)-Grendelkhan-pen.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Kugelschreiber.wav,File:Sw-ke-kalamu.flac
+chalk,school,,chalk,Kreide,chaki,1,36602,,File:En-us-chalk.ogg,File:De-Kreide.ogg,File:Sw-ke-chaki.flac
+alphabet,school,alfabet,alphabet,Alphabet,alfabeti,1,3050,File:LL-Q9027 (swe)-Moonhouse-alfabet.wav,File:En-us-alphabet.ogg,File:LL-Q188 (deu)-Trypeds-Alphabet.wav,File:Sw-ke-alfabeti.flac
 puzzle,toys,,,Puzzle,,1,2540,,,File:LL-Q188 (deu)-Sebastian Wallroth-Puzzle.wav,
 dice,toys,,dice,Würfel,kete,1,2731,,File:En-us-dice.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Würfel.wav,File:Sw-ke-kete.flac
-paper_plane,toys,,,Papierflieger,,1,8495,,,File:LL-Q188 (deu)-Sebastian Wallroth-Papierflieger.wav,
-dollhouse,toys,,,Puppenhaus,,1,32798,,,File:De-Puppenhaus.ogg,
+paper_plane,toys,,paper airplane,Papierflieger,,1,8495,,File:LL-Q1860 (eng)-Vealhurl-paper airplane.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Papierflieger.wav,
+dollhouse,toys,,doll's house,Puppenhaus,,1,32798,,File:LL-Q1860 (eng)-Vealhurl-doll's house.wav,File:De-Puppenhaus.ogg,
 sledge,sports,,sledge,Schlitten,,1,8710,,File:En-au-sledge.ogg,File:De-Schlitten.ogg,
 ice_skates,sports,,,Schlittschuhe,,1,22022,,,File:De-Schlittschuhe.ogg,
 tennis_ball,sports,,,Tennisball,,2,2514,,,File:LL-Q188 (deu)-Sebastian Wallroth-Tennisball.wav,
-dumbbell,sports,,,Hantel,,2,6176,,,File:De-Hantel.ogg,
-rider,sports,,,Reiter,mpanda farasi,2,3169,,,File:LL-Q188 (deu)-Sebastian Wallroth-Reiter.wav,File:Sw-ke-mpanda farasi.flac
-swimmer,sports,,,Schwimmer,muogeleaji,2,2889,,,File:De-Schwimmer.ogg,File:Sw-ke-muogeleaji.flac
-runner,sports,,,Läufer,mkimbiaji,2,8544,,,File:De-Läufer.ogg,File:Sw-ke-mkimbiaji.flac
-flute,music,,,Flöte,filimbi,1,25115,,,File:LL-Q188 (deu)-Sebastian Wallroth-Flöte.wav,File:Sw-ke-filimbi.flac
-recorder,music,blockflöjt,,Blockflöte,,1,2396,File:LL-Q9027 (swe)-Ainali-blockflöjt.wav,,File:LL-Q188 (deu)-Sebastian Wallroth-Blockflöte.wav,
+dumbbell,sports,,dumbbell,Hantel,,2,6176,,File:En-us-dumbbell.ogg,File:De-Hantel.ogg,
+rider,sports,,rider,Reiter,mpanda farasi,2,3169,,File:En-us-rider.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Reiter.wav,File:Sw-ke-mpanda farasi.flac
+swimmer,sports,,swimmer,Schwimmer,muogeleaji,2,2889,,File:LL-Q1860 (eng)-Vealhurl-swimmer.wav,File:De-Schwimmer.ogg,File:Sw-ke-muogeleaji.flac
+runner,sports,,runner,Läufer,mkimbiaji,2,8544,,File:En-au-runner.ogg,File:De-Läufer.ogg,File:Sw-ke-mkimbiaji.flac
+flute,music,,flute,Flöte,filimbi,1,25115,,File:En-us-flute.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Flöte.wav,File:Sw-ke-filimbi.flac
+recorder,music,blockflöjt,recorder,Blockflöte,,1,2396,File:LL-Q9027 (swe)-Ainali-blockflöjt.wav,File:En-us-recorder.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Blockflöte.wav,
 drum_kit,music,,,Schlagzeug,,2,5923,,,File:LL-Q188 (deu)-Seshiru (Ltrlg)-Schlagzeug.wav,
 maracas,music,,,Rassel,,2,2463,,,File:LL-Q188 (deu)-Seshiru (Ltrlg)-Rassel.wav,
-castanets,music,,,Kastagnetten,,2,2318,,,File:De-Kastagnetten.ogg,
-tuba,music,,,Tuba,,2,6235,,,File:De-Tuba.ogg,
-bell,music,klocka,,Glocke,kengele,1,5938,File:LL-Q9027 (swe)-Ainali-klocka.wav,,File:De-Glocke.ogg,File:Sw-ke-kengele.flac
-music_note,music,,,Note,noti,2,9127,,,File:LL-Q188 (deu)-Sebastian Wallroth-Note.wav,File:Sw-ke-noti.flac
-orchestra,music,orkester,,das Orchester,,2,2870,File:Sv-orkester.ogg,,File:LL-Q188 (deu)-Natschoba-das Orchester.wav,
-organ,music,,,Orgel,,2,26262,,,File:De-Orgel.ogg,
+castanets,music,,castanets,Kastagnetten,,2,2318,,File:LL-Q1860 (eng)-Wodencafe-castanets.wav,File:De-Kastagnetten.ogg,
+tuba,music,,tuba,Tuba,,2,6235,,File:En-uk-tuba.ogg,File:De-Tuba.ogg,
+bell,music,klocka,bell,Glocke,kengele,1,5938,File:LL-Q9027 (swe)-Ainali-klocka.wav,File:LL-Q1860 (eng)-Grendelkhan-bell.wav,File:De-Glocke.ogg,File:Sw-ke-kengele.flac
+music_note,music,,note,Note,noti,2,9127,,File:LL-Q1860 (eng)-Grendelkhan-note.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Note.wav,File:Sw-ke-noti.flac
+orchestra,music,orkester,orchestra,das Orchester,,2,2870,File:Sv-orkester.ogg,File:LL-Q1860 (eng)-Simplificationalizer-orchestra.wav,File:LL-Q188 (deu)-Natschoba-das Orchester.wav,
+organ,music,,organ,Orgel,,2,26262,,File:En-us-organ.ogg,File:De-Orgel.ogg,
 hot_air_balloon,vehicles,,hot-air balloon,Heißluftballon,,1,2407,,File:LL-Q1860 (eng)-Vealhurl-hot-air balloon.wav,File:De-Heißluftballon.ogg,
 excavator,vehicles,,excavator,Bagger,katapila,1,2390,,File:LL-Q1860 (eng)-Vealhurl-excavator.wav,File:De-Bagger.ogg,File:Sw-ke-katapila.flac
-crane,vehicles,,,Kran,winchi,2,3341,,,File:De-Kran.ogg,File:Sw-ke-winchi.flac
+crane,vehicles,,crane,Kran,winchi,2,3341,,File:LL-Q1860 (eng)-Grendelkhan-crane.wav,File:De-Kran.ogg,File:Sw-ke-winchi.flac
 sailing_boat,vehicles,,sailboat,Segelboot,jahazi,1,8714,,File:En-au-sailboat.ogg,File:De-Segelboot.ogg,File:Sw-ke-jahazi.flac
-rowing_boat,vehicles,,,Ruderboot,,2,4920,,,File:De-Ruderboot.ogg,
-jeep,vehicles,,,Jeep,,2,3223,,,File:De-Jeep.ogg,
-underground,vehicles,,,die U-Bahn,,2,2472,,,File:LL-Q188 (deu)-Natschoba-die U-Bahn.wav,
+rowing_boat,vehicles,,rowboat,Ruderboot,,2,4920,,"File:LL-Q1860 (eng)-Flame, not lame-rowboat.wav",File:De-Ruderboot.ogg,
+jeep,vehicles,,jeep,Jeep,,2,3223,,File:LL-Q1860 (eng)-Wodencafe-jeep.wav,File:De-Jeep.ogg,
+underground,vehicles,,underground,die U-Bahn,,2,2472,,File:LL-Q1860 (eng)-Grendelkhan-underground.wav,File:LL-Q188 (deu)-Natschoba-die U-Bahn.wav,
 traffic_lights,vehicles,,traffic light,die Ampel,,1,2567,,File:LL-Q1860 (eng)-Vealhurl-traffic light.wav,File:LL-Q188 (deu)-Natschoba-die Ampel.wav,
-wheelchair,vehicles,,,Rollstuhl,kiti cha magurudumu,2,6212,,,File:De-Rollstuhl.ogg,File:Sw-ke-kiti cha magurudumu.flac
-carriage,vehicles,,,Kutsche,gari la farasi,2,25420,,,File:De-Kutsche.ogg,File:Sw-ke-gari la farasi.flac
+wheelchair,vehicles,,wheelchair,Rollstuhl,kiti cha magurudumu,2,6212,,File:En-us-wheelchair.ogg,File:De-Rollstuhl.ogg,File:Sw-ke-kiti cha magurudumu.flac
+carriage,vehicles,,carriage,Kutsche,gari la farasi,2,25420,,File:En-us-carriage.ogg,File:De-Kutsche.ogg,File:Sw-ke-gari la farasi.flac
 back,body,rygg,back,Rücken,mgongo,1,2748,File:Sv-rygg.ogg,File:LL-Q1860 (eng)-Grendelkhan-back.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Rücken.wav,File:Sw-ke-mgongo.flac
-fingernail,body,nagel,,Fingernagel,kucha,2,2783,File:LL-Q9027 (swe)-Moonhouse-nagel.wav,,File:LL-Q188 (deu)-Sebastian Wallroth-Fingernagel.wav,File:Sw-ke-kucha.flac
-hip,body,,,Hüfte,nyonga,2,3000,,,File:LL-Q188 (deu)-Sebastian Wallroth-Hüfte.wav,File:Sw-ke-nyonga.flac
-bone,body,,,Knochen,mfupa,2,6528,,,File:LL-Q188 (deu)-Sebastian Wallroth-Knochen.wav,File:Sw-ke-mfupa.flac
-wrist,body,,,Handgelenk,,2,2904,,,File:De-Handgelenk.ogg,
-ankle,body,,,Knöchel,kifundo cha mguu,2,3405,,,File:De-Knöchel.ogg,File:Sw-ke-kifundo cha mguu.flac
-skeleton,body,,,Skelett,kiunzi,2,5727,,,File:De-Skelett.ogg,File:Sw-ke-kiunzi.flac
-muscle,body,muskel,,Muskel,msuli,2,2891,File:Sv-muskel.ogg,,File:De-Muskel.ogg,File:Sw-ke-msuli.flac
-lungs,body,,,Lunge,mapafu,2,2822,,,File:De-Lunge.ogg,File:Sw-ke-mapafu.flac
+fingernail,body,nagel,nail,Fingernagel,kucha,2,2783,File:LL-Q9027 (swe)-Moonhouse-nagel.wav,File:LL-Q1860 (eng)-Grendelkhan-nail.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Fingernagel.wav,File:Sw-ke-kucha.flac
+hip,body,,hip,Hüfte,nyonga,2,3000,,File:En-us-hip.ogg,File:LL-Q188 (deu)-Sebastian Wallroth-Hüfte.wav,File:Sw-ke-nyonga.flac
+bone,body,,bone,Knochen,mfupa,2,6528,,File:LL-Q1860 (eng)-Grendelkhan-bone.wav,File:LL-Q188 (deu)-Sebastian Wallroth-Knochen.wav,File:Sw-ke-mfupa.flac
+wrist,body,,wrist,Handgelenk,,2,2904,,File:LL-Q1860 (eng)-Simplificationalizer-wrist.wav,File:De-Handgelenk.ogg,
+ankle,body,,ankle,Knöchel,kifundo cha mguu,2,3405,,File:LL-Q1860 (eng)-Wodencafe-ankle.wav,File:De-Knöchel.ogg,File:Sw-ke-kifundo cha mguu.flac
+skeleton,body,,skeleton,Skelett,kiunzi,2,5727,,File:En-us-skeleton.ogg,File:De-Skelett.ogg,File:Sw-ke-kiunzi.flac
+muscle,body,muskel,muscle,Muskel,msuli,2,2891,File:Sv-muskel.ogg,File:LL-Q1860 (eng)-Grendelkhan-muscle.wav,File:De-Muskel.ogg,File:Sw-ke-msuli.flac
+lungs,body,,lungs,Lunge,mapafu,2,2822,,File:En-us-lungs.ogg,File:De-Lunge.ogg,File:Sw-ke-mapafu.flac

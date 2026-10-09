@@ -35,9 +35,9 @@ doll,,doll,Puppe,mwanasesere,1,doll.png,,doll_en.mp3,doll_de.mp3,doll_sw.mp3
 teddy_bear,teddybjörn,teddy bear,Teddybär,,1,teddy_bear.png,teddy_bear_sv.mp3,teddy_bear_en.mp3,teddy_bear_de.mp3,
 balloon,,balloon,Luftballon,puto,1,balloon.png,,balloon_en.mp3,balloon_de.mp3,balloon_sw.mp3
 unicorn,,unicorn,Einhorn,,1,unicorn.png,,unicorn_en.mp3,unicorn_de.mp3,
-piggy_bank,,,Sparschwein,,1,piggy_bank.png,,,piggy_bank_de.mp3,
-mask,mask,,Maske,kinyago,2,mask.png,mask_sv.mp3,,mask_de.mp3,mask_sw.mp3
+piggy_bank,,piggy bank,Sparschwein,,1,piggy_bank.png,,piggy_bank_en.mp3,piggy_bank_de.mp3,
+mask,mask,mask,Maske,kinyago,2,mask.png,mask_sv.mp3,mask_en.mp3,mask_de.mp3,mask_sw.mp3
 puzzle,,,Puzzle,,1,puzzle.png,,,puzzle_de.mp3,
 dice,,dice,Würfel,kete,1,dice.png,,dice_en.mp3,dice_de.mp3,dice_sw.mp3
-paper_plane,,,Papierflieger,,1,paper_plane.png,,,paper_plane_de.mp3,
-dollhouse,,,Puppenhaus,,1,dollhouse.png,,,dollhouse_de.mp3,
+paper_plane,,paper airplane,Papierflieger,,1,paper_plane.png,,paper_plane_en.mp3,paper_plane_de.mp3,
+dollhouse,,doll's house,Puppenhaus,,1,dollhouse.png,,dollhouse_en.mp3,dollhouse_de.mp3,

@@ -41,54 +41,54 @@ conductor,dirigent,conductor,,,2,conductor.png,conductor_sv.mp3,conductor_en.mp3
 referee,domare,referee,,refa,2,referee.png,referee_sv.mp3,referee_en.mp3,,referee_sw.mp3
 writer,författare,writer,,mwandishi,2,writer.png,writer_sv.mp3,writer_en.mp3,,writer_sw.mp3
 artist,konstnär,artist,Künstler,msanii,2,artist.png,artist_sv.mp3,artist_en.mp3,artist_de.mp3,artist_sw.mp3
-scientist,forskare,scientist,,mwanasayansi,2,scientist.png,scientist_sv.mp3,scientist_en.mp3,,scientist_sw.mp3
+scientist,forskare,scientist,Wissenschaftler,mwanasayansi,2,scientist.png,scientist_sv.mp3,scientist_en.mp3,scientist_de.mp3,scientist_sw.mp3
 ballerina,,ballerina,Ballerina,,2,ballerina.png,,ballerina_en.mp3,ballerina_de.mp3,
 carpenter,,carpenter,Tischler,seremala,2,carpenter.png,,carpenter_en.mp3,carpenter_de.mp3,carpenter_sw.mp3
 dentist,,dentist,der Zahnarzt,daktari wa meno,2,dentist.png,,dentist_en.mp3,dentist_de.mp3,dentist_sw.mp3
-electrician,,electrician,,,2,electrician.png,,electrician_en.mp3,,
+electrician,,electrician,Elektriker,,2,electrician.png,,electrician_en.mp3,electrician_de.mp3,
 hairdresser,,hairdresser,der Friseur,kinyozi,2,hairdresser.png,,hairdresser_en.mp3,hairdresser_de.mp3,hairdresser_sw.mp3
 clown,,clown,Clown,mchekeshaji,2,clown.png,,clown_en.mp3,clown_de.mp3,clown_sw.mp3
 mechanic,,mechanic,der Mechaniker,,2,mechanic.png,,mechanic_en.mp3,mechanic_de.mp3,
-woodcutter,,woodcutter,,mtema kuni,2,woodcutter.png,,woodcutter_en.mp3,,woodcutter_sw.mp3
+woodcutter,,woodcutter,Holzfäller,mtema kuni,2,woodcutter.png,,woodcutter_en.mp3,woodcutter_de.mp3,woodcutter_sw.mp3
 gardener,,gardener,Gärtner,,2,gardener.png,,gardener_en.mp3,gardener_de.mp3,
-garbage_collector,,garbage collector,,,2,garbage_collector.png,,garbage_collector_en.mp3,,
-taxi_driver,,taxi driver,,,2,taxi_driver.png,,taxi_driver_en.mp3,,
-florist,,florist,,,2,florist.png,,florist_en.mp3,,
-plumber,,plumber,,,2,plumber.png,,plumber_en.mp3,,
+garbage_collector,,garbage collector,Müllmann,,2,garbage_collector.png,,garbage_collector_en.mp3,garbage_collector_de.mp3,
+taxi_driver,,taxi driver,Taxifahrer,,2,taxi_driver.png,,taxi_driver_en.mp3,taxi_driver_de.mp3,
+florist,,florist,Florist,,2,florist.png,,florist_en.mp3,florist_de.mp3,
+plumber,,plumber,Klempner,,2,plumber.png,,plumber_en.mp3,plumber_de.mp3,
 pilot,,pilot,Pilot,rubani,2,pilot.png,,pilot_en.mp3,pilot_de.mp3,pilot_sw.mp3
 astronaut,,astronaut,Astronaut,mwanaanga,2,astronaut.png,,astronaut_en.mp3,astronaut_de.mp3,astronaut_sw.mp3
 actress,,actress,die Schauspielerin,,2,actress.png,,actress_en.mp3,actress_de.mp3,
 acrobat,,acrobat,Akrobat,,2,acrobat.png,,acrobat_en.mp3,acrobat_de.mp3,
 chef,,chef,der Koch,mpishi,2,chef.png,,chef_en.mp3,chef_de.mp3,chef_sw.mp3
-miner,,miner,,mchimbaji,2,miner.png,,miner_en.mp3,,miner_sw.mp3
-juggler,,juggler,,,2,juggler.png,,juggler_en.mp3,,
+miner,,miner,Bergmann,mchimbaji,2,miner.png,,miner_en.mp3,miner_de.mp3,miner_sw.mp3
+juggler,,juggler,Jongleur,,2,juggler.png,,juggler_en.mp3,juggler_de.mp3,
 veterinarian,,veterinarian,Tierarzt,daktari wa mifugo,2,veterinarian.png,,veterinarian_en.mp3,veterinarian_de.mp3,veterinarian_sw.mp3
-tailor,,tailor,,mshonaji,2,tailor.png,,tailor_en.mp3,,tailor_sw.mp3
-flight_attendant,,flight attendant,,,2,flight_attendant.png,,flight_attendant_en.mp3,,
+tailor,,tailor,Schneider,mshonaji,2,tailor.png,,tailor_en.mp3,tailor_de.mp3,tailor_sw.mp3
+flight_attendant,,flight attendant,Flugbegleiter,,2,flight_attendant.png,,flight_attendant_en.mp3,flight_attendant_de.mp3,
 magician,,magician,Zauberer,,2,magician.png,,magician_en.mp3,magician_de.mp3,
 bus_driver,,bus driver,Busfahrer,dereva,2,bus_driver.png,,bus_driver_en.mp3,bus_driver_de.mp3,bus_driver_sw.mp3
-beekeeper,,beekeeper,,,2,beekeeper.png,,beekeeper_en.mp3,,
+beekeeper,,beekeeper,Imker,,2,beekeeper.png,,beekeeper_en.mp3,beekeeper_de.mp3,
 baker,,baker,Bäcker,mwokaji,2,baker.png,,baker_en.mp3,baker_de.mp3,baker_sw.mp3
-butcher,,butcher,,mchinjaji,2,butcher.png,,butcher_en.mp3,,butcher_sw.mp3
-journalist,journalist,,,mwanahabari,2,journalist.png,journalist_sv.mp3,,,journalist_sw.mp3
-cowboy,,cowboy,,,2,cowboy.png,,cowboy_en.mp3,,
+butcher,,butcher,Metzger,mchinjaji,2,butcher.png,,butcher_en.mp3,butcher_de.mp3,butcher_sw.mp3
+journalist,journalist,,Journalist,mwanahabari,2,journalist.png,journalist_sv.mp3,,journalist_de.mp3,journalist_sw.mp3
+cowboy,,cowboy,Cowboy,,2,cowboy.png,,cowboy_en.mp3,cowboy_de.mp3,
 children,barn,children,Kinder,watoto,2,children.png,children_sv.mp3,children_en.mp3,children_de.mp3,children_sw.mp3
-grandchild,barnbarn,grandchild,,mjukuu,2,grandchild.png,grandchild_sv.mp3,grandchild_en.mp3,,grandchild_sw.mp3
-person,person,person,,mtu,2,person.png,person_sv.mp3,person_en.mp3,,person_sw.mp3
+grandchild,barnbarn,grandchild,Enkel,mjukuu,2,grandchild.png,grandchild_sv.mp3,grandchild_en.mp3,grandchild_de.mp3,grandchild_sw.mp3
+person,person,person,die Person,mtu,2,person.png,person_sv.mp3,person_en.mp3,person_de.mp3,person_sw.mp3
 baby,baby,baby,Baby,mtoto,2,baby.png,baby_sv.mp3,baby_en.mp3,baby_de.mp3,baby_sw.mp3
 twins,,twins,Zwillinge,pacha,2,twins.png,,twins_en.mp3,twins_de.mp3,twins_sw.mp3
 parents,,parents,die Eltern,wazazi,2,parents.png,,parents_en.mp3,parents_de.mp3,parents_sw.mp3
-family_tree,,family tree,,,2,family_tree.png,,family_tree_en.mp3,,
-teenagers,ungdomar,,,vijana,2,teenagers.png,teenagers_sv.mp3,,,teenagers_sw.mp3
+family_tree,,family tree,der Stammbaum,,2,family_tree.png,,family_tree_en.mp3,family_tree_de.mp3,
+teenagers,ungdomar,,Jugendliche,vijana,2,teenagers.png,teenagers_sv.mp3,,teenagers_de.mp3,teenagers_sw.mp3
 firefighter,,firefighter,Feuerwehrmann,mzimamoto,1,firefighter.png,,firefighter_en.mp3,firefighter_de.mp3,firefighter_sw.mp3
 pirate,,pirate,Pirat,haramia,1,pirate.png,,pirate_en.mp3,pirate_de.mp3,pirate_sw.mp3
 knight,,knight,Ritter,,1,knight.png,,knight_en.mp3,knight_de.mp3,
 princess,,princess,Prinzessin,binti mfalme,1,princess.png,,princess_en.mp3,princess_de.mp3,princess_sw.mp3
-witch,,,Hexe,mchawi,2,witch.png,,,witch_de.mp3,witch_sw.mp3
+witch,,witch,Hexe,mchawi,2,witch.png,,witch_en.mp3,witch_de.mp3,witch_sw.mp3
 fairy,,fairy,Fee,,1,fairy.png,,fairy_en.mp3,fairy_de.mp3,
-ghost,,,Gespenst,mzimu,2,ghost.png,,,ghost_de.mp3,ghost_sw.mp3
-father_christmas,tomte,,Weihnachtsmann,,1,father_christmas.png,father_christmas_sv.mp3,,father_christmas_de.mp3,
-sailor,,,Matrose,baharia,2,sailor.png,,,sailor_de.mp3,sailor_sw.mp3
-waiter,,,,mhudumu,2,waiter.png,,,,waiter_sw.mp3
-pupil,elev,,Schüler,mwanafunzi,1,pupil.png,pupil_sv.mp3,,pupil_de.mp3,pupil_sw.mp3
+ghost,,ghost,Gespenst,mzimu,2,ghost.png,,ghost_en.mp3,ghost_de.mp3,ghost_sw.mp3
+father_christmas,tomte,Father Christmas,Weihnachtsmann,,1,father_christmas.png,father_christmas_sv.mp3,father_christmas_en.mp3,father_christmas_de.mp3,
+sailor,,sailor,Matrose,baharia,2,sailor.png,,sailor_en.mp3,sailor_de.mp3,sailor_sw.mp3
+waiter,,waiter,Kellner,mhudumu,2,waiter.png,,waiter_en.mp3,waiter_de.mp3,waiter_sw.mp3
+pupil,elev,pupil,Schüler,mwanafunzi,1,pupil.png,pupil_sv.mp3,pupil_en.mp3,pupil_de.mp3,pupil_sw.mp3
 grandparents,morföräldrar,,Großeltern,,1,grandparents.png,grandparents_sv.mp3,,grandparents_de.mp3,

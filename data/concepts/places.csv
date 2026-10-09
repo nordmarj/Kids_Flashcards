@@ -23,47 +23,47 @@ pharmacy,apotek,pharmacy,Apotheke,duka la dawa,2,pharmacy.png,pharmacy_sv.mp3,ph
 bank,bank,bank,Bank,benki,2,bank.png,bank_sv.mp3,bank_en.mp3,bank_de.mp3,bank_sw.mp3
 cinema,bio,cinema,Kino,sinema,2,cinema.png,cinema_sv.mp3,cinema_en.mp3,cinema_de.mp3,cinema_sw.mp3
 building,byggnad,building,Gebäude,jengo,2,building.png,building_sv.mp3,building_en.mp3,building_de.mp3,building_sw.mp3
-jetty,brygga,jetty,,gati,2,jetty.png,jetty_sv.mp3,jetty_en.mp3,,jetty_sw.mp3
+jetty,brygga,jetty,Steg,gati,2,jetty.png,jetty_sv.mp3,jetty_en.mp3,jetty_de.mp3,jetty_sw.mp3
 lift,,lift,Aufzug,lifti,2,lift.png,,lift_en.mp3,lift_de.mp3,lift_sw.mp3
 letter_box,,letter box,der Briefkasten,sanduku la posta,2,letter_box.png,,letter_box_en.mp3,letter_box_de.mp3,letter_box_sw.mp3
 shower,,shower,die Dusche,,2,shower.png,,shower_en.mp3,shower_de.mp3,
 sink,,sink,Waschbecken,sinki,2,sink.png,,sink_en.mp3,sink_de.mp3,sink_sw.mp3
 toilet,,toilet,die Toilette,choo,2,toilet.png,,toilet_en.mp3,toilet_de.mp3,toilet_sw.mp3
-barbershop,,barbershop,,kinyozi,2,barbershop.png,,barbershop_en.mp3,,barbershop_sw.mp3
-bookshop,,bookshop,,duka la vitabu,2,bookshop.png,,bookshop_en.mp3,,bookshop_sw.mp3
-kiosk,,kiosk,,,2,kiosk.png,,kiosk_en.mp3,,
-town_hall,,town hall,,,2,town_hall.png,,town_hall_en.mp3,,
-post_office,,post office,,posta,2,post_office.png,,post_office_en.mp3,,post_office_sw.mp3
-bowling_alley,,bowling alley,,,2,bowling_alley.png,,bowling_alley_en.mp3,,
+barbershop,,barbershop,Friseursalon,kinyozi,2,barbershop.png,,barbershop_en.mp3,barbershop_de.mp3,barbershop_sw.mp3
+bookshop,,bookshop,Buchladen,duka la vitabu,2,bookshop.png,,bookshop_en.mp3,bookshop_de.mp3,bookshop_sw.mp3
+kiosk,,kiosk,Kiosk,,2,kiosk.png,,kiosk_en.mp3,kiosk_de.mp3,
+town_hall,,town hall,Rathaus,,2,town_hall.png,,town_hall_en.mp3,town_hall_de.mp3,
+post_office,,post office,Post,posta,2,post_office.png,,post_office_en.mp3,post_office_de.mp3,post_office_sw.mp3
+bowling_alley,,bowling alley,Kegelbahn,,2,bowling_alley.png,,bowling_alley_en.mp3,bowling_alley_de.mp3,
 funfair,,funfair,Jahrmarkt,maonyesho,2,funfair.png,,funfair_en.mp3,funfair_de.mp3,funfair_sw.mp3
 roller_coaster,,roller coaster,Achterbahn,,2,roller_coaster.png,,roller_coaster_en.mp3,roller_coaster_de.mp3,
 ferris_wheel,,Ferris wheel,Riesenrad,,2,ferris_wheel.png,,ferris_wheel_en.mp3,ferris_wheel_de.mp3,
 carousel,,carousel,Karussell,,2,carousel.png,,carousel_en.mp3,carousel_de.mp3,
-tennis_court,,tennis court,,,2,tennis_court.png,,tennis_court_en.mp3,,
+tennis_court,,tennis court,Tennisplatz,,2,tennis_court.png,,tennis_court_en.mp3,tennis_court_de.mp3,
 cabin,,cabin,Blockhütte,,2,cabin.png,,cabin_en.mp3,cabin_de.mp3,
 chimney,,chimney,Schornstein,dohani,2,chimney.png,,chimney_en.mp3,chimney_de.mp3,chimney_sw.mp3
 hut,,hut,Hütte,kibanda,2,hut.png,,hut_en.mp3,hut_de.mp3,hut_sw.mp3
 igloo,,igloo,Iglu,,2,igloo.png,,igloo_en.mp3,igloo_de.mp3,
-shopping_centre,,shopping centre,,,2,shopping_centre.png,,shopping_centre_en.mp3,,
-pizzeria,,pizzeria,,,2,pizzeria.png,,pizzeria_en.mp3,,
-tepee,,tepee,,,2,tepee.png,,tepee_en.mp3,,
-university,universitet,university,,chuo kikuu,2,university.png,university_sv.mp3,university_en.mp3,,university_sw.mp3
-escalator,,escalator,,,2,escalator.png,,escalator_en.mp3,,
-sauna,,sauna,,,2,sauna.png,,sauna_en.mp3,,
-art_gallery,galleri,art gallery,,,2,art_gallery.png,art_gallery_sv.mp3,art_gallery_en.mp3,,
+shopping_centre,,shopping centre,Einkaufszentrum,,2,shopping_centre.png,,shopping_centre_en.mp3,shopping_centre_de.mp3,
+pizzeria,,pizzeria,Pizzeria,,2,pizzeria.png,,pizzeria_en.mp3,pizzeria_de.mp3,
+tepee,,tepee,Tipi,,2,tepee.png,,tepee_en.mp3,tepee_de.mp3,
+university,universitet,university,Universität,chuo kikuu,2,university.png,university_sv.mp3,university_en.mp3,university_de.mp3,university_sw.mp3
+escalator,,escalator,Rolltreppe,,2,escalator.png,,escalator_en.mp3,escalator_de.mp3,
+sauna,,sauna,Sauna,,2,sauna.png,,sauna_en.mp3,sauna_de.mp3,
+art_gallery,galleri,art gallery,Galerie,,2,art_gallery.png,art_gallery_sv.mp3,art_gallery_en.mp3,art_gallery_de.mp3,
 kindergarten,,kindergarten,Kindergarten,chekechea,2,kindergarten.png,,kindergarten_en.mp3,kindergarten_de.mp3,kindergarten_sw.mp3
 supermarket,,supermarket,der Supermarkt,,2,supermarket.png,,supermarket_en.mp3,supermarket_de.mp3,
 bakery,,bakery,die Bäckerei,,2,bakery.png,,bakery_en.mp3,bakery_de.mp3,
 ice_cream_shop,,ice cream shop,Eisdiele,,2,ice_cream_shop.png,,ice_cream_shop_en.mp3,ice_cream_shop_de.mp3,
-pet_shop,,pet shop,,,2,pet_shop.png,,pet_shop_en.mp3,,
+pet_shop,,pet shop,Tierhandlung,,2,pet_shop.png,,pet_shop_en.mp3,pet_shop_de.mp3,
 cave,,cave,Höhle,pango,1,cave.png,,cave_en.mp3,cave_de.mp3,cave_sw.mp3
 farm,gård,farm,Bauernhof,shamba,1,farm.png,farm_sv.mp3,farm_en.mp3,farm_de.mp3,farm_sw.mp3
 zoo,,zoo,Zoo,bustani ya wanyama,1,zoo.png,,zoo_en.mp3,zoo_de.mp3,zoo_sw.mp3
-village,by,,Dorf,kijiji,2,village.png,village_sv.mp3,,village_de.mp3,village_sw.mp3
-fountain,,,Brunnen,chemchemi,2,fountain.png,,,fountain_de.mp3,fountain_sw.mp3
-stage,scen,,Bühne,jukwaa,2,stage.png,stage_sv.mp3,,stage_de.mp3,stage_sw.mp3
-windmill,,,Windmühle,,2,windmill.png,,,windmill_de.mp3,
-pyramid,,,Pyramide,piramidi,2,pyramid.png,,,pyramid_de.mp3,pyramid_sw.mp3
+village,by,village,Dorf,kijiji,2,village.png,village_sv.mp3,village_en.mp3,village_de.mp3,village_sw.mp3
+fountain,,fountain,Brunnen,chemchemi,2,fountain.png,,fountain_en.mp3,fountain_de.mp3,fountain_sw.mp3
+stage,scen,stage,Bühne,jukwaa,2,stage.png,stage_sv.mp3,stage_en.mp3,stage_de.mp3,stage_sw.mp3
+windmill,,windmill,Windmühle,,2,windmill.png,,windmill_en.mp3,windmill_de.mp3,
+pyramid,,pyramid,Pyramide,piramidi,2,pyramid.png,,pyramid_en.mp3,pyramid_de.mp3,pyramid_sw.mp3
 shop,affär,shop,das Geschäft,duka,1,shop.png,shop_sv.mp3,shop_en.mp3,shop_de.mp3,shop_sw.mp3
-police_station,,,,kituo cha polisi,2,police_station.png,,,,police_station_sw.mp3
-stable,stall,,,zizi,2,stable.png,stable_sv.mp3,,,stable_sw.mp3
+police_station,,police station,Polizeistation,kituo cha polisi,2,police_station.png,,police_station_en.mp3,police_station_de.mp3,police_station_sw.mp3
+stable,stall,stable,Stall,zizi,2,stable.png,stable_sv.mp3,stable_en.mp3,stable_de.mp3,stable_sw.mp3

@@ -45,11 +45,11 @@ snowboarding,,snowboarding,Snowboard,,2,snowboarding.png,,snowboarding_en.mp3,sn
 boxing_glove,,boxing glove,Boxhandschuh,glavu,2,boxing_glove.png,,boxing_glove_en.mp3,boxing_glove_de.mp3,boxing_glove_sw.mp3
 frisbee,,frisbee,Frisbee,,2,frisbee.png,,frisbee_en.mp3,frisbee_de.mp3,
 goalkeeper,,goalkeeper,Torwart,kipa,2,goalkeeper.png,,goalkeeper_en.mp3,goalkeeper_de.mp3,goalkeeper_sw.mp3
-goggles,,,Schwimmbrille,,2,goggles.png,,,goggles_de.mp3,
+goggles,,goggles,Schwimmbrille,,2,goggles.png,,goggles_en.mp3,goggles_de.mp3,
 sledge,,sledge,Schlitten,,1,sledge.png,,sledge_en.mp3,sledge_de.mp3,
 ice_skates,,,Schlittschuhe,,1,ice_skates.png,,,ice_skates_de.mp3,
 tennis_ball,,,Tennisball,,2,tennis_ball.png,,,tennis_ball_de.mp3,
-dumbbell,,,Hantel,,2,dumbbell.png,,,dumbbell_de.mp3,
-rider,,,Reiter,mpanda farasi,2,rider.png,,,rider_de.mp3,rider_sw.mp3
-swimmer,,,Schwimmer,muogeleaji,2,swimmer.png,,,swimmer_de.mp3,swimmer_sw.mp3
-runner,,,Läufer,mkimbiaji,2,runner.png,,,runner_de.mp3,runner_sw.mp3
+dumbbell,,dumbbell,Hantel,,2,dumbbell.png,,dumbbell_en.mp3,dumbbell_de.mp3,
+rider,,rider,Reiter,mpanda farasi,2,rider.png,,rider_en.mp3,rider_de.mp3,rider_sw.mp3
+swimmer,,swimmer,Schwimmer,muogeleaji,2,swimmer.png,,swimmer_en.mp3,swimmer_de.mp3,swimmer_sw.mp3
+runner,,runner,Läufer,mkimbiaji,2,runner.png,,runner_en.mp3,runner_de.mp3,runner_sw.mp3

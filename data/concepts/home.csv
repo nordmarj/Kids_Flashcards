@@ -153,21 +153,21 @@ perfume,,perfume,Parfum,marashi,2,perfume.png,,perfume_en.mp3,perfume_de.mp3,per
 writing_desk,skrivbord,,Schreibtisch,dawati,2,writing_desk.png,writing_desk_sv.mp3,,writing_desk_de.mp3,writing_desk_sw.mp3
 telescope,,telescope,Teleskop,darubini,2,telescope.png,,telescope_en.mp3,telescope_de.mp3,telescope_sw.mp3
 rope,,rope,Seil,kamba,2,rope.png,,rope_en.mp3,rope_de.mp3,rope_sw.mp3
-iron,,,Bügeleisen,pasi,1,iron.png,,,iron_de.mp3,iron_sw.mp3
-tablecloth,,,Tischdecke,,2,tablecloth.png,,,tablecloth_de.mp3,
-curtain,,,Vorhang,pazia,1,curtain.png,,,curtain_de.mp3,curtain_sw.mp3
+iron,,iron,Bügeleisen,pasi,1,iron.png,,iron_en.mp3,iron_de.mp3,iron_sw.mp3
+tablecloth,,tablecloth,Tischdecke,,2,tablecloth.png,,tablecloth_en.mp3,tablecloth_de.mp3,
+curtain,,curtain,Vorhang,pazia,1,curtain.png,,curtain_en.mp3,curtain_de.mp3,curtain_sw.mp3
 candle,ljus,candle,die Kerze,mshumaa,1,candle.png,candle_sv.mp3,candle_en.mp3,candle_de.mp3,candle_sw.mp3
 torch,,torch,Taschenlampe,tochi,1,torch.png,,torch_en.mp3,torch_de.mp3,torch_sw.mp3
-nail,,,der Nagel,msumari,2,nail.png,,,nail_de.mp3,nail_sw.mp3
-tap,,,Wasserhahn,bomba,1,tap.png,,,tap_de.mp3,tap_sw.mp3
-teapot,,,Teekanne,buli,1,teapot.png,,,teapot_de.mp3,teapot_sw.mp3
-thermometer,,,Thermometer,kipimajoto,2,thermometer.png,,,thermometer_de.mp3,thermometer_sw.mp3
-scales,,,Waage,mizani,2,scales.png,,,scales_de.mp3,scales_sw.mp3
-whisk,,,Schneebesen,,2,whisk.png,,,whisk_de.mp3,
-can,,,,kopo,2,can.png,,,,can_sw.mp3
+nail,,nail,der Nagel,msumari,2,nail.png,,nail_en.mp3,nail_de.mp3,nail_sw.mp3
+tap,,tap,Wasserhahn,bomba,1,tap.png,,tap_en.mp3,tap_de.mp3,tap_sw.mp3
+teapot,,teapot,Teekanne,buli,1,teapot.png,,teapot_en.mp3,teapot_de.mp3,teapot_sw.mp3
+thermometer,,thermometer,Thermometer,kipimajoto,2,thermometer.png,,thermometer_en.mp3,thermometer_de.mp3,thermometer_sw.mp3
+scales,,scales,Waage,mizani,2,scales.png,,scales_en.mp3,scales_de.mp3,scales_sw.mp3
+whisk,,whisk,Schneebesen,,2,whisk.png,,whisk_en.mp3,whisk_de.mp3,
+can,,can,,kopo,2,can.png,,can_en.mp3,,can_sw.mp3
 pacifier,,pacifier,Schnuller,,1,pacifier.png,,pacifier_en.mp3,pacifier_de.mp3,
-baby_bottle,,,Babyflasche,,1,baby_bottle.png,,,baby_bottle_de.mp3,
+baby_bottle,,baby bottle,Babyflasche,,1,baby_bottle.png,,baby_bottle_en.mp3,baby_bottle_de.mp3,
 nappy,,nappy,Windel,,1,nappy.png,,nappy_en.mp3,nappy_de.mp3,
 high_chair,,,Hochstuhl,,2,high_chair.png,,,high_chair_de.mp3,
-fireplace,,,Kamin,,2,fireplace.png,,,fireplace_de.mp3,
-plug,kontakt,,Stecker,plagi,2,plug.png,plug_sv.mp3,,plug_de.mp3,plug_sw.mp3
+fireplace,,fireplace,Kamin,,2,fireplace.png,,fireplace_en.mp3,fireplace_de.mp3,
+plug,kontakt,plug,Stecker,plagi,2,plug.png,plug_sv.mp3,plug_en.mp3,plug_de.mp3,plug_sw.mp3

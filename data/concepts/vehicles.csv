@@ -21,50 +21,50 @@ motorbike,,motorbike,das Motorrad,pikipiki,2,motorbike.png,,motorbike_en.mp3,mot
 scooter,,scooter,Roller,skuta,2,scooter.png,,scooter_en.mp3,scooter_de.mp3,scooter_sw.mp3
 taxi,,taxi,das Taxi,teksi,2,taxi.png,,taxi_en.mp3,taxi_de.mp3,taxi_sw.mp3
 tram,,tram,die Straßenbahn,,2,tram.png,,tram_en.mp3,tram_de.mp3,
-cement_mixer,,cement mixer,,,2,cement_mixer.png,,cement_mixer_en.mp3,,
+cement_mixer,,cement mixer,Betonmischer,,2,cement_mixer.png,,cement_mixer_en.mp3,cement_mixer_de.mp3,
 submarine,,submarine,Unterseeboot,nyambizi,2,submarine.png,,submarine_en.mp3,submarine_de.mp3,submarine_sw.mp3
 yacht,,yacht,Yacht,,2,yacht.png,,yacht_en.mp3,yacht_de.mp3,
 caravan,,caravan,Wohnwagen,,2,caravan.png,,caravan_en.mp3,caravan_de.mp3,
 van,,van,Lieferwagen,,2,van.png,,van_en.mp3,van_de.mp3,
 police_car,,police car,Polizeiauto,,2,police_car.png,,police_car_en.mp3,police_car_de.mp3,
-life_jacket,,life jacket,,,2,life_jacket.png,,life_jacket_en.mp3,,
+life_jacket,,life jacket,Schwimmweste,,2,life_jacket.png,,life_jacket_en.mp3,life_jacket_de.mp3,
 lighthouse,,lighthouse,Leuchtturm,,2,lighthouse.png,,lighthouse_en.mp3,lighthouse_de.mp3,
 race_car,,race car,Rennwagen,,2,race_car.png,,race_car_en.mp3,race_car_de.mp3,
-safety_belt,,safety belt,,mkanda,2,safety_belt.png,,safety_belt_en.mp3,,safety_belt_sw.mp3
+safety_belt,,safety belt,Sicherheitsgurt,mkanda,2,safety_belt.png,,safety_belt_en.mp3,safety_belt_de.mp3,safety_belt_sw.mp3
 petrol_station,,petrol station,die Tankstelle,kituo cha mafuta,2,petrol_station.png,,petrol_station_en.mp3,petrol_station_de.mp3,petrol_station_sw.mp3
 canoe,,canoe,Kanu,mtumbwi,2,canoe.png,,canoe_en.mp3,canoe_de.mp3,canoe_sw.mp3
-steering_wheel,,steering wheel,,usukani,2,steering_wheel.png,,steering_wheel_en.mp3,,steering_wheel_sw.mp3
-car_park,,car park,,maegesho,2,car_park.png,,car_park_en.mp3,,car_park_sw.mp3
-highway,,highway,,,2,highway.png,,highway_en.mp3,,
+steering_wheel,,steering wheel,das Lenkrad,usukani,2,steering_wheel.png,,steering_wheel_en.mp3,steering_wheel_de.mp3,steering_wheel_sw.mp3
+car_park,,car park,Parkplatz,maegesho,2,car_park.png,,car_park_en.mp3,car_park_de.mp3,car_park_sw.mp3
+highway,,highway,Autobahn,,2,highway.png,,highway_en.mp3,highway_de.mp3,
 railway,,railway,Eisenbahn,reli,2,railway.png,,railway_en.mp3,railway_de.mp3,railway_sw.mp3
 garbage_truck,,garbage truck,Müllauto,,2,garbage_truck.png,,garbage_truck_en.mp3,garbage_truck_de.mp3,
 spaceship,,spaceship,Space Shuttle,,2,spaceship.png,,spaceship_en.mp3,spaceship_de.mp3,
-wing,,wing,,bawa,2,wing.png,,wing_en.mp3,,wing_sw.mp3
-snowplow,,snowplow,,,2,snowplow.png,,snowplow_en.mp3,,
-bullet_train,,bullet train,,,2,bullet_train.png,,bullet_train_en.mp3,,
-tow_truck,,tow truck,,,2,tow_truck.png,,tow_truck_en.mp3,,
-cruise_ship,,cruise ship,,,2,cruise_ship.png,,cruise_ship_en.mp3,,
-stagecoach,,stagecoach,,,2,stagecoach.png,,stagecoach_en.mp3,,
-cable_car,,cable car,,,2,cable_car.png,,cable_car_en.mp3,,
+wing,,wing,Flügel,bawa,2,wing.png,,wing_en.mp3,wing_de.mp3,wing_sw.mp3
+snowplow,,snowplow,Schneepflug,,2,snowplow.png,,snowplow_en.mp3,snowplow_de.mp3,
+bullet_train,,bullet train,Schnellzug,,2,bullet_train.png,,bullet_train_en.mp3,bullet_train_de.mp3,
+tow_truck,,tow truck,Abschleppwagen,,2,tow_truck.png,,tow_truck_en.mp3,tow_truck_de.mp3,
+cruise_ship,,cruise ship,Kreuzfahrtschiff,,2,cruise_ship.png,,cruise_ship_en.mp3,cruise_ship_de.mp3,
+stagecoach,,stagecoach,Postkutsche,,2,stagecoach.png,,stagecoach_en.mp3,stagecoach_de.mp3,
+cable_car,,cable car,Seilbahn,,2,cable_car.png,,cable_car_en.mp3,cable_car_de.mp3,
 parachute,,parachute,der Fallschirm,parachuti,2,parachute.png,,parachute_en.mp3,parachute_de.mp3,parachute_sw.mp3
 ferry,,ferry,Fähre,kivuko,2,ferry.png,,ferry_en.mp3,ferry_de.mp3,ferry_sw.mp3
 school_bus,,school bus,Schulbus,,2,school_bus.png,,school_bus_en.mp3,school_bus_de.mp3,
-gondola,,gondola,,,2,gondola.png,,gondola_en.mp3,,
-food_truck,,food truck,,,2,food_truck.png,,food_truck_en.mp3,,
-jet_ski,,jet ski,,,2,jet_ski.png,,jet_ski_en.mp3,,
-drone,,drone,,droni,2,drone.png,,drone_en.mp3,,drone_sw.mp3
+gondola,,gondola,Gondel,,2,gondola.png,,gondola_en.mp3,gondola_de.mp3,
+food_truck,,food truck,Foodtruck,,2,food_truck.png,,food_truck_en.mp3,food_truck_de.mp3,
+jet_ski,,jet ski,Jetski,,2,jet_ski.png,,jet_ski_en.mp3,jet_ski_de.mp3,
+drone,,drone,Drohne,droni,2,drone.png,,drone_en.mp3,drone_de.mp3,drone_sw.mp3
 tractor,,tractor,Traktor,trekta,1,tractor.png,,tractor_en.mp3,tractor_de.mp3,tractor_sw.mp3
 helicopter,,helicopter,Hubschrauber,helikopta,1,helicopter.png,,helicopter_en.mp3,helicopter_de.mp3,helicopter_sw.mp3
 fire_truck,,,Feuerwehrauto,,1,fire_truck.png,,,fire_truck_de.mp3,
-fishing_boat,,,Fischerboot,,2,fishing_boat.png,,,fishing_boat_de.mp3,
+fishing_boat,,fishing boat,Fischerboot,,2,fishing_boat.png,,fishing_boat_en.mp3,fishing_boat_de.mp3,
 pram,,pram,Kinderwagen,,1,pram.png,,pram_en.mp3,pram_de.mp3,
 hot_air_balloon,,hot-air balloon,Heißluftballon,,1,hot_air_balloon.png,,hot_air_balloon_en.mp3,hot_air_balloon_de.mp3,
 excavator,,excavator,Bagger,katapila,1,excavator.png,,excavator_en.mp3,excavator_de.mp3,excavator_sw.mp3
-crane,,,Kran,winchi,2,crane.png,,,crane_de.mp3,crane_sw.mp3
+crane,,crane,Kran,winchi,2,crane.png,,crane_en.mp3,crane_de.mp3,crane_sw.mp3
 sailing_boat,,sailboat,Segelboot,jahazi,1,sailing_boat.png,,sailing_boat_en.mp3,sailing_boat_de.mp3,sailing_boat_sw.mp3
-rowing_boat,,,Ruderboot,,2,rowing_boat.png,,,rowing_boat_de.mp3,
-jeep,,,Jeep,,2,jeep.png,,,jeep_de.mp3,
-underground,,,die U-Bahn,,2,underground.png,,,underground_de.mp3,
+rowing_boat,,rowboat,Ruderboot,,2,rowing_boat.png,,rowing_boat_en.mp3,rowing_boat_de.mp3,
+jeep,,jeep,Jeep,,2,jeep.png,,jeep_en.mp3,jeep_de.mp3,
+underground,,underground,die U-Bahn,,2,underground.png,,underground_en.mp3,underground_de.mp3,
 traffic_lights,,traffic light,die Ampel,,1,traffic_lights.png,,traffic_lights_en.mp3,traffic_lights_de.mp3,
-wheelchair,,,Rollstuhl,kiti cha magurudumu,2,wheelchair.png,,,wheelchair_de.mp3,wheelchair_sw.mp3
-carriage,,,Kutsche,gari la farasi,2,carriage.png,,,carriage_de.mp3,carriage_sw.mp3
+wheelchair,,wheelchair,Rollstuhl,kiti cha magurudumu,2,wheelchair.png,,wheelchair_en.mp3,wheelchair_de.mp3,wheelchair_sw.mp3
+carriage,,carriage,Kutsche,gari la farasi,2,carriage.png,,carriage_en.mp3,carriage_de.mp3,carriage_sw.mp3

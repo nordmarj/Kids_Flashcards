@@ -45,11 +45,11 @@ toes,,toes,Zehen,,2,toes.png,,toes_en.mp3,toes_de.mp3,
 feet,,feet,Füße,,2,feet.png,,feet_en.mp3,feet_de.mp3,
 forearm,,forearm,Unterarm,kigasha,2,forearm.png,,forearm_en.mp3,forearm_de.mp3,forearm_sw.mp3
 back,rygg,back,Rücken,mgongo,1,back.png,back_sv.mp3,back_en.mp3,back_de.mp3,back_sw.mp3
-fingernail,nagel,,Fingernagel,kucha,2,fingernail.png,fingernail_sv.mp3,,fingernail_de.mp3,fingernail_sw.mp3
-hip,,,Hüfte,nyonga,2,hip.png,,,hip_de.mp3,hip_sw.mp3
-bone,,,Knochen,mfupa,2,bone.png,,,bone_de.mp3,bone_sw.mp3
-wrist,,,Handgelenk,,2,wrist.png,,,wrist_de.mp3,
-ankle,,,Knöchel,kifundo cha mguu,2,ankle.png,,,ankle_de.mp3,ankle_sw.mp3
-skeleton,,,Skelett,kiunzi,2,skeleton.png,,,skeleton_de.mp3,skeleton_sw.mp3
-muscle,muskel,,Muskel,msuli,2,muscle.png,muscle_sv.mp3,,muscle_de.mp3,muscle_sw.mp3
-lungs,,,Lunge,mapafu,2,lungs.png,,,lungs_de.mp3,lungs_sw.mp3
+fingernail,nagel,nail,Fingernagel,kucha,2,fingernail.png,fingernail_sv.mp3,fingernail_en.mp3,fingernail_de.mp3,fingernail_sw.mp3
+hip,,hip,Hüfte,nyonga,2,hip.png,,hip_en.mp3,hip_de.mp3,hip_sw.mp3
+bone,,bone,Knochen,mfupa,2,bone.png,,bone_en.mp3,bone_de.mp3,bone_sw.mp3
+wrist,,wrist,Handgelenk,,2,wrist.png,,wrist_en.mp3,wrist_de.mp3,
+ankle,,ankle,Knöchel,kifundo cha mguu,2,ankle.png,,ankle_en.mp3,ankle_de.mp3,ankle_sw.mp3
+skeleton,,skeleton,Skelett,kiunzi,2,skeleton.png,,skeleton_en.mp3,skeleton_de.mp3,skeleton_sw.mp3
+muscle,muskel,muscle,Muskel,msuli,2,muscle.png,muscle_sv.mp3,muscle_en.mp3,muscle_de.mp3,muscle_sw.mp3
+lungs,,lungs,Lunge,mapafu,2,lungs.png,,lungs_en.mp3,lungs_de.mp3,lungs_sw.mp3

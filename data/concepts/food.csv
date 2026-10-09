@@ -136,23 +136,23 @@ cinnamon_roll,kanelbulle,,Zimtschnecke,,2,cinnamon_roll.png,cinnamon_roll_sv.mp3
 gingerbread_cookie,pepparkaka,,Lebkuchen,,2,gingerbread_cookie.png,gingerbread_cookie_sv.mp3,,gingerbread_cookie_de.mp3,
 cake,,cake,Torte,keki,1,cake.png,,cake_en.mp3,cake_de.mp3,cake_sw.mp3
 grapes,,grapes,Weintrauben,zabibu,1,grapes.png,,grapes_en.mp3,grapes_de.mp3,grapes_sw.mp3
-dough,,,der Teig,,2,dough.png,,,dough_de.mp3,
-coffee,kaffe,,der Kaffee,kahawa,2,coffee.png,coffee_sv.mp3,,coffee_de.mp3,coffee_sw.mp3
+dough,,dough,der Teig,,2,dough.png,,dough_en.mp3,dough_de.mp3,
+coffee,kaffe,coffee,der Kaffee,kahawa,2,coffee.png,coffee_sv.mp3,coffee_en.mp3,coffee_de.mp3,coffee_sw.mp3
 juice,,juice,der Saft,juisi,1,juice.png,,juice_en.mp3,juice_de.mp3,juice_sw.mp3
 fried_egg,,fried egg,das Spiegelei,,1,fried_egg.png,,fried_egg_en.mp3,fried_egg_de.mp3,
-garlic,vitlök,,der Knoblauch,kitunguu saumu,2,garlic.png,garlic_sv.mp3,,garlic_de.mp3,garlic_sw.mp3
+garlic,vitlök,garlic,der Knoblauch,kitunguu saumu,2,garlic.png,garlic_sv.mp3,garlic_en.mp3,garlic_de.mp3,garlic_sw.mp3
 lentils,,,Linsen,dengu,2,lentils.png,,,lentils_de.mp3,lentils_sw.mp3
-leek,,,der Lauch,,2,leek.png,,,leek_de.mp3,
-gherkin,,,Essiggurke,,2,gherkin.png,,,gherkin_de.mp3,
+leek,,leek,der Lauch,,2,leek.png,,leek_en.mp3,leek_de.mp3,
+gherkin,,gherkin,Essiggurke,,2,gherkin.png,,gherkin_en.mp3,gherkin_de.mp3,
 sweets,,sweets,Süßigkeiten,peremende,1,sweets.png,,sweets_en.mp3,sweets_de.mp3,sweets_sw.mp3
 toast,rostat bröd,toast,Toast,,1,toast.png,toast_sv.mp3,toast_en.mp3,toast_de.mp3,
 biscuit,,biscuit,Keks,,1,biscuit.png,,biscuit_en.mp3,biscuit_de.mp3,
 chips,pommes frites,chips,Pommes frites,chipsi,1,chips.png,chips_sv.mp3,chips_en.mp3,chips_de.mp3,chips_sw.mp3
 hot_dog,,hot dog,Hotdog,,1,hot_dog.png,,hot_dog_en.mp3,hot_dog_de.mp3,
-omelette,,,Omelett,kimanda,2,omelette.png,,,omelette_de.mp3,omelette_sw.mp3
-bell_pepper,,,die Paprika,pilipili hoho,1,bell_pepper.png,,,bell_pepper_de.mp3,bell_pepper_sw.mp3
+omelette,,omelette,Omelett,kimanda,2,omelette.png,,omelette_en.mp3,omelette_de.mp3,omelette_sw.mp3
+bell_pepper,,pepper,die Paprika,pilipili hoho,1,bell_pepper.png,,bell_pepper_en.mp3,bell_pepper_de.mp3,bell_pepper_sw.mp3
 papaya,,,Papaya,papai,2,papaya.png,,,papaya_de.mp3,papaya_sw.mp3
 raisins,,,Rosinen,,2,raisins.png,,,raisins_de.mp3,
-cheesecake,ostkaka,,Käsekuchen,,2,cheesecake.png,cheesecake_sv.mp3,,cheesecake_de.mp3,
-parsley,,,die Petersilie,,2,parsley.png,,,parsley_de.mp3,
-mint,,,die Minze,nanaa,2,mint.png,,,mint_de.mp3,mint_sw.mp3
+cheesecake,ostkaka,cheesecake,Käsekuchen,,2,cheesecake.png,cheesecake_sv.mp3,cheesecake_en.mp3,cheesecake_de.mp3,
+parsley,,parsley,die Petersilie,,2,parsley.png,,parsley_en.mp3,parsley_de.mp3,
+mint,,mint,die Minze,nanaa,2,mint.png,,mint_en.mp3,mint_de.mp3,mint_sw.mp3
