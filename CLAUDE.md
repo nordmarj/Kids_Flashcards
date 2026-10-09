@@ -47,8 +47,9 @@ Swahili (`sw`)** (ISO 639-1 codes).
   language's word side by side, so the languages can never drift apart.
 - A concept may exist in only one language (Jens, 2026-10-08): its other
   word and recording are left empty and it only appears in that language's
-  deck. Each language holds at most **1,000 words**, all of them suitable
-  for the target audience.
+  deck. There is no word cap (Jens lifted the 1,000-word cap on
+  2026-10-09): every kid-friendly ARASAAC picture with a recording goes in,
+  and every word must suit the target audience.
 - Each language is built as its **own deck tree** from that shared table:
   a top-level deck per language, a deck per card type under it, and a
   subdeck per topic, e.g. `Svenska::Ord::Djur`, `English::Words::Animals`,
@@ -64,7 +65,9 @@ Swahili (`sw`)** (ISO 639-1 codes).
 - German nouns are capitalised (`Katze`). Some German recordings include the
   article (`die Tasse`), and the card then shows it too.
 - The Swahili words were translated by Claude and matched to recordings by
-  file name; they have not yet been checked by a Swahili speaker.
+  file name. Each one is checked against open dictionaries (English
+  Wiktionary via kaikki.org, FreeDict) and dropped if the dictionary gives
+  another meaning; they have not yet been checked by a Swahili speaker.
 - The written word always matches exactly what its recording says. If the
   recording says `katt`, the card shows `katt`; if it says `en katt`, the card
   shows `en katt`. Adjust the text to the audio, never the other way round.
