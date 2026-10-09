@@ -2,28 +2,39 @@ id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
 guitar,gitarr,guitar,Gitarre,gitaa,1,guitar.png,guitar_sv.mp3,guitar_en.mp3,guitar_de.mp3,guitar_sw.mp3
 piano,piano,piano,Klavier,kinanda,1,piano.png,piano_sv.mp3,piano_en.mp3,piano_de.mp3,piano_sw.mp3
 violin,fiol,violin,Geige,fidla,2,violin.png,violin_sv.mp3,violin_en.mp3,violin_de.mp3,violin_sw.mp3
-tambourine,,tambourine,,,2,tambourine.png,,tambourine_en.mp3,,
-saxophone,,saxophone,,,2,saxophone.png,,saxophone_en.mp3,,
-trumpet,,trumpet,,,2,trumpet.png,,trumpet_en.mp3,,
-xylophone,,xylophone,,,2,xylophone.png,,xylophone_en.mp3,,
-triangle,,triangle,,,2,triangle.png,,triangle_en.mp3,,
-violoncello,,violoncello,,,2,violoncello.png,,violoncello_en.mp3,,
-bagpipe,,bagpipe,,,2,bagpipe.png,,bagpipe_en.mp3,,
-accordion,,accordion,,,2,accordion.png,,accordion_en.mp3,,
-harmonica,,harmonica,,,2,harmonica.png,,harmonica_en.mp3,,
-headphones,,headphones,,,2,headphones.png,,headphones_en.mp3,,
-clarinet,,clarinet,,,2,clarinet.png,,clarinet_en.mp3,,
-trombone,,trombone,,,2,trombone.png,,trombone_en.mp3,,
-horn,,horn,,,2,horn.png,,horn_en.mp3,,
-bongo,,bongo,,,2,bongo.png,,bongo_en.mp3,,
-cymbal,,cymbal,,,2,cymbal.png,,cymbal_en.mp3,,
-harp,,harp,,,2,harp.png,,harp_en.mp3,,
-electric_guitar,,electric guitar,,,2,electric_guitar.png,,electric_guitar_en.mp3,,
-record_player,,record player,,,2,record_player.png,,record_player_en.mp3,,
-double_bass,,double bass,,,2,double_bass.png,,double_bass_en.mp3,,
-guitarist,,guitarist,,,2,guitarist.png,,guitarist_en.mp3,,
-bass_drum,,bass drum,,,2,bass_drum.png,,bass_drum_en.mp3,,
-gong,,gong,,,2,gong.png,,gong_en.mp3,,
-ukulele,,ukulele,,,2,ukulele.png,,ukulele_en.mp3,,
-banjo,,banjo,,,2,banjo.png,,banjo_en.mp3,,
-music_box,,music box,,,2,music_box.png,,music_box_en.mp3,,
+tambourine,,tambourine,Tamburin,kigoma,2,tambourine.png,,tambourine_en.mp3,tambourine_de.mp3,tambourine_sw.mp3
+saxophone,,saxophone,Saxophon,,2,saxophone.png,,saxophone_en.mp3,saxophone_de.mp3,
+trumpet,,trumpet,Trompete,tarumbeta,2,trumpet.png,,trumpet_en.mp3,trumpet_de.mp3,trumpet_sw.mp3
+xylophone,,xylophone,Xylophon,marimba,2,xylophone.png,,xylophone_en.mp3,xylophone_de.mp3,xylophone_sw.mp3
+triangle,,triangle,Triangel,,2,triangle.png,,triangle_en.mp3,triangle_de.mp3,
+violoncello,,violoncello,Cello,,2,violoncello.png,,violoncello_en.mp3,violoncello_de.mp3,
+bagpipe,,bagpipe,Dudelsack,,2,bagpipe.png,,bagpipe_en.mp3,bagpipe_de.mp3,
+accordion,,accordion,Akkordeon,kodiani,2,accordion.png,,accordion_en.mp3,accordion_de.mp3,accordion_sw.mp3
+harmonica,,harmonica,Mundharmonika,,2,harmonica.png,,harmonica_en.mp3,harmonica_de.mp3,
+headphones,,headphones,Kopfhörer,,2,headphones.png,,headphones_en.mp3,headphones_de.mp3,
+clarinet,,clarinet,Klarinette,zumari,2,clarinet.png,,clarinet_en.mp3,clarinet_de.mp3,clarinet_sw.mp3
+trombone,,trombone,Posaune,,2,trombone.png,,trombone_en.mp3,trombone_de.mp3,
+horn,,horn,Horn,,2,horn.png,,horn_en.mp3,horn_de.mp3,
+bongo,,bongo,Bongos,,2,bongo.png,,bongo_en.mp3,bongo_de.mp3,
+cymbal,,cymbal,Becken,tasa,2,cymbal.png,,cymbal_en.mp3,cymbal_de.mp3,cymbal_sw.mp3
+harp,,harp,Harfe,,2,harp.png,,harp_en.mp3,harp_de.mp3,
+electric_guitar,,electric guitar,E-Gitarre,,2,electric_guitar.png,,electric_guitar_en.mp3,electric_guitar_de.mp3,
+record_player,,record player,Plattenspieler,santuri,2,record_player.png,,record_player_en.mp3,record_player_de.mp3,record_player_sw.mp3
+double_bass,,double bass,Kontrabass,,2,double_bass.png,,double_bass_en.mp3,double_bass_de.mp3,
+guitarist,,guitarist,Gitarrist,,2,guitarist.png,,guitarist_en.mp3,guitarist_de.mp3,
+bass_drum,,bass drum,Pauke,,2,bass_drum.png,,bass_drum_en.mp3,bass_drum_de.mp3,
+gong,,gong,Gong,upatu,2,gong.png,,gong_en.mp3,gong_de.mp3,gong_sw.mp3
+ukulele,,ukulele,Ukulele,,2,ukulele.png,,ukulele_en.mp3,ukulele_de.mp3,
+banjo,,banjo,Banjo,,2,banjo.png,,banjo_en.mp3,banjo_de.mp3,
+music_box,,music box,Spieluhr,,2,music_box.png,,music_box_en.mp3,music_box_de.mp3,
+drum,,drum,Trommel,ngoma,1,drum.png,,drum_en.mp3,drum_de.mp3,drum_sw.mp3
+flute,,,Flöte,filimbi,1,flute.png,,,flute_de.mp3,flute_sw.mp3
+recorder,blockflöjt,,Blockflöte,,1,recorder.png,recorder_sv.mp3,,recorder_de.mp3,
+drum_kit,,,Schlagzeug,,2,drum_kit.png,,,drum_kit_de.mp3,
+maracas,,,Rassel,,2,maracas.png,,,maracas_de.mp3,
+castanets,,,Kastagnetten,,2,castanets.png,,,castanets_de.mp3,
+tuba,,,Tuba,,2,tuba.png,,,tuba_de.mp3,
+bell,klocka,,Glocke,kengele,1,bell.png,bell_sv.mp3,,bell_de.mp3,bell_sw.mp3
+music_note,,,Note,noti,2,music_note.png,,,music_note_de.mp3,music_note_sw.mp3
+orchestra,orkester,,das Orchester,,2,orchestra.png,orchestra_sv.mp3,,orchestra_de.mp3,
+organ,,,Orgel,,2,organ.png,,,organ_de.mp3,

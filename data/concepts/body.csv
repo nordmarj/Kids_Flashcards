@@ -24,23 +24,32 @@ heart,hjärta,heart,Herz,moyo,1,heart.png,heart_sv.mp3,heart_en.mp3,heart_de.mp3
 brain,hjärna,brain,Gehirn,ubongo,2,brain.png,brain_sv.mp3,brain_en.mp3,brain_de.mp3,brain_sw.mp3
 skin,hud,skin,Haut,ngozi,2,skin.png,skin_sv.mp3,skin_en.mp3,skin_de.mp3,skin_sw.mp3
 beard,skägg,beard,Bart,ndevu,2,beard.png,beard_sv.mp3,beard_en.mp3,beard_de.mp3,beard_sw.mp3
-body,kropp,body,,,2,body.png,body_sv.mp3,body_en.mp3,,
-forehead,panna,forehead,,,2,forehead.png,forehead_sv.mp3,forehead_en.mp3,,
-moustache,,moustache,,,2,moustache.png,,moustache_en.mp3,,
-belly_button,,belly button,,,2,belly_button.png,,belly_button_en.mp3,,
-lips,,lips,,,2,lips.png,,lips_en.mp3,,
-chin,,chin,,,2,chin.png,,chin_en.mp3,,
-armpit,,armpit,,,2,armpit.png,,armpit_en.mp3,,
-eyebrow,,eyebrow,,,2,eyebrow.png,,eyebrow_en.mp3,,
-footprint,,footprint,,,2,footprint.png,,footprint_en.mp3,,
-thumb,,thumb,,,2,thumb.png,,thumb_en.mp3,,
-little_finger,,little finger,,,2,little_finger.png,,little_finger_en.mp3,,
-forefinger,,forefinger,,,2,forefinger.png,,forefinger_en.mp3,,
-eyelash,,eyelash,,,2,eyelash.png,,eyelash_en.mp3,,
-fingerprint,,fingerprint,,,2,fingerprint.png,,fingerprint_en.mp3,,
-eyelid,,eyelid,,,2,eyelid.png,,eyelid_en.mp3,,
-fist,,fist,,,2,fist.png,,fist_en.mp3,,
-thigh,,thigh,,,2,thigh.png,,thigh_en.mp3,,
-toes,,toes,,,2,toes.png,,toes_en.mp3,,
-feet,,feet,,,2,feet.png,,feet_en.mp3,,
-forearm,,forearm,,,2,forearm.png,,forearm_en.mp3,,
+body,kropp,body,der Körper,mwili,2,body.png,body_sv.mp3,body_en.mp3,body_de.mp3,body_sw.mp3
+forehead,panna,forehead,Stirn,paji,2,forehead.png,forehead_sv.mp3,forehead_en.mp3,forehead_de.mp3,forehead_sw.mp3
+moustache,,moustache,Schnurrbart,masharubu,2,moustache.png,,moustache_en.mp3,moustache_de.mp3,moustache_sw.mp3
+belly_button,,belly button,Bauchnabel,kitovu,2,belly_button.png,,belly_button_en.mp3,belly_button_de.mp3,belly_button_sw.mp3
+lips,läpp,lips,Lippen,,2,lips.png,lips_sv.mp3,lips_en.mp3,lips_de.mp3,
+chin,,chin,Kinn,kidevu,2,chin.png,,chin_en.mp3,chin_de.mp3,chin_sw.mp3
+armpit,,armpit,Achselhöhle,kwapa,2,armpit.png,,armpit_en.mp3,armpit_de.mp3,armpit_sw.mp3
+eyebrow,,eyebrow,Augenbraue,nyusi,2,eyebrow.png,,eyebrow_en.mp3,eyebrow_de.mp3,eyebrow_sw.mp3
+footprint,,footprint,Fußabdruck,unyayo,2,footprint.png,,footprint_en.mp3,footprint_de.mp3,footprint_sw.mp3
+thumb,,thumb,Daumen,kidole gumba,2,thumb.png,,thumb_en.mp3,thumb_de.mp3,thumb_sw.mp3
+little_finger,,little finger,kleiner Finger,kidole cha mwisho,2,little_finger.png,,little_finger_en.mp3,little_finger_de.mp3,little_finger_sw.mp3
+forefinger,,forefinger,Zeigefinger,kidole cha shahada,2,forefinger.png,,forefinger_en.mp3,forefinger_de.mp3,forefinger_sw.mp3
+eyelash,,eyelash,Wimper,kope,2,eyelash.png,,eyelash_en.mp3,eyelash_de.mp3,eyelash_sw.mp3
+fingerprint,,fingerprint,Fingerabdruck,,2,fingerprint.png,,fingerprint_en.mp3,fingerprint_de.mp3,
+eyelid,,eyelid,Augenlid,,2,eyelid.png,,eyelid_en.mp3,eyelid_de.mp3,
+fist,,fist,die Faust,ngumi,2,fist.png,,fist_en.mp3,fist_de.mp3,fist_sw.mp3
+thigh,,thigh,Oberschenkel,paja,2,thigh.png,,thigh_en.mp3,thigh_de.mp3,thigh_sw.mp3
+toes,,toes,Zehen,,2,toes.png,,toes_en.mp3,toes_de.mp3,
+feet,,feet,Füße,,2,feet.png,,feet_en.mp3,feet_de.mp3,
+forearm,,forearm,Unterarm,kigasha,2,forearm.png,,forearm_en.mp3,forearm_de.mp3,forearm_sw.mp3
+back,rygg,back,Rücken,mgongo,1,back.png,back_sv.mp3,back_en.mp3,back_de.mp3,back_sw.mp3
+fingernail,nagel,,Fingernagel,kucha,2,fingernail.png,fingernail_sv.mp3,,fingernail_de.mp3,fingernail_sw.mp3
+hip,,,Hüfte,nyonga,2,hip.png,,,hip_de.mp3,hip_sw.mp3
+bone,,,Knochen,mfupa,2,bone.png,,,bone_de.mp3,bone_sw.mp3
+wrist,,,Handgelenk,,2,wrist.png,,,wrist_de.mp3,
+ankle,,,Knöchel,kifundo cha mguu,2,ankle.png,,,ankle_de.mp3,ankle_sw.mp3
+skeleton,,,Skelett,kiunzi,2,skeleton.png,,,skeleton_de.mp3,skeleton_sw.mp3
+muscle,muskel,,Muskel,msuli,2,muscle.png,muscle_sv.mp3,,muscle_de.mp3,muscle_sw.mp3
+lungs,,,Lunge,mapafu,2,lungs.png,,,lungs_de.mp3,lungs_sw.mp3

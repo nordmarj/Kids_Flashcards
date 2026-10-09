@@ -16,41 +16,53 @@ handkerchief,näsduk,handkerchief,Taschentuch,leso,2,handkerchief.png,handkerchi
 wool,ull,wool,Wolle,sufu,2,wool.png,wool_sv.mp3,wool_en.mp3,wool_de.mp3,wool_sw.mp3
 bow_tie,fluga,bow tie,,,2,bow_tie.png,bow_tie_sv.mp3,bow_tie_en.mp3,,
 vest,väst,vest,,,2,vest.png,vest_sv.mp3,vest_en.mp3,,
-clothes,kläder,clothes,,,2,clothes.png,clothes_sv.mp3,clothes_en.mp3,,
-blouse,,blouse,,,2,blouse.png,,blouse_en.mp3,,
-handbag,,handbag,,,2,handbag.png,,handbag_en.mp3,,
-boots,,boots,,,2,boots.png,,boots_en.mp3,,
-bib,,bib,,,2,bib.png,,bib_en.mp3,,
-underpants,,underpants,,,2,underpants.png,,underpants_en.mp3,,
-t_shirt,,t-shirt,,,2,t_shirt.png,,t_shirt_en.mp3,,
+clothes,kläder,clothes,Kleidung,nguo,2,clothes.png,clothes_sv.mp3,clothes_en.mp3,clothes_de.mp3,clothes_sw.mp3
+blouse,,blouse,Bluse,blauzi,2,blouse.png,,blouse_en.mp3,blouse_de.mp3,blouse_sw.mp3
+handbag,,handbag,Handtasche,mkoba,2,handbag.png,,handbag_en.mp3,handbag_de.mp3,handbag_sw.mp3
+boots,,boots,der Stiefel,buti,2,boots.png,,boots_en.mp3,boots_de.mp3,boots_sw.mp3
+bib,,bib,Lätzchen,,2,bib.png,,bib_en.mp3,bib_de.mp3,
+underpants,,underpants,Unterhose,chupi,2,underpants.png,,underpants_en.mp3,underpants_de.mp3,underpants_sw.mp3
+t_shirt,,t-shirt,T-Shirt,fulana,2,t_shirt.png,,t_shirt_en.mp3,t_shirt_de.mp3,t_shirt_sw.mp3
 tracksuit,,tracksuit,,,2,tracksuit.png,,tracksuit_en.mp3,,
-belt,,belt,,,2,belt.png,,belt_en.mp3,,
-tights,,tights,,,2,tights.png,,tights_en.mp3,,
-umbrella,,umbrella,,,2,umbrella.png,,umbrella_en.mp3,,
-pyjama,,pyjama,,,2,pyjama.png,,pyjama_en.mp3,,
-slippers,,slippers,,,2,slippers.png,,slippers_en.mp3,,
-sneakers,,sneakers,,,2,sneakers.png,,sneakers_en.mp3,,
-wallet,,wallet,,,2,wallet.png,,wallet_en.mp3,,
-tie,,tie,,,2,tie.png,,tie_en.mp3,,
-coat_hanger,,coat hanger,,,2,coat_hanger.png,,coat_hanger_en.mp3,,
-suitcase,,suitcase,,,2,suitcase.png,,suitcase_en.mp3,,
-headband,,headband,,,2,headband.png,,headband_en.mp3,,
-sunglasses,,sunglasses,,,2,sunglasses.png,,sunglasses_en.mp3,,
-raincoat,,raincoat,,,2,raincoat.png,,raincoat_en.mp3,,
-bathrobe,,bathrobe,,,2,bathrobe.png,,bathrobe_en.mp3,,
-wand,,wand,,,2,wand.png,,wand_en.mp3,,
-diamond,,diamond,,,2,diamond.png,,diamond_en.mp3,,
-necklace,,necklace,,,2,necklace.png,,necklace_en.mp3,,
-hood,,hood,,,2,hood.png,,hood_en.mp3,,
-earring,,earring,,,2,earring.png,,earring_en.mp3,,
-sandal,,sandal,,,2,sandal.png,,sandal_en.mp3,,
+belt,,belt,Gürtel,mshipi,2,belt.png,,belt_en.mp3,belt_de.mp3,belt_sw.mp3
+tights,,tights,Strumpfhose,,2,tights.png,,tights_en.mp3,tights_de.mp3,
+umbrella,,umbrella,Regenschirm,mwavuli,2,umbrella.png,,umbrella_en.mp3,umbrella_de.mp3,umbrella_sw.mp3
+pyjama,,pyjama,Schlafanzug,,2,pyjama.png,,pyjama_en.mp3,pyjama_de.mp3,
+slippers,,slippers,Hausschuhe,,2,slippers.png,,slippers_en.mp3,slippers_de.mp3,
+sneakers,,sneakers,Turnschuhe,raba,2,sneakers.png,,sneakers_en.mp3,sneakers_de.mp3,sneakers_sw.mp3
+wallet,,wallet,Geldbeutel,pochi,2,wallet.png,,wallet_en.mp3,wallet_de.mp3,wallet_sw.mp3
+tie,,tie,Krawatte,tai,2,tie.png,,tie_en.mp3,tie_de.mp3,tie_sw.mp3
+coat_hanger,,coat hanger,Kleiderbügel,,2,coat_hanger.png,,coat_hanger_en.mp3,coat_hanger_de.mp3,
+suitcase,,suitcase,Koffer,sanduku,2,suitcase.png,,suitcase_en.mp3,suitcase_de.mp3,suitcase_sw.mp3
+headband,,headband,Stirnband,,2,headband.png,,headband_en.mp3,headband_de.mp3,
+sunglasses,,sunglasses,Sonnenbrille,,2,sunglasses.png,,sunglasses_en.mp3,sunglasses_de.mp3,
+raincoat,,raincoat,Regenmantel,,2,raincoat.png,,raincoat_en.mp3,raincoat_de.mp3,
+bathrobe,,bathrobe,Bademantel,,2,bathrobe.png,,bathrobe_en.mp3,bathrobe_de.mp3,
+wand,,wand,Zauberstab,,2,wand.png,,wand_en.mp3,wand_de.mp3,
+diamond,,diamond,Diamant,almasi,2,diamond.png,,diamond_en.mp3,diamond_de.mp3,diamond_sw.mp3
+necklace,,necklace,Halskette,mkufu,2,necklace.png,,necklace_en.mp3,necklace_de.mp3,necklace_sw.mp3
+hood,,hood,Kapuze,,2,hood.png,,hood_en.mp3,hood_de.mp3,
+earring,,earring,Ohrring,hereni,2,earring.png,,earring_en.mp3,earring_de.mp3,earring_sw.mp3
+sandal,,sandal,die Sandale,ndara,2,sandal.png,,sandal_en.mp3,sandal_de.mp3,sandal_sw.mp3
 top_hat,,top hat,,,2,top_hat.png,,top_hat_en.mp3,,
 clogs,,clogs,,,2,clogs.png,,clogs_en.mp3,,
-wig,,wig,,,2,wig.png,,wig_en.mp3,,
+wig,,wig,,wigi,2,wig.png,,wig_en.mp3,,wig_sw.mp3
 suspenders,,suspenders,,,2,suspenders.png,,suspenders_en.mp3,,
 laundry_basket,,laundry basket,,,2,laundry_basket.png,,laundry_basket_en.mp3,,
 poncho,,poncho,,,2,poncho.png,,poncho_en.mp3,,
-bracelet,,bracelet,,,2,bracelet.png,,bracelet_en.mp3,,
-cloak,,cloak,,,2,cloak.png,,cloak_en.mp3,,
-sweatpants,,sweatpants,,,2,sweatpants.png,,sweatpants_en.mp3,,
-beret,,beret,,,2,beret.png,,beret_en.mp3,,
+bracelet,,bracelet,Armband,bangili,2,bracelet.png,,bracelet_en.mp3,bracelet_de.mp3,bracelet_sw.mp3
+cloak,,cloak,,joho,2,cloak.png,,cloak_en.mp3,,cloak_sw.mp3
+sweatpants,,sweatpants,Jogginghose,,2,sweatpants.png,,sweatpants_en.mp3,sweatpants_de.mp3,
+beret,,beret,,bereti,2,beret.png,,beret_en.mp3,,beret_sw.mp3
+trousers,,trousers,Hose,suruali,1,trousers.png,,trousers_en.mp3,trousers_de.mp3,trousers_sw.mp3
+woolly_hat,,beanie,Mütze,,1,woolly_hat.png,,woolly_hat_en.mp3,woolly_hat_de.mp3,
+jacket,,jacket,Jacke,jaketi,1,jacket.png,,jacket_en.mp3,jacket_de.mp3,jacket_sw.mp3
+mitten,,mitten,Fäustling,,1,mitten.png,,mitten_en.mp3,mitten_de.mp3,
+scarf,,scarf,Schal,,1,scarf.png,,scarf_en.mp3,scarf_de.mp3,
+cap,,cap,Kappe,,1,cap.png,,cap_en.mp3,cap_de.mp3,
+shorts,,shorts,die Shorts,kaptura,1,shorts.png,,shorts_en.mp3,shorts_de.mp3,shorts_sw.mp3
+button,knapp,button,der Knopf,kifungo,1,button.png,button_sv.mp3,button_en.mp3,button_de.mp3,button_sw.mp3
+suit,kostym,,,suti,2,suit.png,suit_sv.mp3,,,suit_sw.mp3
+apron,,,,aproni,2,apron.png,,,,apron_sw.mp3
+jeans,,jeans,Jeans,jinsi,1,jeans.png,,jeans_en.mp3,jeans_de.mp3,jeans_sw.mp3
+watch,klocka,watch,Armbanduhr,saa,1,watch.png,watch_sv.mp3,watch_en.mp3,watch_de.mp3,watch_sw.mp3

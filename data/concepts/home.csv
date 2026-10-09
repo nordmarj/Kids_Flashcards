@@ -49,107 +49,125 @@ money,pengar,money,Geld,pesa,1,money.png,money_sv.mp3,money_en.mp3,money_de.mp3,
 coins,mynt,coins,Münzen,sarafu,2,coins.png,coins_sv.mp3,coins_en.mp3,coins_de.mp3,coins_sw.mp3
 soap,tvål,soap,Seife,sabuni,1,soap.png,soap_sv.mp3,soap_en.mp3,soap_de.mp3,soap_sw.mp3
 colander,sil,colander,Sieb,chujio,2,colander.png,colander_sv.mp3,colander_en.mp3,colander_de.mp3,colander_sw.mp3
-bowl,skål,bowl,,,2,bowl.png,bowl_sv.mp3,bowl_en.mp3,,
-frame,ram,frame,,,2,frame.png,frame_sv.mp3,frame_en.mp3,,
-chest_of_drawers,byrå,chest of drawers,,,2,chest_of_drawers.png,chest_of_drawers_sv.mp3,chest_of_drawers_en.mp3,,
-cupboard,skåp,cupboard,,,2,cupboard.png,cupboard_sv.mp3,cupboard_en.mp3,,
-magazine,tidskrift,magazine,,,2,magazine.png,magazine_sv.mp3,magazine_en.mp3,,
-gold,guld,gold,,,2,gold.png,gold_sv.mp3,gold_en.mp3,,
-silver,silver,silver,,,2,silver.png,silver_sv.mp3,silver_en.mp3,,
-tools,verktyg,tools,,,2,tools.png,tools_sv.mp3,tools_en.mp3,,
-paint,färg,paint,,,2,paint.png,paint_sv.mp3,paint_en.mp3,,
-wardrobe,,wardrobe,,,2,wardrobe.png,,wardrobe_en.mp3,,
-light_bulb,,light bulb,,,2,light_bulb.png,,light_bulb_en.mp3,,
-ladle,,ladle,,,2,ladle.png,,ladle_en.mp3,,
-stove,,stove,,,2,stove.png,,stove_en.mp3,,
-console,,console,,,2,console.png,,console_en.mp3,,
-streetlight,,streetlight,,,2,streetlight.png,,streetlight_en.mp3,,
-dishwasher,,dishwasher,,,2,dishwasher.png,,dishwasher_en.mp3,,
-washing_machine,,washing machine,,,2,washing_machine.png,,washing_machine_en.mp3,,
-microwave,,microwave,,,2,microwave.png,,microwave_en.mp3,,
-blanket,,blanket,,,2,blanket.png,,blanket_en.mp3,,
-oven,,oven,,,2,oven.png,,oven_en.mp3,,
-frying_pan,,frying pan,,,2,frying_pan.png,,frying_pan_en.mp3,,
-hairdryer,,hairdryer,,,2,hairdryer.png,,hairdryer_en.mp3,,
-armchair,,armchair,,,2,armchair.png,,armchair_en.mp3,,
-ironing_board,,ironing board,,,2,ironing_board.png,,ironing_board_en.mp3,,
-toaster,,toaster,,,2,toaster.png,,toaster_en.mp3,,
-scissors,,scissors,,,2,scissors.png,,scissors_en.mp3,,
-towel,,towel,,,2,towel.png,,towel_en.mp3,,
-fan,,fan,,,2,fan.png,,fan_en.mp3,,
-pliers,,pliers,,,2,pliers.png,,pliers_en.mp3,,
-tray,,tray,,,2,tray.png,,tray_en.mp3,,
-toolbox,,toolbox,,,2,toolbox.png,,toolbox_en.mp3,,
-camera,,camera,,,2,camera.png,,camera_en.mp3,,
-broom,,broom,,,2,broom.png,,broom_en.mp3,,
-shampoo,,shampoo,,,2,shampoo.png,,shampoo_en.mp3,,
-hairbrush,,hairbrush,,,2,hairbrush.png,,hairbrush_en.mp3,,
-zipper,,zipper,,,2,zipper.png,,zipper_en.mp3,,
-garbage_can,,garbage can,,,2,garbage_can.png,,garbage_can_en.mp3,,
-bucket,,bucket,,,2,bucket.png,,bucket_en.mp3,,
-funnel,,funnel,,,2,funnel.png,,funnel_en.mp3,,
-hook,,hook,,,2,hook.png,,hook_en.mp3,,
-step_ladder,,step ladder,,,2,step_ladder.png,,step_ladder_en.mp3,,
-sponge,,sponge,,,2,sponge.png,,sponge_en.mp3,,
-keyboard,,keyboard,,,2,keyboard.png,,keyboard_en.mp3,,
-screw,,screw,,,2,screw.png,,screw_en.mp3,,
-watering_can,,watering can,,,2,watering_can.png,,watering_can_en.mp3,,
-dustpan,,dustpan,,,2,dustpan.png,,dustpan_en.mp3,,
-comb,,comb,,,2,comb.png,,comb_en.mp3,,
-toilet_paper,,toilet paper,,,2,toilet_paper.png,,toilet_paper_en.mp3,,
-toothpaste,,toothpaste,,,2,toothpaste.png,,toothpaste_en.mp3,,
-spade,,spade,,,2,spade.png,,spade_en.mp3,,
-mop,,mop,,,2,mop.png,,mop_en.mp3,,
-microphone,,microphone,,,2,microphone.png,,microphone_en.mp3,,
-hammer,,hammer,,,2,hammer.png,,hammer_en.mp3,,
-sewing_machine,,sewing machine,,,2,sewing_machine.png,,sewing_machine_en.mp3,,
-hose,,hose,,,2,hose.png,,hose_en.mp3,,
-wrench,,wrench,,,2,wrench.png,,wrench_en.mp3,,
-bunk_bed,,bunk bed,,,2,bunk_bed.png,,bunk_bed_en.mp3,,
-printer,,printer,,,2,printer.png,,printer_en.mp3,,
-basket,,basket,,,2,basket.png,,basket_en.mp3,,
-christmas_tree,,Christmas tree,,,2,christmas_tree.png,,christmas_tree_en.mp3,,
-flowerpot,,flowerpot,,,2,flowerpot.png,,flowerpot_en.mp3,,
-saucepan,,saucepan,,,2,saucepan.png,,saucepan_en.mp3,,
-bookshelf,,bookshelf,,,2,bookshelf.png,,bookshelf_en.mp3,,
-bedside_table,,bedside table,,,2,bedside_table.png,,bedside_table_en.mp3,,
-fridge,,fridge,,,2,fridge.png,,fridge_en.mp3,,
-drill,,drill,,,2,drill.png,,drill_en.mp3,,
-oven_glove,,oven glove,,,2,oven_glove.png,,oven_glove_en.mp3,,
-alarm_clock,,alarm clock,,,2,alarm_clock.png,,alarm_clock_en.mp3,,
-grill,,grill,,,2,grill.png,,grill_en.mp3,,
-fishing_rod,,fishing rod,,,2,fishing_rod.png,,fishing_rod_en.mp3,,
-shopping_cart,,shopping cart,,,2,shopping_cart.png,,shopping_cart_en.mp3,,
-wheelbarrow,,wheelbarrow,,,2,wheelbarrow.png,,wheelbarrow_en.mp3,,
-cot,,cot,,,2,cot.png,,cot_en.mp3,,
-bedroom,,bedroom,,,2,bedroom.png,,bedroom_en.mp3,,
-garage,,garage,,,2,garage.png,,garage_en.mp3,,
-rake,,rake,,,2,rake.png,,rake_en.mp3,,
-living_room,,living room,,,2,living_room.png,,living_room_en.mp3,,
-axe,,axe,,,2,axe.png,,axe_en.mp3,,
-spatula,,spatula,,,2,spatula.png,,spatula_en.mp3,,
-mattress,,mattress,,,2,mattress.png,,mattress_en.mp3,,
-magnet,,magnet,,,2,magnet.png,,magnet_en.mp3,,
-rolling_pin,,rolling pin,,,2,rolling_pin.png,,rolling_pin_en.mp3,,
-battery,,battery,,,2,battery.png,,battery_en.mp3,,
-mug,,mug,,,2,mug.png,,mug_en.mp3,,
-tablet,,tablet,,,2,tablet.png,,tablet_en.mp3,,
-lawnmower,,lawnmower,,,2,lawnmower.png,,lawnmower_en.mp3,,
-envelope,,envelope,,,2,envelope.png,,envelope_en.mp3,,
-remote_control,,remote control,,,2,remote_control.png,,remote_control_en.mp3,,
-balcony,,balcony,,,2,balcony.png,,balcony_en.mp3,,
-rocking_chair,,rocking chair,,,2,rocking_chair.png,,rocking_chair_en.mp3,,
-mobile_phone,,mobile phone,,,2,mobile_phone.png,,mobile_phone_en.mp3,,
-nutcracker,,nutcracker,,,2,nutcracker.png,,nutcracker_en.mp3,,
-vase,,vase,,,2,vase.png,,vase_en.mp3,,
-cutlery,,cutlery,,,2,cutlery.png,,cutlery_en.mp3,,
-chopsticks,,chopsticks,,,2,chopsticks.png,,chopsticks_en.mp3,,
-teaspoon,,teaspoon,,,2,teaspoon.png,,teaspoon_en.mp3,,
-water_bottle,,water bottle,,,2,water_bottle.png,,water_bottle_en.mp3,,
-toothbrush,,toothbrush,,,2,toothbrush.png,,toothbrush_en.mp3,,
-kettle,,kettle,,,2,kettle.png,,kettle_en.mp3,,
-lunch_box,,lunch box,,,2,lunch_box.png,,lunch_box_en.mp3,,
-perfume,,perfume,,,2,perfume.png,,perfume_en.mp3,,
-writing_desk,skrivbord,,,,2,writing_desk.png,writing_desk_sv.mp3,,,
-telescope,,telescope,,,2,telescope.png,,telescope_en.mp3,,
-rope,,rope,,,2,rope.png,,rope_en.mp3,,
+bowl,skål,bowl,Schüssel,bakuli,2,bowl.png,bowl_sv.mp3,bowl_en.mp3,bowl_de.mp3,bowl_sw.mp3
+frame,ram,frame,Bilderrahmen,fremu,2,frame.png,frame_sv.mp3,frame_en.mp3,frame_de.mp3,frame_sw.mp3
+chest_of_drawers,byrå,chest of drawers,Kommode,,2,chest_of_drawers.png,chest_of_drawers_sv.mp3,chest_of_drawers_en.mp3,chest_of_drawers_de.mp3,
+cupboard,skåp,cupboard,Schrank,kabati,2,cupboard.png,cupboard_sv.mp3,cupboard_en.mp3,cupboard_de.mp3,cupboard_sw.mp3
+magazine,tidskrift,magazine,Zeitschrift,jarida,2,magazine.png,magazine_sv.mp3,magazine_en.mp3,magazine_de.mp3,magazine_sw.mp3
+gold,guld,gold,Gold,dhahabu,2,gold.png,gold_sv.mp3,gold_en.mp3,gold_de.mp3,gold_sw.mp3
+silver,silver,silver,Silber,fedha,2,silver.png,silver_sv.mp3,silver_en.mp3,silver_de.mp3,silver_sw.mp3
+tools,verktyg,tools,Werkzeug,vifaa,2,tools.png,tools_sv.mp3,tools_en.mp3,tools_de.mp3,tools_sw.mp3
+paint,färg,paint,Farbe,rangi,2,paint.png,paint_sv.mp3,paint_en.mp3,paint_de.mp3,paint_sw.mp3
+wardrobe,,wardrobe,Kleiderschrank,,2,wardrobe.png,,wardrobe_en.mp3,wardrobe_de.mp3,
+light_bulb,,light bulb,Glühbirne,balbu,2,light_bulb.png,,light_bulb_en.mp3,light_bulb_de.mp3,light_bulb_sw.mp3
+ladle,,ladle,Suppenkelle,upawa,2,ladle.png,,ladle_en.mp3,ladle_de.mp3,ladle_sw.mp3
+stove,,stove,Herd,jiko,2,stove.png,,stove_en.mp3,stove_de.mp3,stove_sw.mp3
+console,,console,Spielkonsole,,2,console.png,,console_en.mp3,console_de.mp3,
+streetlight,,streetlight,Straßenlaterne,,2,streetlight.png,,streetlight_en.mp3,streetlight_de.mp3,
+dishwasher,,dishwasher,Geschirrspüler,,2,dishwasher.png,,dishwasher_en.mp3,dishwasher_de.mp3,
+washing_machine,,washing machine,Waschmaschine,,2,washing_machine.png,,washing_machine_en.mp3,washing_machine_de.mp3,
+microwave,,microwave,Mikrowelle,,2,microwave.png,,microwave_en.mp3,microwave_de.mp3,
+blanket,,blanket,Decke,blanketi,2,blanket.png,,blanket_en.mp3,blanket_de.mp3,blanket_sw.mp3
+oven,,oven,Backofen,tanuri,2,oven.png,,oven_en.mp3,oven_de.mp3,oven_sw.mp3
+frying_pan,,frying pan,die Pfanne,kikaango,2,frying_pan.png,,frying_pan_en.mp3,frying_pan_de.mp3,frying_pan_sw.mp3
+hairdryer,,hairdryer,Föhn,,2,hairdryer.png,,hairdryer_en.mp3,hairdryer_de.mp3,
+armchair,,armchair,der Sessel,,2,armchair.png,,armchair_en.mp3,armchair_de.mp3,
+ironing_board,,ironing board,Bügelbrett,,2,ironing_board.png,,ironing_board_en.mp3,ironing_board_de.mp3,
+toaster,,toaster,Toaster,,2,toaster.png,,toaster_en.mp3,toaster_de.mp3,
+scissors,,scissors,Schere,mkasi,2,scissors.png,,scissors_en.mp3,scissors_de.mp3,scissors_sw.mp3
+towel,,towel,Handtuch,taulo,2,towel.png,,towel_en.mp3,towel_de.mp3,towel_sw.mp3
+fan,,fan,Ventilator,feni,2,fan.png,,fan_en.mp3,fan_de.mp3,fan_sw.mp3
+pliers,,pliers,Zange,koleo,2,pliers.png,,pliers_en.mp3,pliers_de.mp3,pliers_sw.mp3
+tray,,tray,Tablett,sinia,2,tray.png,,tray_en.mp3,tray_de.mp3,tray_sw.mp3
+toolbox,,toolbox,Werkzeugkasten,,2,toolbox.png,,toolbox_en.mp3,toolbox_de.mp3,
+camera,,camera,Kamera,kamera,2,camera.png,,camera_en.mp3,camera_de.mp3,camera_sw.mp3
+broom,,broom,Besen,ufagio,2,broom.png,,broom_en.mp3,broom_de.mp3,broom_sw.mp3
+shampoo,,shampoo,Shampoo,,2,shampoo.png,,shampoo_en.mp3,shampoo_de.mp3,
+hairbrush,,hairbrush,Bürste,,2,hairbrush.png,,hairbrush_en.mp3,hairbrush_de.mp3,
+zipper,,zipper,Reißverschluss,,2,zipper.png,,zipper_en.mp3,zipper_de.mp3,
+garbage_can,,garbage can,Mülleimer,pipa,2,garbage_can.png,,garbage_can_en.mp3,garbage_can_de.mp3,garbage_can_sw.mp3
+bucket,,bucket,Eimer,ndoo,2,bucket.png,,bucket_en.mp3,bucket_de.mp3,bucket_sw.mp3
+funnel,,funnel,Trichter,,2,funnel.png,,funnel_en.mp3,funnel_de.mp3,
+hook,,hook,Haken,ndoano,2,hook.png,,hook_en.mp3,hook_de.mp3,hook_sw.mp3
+step_ladder,,step ladder,Leiter,,2,step_ladder.png,,step_ladder_en.mp3,step_ladder_de.mp3,
+sponge,,sponge,Schwamm,sponji,2,sponge.png,,sponge_en.mp3,sponge_de.mp3,sponge_sw.mp3
+keyboard,,keyboard,Tastatur,kibodi,2,keyboard.png,,keyboard_en.mp3,keyboard_de.mp3,keyboard_sw.mp3
+screw,,screw,Schraube,skrubu,2,screw.png,,screw_en.mp3,screw_de.mp3,screw_sw.mp3
+watering_can,,watering can,Gießkanne,,2,watering_can.png,,watering_can_en.mp3,watering_can_de.mp3,
+dustpan,,dustpan,Kehrschaufel,,2,dustpan.png,,dustpan_en.mp3,dustpan_de.mp3,
+comb,,comb,der Kamm,kitana,2,comb.png,,comb_en.mp3,comb_de.mp3,comb_sw.mp3
+toilet_paper,,toilet paper,Toilettenpapier,,2,toilet_paper.png,,toilet_paper_en.mp3,toilet_paper_de.mp3,
+toothpaste,,toothpaste,Zahnpasta,dawa ya meno,2,toothpaste.png,,toothpaste_en.mp3,toothpaste_de.mp3,toothpaste_sw.mp3
+spade,,spade,Schaufel,sepetu,2,spade.png,,spade_en.mp3,spade_de.mp3,spade_sw.mp3
+mop,,mop,Wischmopp,,2,mop.png,,mop_en.mp3,mop_de.mp3,
+microphone,,microphone,Mikrofon,kipaza sauti,2,microphone.png,,microphone_en.mp3,microphone_de.mp3,microphone_sw.mp3
+hammer,,hammer,Hammer,nyundo,2,hammer.png,,hammer_en.mp3,hammer_de.mp3,hammer_sw.mp3
+sewing_machine,,sewing machine,Nähmaschine,cherehani,2,sewing_machine.png,,sewing_machine_en.mp3,sewing_machine_de.mp3,sewing_machine_sw.mp3
+hose,,hose,Schlauch,,2,hose.png,,hose_en.mp3,hose_de.mp3,
+wrench,,wrench,Schraubenschlüssel,spana,2,wrench.png,,wrench_en.mp3,wrench_de.mp3,wrench_sw.mp3
+bunk_bed,,bunk bed,Etagenbett,,2,bunk_bed.png,,bunk_bed_en.mp3,bunk_bed_de.mp3,
+printer,,printer,Drucker,printa,2,printer.png,,printer_en.mp3,printer_de.mp3,printer_sw.mp3
+basket,,basket,Korb,kikapu,2,basket.png,,basket_en.mp3,basket_de.mp3,basket_sw.mp3
+christmas_tree,,Christmas tree,Weihnachtsbaum,,2,christmas_tree.png,,christmas_tree_en.mp3,christmas_tree_de.mp3,
+flowerpot,,flowerpot,Blumentopf,chungu,2,flowerpot.png,,flowerpot_en.mp3,flowerpot_de.mp3,flowerpot_sw.mp3
+saucepan,,saucepan,Kochtopf,sufuria,2,saucepan.png,,saucepan_en.mp3,saucepan_de.mp3,saucepan_sw.mp3
+bookshelf,,bookshelf,Bücherregal,rafu,2,bookshelf.png,,bookshelf_en.mp3,bookshelf_de.mp3,bookshelf_sw.mp3
+bedside_table,,bedside table,Nachttisch,,2,bedside_table.png,,bedside_table_en.mp3,bedside_table_de.mp3,
+fridge,,fridge,der Kühlschrank,friji,2,fridge.png,,fridge_en.mp3,fridge_de.mp3,fridge_sw.mp3
+drill,,drill,Bohrmaschine,,2,drill.png,,drill_en.mp3,drill_de.mp3,
+oven_glove,,oven glove,Topflappen,,2,oven_glove.png,,oven_glove_en.mp3,oven_glove_de.mp3,
+alarm_clock,,alarm clock,Wecker,,2,alarm_clock.png,,alarm_clock_en.mp3,alarm_clock_de.mp3,
+grill,,grill,Grill,,2,grill.png,,grill_en.mp3,grill_de.mp3,
+fishing_rod,,fishing rod,Angel,,2,fishing_rod.png,,fishing_rod_en.mp3,fishing_rod_de.mp3,
+shopping_cart,,shopping cart,Einkaufswagen,,2,shopping_cart.png,,shopping_cart_en.mp3,shopping_cart_de.mp3,
+wheelbarrow,,wheelbarrow,Schubkarre,toroli,2,wheelbarrow.png,,wheelbarrow_en.mp3,wheelbarrow_de.mp3,wheelbarrow_sw.mp3
+cot,,cot,Gitterbett,,2,cot.png,,cot_en.mp3,cot_de.mp3,
+bedroom,,bedroom,das Schlafzimmer,chumba cha kulala,2,bedroom.png,,bedroom_en.mp3,bedroom_de.mp3,bedroom_sw.mp3
+garage,,garage,Garage,gereji,2,garage.png,,garage_en.mp3,garage_de.mp3,garage_sw.mp3
+rake,,rake,Rechen,reki,2,rake.png,,rake_en.mp3,rake_de.mp3,rake_sw.mp3
+living_room,,living room,das Wohnzimmer,sebule,2,living_room.png,,living_room_en.mp3,living_room_de.mp3,living_room_sw.mp3
+axe,,axe,Axt,shoka,2,axe.png,,axe_en.mp3,axe_de.mp3,axe_sw.mp3
+spatula,,spatula,Pfannenwender,mwiko,2,spatula.png,,spatula_en.mp3,spatula_de.mp3,spatula_sw.mp3
+mattress,,mattress,Matratze,godoro,2,mattress.png,,mattress_en.mp3,mattress_de.mp3,mattress_sw.mp3
+magnet,,magnet,Magnet,sumaku,2,magnet.png,,magnet_en.mp3,magnet_de.mp3,magnet_sw.mp3
+rolling_pin,,rolling pin,Nudelholz,,2,rolling_pin.png,,rolling_pin_en.mp3,rolling_pin_de.mp3,
+battery,,battery,Batterie,betri,2,battery.png,,battery_en.mp3,battery_de.mp3,battery_sw.mp3
+mug,,mug,Becher,,2,mug.png,,mug_en.mp3,mug_de.mp3,
+tablet,,tablet,Tablet,,2,tablet.png,,tablet_en.mp3,tablet_de.mp3,
+lawnmower,,lawnmower,Rasenmäher,,2,lawnmower.png,,lawnmower_en.mp3,lawnmower_de.mp3,
+envelope,,envelope,Briefumschlag,bahasha,2,envelope.png,,envelope_en.mp3,envelope_de.mp3,envelope_sw.mp3
+remote_control,,remote control,Fernbedienung,,2,remote_control.png,,remote_control_en.mp3,remote_control_de.mp3,
+balcony,,balcony,Balkon,roshani,2,balcony.png,,balcony_en.mp3,balcony_de.mp3,balcony_sw.mp3
+rocking_chair,,rocking chair,Schaukelstuhl,,2,rocking_chair.png,,rocking_chair_en.mp3,rocking_chair_de.mp3,
+mobile_phone,,mobile phone,Handy,,2,mobile_phone.png,,mobile_phone_en.mp3,mobile_phone_de.mp3,
+nutcracker,,nutcracker,Nussknacker,,2,nutcracker.png,,nutcracker_en.mp3,nutcracker_de.mp3,
+vase,,vase,Vase,,2,vase.png,,vase_en.mp3,vase_de.mp3,
+cutlery,,cutlery,Besteck,,2,cutlery.png,,cutlery_en.mp3,cutlery_de.mp3,
+chopsticks,,chopsticks,Stäbchen,vijiti,2,chopsticks.png,,chopsticks_en.mp3,chopsticks_de.mp3,chopsticks_sw.mp3
+teaspoon,,teaspoon,Teelöffel,,2,teaspoon.png,,teaspoon_en.mp3,teaspoon_de.mp3,
+water_bottle,,water bottle,Trinkflasche,,2,water_bottle.png,,water_bottle_en.mp3,water_bottle_de.mp3,
+toothbrush,,toothbrush,Zahnbürste,mswaki,2,toothbrush.png,,toothbrush_en.mp3,toothbrush_de.mp3,toothbrush_sw.mp3
+kettle,,kettle,Wasserkocher,birika,2,kettle.png,,kettle_en.mp3,kettle_de.mp3,kettle_sw.mp3
+lunch_box,,lunch box,Brotdose,,2,lunch_box.png,,lunch_box_en.mp3,lunch_box_de.mp3,
+perfume,,perfume,Parfum,marashi,2,perfume.png,,perfume_en.mp3,perfume_de.mp3,perfume_sw.mp3
+writing_desk,skrivbord,,Schreibtisch,dawati,2,writing_desk.png,writing_desk_sv.mp3,,writing_desk_de.mp3,writing_desk_sw.mp3
+telescope,,telescope,Teleskop,darubini,2,telescope.png,,telescope_en.mp3,telescope_de.mp3,telescope_sw.mp3
+rope,,rope,Seil,kamba,2,rope.png,,rope_en.mp3,rope_de.mp3,rope_sw.mp3
+iron,,,Bügeleisen,pasi,1,iron.png,,,iron_de.mp3,iron_sw.mp3
+tablecloth,,,Tischdecke,,2,tablecloth.png,,,tablecloth_de.mp3,
+curtain,,,Vorhang,pazia,1,curtain.png,,,curtain_de.mp3,curtain_sw.mp3
+candle,ljus,candle,die Kerze,mshumaa,1,candle.png,candle_sv.mp3,candle_en.mp3,candle_de.mp3,candle_sw.mp3
+torch,,torch,Taschenlampe,tochi,1,torch.png,,torch_en.mp3,torch_de.mp3,torch_sw.mp3
+nail,,,der Nagel,msumari,2,nail.png,,,nail_de.mp3,nail_sw.mp3
+tap,,,Wasserhahn,bomba,1,tap.png,,,tap_de.mp3,tap_sw.mp3
+teapot,,,Teekanne,buli,1,teapot.png,,,teapot_de.mp3,teapot_sw.mp3
+thermometer,,,Thermometer,kipimajoto,2,thermometer.png,,,thermometer_de.mp3,thermometer_sw.mp3
+scales,,,Waage,mizani,2,scales.png,,,scales_de.mp3,scales_sw.mp3
+whisk,,,Schneebesen,,2,whisk.png,,,whisk_de.mp3,
+can,,,,kopo,2,can.png,,,,can_sw.mp3
+pacifier,,pacifier,Schnuller,,1,pacifier.png,,pacifier_en.mp3,pacifier_de.mp3,
+baby_bottle,,,Babyflasche,,1,baby_bottle.png,,,baby_bottle_de.mp3,
+nappy,,nappy,Windel,,1,nappy.png,,nappy_en.mp3,nappy_de.mp3,
+high_chair,,,Hochstuhl,,2,high_chair.png,,,high_chair_de.mp3,
+fireplace,,,Kamin,,2,fireplace.png,,,fireplace_de.mp3,
+plug,kontakt,,Stecker,plagi,2,plug.png,plug_sv.mp3,,plug_de.mp3,plug_sw.mp3
