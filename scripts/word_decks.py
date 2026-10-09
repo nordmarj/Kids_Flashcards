@@ -164,7 +164,10 @@ def read_concepts():
 
 def model(choices_js):
     tpl = ROOT / "templates" / "picture_choice"
-    read = lambda name: (tpl / name).read_text(encoding="utf-8").replace("{{CHOICES_JS}}", choices_js)
+    label = (tpl / "language_label.html").read_text(encoding="utf-8")
+    read = lambda name: ((tpl / name).read_text(encoding="utf-8")
+                         .replace("{{CHOICES_JS}}", choices_js)
+                         .replace("{{LANGUAGE_LABEL}}", label))
     return genanki.Model(
         MODEL_ID,
         "Kids Flashcards: Picture to word",
@@ -223,7 +226,7 @@ def build(langs=tuple(LANGUAGES)):
                     fields=[html.escape(c[lang]), f'<img src="{image.name}">',
                             f"[sound:{audio.name}]", choices, credits],
                     guid=genanki.guid_for("kids_flashcards", "words", c["id"], lang),
-                    tags=[f"level{c['level']}", topic],
+                    tags=[f"level{c['level']}", topic, f"lang_{lang}"],
                     due=due,
                 ))
             decks.append(deck)
