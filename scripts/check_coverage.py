@@ -118,10 +118,13 @@ def commons_fallback_files(lang, word):
 
 def check(row):
     out = dict(row)
-    ids = arasaac_ids(row["en"])
+    ids = arasaac_ids(row["en"] or row["sv"])
     out["arasaac_ids"] = " ".join(map(str, ids[:5]))
     have = {"image": bool(ids)}
     for lang in ("sv", "en"):
+        # A word may be listed in only one language; the other is not needed.
+        if not row[lang]:
+            continue
         ll = lingua_libre_files(lang, row[lang])
         fb = [] if ll else commons_fallback_files(lang, row[lang])
         out[f"ll_{lang}"] = len(ll)

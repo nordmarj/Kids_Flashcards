@@ -323,9 +323,9 @@ crown,toys,krona,crown,1
 soap,home,tvål,soap,1
 colander,home,sil,colander,2
 parcel,toys,paket,parcel,1
-guitar,toys,gitarr,guitar,1
-piano,toys,piano,piano,1
-violin,toys,fiol,violin,2
+guitar,music,gitarr,guitar,1
+piano,music,piano,piano,1
+violin,music,fiol,violin,2
 chess,toys,schack,chess,2
 tennis,toys,tennis,tennis,2
 chocolate,food,choklad,chocolate,1
@@ -353,3 +353,624 @@ smoke,nature,rök,smoke,2
 wool,clothes,ull,wool,2
 cattle,animals,nötkreatur,cattle,2
 birthday,people,födelsedag,birthday,1
+oyster,animals,ostron,oyster,2
+dromedary,animals,,dromedary,2
+kangaroo,animals,,kangaroo,2
+crocodile,animals,,crocodile,2
+swan,animals,,swan,2
+seal,animals,,seal,2
+gorilla,animals,,gorilla,2
+hippopotamus,animals,,hippopotamus,2
+mosquito,animals,,mosquito,2
+turkey,animals,,turkey,2
+rhinoceros,animals,,rhinoceros,2
+parakeet,animals,,parakeet,2
+ostrich,animals,,ostrich,2
+dolphin,animals,,dolphin,2
+seahorse,animals,,seahorse,2
+dinosaur,animals,,dinosaur,2
+grasshopper,animals,,grasshopper,2
+swordfish,animals,,swordfish,2
+panda,animals,,panda,2
+ladybug,animals,,ladybug,2
+jellyfish,animals,,jellyfish,2
+parrot,animals,,parrot,2
+leopard,animals,,leopard,2
+lobster,animals,,lobster,2
+koala,animals,,koala,2
+lizard,animals,,lizard,2
+vulture,animals,,vulture,2
+canary,animals,,canary,2
+stork,animals,,stork,2
+chameleon,animals,,chameleon,2
+beetle,animals,,beetle,2
+starfish,animals,,starfish,2
+flamingo,animals,,flamingo,2
+seagull,animals,,seagull,2
+swallow,animals,,swallow,2
+octopus,animals,,octopus,2
+raven,animals,,raven,2
+sparrow,animals,,sparrow,2
+eel,animals,,eel,2
+beak,animals,,beak,2
+otter,animals,,otter,2
+pelican,animals,,pelican,2
+wasp,animals,,wasp,2
+beaver,animals,,beaver,2
+armadillo,animals,,armadillo,2
+chimpanzee,animals,,chimpanzee,2
+shrimp,animals,,shrimp,2
+bison,animals,,bison,2
+scorpion,animals,,scorpion,2
+skunk,animals,,skunk,2
+orca,animals,,orca,2
+toucan,animals,,toucan,2
+hummingbird,animals,,hummingbird,2
+dragonfly,animals,,dragonfly,2
+llama,animals,,llama,2
+mole,animals,,mole,2
+ox,animals,,ox,2
+racoon,animals,,racoon,2
+platypus,animals,,platypus,2
+peacock,animals,,peacock,2
+hyena,animals,,hyena,2
+centipede,animals,,centipede,2
+cricket,animals,,cricket,2
+firefly,animals,,firefly,2
+tadpole,animals,,tadpole,2
+iguana,animals,,iguana,2
+sea_lion,animals,,sea lion,2
+antelope,animals,,antelope,2
+clownfish,animals,,clownfish,2
+piranha,animals,,piranha,2
+kitten,animals,,kitten,2
+coral,animals,,coral,2
+alpaca,animals,,alpaca,2
+badger,animals,,badger,2
+walrus,animals,,walrus,2
+hermit_crab,animals,,hermit crab,2
+cheetah,animals,,cheetah,2
+orangutan,animals,,orangutan,2
+anteater,animals,,anteater,2
+capybara,animals,,capybara,2
+hamster,animals,,hamster,2
+sloth,animals,,sloth,2
+croissant,food,croissant,croissant,2
+artichoke,food,kronärtskocka,artichoke,2
+cream,food,grädde,cream,2
+peas,food,ärt,peas,2
+salt,food,salt,salt,2
+mozzarella,food,mozzarella,mozzarella,2
+passion_fruit,food,passionsfrukt,passion fruit,2
+fruit,food,frukt,fruit,2
+vegetable,food,grönsak,vegetable,2
+rice_pudding,food,risgrynsgröt,rice pudding,2
+sweet_potato,food,sötpotatis,sweet potato,2
+meringue,food,maräng,meringue,2
+vinegar,food,vinäger,vinegar,2
+oil,food,olja,oil,2
+chilli,food,chilipeppar,chilli,2
+tofu,food,tofu,tofu,2
+sandwich,food,,sandwich,2
+donut,food,,donut,2
+spaghetti,food,,spaghetti,2
+cookies,food,,cookies,2
+ice_cream_cone,food,,ice cream cone,2
+hamburger,food,,hamburger,2
+ham,food,,ham,2
+melon,food,,melon,2
+jam,food,,jam,2
+water_melon,food,,water melon,2
+yogurt,food,,yogurt,2
+orange_juice,food,,orange juice,2
+aubergine,food,,aubergine,2
+courgette,food,,courgette,2
+pumpkin,food,,pumpkin,2
+lollipop,food,,lollipop,2
+kiwi,food,,kiwi,2
+fig,food,,fig,2
+hazelnut,food,,hazelnut,2
+popcorn,food,,popcorn,2
+ketchup,food,,ketchup,2
+lemonade,food,,lemonade,2
+fish_stick,food,,fish stick,2
+wheat,food,,wheat,2
+yolk,food,,yolk,2
+sponge_cake,food,,sponge cake,2
+chestnut,food,,chestnut,2
+plum,food,,plum,2
+olive,food,,olive,2
+bean,food,,bean,2
+green_bean,food,,green bean,2
+macaroni,food,,macaroni,2
+celery,food,,celery,2
+cupcake,food,,cupcake,2
+radish,food,,radish,2
+chewing_gum,food,,chewing gum,2
+lasagna,food,,lasagna,2
+apple_pie,food,,apple pie,2
+mushroom,food,,mushroom,2
+coconut,food,,coconut,2
+bread_roll,food,,bread roll,2
+cotton_candy,food,,cotton candy,2
+mandarin,food,,mandarin,2
+easter_egg,food,,Easter egg,2
+apple_juice,food,,apple juice,2
+grapefruit,food,,grapefruit,2
+caramel,food,,caramel,2
+lime,food,,lime,2
+mango,food,,mango,2
+nuts,food,,nuts,2
+hot_chocolate,food,,hot chocolate,2
+cauliflower,food,,cauliflower,2
+brussels_sprout,food,,Brussels sprout,2
+broccoli,food,,broccoli,2
+liquorice,food,,liquorice,2
+noodles,food,,noodles,2
+chocolate_cake,food,,chocolate cake,2
+waffle,food,,waffle,2
+candy_cane,food,,candy cane,2
+blueberry,food,,blueberry,2
+pancakes,food,,pancakes,2
+peanut_butter,food,,peanut butter,2
+bagel,food,,bagel,2
+sushi,food,,sushi,2
+pretzel,food,,pretzel,2
+taco,food,,taco,2
+cinnamon_roll,food,kanelbulle,,2
+gingerbread_cookie,food,pepparkaka,,2
+tambourine,music,,tambourine,2
+saxophone,music,,saxophone,2
+trumpet,music,,trumpet,2
+xylophone,music,,xylophone,2
+triangle,music,,triangle,2
+violoncello,music,,violoncello,2
+bagpipe,music,,bagpipe,2
+accordion,music,,accordion,2
+harmonica,music,,harmonica,2
+headphones,music,,headphones,2
+clarinet,music,,clarinet,2
+trombone,music,,trombone,2
+horn,music,,horn,2
+bongo,music,,bongo,2
+cymbal,music,,cymbal,2
+harp,music,,harp,2
+electric_guitar,music,,electric guitar,2
+record_player,music,,record player,2
+double_bass,music,,double bass,2
+guitarist,music,,guitarist,2
+bass_drum,music,,bass drum,2
+gong,music,,gong,2
+ukulele,music,,ukulele,2
+banjo,music,,banjo,2
+music_box,music,,music box,2
+architect,people,arkitekt,architect,2
+cashier,people,kassör,cashier,2
+conductor,people,dirigent,conductor,2
+referee,people,domare,referee,2
+writer,people,författare,writer,2
+artist,people,konstnär,artist,2
+scientist,people,,scientist,2
+ballerina,people,,ballerina,2
+carpenter,people,,carpenter,2
+dentist,people,,dentist,2
+electrician,people,,electrician,2
+hairdresser,people,,hairdresser,2
+clown,people,,clown,2
+mechanic,people,,mechanic,2
+woodcutter,people,,woodcutter,2
+gardener,people,,gardener,2
+garbage_collector,people,,garbage collector,2
+taxi_driver,people,,taxi driver,2
+florist,people,,florist,2
+plumber,people,,plumber,2
+pilot,people,,pilot,2
+astronaut,people,,astronaut,2
+actress,people,,actress,2
+acrobat,people,,acrobat,2
+chef,people,,chef,2
+miner,people,,miner,2
+juggler,people,,juggler,2
+veterinarian,people,,veterinarian,2
+tailor,people,,tailor,2
+flight_attendant,people,,flight attendant,2
+magician,people,,magician,2
+bus_driver,people,,bus driver,2
+beekeeper,people,,beekeeper,2
+baker,people,,baker,2
+butcher,people,,butcher,2
+journalist,people,journalist,,2
+cowboy,people,,cowboy,2
+medal,sports,medalj,medal,2
+arrow,sports,pil,arrow,2
+stadium,sports,stadion,stadium,2
+goal,sports,mål,goal,2
+net,sports,nät,net,2
+bikini,sports,,bikini,2
+swimsuit,sports,,swimsuit,2
+paddle,sports,,paddle,2
+skateboard,sports,,skateboard,2
+skates,sports,,skates,2
+racquet,sports,,racquet,2
+helmet,sports,,helmet,2
+flip_flops,sports,,flip-flops,2
+cyclist,sports,,cyclist,2
+darts,sports,,darts,2
+skis,sports,,skis,2
+swimming_pool,sports,,swimming pool,2
+footballer,sports,,footballer,2
+skipping_rope,sports,,skipping rope,2
+sleeping_bag,sports,,sleeping bag,2
+surfboard,sports,,surfboard,2
+basketball,sports,,basketball,2
+badminton,sports,,badminton,2
+archer,sports,,archer,2
+whistle,sports,,whistle,2
+oar,sports,,oar,2
+saddle,sports,,saddle,2
+red_card,sports,,red card,2
+yellow_card,sports,,yellow card,2
+golf_club,sports,,golf club,2
+baseball,sports,,baseball,2
+boomerang,sports,,boomerang,2
+hockey,sports,,hockey,2
+ping_pong,sports,,ping-pong,2
+golf,sports,,golf,2
+volleyball,sports,,volleyball,2
+high_jump,sports,,high jump,2
+long_jump,sports,,long jump,2
+rugby,sports,,rugby,2
+karate,sports,,karate,2
+trampoline,sports,,trampoline,2
+bowling_ball,sports,,bowling ball,2
+snowboarding,sports,,snowboarding,2
+boxing_glove,sports,,boxing glove,2
+frisbee,sports,,frisbee,2
+goalkeeper,sports,,goalkeeper,2
+tale,school,saga,tale,2
+blackboard,school,tavla,blackboard,2
+dictionary,school,ordbok,dictionary,2
+laboratory,school,laboratorium,laboratory,2
+bricks,school,tegelstenar,bricks,2
+prize,school,pris,prize,2
+sellotape,school,,sellotape,2
+stapler,school,,stapler,2
+glue,school,,glue,2
+plasticine,school,,plasticine,2
+pencil_sharpener,school,,pencil sharpener,2
+ruler,school,,ruler,2
+folder,school,,folder,2
+felt_tip_pen,school,,felt-tip pen,2
+crayons,school,,crayons,2
+calculator,school,,calculator,2
+sandbox,school,,sandbox,2
+schoolyard,school,,schoolyard,2
+notebook,school,,notebook,2
+pencil_case,school,,pencil case,2
+paper_clip,school,,paper clip,2
+eraser,school,,eraser,2
+abacus,school,,abacus,2
+globe,school,,globe,2
+bookmark,school,,bookmark,2
+sticker,school,,sticker,2
+glitter,school,,glitter,2
+rubber_band,school,,rubber band,2
+whiteboard,school,,whiteboard,2
+slime,school,,slime,2
+train_station,vehicles,station,train station,2
+ticket,vehicles,biljett,ticket,2
+tyre,vehicles,däck,tyre,2
+cart,vehicles,vagn,cart,2
+rocket,vehicles,,rocket,2
+motorbike,vehicles,,motorbike,2
+scooter,vehicles,,scooter,2
+taxi,vehicles,,taxi,2
+tram,vehicles,,tram,2
+cement_mixer,vehicles,,cement mixer,2
+submarine,vehicles,,submarine,2
+yacht,vehicles,,yacht,2
+caravan,vehicles,,caravan,2
+van,vehicles,,van,2
+police_car,vehicles,,police car,2
+life_jacket,vehicles,,life jacket,2
+lighthouse,vehicles,,lighthouse,2
+race_car,vehicles,,race car,2
+safety_belt,vehicles,,safety belt,2
+petrol_station,vehicles,,petrol station,2
+canoe,vehicles,,canoe,2
+steering_wheel,vehicles,,steering wheel,2
+car_park,vehicles,,car park,2
+highway,vehicles,,highway,2
+railway,vehicles,,railway,2
+garbage_truck,vehicles,,garbage truck,2
+spaceship,vehicles,,spaceship,2
+wing,vehicles,,wing,2
+snowplow,vehicles,,snowplow,2
+bullet_train,vehicles,,bullet train,2
+tow_truck,vehicles,,tow truck,2
+cruise_ship,vehicles,,cruise ship,2
+stagecoach,vehicles,,stagecoach,2
+cable_car,vehicles,,cable car,2
+parachute,vehicles,,parachute,2
+ferry,vehicles,,ferry,2
+school_bus,vehicles,,school bus,2
+gondola,vehicles,,gondola,2
+food_truck,vehicles,,food truck,2
+jet_ski,vehicles,,jet ski,2
+drone,vehicles,,drone,2
+bow_tie,clothes,fluga,bow tie,2
+vest,clothes,väst,vest,2
+clothes,clothes,kläder,clothes,2
+blouse,clothes,,blouse,2
+handbag,clothes,,handbag,2
+boots,clothes,,boots,2
+bib,clothes,,bib,2
+underpants,clothes,,underpants,2
+t_shirt,clothes,,t-shirt,2
+tracksuit,clothes,,tracksuit,2
+belt,clothes,,belt,2
+tights,clothes,,tights,2
+umbrella,clothes,,umbrella,2
+pyjama,clothes,,pyjama,2
+slippers,clothes,,slippers,2
+sneakers,clothes,,sneakers,2
+wallet,clothes,,wallet,2
+tie,clothes,,tie,2
+coat_hanger,clothes,,coat hanger,2
+suitcase,clothes,,suitcase,2
+headband,clothes,,headband,2
+sunglasses,clothes,,sunglasses,2
+raincoat,clothes,,raincoat,2
+bathrobe,clothes,,bathrobe,2
+wand,clothes,,wand,2
+diamond,clothes,,diamond,2
+necklace,clothes,,necklace,2
+hood,clothes,,hood,2
+earring,clothes,,earring,2
+sandal,clothes,,sandal,2
+top_hat,clothes,,top hat,2
+clogs,clothes,,clogs,2
+wig,clothes,,wig,2
+suspenders,clothes,,suspenders,2
+laundry_basket,clothes,,laundry basket,2
+poncho,clothes,,poncho,2
+bracelet,clothes,,bracelet,2
+cloak,clothes,,cloak,2
+sweatpants,clothes,,sweatpants,2
+beret,clothes,,beret,2
+bowl,home,skål,bowl,2
+frame,home,ram,frame,2
+chest_of_drawers,home,byrå,chest of drawers,2
+cupboard,home,skåp,cupboard,2
+magazine,home,tidskrift,magazine,2
+gold,home,guld,gold,2
+silver,home,silver,silver,2
+tools,home,verktyg,tools,2
+paint,home,färg,paint,2
+wardrobe,home,,wardrobe,2
+light_bulb,home,,light bulb,2
+ladle,home,,ladle,2
+stove,home,,stove,2
+console,home,,console,2
+streetlight,home,,streetlight,2
+dishwasher,home,,dishwasher,2
+washing_machine,home,,washing machine,2
+microwave,home,,microwave,2
+blanket,home,,blanket,2
+oven,home,,oven,2
+frying_pan,home,,frying pan,2
+hairdryer,home,,hairdryer,2
+armchair,home,,armchair,2
+ironing_board,home,,ironing board,2
+toaster,home,,toaster,2
+scissors,home,,scissors,2
+towel,home,,towel,2
+fan,home,,fan,2
+pliers,home,,pliers,2
+tray,home,,tray,2
+toolbox,home,,toolbox,2
+camera,home,,camera,2
+broom,home,,broom,2
+shampoo,home,,shampoo,2
+hairbrush,home,,hairbrush,2
+zipper,home,,zipper,2
+garbage_can,home,,garbage can,2
+bucket,home,,bucket,2
+funnel,home,,funnel,2
+hook,home,,hook,2
+step_ladder,home,,step ladder,2
+sponge,home,,sponge,2
+keyboard,home,,keyboard,2
+screw,home,,screw,2
+watering_can,home,,watering can,2
+dustpan,home,,dustpan,2
+comb,home,,comb,2
+toilet_paper,home,,toilet paper,2
+toothpaste,home,,toothpaste,2
+spade,home,,spade,2
+mop,home,,mop,2
+microphone,home,,microphone,2
+tape_measure,home,,tape measure,2
+hammer,home,,hammer,2
+sewing_machine,home,,sewing machine,2
+hose,home,,hose,2
+wrench,home,,wrench,2
+bunk_bed,home,,bunk bed,2
+printer,home,,printer,2
+basket,home,,basket,2
+christmas_tree,home,,Christmas tree,2
+flowerpot,home,,flowerpot,2
+saucepan,home,,saucepan,2
+bookshelf,home,,bookshelf,2
+bedside_table,home,,bedside table,2
+fridge,home,,fridge,2
+drill,home,,drill,2
+oven_glove,home,,oven glove,2
+alarm_clock,home,,alarm clock,2
+grill,home,,grill,2
+fishing_rod,home,,fishing rod,2
+shopping_cart,home,,shopping cart,2
+wheelbarrow,home,,wheelbarrow,2
+cot,home,,cot,2
+bedroom,home,,bedroom,2
+garage,home,,garage,2
+rake,home,,rake,2
+living_room,home,,living room,2
+axe,home,,axe,2
+spatula,home,,spatula,2
+mattress,home,,mattress,2
+magnet,home,,magnet,2
+rolling_pin,home,,rolling pin,2
+battery,home,,battery,2
+mug,home,,mug,2
+tablet,home,,tablet,2
+lawnmower,home,,lawnmower,2
+envelope,home,,envelope,2
+remote_control,home,,remote control,2
+balcony,home,,balcony,2
+rocking_chair,home,,rocking chair,2
+mobile_phone,home,,mobile phone,2
+nutcracker,home,,nutcracker,2
+vase,home,,vase,2
+cutlery,home,,cutlery,2
+chopsticks,home,,chopsticks,2
+teaspoon,home,,teaspoon,2
+water_bottle,home,,water bottle,2
+toothbrush,home,,toothbrush,2
+kettle,home,,kettle,2
+lunch_box,home,,lunch box,2
+perfume,home,,perfume,2
+writing_desk,home,skrivbord,,2
+telescope,home,,telescope,2
+rope,home,,rope,2
+tricycle,toys,,tricycle,2
+playground,toys,,playground,2
+dominoes,toys,,dominoes,2
+puppet,toys,,puppet,2
+seesaw,toys,,seesaw,2
+swing,toys,,swing,2
+robot,toys,,robot,2
+rattle,toys,,rattle,2
+bubble,toys,,bubble,2
+yo_yo,toys,,yo-yo,2
+rubik_s_cube,toys,,Rubik's cube,2
+hopscotch,toys,,hopscotch,2
+hide_and_seek,toys,,hide-and-seek,2
+kaleidoscope,toys,,kaleidoscope,2
+maze,toys,,maze,2
+pinwheel,toys,,pinwheel,2
+foosball,toys,,foosball,2
+playhouse,toys,,playhouse,2
+marble,toys,,marble,2
+slide,toys,,slide,2
+toyshop,toys,,toyshop,2
+coconut_palm,nature,kokospalm,coconut palm,2
+waterfall,nature,,waterfall,2
+oasis,nature,oas,oasis,2
+stream,nature,ström,stream,2
+archipelago,nature,skärgård,archipelago,2
+fog,nature,dimma,fog,2
+pond,nature,damm,pond,2
+comet,nature,,comet,2
+lightning,nature,,lightning,2
+cactus,nature,,cactus,2
+hail,nature,,hail,2
+daisy,nature,,daisy,2
+tulip,nature,,tulip,2
+cherry_tree,nature,,cherry tree,2
+apple_tree,nature,,apple tree,2
+pine,nature,,pine,2
+wave,nature,,wave,2
+tent,nature,,tent,2
+sandcastle,nature,,sandcastle,2
+seaweed,nature,,seaweed,2
+volcano,nature,,volcano,2
+poppy,nature,,poppy,2
+bouquet,nature,,bouquet,2
+compass,nature,,compass,2
+binoculars,nature,,binoculars,2
+bonsai,nature,,bonsai,2
+fern,nature,,fern,2
+new_moon,nature,,new moon,2
+bud,nature,,bud,2
+sunflower,nature,,sunflower,2
+orchid,nature,,orchid,2
+bamboo,nature,,bamboo,2
+sunscreen,nature,,sunscreen,2
+constellation,nature,,constellation,2
+buoy,nature,,buoy,2
+daffodil,nature,,daffodil,2
+moss,nature,,moss,2
+bush,nature,,bush,2
+meteorite,nature,,meteorite,2
+solar_system,nature,,solar system,2
+snowflake,nature,,snowflake,2
+aurora_borealis,nature,,aurora borealis,2
+hill,nature,,hill,2
+eclipse,nature,,eclipse,2
+sea_shells,nature,skal,,2
+calla_lily,nature,kalla,,2
+bank,places,bank,bank,2
+cinema,places,bio,cinema,2
+building,places,byggnad,building,2
+jetty,places,brygga,jetty,2
+lift,places,,lift,2
+letter_box,places,,letter box,2
+shower,places,,shower,2
+sink,places,,sink,2
+toilet,places,,toilet,2
+barbershop,places,,barbershop,2
+bookshop,places,,bookshop,2
+kiosk,places,,kiosk,2
+town_hall,places,,town hall,2
+post_office,places,,post office,2
+bowling_alley,places,,bowling alley,2
+funfair,places,,funfair,2
+roller_coaster,places,,roller coaster,2
+ferris_wheel,places,,Ferris wheel,2
+carousel,places,,carousel,2
+tennis_court,places,,tennis court,2
+cabin,places,,cabin,2
+chimney,places,,chimney,2
+hut,places,,hut,2
+igloo,places,,igloo,2
+shopping_centre,places,,shopping centre,2
+pizzeria,places,,pizzeria,2
+tepee,places,,tepee,2
+university,places,,university,2
+escalator,places,,escalator,2
+sauna,places,,sauna,2
+art_gallery,places,,art gallery,2
+kindergarten,places,,kindergarten,2
+supermarket,places,,supermarket,2
+bakery,places,,bakery,2
+ice_cream_shop,places,,ice cream shop,2
+pet_shop,places,,pet shop,2
+body,body,kropp,body,2
+forehead,body,panna,forehead,2
+moustache,body,,moustache,2
+belly_button,body,,belly button,2
+lips,body,,lips,2
+chin,body,,chin,2
+armpit,body,,armpit,2
+eyebrow,body,,eyebrow,2
+footprint,body,,footprint,2
+thumb,body,,thumb,2
+little_finger,body,,little finger,2
+forefinger,body,,forefinger,2
+eyelash,body,,eyelash,2
+fingerprint,body,,fingerprint,2
+eyelid,body,,eyelid,2
+fist,body,,fist,2
+thigh,body,,thigh,2
+toes,body,,toes,2
+feet,body,,feet,2
+forearm,body,,forearm,2
+children,people,barn,children,2
+grandchild,people,barnbarn,grandchild,2
+person,people,person,person,2
+baby,people,,baby,2
+twins,people,,twins,2
+parents,people,,parents,2
+family_tree,people,,family tree,2
+teenagers,people,ungdomar,,2

@@ -5,8 +5,11 @@ Two steps, so the choices can be reviewed (and edited by hand) before
 anything is downloaded:
 
   pick      For every word marked complete in data/candidates/coverage.csv,
-            choose an ARASAAC pictogram and one Swedish and one English
-            recording, and write them to data/candidates/media_picks.csv.
+            choose an ARASAAC pictogram and a recording in each language
+            the word has, and write them to data/candidates/media_picks.csv.
+            A word may have only Swedish or only English (leave the other
+            language's word and recording title empty); it then only
+            appears in that language's deck.
             Recordings by the speaker who recorded most of the words are
             preferred, so a deck sounds like one voice. Words already in
             media_picks.csv are kept as they are; to swap a picture, edit
@@ -96,6 +99,16 @@ def child_safe(pictogram_id):
     return not (meta.get("sex") or meta.get("violence"))
 
 
+def languages(pick):
+    """Languages a pick has both a word and a recording for."""
+    return [lang for lang in ("sv", "en") if pick[lang] and pick[f"audio_{lang}_title"]]
+
+
+def complete(pick):
+    """A pick needs a picture and at least one language with its recording."""
+    return all(pick[k] for k in ("id", "topic", "level", "arasaac_id")) and bool(languages(pick))
+
+
 def pick(limit):
     with COVERAGE.open(encoding="utf-8") as f:
         rows = [r for r in csv.DictReader(f) if r["status"] == "complete"][:limit]
@@ -124,6 +137,9 @@ def pick(limit):
         out = {k: row[k] for k in ("id", "topic", "sv", "en", "level")}
         out["arasaac_id"] = next((p for p in arasaac_ids(row["en"]) if child_safe(p)), "")
         for lang in ("sv", "en"):
+            if not row[lang]:
+                out[f"audio_{lang}_title"] = ""
+                continue
             ll = lingua_libre_recordings(lang, row[lang])
             rank[lang].update(ll.keys())
             if ll:
@@ -140,7 +156,7 @@ def pick(limit):
             w.writerows(picks)
         print(f"[{i}/{len(rows)}] {row['id']}", file=sys.stderr)
 
-    gaps = [p["id"] for p in picks if not all(p[k] for k in PICK_FIELDS)]
+    gaps = [p["id"] for p in picks if not complete(p)]
     print(f"wrote {len(picks)} picks ({len(rows)} new) to {PICKS.relative_to(ROOT)}")
     if gaps:
         print("no longer complete (left out of download): " + ", ".join(gaps))
@@ -243,7 +259,7 @@ def to_mono_mp3(src, dest):
 
 def download(limit):
     with PICKS.open(encoding="utf-8") as f:
-        picks = [p for p in csv.DictReader(f) if all(p[k] for k in PICK_FIELDS)][:limit]
+        picks = [p for p in csv.DictReader(f) if complete(p)][:limit]
 
     # Files already downloaded with a provenance row are kept as they are.
     have = {}
@@ -255,10 +271,22 @@ def download(limit):
     audio_titles = {
         p[f"audio_{lang}_title"]
         for p in picks
-        for lang in ("sv", "en")
+        for lang in languages(p)
         if f"audio/{lang}/{p['id']}_{lang}.mp3" not in have
     }
     info = commons_info(audio_titles)
+
+    # A recording under a licence we can't use leaves that language out; a
+    # pick with no usable recording left is skipped.
+    for title in sorted(audio_titles):
+        licence = info[title][3] if title in info else None
+        if not licence or not ACCEPTABLE.match(licence):
+            print(f"skipping {title}: licence {licence!r} is not acceptable", file=sys.stderr)
+            for p in picks:
+                for lang in ("sv", "en"):
+                    if p[f"audio_{lang}_title"] == title:
+                        p[f"audio_{lang}_title"] = ""
+    picks = [p for p in picks if complete(p)]
 
     (MEDIA / "images").mkdir(parents=True, exist_ok=True)
     for lang in ("sv", "en"):
@@ -285,6 +313,9 @@ def download(limit):
         row = {k: p[k] for k in ("id", "sv", "en", "level")}
         row["image"] = image.name
         for lang in ("sv", "en"):
+            if lang not in languages(p):
+                row[lang] = row[f"audio_{lang}"] = ""
+                continue
             dest = MEDIA / "audio" / lang / f"{cid}_{lang}.mp3"
             row[f"audio_{lang}"] = dest.name
             if f"audio/{lang}/{dest.name}" in have:
@@ -292,8 +323,6 @@ def download(limit):
                 continue
             title = p[f"audio_{lang}_title"]
             url, page, author, licence, licence_url = info[title]
-            if not ACCEPTABLE.match(licence):
-                sys.exit(f"{cid}: {title} has licence {licence!r}, which we can't use")
             with tempfile.TemporaryDirectory() as tmp:
                 raw = Path(tmp) / "original.mp3"
                 download_file(transcoded_mp3(url), raw)
