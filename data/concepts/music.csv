@@ -1,0 +1,29 @@
+id,sv,en,level,image,audio_sv,audio_en
+guitar,gitarr,guitar,1,guitar.png,guitar_sv.mp3,guitar_en.mp3
+piano,piano,piano,1,piano.png,piano_sv.mp3,piano_en.mp3
+violin,fiol,violin,2,violin.png,violin_sv.mp3,violin_en.mp3
+tambourine,,tambourine,2,tambourine.png,,tambourine_en.mp3
+saxophone,,saxophone,2,saxophone.png,,saxophone_en.mp3
+trumpet,,trumpet,2,trumpet.png,,trumpet_en.mp3
+xylophone,,xylophone,2,xylophone.png,,xylophone_en.mp3
+triangle,,triangle,2,triangle.png,,triangle_en.mp3
+violoncello,,violoncello,2,violoncello.png,,violoncello_en.mp3
+bagpipe,,bagpipe,2,bagpipe.png,,bagpipe_en.mp3
+accordion,,accordion,2,accordion.png,,accordion_en.mp3
+harmonica,,harmonica,2,harmonica.png,,harmonica_en.mp3
+headphones,,headphones,2,headphones.png,,headphones_en.mp3
+clarinet,,clarinet,2,clarinet.png,,clarinet_en.mp3
+trombone,,trombone,2,trombone.png,,trombone_en.mp3
+horn,,horn,2,horn.png,,horn_en.mp3
+bongo,,bongo,2,bongo.png,,bongo_en.mp3
+cymbal,,cymbal,2,cymbal.png,,cymbal_en.mp3
+harp,,harp,2,harp.png,,harp_en.mp3
+electric_guitar,,electric guitar,2,electric_guitar.png,,electric_guitar_en.mp3
+record_player,,record player,2,record_player.png,,record_player_en.mp3
+double_bass,,double bass,2,double_bass.png,,double_bass_en.mp3
+guitarist,,guitarist,2,guitarist.png,,guitarist_en.mp3
+bass_drum,,bass drum,2,bass_drum.png,,bass_drum_en.mp3
+gong,,gong,2,gong.png,,gong_en.mp3
+ukulele,,ukulele,2,ukulele.png,,ukulele_en.mp3
+banjo,,banjo,2,banjo.png,,banjo_en.mp3
+music_box,,music box,2,music_box.png,,music_box_en.mp3

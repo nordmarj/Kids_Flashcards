@@ -276,6 +276,18 @@ def download(limit):
     }
     info = commons_info(audio_titles)
 
+    # A recording under a licence we can't use leaves that language out; a
+    # pick with no usable recording left is skipped.
+    for title in sorted(audio_titles):
+        licence = info[title][3] if title in info else None
+        if not licence or not ACCEPTABLE.match(licence):
+            print(f"skipping {title}: licence {licence!r} is not acceptable", file=sys.stderr)
+            for p in picks:
+                for lang in ("sv", "en"):
+                    if p[f"audio_{lang}_title"] == title:
+                        p[f"audio_{lang}_title"] = ""
+    picks = [p for p in picks if complete(p)]
+
     (MEDIA / "images").mkdir(parents=True, exist_ok=True)
     for lang in ("sv", "en"):
         (MEDIA / "audio" / lang).mkdir(parents=True, exist_ok=True)
@@ -311,8 +323,6 @@ def download(limit):
                 continue
             title = p[f"audio_{lang}_title"]
             url, page, author, licence, licence_url = info[title]
-            if not ACCEPTABLE.match(licence):
-                sys.exit(f"{cid}: {title} has licence {licence!r}, which we can't use")
             with tempfile.TemporaryDirectory() as tmp:
                 raw = Path(tmp) / "original.mp3"
                 download_file(transcoded_mp3(url), raw)

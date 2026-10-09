@@ -24,3 +24,23 @@ heart,hjärta,heart,1,heart.png,heart_sv.mp3,heart_en.mp3
 brain,hjärna,brain,2,brain.png,brain_sv.mp3,brain_en.mp3
 skin,hud,skin,2,skin.png,skin_sv.mp3,skin_en.mp3
 beard,skägg,beard,2,beard.png,beard_sv.mp3,beard_en.mp3
+body,kropp,body,2,body.png,body_sv.mp3,body_en.mp3
+forehead,panna,forehead,2,forehead.png,forehead_sv.mp3,forehead_en.mp3
+moustache,,moustache,2,moustache.png,,moustache_en.mp3
+belly_button,,belly button,2,belly_button.png,,belly_button_en.mp3
+lips,,lips,2,lips.png,,lips_en.mp3
+chin,,chin,2,chin.png,,chin_en.mp3
+armpit,,armpit,2,armpit.png,,armpit_en.mp3
+eyebrow,,eyebrow,2,eyebrow.png,,eyebrow_en.mp3
+footprint,,footprint,2,footprint.png,,footprint_en.mp3
+thumb,,thumb,2,thumb.png,,thumb_en.mp3
+little_finger,,little finger,2,little_finger.png,,little_finger_en.mp3
+forefinger,,forefinger,2,forefinger.png,,forefinger_en.mp3
+eyelash,,eyelash,2,eyelash.png,,eyelash_en.mp3
+fingerprint,,fingerprint,2,fingerprint.png,,fingerprint_en.mp3
+eyelid,,eyelid,2,eyelid.png,,eyelid_en.mp3
+fist,,fist,2,fist.png,,fist_en.mp3
+thigh,,thigh,2,thigh.png,,thigh_en.mp3
+toes,,toes,2,toes.png,,toes_en.mp3
+feet,,feet,2,feet.png,,feet_en.mp3
+forearm,,forearm,2,forearm.png,,forearm_en.mp3
