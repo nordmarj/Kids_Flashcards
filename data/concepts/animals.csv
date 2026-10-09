@@ -19,7 +19,7 @@ snake,orm,snake,Schlange,nyoka,2,snake.png,snake_sv.mp3,snake_en.mp3,snake_de.mp
 owl,uggla,owl,Eule,bundi,2,owl.png,owl_sv.mp3,owl_en.mp3,owl_de.mp3,owl_sw.mp3
 fox,räv,fox,Fuchs,mbweha,2,fox.png,fox_sv.mp3,fox_en.mp3,fox_de.mp3,fox_sw.mp3
 wolf,varg,wolf,Wolf,mbwa mwitu,2,wolf.png,wolf_sv.mp3,wolf_en.mp3,wolf_de.mp3,wolf_sw.mp3
-moose,älg,moose,Elch,mbawala,2,moose.png,moose_sv.mp3,moose_en.mp3,moose_de.mp3,moose_sw.mp3
+moose,älg,moose,Elch,,2,moose.png,moose_sv.mp3,moose_en.mp3,moose_de.mp3,
 butterfly,fjäril,butterfly,Schmetterling,kipepeo,2,butterfly.png,butterfly_sv.mp3,butterfly_en.mp3,butterfly_de.mp3,butterfly_sw.mp3
 bee,bi,bee,Biene,nyuki,2,bee.png,bee_sv.mp3,bee_en.mp3,bee_de.mp3,bee_sw.mp3
 spider,spindel,spider,Spinne,buibui,2,spider.png,spider_sv.mp3,spider_en.mp3,spider_de.mp3,spider_sw.mp3
@@ -64,7 +64,7 @@ dinosaur,,dinosaur,Dinosaurier,dinosau,2,dinosaur.png,,dinosaur_en.mp3,dinosaur_
 grasshopper,,grasshopper,Heuschrecke,panzi,2,grasshopper.png,,grasshopper_en.mp3,grasshopper_de.mp3,grasshopper_sw.mp3
 swordfish,,swordfish,Schwertfisch,,2,swordfish.png,,swordfish_en.mp3,swordfish_de.mp3,
 panda,,panda,Panda,panda,2,panda.png,,panda_en.mp3,panda_de.mp3,panda_sw.mp3
-ladybug,,ladybug,Marienkäfer,kombamwiko,2,ladybug.png,,ladybug_en.mp3,ladybug_de.mp3,ladybug_sw.mp3
+ladybug,,ladybug,Marienkäfer,,2,ladybug.png,,ladybug_en.mp3,ladybug_de.mp3,
 jellyfish,,jellyfish,Qualle,,2,jellyfish.png,,jellyfish_en.mp3,jellyfish_de.mp3,
 parrot,,parrot,der Papagei,kasuku,2,parrot.png,,parrot_en.mp3,parrot_de.mp3,parrot_sw.mp3
 leopard,,leopard,Leopard,chui,2,leopard.png,,leopard_en.mp3,leopard_de.mp3,leopard_sw.mp3
@@ -75,7 +75,7 @@ vulture,,vulture,Geier,,2,vulture.png,,vulture_en.mp3,vulture_de.mp3,
 canary,,canary,Kanarienvogel,,2,canary.png,,canary_en.mp3,canary_de.mp3,
 stork,,stork,der Storch,korongo,2,stork.png,,stork_en.mp3,stork_de.mp3,stork_sw.mp3
 chameleon,,chameleon,Chamäleon,kinyonga,2,chameleon.png,,chameleon_en.mp3,chameleon_de.mp3,chameleon_sw.mp3
-beetle,,beetle,Käfer,mende,2,beetle.png,,beetle_en.mp3,beetle_de.mp3,beetle_sw.mp3
+beetle,,beetle,Käfer,,2,beetle.png,,beetle_en.mp3,beetle_de.mp3,
 starfish,,starfish,Seestern,,2,starfish.png,,starfish_en.mp3,starfish_de.mp3,
 flamingo,,flamingo,Flamingo,heroe,2,flamingo.png,,flamingo_en.mp3,flamingo_de.mp3,flamingo_sw.mp3
 seagull,,seagull,Möwe,,2,seagull.png,,seagull_en.mp3,seagull_de.mp3,
@@ -92,9 +92,9 @@ beaver,,beaver,Biber,,2,beaver.png,,beaver_en.mp3,beaver_de.mp3,
 armadillo,,armadillo,Gürteltier,,2,armadillo.png,,armadillo_en.mp3,armadillo_de.mp3,
 chimpanzee,,chimpanzee,Schimpanse,sokwe,2,chimpanzee.png,,chimpanzee_en.mp3,chimpanzee_de.mp3,chimpanzee_sw.mp3
 shrimp,,shrimp,Garnele,kamba,2,shrimp.png,,shrimp_en.mp3,shrimp_de.mp3,shrimp_sw.mp3
-bison,,bison,Bison,nyati,2,bison.png,,bison_en.mp3,bison_de.mp3,bison_sw.mp3
+bison,,bison,Bison,,2,bison.png,,bison_en.mp3,bison_de.mp3,
 scorpion,,scorpion,der Skorpion,nge,2,scorpion.png,,scorpion_en.mp3,scorpion_de.mp3,scorpion_sw.mp3
-skunk,,skunk,Stinktier,kicheche,2,skunk.png,,skunk_en.mp3,skunk_de.mp3,skunk_sw.mp3
+skunk,,skunk,Stinktier,,2,skunk.png,,skunk_en.mp3,skunk_de.mp3,
 orca,,orca,Orca,,2,orca.png,,orca_en.mp3,orca_de.mp3,
 toucan,,toucan,Tukan,,2,toucan.png,,toucan_en.mp3,toucan_de.mp3,
 hummingbird,,hummingbird,Kolibri,chozi,2,hummingbird.png,,hummingbird_en.mp3,hummingbird_de.mp3,hummingbird_sw.mp3
@@ -110,7 +110,7 @@ centipede,,centipede,Hundertfüßer,tandu,2,centipede.png,,centipede_en.mp3,cent
 cricket,,cricket,Grille,nyenje,2,cricket.png,,cricket_en.mp3,cricket_de.mp3,cricket_sw.mp3
 firefly,,firefly,Glühwürmchen,kimulimuli,2,firefly.png,,firefly_en.mp3,firefly_de.mp3,firefly_sw.mp3
 tadpole,,tadpole,Kaulquappe,kiluwiluwi,2,tadpole.png,,tadpole_en.mp3,tadpole_de.mp3,tadpole_sw.mp3
-iguana,,iguana,Leguan,kenge,2,iguana.png,,iguana_en.mp3,iguana_de.mp3,iguana_sw.mp3
+iguana,,iguana,Leguan,,2,iguana.png,,iguana_en.mp3,iguana_de.mp3,
 sea_lion,,sea lion,Seelöwe,,2,sea_lion.png,,sea_lion_en.mp3,sea_lion_de.mp3,
 antelope,,antelope,Antilope,swala,2,antelope.png,,antelope_en.mp3,antelope_de.mp3,antelope_sw.mp3
 clownfish,,clownfish,Clownfisch,,2,clownfish.png,,clownfish_en.mp3,clownfish_de.mp3,
@@ -138,6 +138,6 @@ bat,,bat,Fledermaus,popo,1,bat.png,,bat_en.mp3,bat_de.mp3,bat_sw.mp3
 polar_bear,,polar bear,Eisbär,,1,polar_bear.png,,polar_bear_en.mp3,polar_bear_de.mp3,
 deer,,deer,Hirsch,kulungu,1,deer.png,,deer_en.mp3,deer_de.mp3,deer_sw.mp3
 fly,fluga,fly,Fliege,nzi,1,fly.png,fly_sv.mp3,fly_en.mp3,fly_de.mp3,fly_sw.mp3
-wild_boar,,,Wildschwein,ngiri,2,wild_boar.png,,,wild_boar_de.mp3,wild_boar_sw.mp3
+wild_boar,,,Wildschwein,,2,wild_boar.png,,,wild_boar_de.mp3,
 pony,,pony,Pony,,1,pony.png,,pony_en.mp3,pony_de.mp3,
 panther,,,Panther,,2,panther.png,,,panther_de.mp3,

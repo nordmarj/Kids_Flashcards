@@ -2523,7 +2523,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/bed_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kitanda.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/bedroom_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-chumba_cha_kulala.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/bee_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-nyuki.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/beetle_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-mende.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/beetroot_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kiazi_sukari.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/bell_pepper_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-pilipili_hoho.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/bell_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kengele.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -2536,7 +2535,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/binoculars_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-darubini.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/bird_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-ndege.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/birthday_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-siku_ya_kuzaliwa.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/bison_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-nyati.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/blackboard_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-ubao.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/blanket_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-blanketi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/blouse_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-blauzi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -2588,7 +2586,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/captain_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-nahodha.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/car_park_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-maegesho.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/car_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-gari.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/carousel_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-pembea.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/carpenter_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-seremala.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/carpet_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-zulia.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/carriage_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-gari_la_farasi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -2684,7 +2681,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/earth_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-dunia.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/eel_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-mkunga.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/egg_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-yai.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/elbow_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kiwiko.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/elephant_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-tembo.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/engine_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-injini.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/envelope_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-bahasha.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -2802,7 +2798,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/hyena_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-fisi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/ice_cream_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-aiskrimu.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/ice_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-barafu.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/iguana_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kenge.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/iron_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-pasi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/island_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kisiwa.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/jacket_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-jaketi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -2826,7 +2821,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/koala_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-koala.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/laboratory_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-maabara.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/ladle_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-upawa.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/ladybug_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kombamwiko.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/lake_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-ziwa.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/lamp_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-taa.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/leaf_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-jani.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -2865,7 +2859,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/meatballs_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kababu.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/mechanic_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-fundi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/medal_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-medali.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/melon_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-tikiti.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/meteorite_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kimondo.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/microphone_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kipaza_sauti.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/milk_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-maziwa.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -2876,7 +2869,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/money_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-pesa.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/monkey_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-tumbili.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/moon_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-mwezi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/moose_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-mbawala.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/morning_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-asubuhi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/mosquito_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-mbu.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/moth_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-nondo.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -2904,7 +2896,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/notebook_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-daftari.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/nurse_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-muuguzi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/oar_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kasia.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/oasis_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-chemchemi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/octopus_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-pweza.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/oil_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-mafuta.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/olive_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-zeituni.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -2948,7 +2939,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/pine_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-msonobari.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/pineapple_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-nanasi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/pink_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-waridi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/pinwheel_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-pepea.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/pirate_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-haramia.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/pizza_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-piza.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/planet_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-sayari.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -3047,7 +3037,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/skeleton_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kiunzi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/skin_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-ngozi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/skirt_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-sketi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/skunk_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kicheche.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/sky_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-anga.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/smoke_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-moshi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/snail_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-konokono.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -3102,7 +3091,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/tail_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-mkia.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/tailor_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-mshonaji.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/tale_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-hadithi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/tambourine_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kigoma.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/tap_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-bomba.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/taxi_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-teksi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/tea_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-chai.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
@@ -3173,7 +3161,6 @@ Recordings come from [Lingua Libre](https://lingualibre.org) and [Wikimedia Comm
 | audio/sw/wheelchair_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-kiti_cha_magurudumu.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/whistle_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-filimbi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/wig_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-wigi.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| audio/sw/wild_boar_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-ngiri.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/wind_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-upepo.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/window_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-dirisha.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
 | audio/sw/wing_sw.mp3 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sw-ke-bawa.flac) | Waithera Were | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |

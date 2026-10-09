@@ -12,7 +12,7 @@ leg,ben,leg,Bein,mguu,2,leg.png,leg_sv.mp3,leg_en.mp3,leg_de.mp3,leg_sw.mp3
 tooth,tand,tooth,Zahn,jino,2,tooth.png,tooth_sv.mp3,tooth_en.mp3,tooth_de.mp3,tooth_sw.mp3
 finger,finger,finger,Finger,kidole,2,finger.png,finger_sv.mp3,finger_en.mp3,finger_de.mp3,finger_sw.mp3
 face,ansikte,face,Gesicht,uso,1,face.png,face_sv.mp3,face_en.mp3,face_de.mp3,face_sw.mp3
-elbow,armbåge,elbow,Ellbogen,kiwiko,2,elbow.png,elbow_sv.mp3,elbow_en.mp3,elbow_de.mp3,elbow_sw.mp3
+elbow,armbåge,elbow,Ellbogen,,2,elbow.png,elbow_sv.mp3,elbow_en.mp3,elbow_de.mp3,
 shoulder,axel,shoulder,Schulter,bega,2,shoulder.png,shoulder_sv.mp3,shoulder_en.mp3,shoulder_de.mp3,shoulder_sw.mp3
 neck,hals,neck,Hals,shingo,1,neck.png,neck_sv.mp3,neck_en.mp3,neck_de.mp3,neck_sw.mp3
 knee,knä,knee,Knie,goti,1,knee.png,knee_sv.mp3,knee_en.mp3,knee_de.mp3,knee_sw.mp3
