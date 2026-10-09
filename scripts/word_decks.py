@@ -200,9 +200,10 @@ def build(langs=tuple(LANGUAGES)):
             rows = [r for r in all_rows if r.get(lang)]
             if not rows:
                 continue
-            if len(rows) < 4:
-                sys.exit(f"data/concepts/{topic}.csv: only {len(rows)} {lang} words, "
-                         "a card needs 3 others from its topic as wrong choices")
+            # A card needs three wrong choices; a topic too small to supply
+            # them borrows words from the language's other topics.
+            pool = rows if len(rows) >= 4 else rows + [
+                r for t, other in topics.items() if t != topic for r in other if r.get(lang)]
             name, deck_id = TOPICS[topic][lang]
             info = LANGUAGES[lang]
             deck = genanki.Deck(deck_id, f"{info['root']}::{name}", description=info["description"])
@@ -210,7 +211,7 @@ def build(langs=tuple(LANGUAGES)):
                 image = media_file(sources, f"images/{c['image']}")
                 audio = media_file(sources, f"audio/{lang}/{c[f'audio_{lang}']}")
                 files.update([image, audio])
-                options = [c] + distractors(c, rows, lang)
+                options = [c] + distractors(c, pool, lang)
                 choices = "".join(
                     button.format(ok=' data-ok="1"' if o is c else "", word=html.escape(o[lang]))
                     for o in options
