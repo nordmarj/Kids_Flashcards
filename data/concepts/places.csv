@@ -67,3 +67,48 @@ pyramid,,pyramid,Pyramide,piramidi,2,pyramid.png,,pyramid_en.mp3,pyramid_de.mp3,
 shop,affär,shop,das Geschäft,duka,1,shop.png,shop_sv.mp3,shop_en.mp3,shop_de.mp3,shop_sw.mp3
 police_station,,police station,Polizeistation,kituo cha polisi,2,police_station.png,,police_station_en.mp3,police_station_de.mp3,police_station_sw.mp3
 stable,stall,stable,Stall,zizi,2,stable.png,stable_sv.mp3,stable_en.mp3,stable_de.mp3,stable_sw.mp3
+butcher_shop,,,Fleischerei,,2,butcher_shop.png,,,butcher_shop_de.mp3,
+flower_shop,,,Blumenladen,,2,flower_shop.png,,,flower_shop_de.mp3,
+shoe_shop,,,Schuhgeschäft,,2,shoe_shop.png,,,shoe_shop_de.mp3,
+clothes_shop,,,Bekleidungsgeschäft,,2,clothes_shop.png,,,clothes_shop_de.mp3,
+canal,kanal,canal,Kanal,mfereji,2,canal.png,canal_sv.mp3,canal_en.mp3,canal_de.mp3,canal_sw.mp3
+dam,damm,dam,Staudamm,,2,dam.png,dam_sv.mp3,dam_en.mp3,dam_de.mp3,
+pavement,,pavement,Bürgersteig,,2,pavement.png,,pavement_en.mp3,pavement_de.mp3,
+silo,,silo,Silo,,2,silo.png,,silo_en.mp3,silo_de.mp3,
+solar_panel,,solar panel,Solarzellen,,2,solar_panel.png,,solar_panel_en.mp3,solar_panel_de.mp3,
+wind_turbine,,wind turbine,Windenergieanlage,,2,wind_turbine.png,,wind_turbine_en.mp3,wind_turbine_de.mp3,
+arch,,arch,Bogen,tao,2,arch.png,,arch_en.mp3,arch_de.mp3,arch_sw.mp3
+ceiling,,ceiling,Zimmerdecke,,2,ceiling.png,,ceiling_en.mp3,ceiling_de.mp3,
+column,,column,Säule,nguzo,2,column.png,,column_en.mp3,column_de.mp3,column_sw.mp3
+corridor,,corridor,Flur,korido,2,corridor.png,,corridor_en.mp3,corridor_de.mp3,corridor_sw.mp3
+drawbridge,,drawbridge,Zugbrücke,,2,drawbridge.png,,drawbridge_en.mp3,drawbridge_de.mp3,
+fence,,fence,Zaun,uzio,2,fence.png,,fence_en.mp3,fence_de.mp3,fence_sw.mp3
+gate,port,gate,das Tor,geti,2,gate.png,gate_sv.mp3,gate_en.mp3,gate_de.mp3,gate_sw.mp3
+ramp,,ramp,Rampe,,2,ramp.png,,ramp_en.mp3,ramp_de.mp3,
+well,,well,,kisima,2,well.png,,well_en.mp3,,well_sw.mp3
+prison,fängelse,prison,Gefängnis,gereza,2,prison.png,prison_sv.mp3,prison_en.mp3,prison_de.mp3,prison_sw.mp3
+building_site,,building site,Baustelle,,2,building_site.png,,building_site_en.mp3,building_site_de.mp3,
+hole,,hole,,shimo,2,hole.png,,hole_en.mp3,,hole_sw.mp3
+roof_tile,,roof tile,Dachziegel,,2,roof_tile.png,,roof_tile_en.mp3,roof_tile_de.mp3,
+greenhouse,,greenhouse,,,2,greenhouse.png,,greenhouse_en.mp3,,
+planetarium,,planetarium,Planetarium,,2,planetarium.png,,planetarium_en.mp3,planetarium_de.mp3,
+theme_park,,,Freizeitpark,,2,theme_park.png,,,theme_park_de.mp3,
+observatory,,observatory,Observatorium,,2,observatory.png,,observatory_en.mp3,observatory_de.mp3,
+drinking_fountain,,,Trinkbrunnen,,2,drinking_fountain.png,,,drinking_fountain_de.mp3,
+litter_basket,,,Mülleimer,,2,litter_basket.png,,,litter_basket_de.mp3,
+telephone_booth,telefonkiosk,telephone booth,Telefonzelle,,2,telephone_booth.png,telephone_booth_sv.mp3,telephone_booth_en.mp3,telephone_booth_de.mp3,
+stop,,stop,Bushaltestelle,kituo,2,stop.png,,stop_en.mp3,stop_de.mp3,stop_sw.mp3
+cash_register,,,die Kasse,,2,cash_register.png,,,cash_register_de.mp3,
+shop_window,,shop window,Schaufenster,,2,shop_window.png,,shop_window_en.mp3,shop_window_de.mp3,
+sphinx,,sphinx,Sphinx,,2,sphinx.png,,sphinx_en.mp3,sphinx_de.mp3,
+statue,,statue,Statue,sanamu,2,statue.png,,statue_en.mp3,statue_de.mp3,statue_sw.mp3
+camping_site,,,der Campingplatz,,2,camping_site.png,,,camping_site_de.mp3,
+puppet_theatre,,,Puppentheater,,2,puppet_theatre.png,,,puppet_theatre_de.mp3,
+carnival,,carnival,Karneval,,2,carnival.png,,carnival_en.mp3,carnival_de.mp3,
+parade,,parade,Parade,gwaride,2,parade.png,,parade_en.mp3,parade_de.mp3,parade_sw.mp3
+concert,konsert,concert,das Konzert,,2,concert.png,concert_sv.mp3,concert_en.mp3,concert_de.mp3,
+fireworks,,fireworks,Feuerwerk,fataki,2,fireworks.png,,fireworks_en.mp3,fireworks_de.mp3,fireworks_sw.mp3
+picnic,,picnic,Picknick,,2,picnic.png,,picnic_en.mp3,picnic_de.mp3,
+jungle,,jungle,Urwald,,2,jungle.png,,jungle_en.mp3,jungle_de.mp3,
+savannah,,savannah,Savanne,savana,2,savannah.png,,savannah_en.mp3,savannah_de.mp3,savannah_sw.mp3
+ballet,,ballet,Ballett,,2,ballet.png,,ballet_en.mp3,ballet_de.mp3,

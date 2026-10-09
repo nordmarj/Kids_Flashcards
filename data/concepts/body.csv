@@ -53,3 +53,22 @@ ankle,,ankle,Knöchel,kifundo cha mguu,2,ankle.png,,ankle_en.mp3,ankle_de.mp3,an
 skeleton,,skeleton,Skelett,kiunzi,2,skeleton.png,,skeleton_en.mp3,skeleton_de.mp3,skeleton_sw.mp3
 muscle,muskel,muscle,Muskel,msuli,2,muscle.png,muscle_sv.mp3,muscle_en.mp3,muscle_de.mp3,muscle_sw.mp3
 lungs,,lungs,Lunge,mapafu,2,lungs.png,,lungs_en.mp3,lungs_de.mp3,lungs_sw.mp3
+calf,,calf,Wade,,2,calf.png,,calf_en.mp3,calf_de.mp3,
+chest,bröst,chest,Brust,kifua,2,chest.png,chest_sv.mp3,chest_en.mp3,chest_de.mp3,chest_sw.mp3
+gum,,gum,Zahnfleisch,ufizi,2,gum.png,,gum_en.mp3,gum_de.mp3,gum_sw.mp3
+jaw,,jaw,Unterkiefer,taya,2,jaw.png,,jaw_en.mp3,jaw_de.mp3,jaw_sw.mp3
+kneecap,,,Kniescheibe,,2,kneecap.png,,,kneecap_de.mp3,
+knuckle,,knuckle,Fingergelenk,,2,knuckle.png,,knuckle_en.mp3,knuckle_de.mp3,
+ribs,,,Rippen,mbavu,2,ribs.png,,,ribs_de.mp3,ribs_sw.mp3
+spine,,spine,Wirbelsäule,,2,spine.png,,spine_en.mp3,spine_de.mp3,
+stomach,,stomach,der Magen,,2,stomach.png,,stomach_en.mp3,stomach_de.mp3,
+throat,,throat,Rachen,koo,2,throat.png,,throat_en.mp3,throat_de.mp3,throat_sw.mp3
+kidney,njure,kidney,Niere,figo,2,kidney.png,kidney_sv.mp3,kidney_en.mp3,kidney_de.mp3,kidney_sw.mp3
+liver,lever,liver,Leber,ini,2,liver.png,liver_sv.mp3,liver_en.mp3,liver_de.mp3,liver_sw.mp3
+intestine,,intestine,Darm,utumbo,2,intestine.png,,intestine_en.mp3,intestine_de.mp3,intestine_sw.mp3
+curls,,curls,Locken,,2,curls.png,,curls_en.mp3,curls_de.mp3,
+freckle,,freckle,Sommersprosse,,2,freckle.png,,freckle_en.mp3,freckle_de.mp3,
+long_hair,,,Haarmähne,,2,long_hair.png,,,long_hair_de.mp3,
+ponytail,,ponytail,Pferdeschwanz,,2,ponytail.png,,ponytail_en.mp3,ponytail_de.mp3,
+braid,,braid,,,2,braid.png,,braid_en.mp3,,
+tear,,tear,Träne,chozi,2,tear.png,,tear_en.mp3,tear_de.mp3,tear_sw.mp3

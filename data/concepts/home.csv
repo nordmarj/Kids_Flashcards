@@ -171,3 +171,130 @@ nappy,,nappy,Windel,,1,nappy.png,,nappy_en.mp3,nappy_de.mp3,
 high_chair,,,Hochstuhl,,2,high_chair.png,,,high_chair_de.mp3,
 fireplace,,fireplace,Kamin,,2,fireplace.png,,fireplace_en.mp3,fireplace_de.mp3,
 plug,kontakt,plug,Stecker,plagi,2,plug.png,plug_sv.mp3,plug_en.mp3,plug_de.mp3,plug_sw.mp3
+chisel,,chisel,Meißel,patasi,2,chisel.png,,chisel_en.mp3,chisel_de.mp3,chisel_sw.mp3
+clothespins,,,Wäscheklammern,,2,clothespins.png,,,clothespins_de.mp3,
+hoe,hacka,hoe,Hacke,jembe,2,hoe.png,hoe_sv.mp3,hoe_en.mp3,hoe_de.mp3,hoe_sw.mp3
+pickaxe,,pickaxe,Spitzhacke,,2,pickaxe.png,,pickaxe_en.mp3,pickaxe_de.mp3,
+pitchfork,,pitchfork,Mistgabel,,2,pitchfork.png,,pitchfork_en.mp3,pitchfork_de.mp3,
+safety_pin,,safety pin,Sicherheitsnadel,,2,safety_pin.png,,safety_pin_en.mp3,safety_pin_de.mp3,
+sandpaper,,sandpaper,Schleifpapier,msasa,2,sandpaper.png,,sandpaper_en.mp3,sandpaper_de.mp3,sandpaper_sw.mp3
+sickle,skära,sickle,Sichel,mundu,2,sickle.png,sickle_sv.mp3,sickle_en.mp3,sickle_de.mp3,sickle_sw.mp3
+thimble,,thimble,Fingerhut,,2,thimble.png,,thimble_en.mp3,thimble_de.mp3,
+tongs,,tongs,Kneifzange,,2,tongs.png,,tongs_en.mp3,tongs_de.mp3,
+trowel,,trowel,Maurerkelle,,2,trowel.png,,trowel_en.mp3,trowel_de.mp3,
+chain_saw,,,Motorsäge,,2,chain_saw.png,,,chain_saw_de.mp3,
+tapeline,,,Maßband,,2,tapeline.png,,,tapeline_de.mp3,
+extension_cord,,extension cord,Kabeltrommel,,2,extension_cord.png,,extension_cord_en.mp3,extension_cord_de.mp3,
+curler,,curler,Lockenwickler,,2,curler.png,,curler_en.mp3,curler_de.mp3,
+pin,,pin,Stecknadel,pini,2,pin.png,,pin_en.mp3,pin_de.mp3,pin_sw.mp3
+bottle_opener,,bottle opener,Flaschenöffner,kizibuo,2,bottle_opener.png,,bottle_opener_en.mp3,bottle_opener_de.mp3,bottle_opener_sw.mp3
+cheese_grater,,,Käsereibe,,2,cheese_grater.png,,,cheese_grater_de.mp3,
+corkscrew,,corkscrew,Korkenzieher,,2,corkscrew.png,,corkscrew_en.mp3,corkscrew_de.mp3,
+drinking_straw,,drinking straw,Strohhalm,mrija,2,drinking_straw.png,,drinking_straw_en.mp3,drinking_straw_de.mp3,drinking_straw_sw.mp3
+matches,,matches,Streichhölzer,kiberiti,2,matches.png,,matches_en.mp3,matches_de.mp3,matches_sw.mp3
+peeler,,peeler,Sparschäler,,2,peeler.png,,peeler_en.mp3,peeler_de.mp3,
+pizza_cutter,,pizza cutter,Pizzaschneider,,2,pizza_cutter.png,,pizza_cutter_en.mp3,pizza_cutter_de.mp3,
+pot,,pot,der Topf,,2,pot.png,,pot_en.mp3,pot_de.mp3,
+sugar_bowl,,sugar bowl,Zuckerdose,,2,sugar_bowl.png,,sugar_bowl_en.mp3,sugar_bowl_de.mp3,
+thermos,,thermos,Thermoskanne,,2,thermos.png,,thermos_en.mp3,thermos_de.mp3,
+timer,,timer,Eieruhr,,2,timer.png,,timer_en.mp3,timer_de.mp3,
+tin_opener,,,Dosenöffner,,2,tin_opener.png,,,tin_opener_de.mp3,
+toothpick,,toothpick,Zahnstocher,kichokonoo,2,toothpick.png,,toothpick_en.mp3,toothpick_de.mp3,toothpick_sw.mp3
+wok,,wok,Wok,karai,2,wok.png,,wok_en.mp3,wok_de.mp3,wok_sw.mp3
+wooden_spoon,,wooden spoon,Holzlöffel,,2,wooden_spoon.png,,wooden_spoon_en.mp3,wooden_spoon_de.mp3,
+mortar,,mortar,Mörser,kinu,2,mortar.png,,mortar_en.mp3,mortar_de.mp3,mortar_sw.mp3
+saltcellar,,,Salzstreuer,,2,saltcellar.png,,,saltcellar_de.mp3,
+cork,,cork,Korken,kizibo,2,cork.png,,cork_en.mp3,cork_de.mp3,cork_sw.mp3
+knob,,knob,Türknauf,,2,knob.png,,knob_en.mp3,knob_de.mp3,
+radiator,,radiator,Heizkörper,,2,radiator.png,,radiator_en.mp3,radiator_de.mp3,
+switch,,switch,Lichtschalter,swichi,2,switch.png,,switch_en.mp3,switch_de.mp3,switch_sw.mp3
+washbasin,,washbasin,Waschbecken,,2,washbasin.png,,washbasin_en.mp3,washbasin_de.mp3,
+washing_line,,,Wäscheleine,,2,washing_line.png,,,washing_line_de.mp3,
+window_blind,persienn,,Jalousie,,2,window_blind.png,window_blind_sv.mp3,,window_blind_de.mp3,
+extinguisher,,extinguisher,Feuerlöscher,,2,extinguisher.png,,extinguisher_en.mp3,extinguisher_de.mp3,
+safe,,safe,Safe,sefu,2,safe.png,,safe_en.mp3,safe_de.mp3,safe_sw.mp3
+door_knocker,,,Türklopfer,,2,door_knocker.png,,,door_knocker_de.mp3,
+freezer,,freezer,,,2,freezer.png,,freezer_en.mp3,,
+juicer,,juicer,Entsafter,,2,juicer.png,,juicer_en.mp3,juicer_de.mp3,
+mixer,,mixer,Pürierstab,,2,mixer.png,,mixer_en.mp3,mixer_de.mp3,
+shaver,,shaver,Rasierapparat,,2,shaver.png,,shaver_en.mp3,shaver_de.mp3,
+cd_player,,CD player,CD-Player,,2,cd_player.png,,cd_player_en.mp3,cd_player_de.mp3,
+charger,,charger,Ladegerät,chaja,2,charger.png,,charger_en.mp3,charger_de.mp3,charger_sw.mp3
+magnifying_glass,,magnifying glass,Lupe,,2,magnifying_glass.png,,magnifying_glass_en.mp3,magnifying_glass_de.mp3,
+dental_floss,,dental floss,Zahnseide,,2,dental_floss.png,,dental_floss_en.mp3,dental_floss_de.mp3,
+deodorant,,deodorant,Deo,,2,deodorant.png,,deodorant_en.mp3,deodorant_de.mp3,
+nail_file,,nail file,Nagelfeile,,2,nail_file.png,,nail_file_en.mp3,nail_file_de.mp3,
+razor,,razor,Rasierer,wembe,2,razor.png,,razor_en.mp3,razor_de.mp3,razor_sw.mp3
+shaving_foam,,shaving foam,Rasierschaum,,2,shaving_foam.png,,shaving_foam_en.mp3,shaving_foam_de.mp3,
+shower_cap,,shower cap,,,2,shower_cap.png,,shower_cap_en.mp3,,
+tissue,,tissue,Taschentücher,,2,tissue.png,,tissue_en.mp3,tissue_de.mp3,
+lip_balm,,lip balm,Lippenpflege,,2,lip_balm.png,,lip_balm_en.mp3,lip_balm_de.mp3,
+feather_duster,,feather duster,Staubwedel,,2,feather_duster.png,,feather_duster_en.mp3,feather_duster_de.mp3,
+plunger,,plunger,Saugglocke,,2,plunger.png,,plunger_en.mp3,plunger_de.mp3,
+toilet_brush,,toilet brush,Toilettenbürste,,2,toilet_brush.png,,toilet_brush_en.mp3,toilet_brush_de.mp3,
+detergent,,detergent,Waschmittel,,2,detergent.png,,detergent_en.mp3,detergent_de.mp3,
+scourer,,scourer,Topfreiniger,,2,scourer.png,,scourer_en.mp3,scourer_de.mp3,
+coat_stand,,,Garderobe,,2,coat_stand.png,,,coat_stand_de.mp3,
+drawer,,drawer,Schublade,,2,drawer.png,,drawer_en.mp3,drawer_de.mp3,
+folding_chair,,,Klappstuhl,,2,folding_chair.png,,,folding_chair_de.mp3,
+hammock,,hammock,,,2,hammock.png,,hammock_en.mp3,,
+umbrella_stand,,,Schirmständer,,2,umbrella_stand.png,,,umbrella_stand_de.mp3,
+swivel_chair,,,Drehstuhl,,2,swivel_chair.png,,,swivel_chair_de.mp3,
+christmas_ball,,,Weihnachtskugel,,2,christmas_ball.png,,,christmas_ball_de.mp3,
+christmas_lights,,fairy lights,Lichterkette,,2,christmas_lights.png,,christmas_lights_en.mp3,christmas_lights_de.mp3,
+garland,,garland,Kranz,,2,garland.png,,garland_en.mp3,garland_de.mp3,
+barrel,fat,barrel,Fass,pipa,2,barrel.png,barrel_sv.mp3,barrel_en.mp3,barrel_de.mp3,barrel_sw.mp3
+jewelry_box,,,Schmuckkästchen,,2,jewelry_box.png,,,jewelry_box_de.mp3,
+sewing_basket,,,Nähkasten,,2,sewing_basket.png,,,sewing_basket_de.mp3,
+shopping_basket,,,Einkaufskorb,,2,shopping_basket.png,,,shopping_basket_de.mp3,
+bath_mat,,,Badematte,,2,bath_mat.png,,,bath_mat_de.mp3,
+cushion,,cushion,,,2,cushion.png,,cushion_en.mp3,,
+duvet,,duvet,Daunendecke,,2,duvet.png,,duvet_en.mp3,duvet_de.mp3,
+sheets,,sheets,Bettlaken,,2,sheets.png,,sheets_en.mp3,sheets_de.mp3,
+attic,vind,attic,Dachboden,dari,2,attic.png,attic_sv.mp3,attic_en.mp3,attic_de.mp3,attic_sw.mp3
+jug,,jug,Krug,jagi,2,jug.png,,jug_en.mp3,jug_de.mp3,jug_sw.mp3
+cd,,CD,CD,,2,cd.png,,cd_en.mp3,cd_de.mp3,
+joystick,,joystick,Joystick,,2,joystick.png,,joystick_en.mp3,joystick_de.mp3,
+loudspeakers,,,Lautsprecher,,2,loudspeakers.png,,,loudspeakers_de.mp3,
+webcam,,webcam,Webcam,,2,webcam.png,,webcam_en.mp3,webcam_de.mp3,
+antenna,,antenna,Antenne,antena,2,antenna.png,,antenna_en.mp3,antenna_de.mp3,antenna_sw.mp3
+projector,,,Beamer,,2,projector.png,,,projector_de.mp3,
+walkie_talkie,,walkie-talkie,Walkie-Talkie,,2,walkie_talkie.png,,walkie_talkie_en.mp3,walkie_talkie_de.mp3,
+video_camera,,video camera,Videokamera,,2,video_camera.png,,video_camera_en.mp3,video_camera_de.mp3,
+lipstick,,lipstick,Lippenstift,rangi ya mdomo,2,lipstick.png,,lipstick_en.mp3,lipstick_de.mp3,lipstick_sw.mp3
+nail_varnish,,,Nagellack,,2,nail_varnish.png,,,nail_varnish_de.mp3,
+mascara,,mascara,Wimperntusche,,2,mascara.png,,mascara_en.mp3,mascara_de.mp3,
+suntan_lotion,,,Bräunungscreme,,2,suntan_lotion.png,,,suntan_lotion_de.mp3,
+credit_card,,credit card,Kreditkarte,,2,credit_card.png,,credit_card_en.mp3,credit_card_de.mp3,
+passport,pass,passport,der Reisepass,pasipoti,2,passport.png,passport_sv.mp3,passport_en.mp3,passport_de.mp3,passport_sw.mp3
+pills,,pills,Tabletten,vidonge,2,pills.png,,pills_en.mp3,pills_de.mp3,pills_sw.mp3
+syrup,,syrup,,,2,syrup.png,,syrup_en.mp3,,
+inhaler,,inhaler,,,2,inhaler.png,,inhaler_en.mp3,,
+crutches,,,Krücken,,2,crutches.png,,,crutches_de.mp3,
+hearing_aid,,hearing aid,Hörgerät,,2,hearing_aid.png,,hearing_aid_en.mp3,hearing_aid_de.mp3,
+walking_stick,,walking stick,Spazierstock,mkongojo,2,walking_stick.png,,walking_stick_en.mp3,walking_stick_de.mp3,walking_stick_sw.mp3
+stretcher,,stretcher,,machela,2,stretcher.png,,stretcher_en.mp3,,stretcher_sw.mp3
+wastepaper_basket,,wastepaper basket,Papierkorb,,2,wastepaper_basket.png,,wastepaper_basket_en.mp3,wastepaper_basket_de.mp3,
+spotlight,,,Strahler,,2,spotlight.png,,,spotlight_de.mp3,
+egg_timer,,,Sanduhr,,2,egg_timer.png,,,egg_timer_de.mp3,
+mousetrap,,mousetrap,Mäusefalle,,2,mousetrap.png,,mousetrap_en.mp3,mousetrap_de.mp3,
+pet_bowl,,,Futternapf,,2,pet_bowl.png,,,pet_bowl_de.mp3,
+photographic_album,,,Fotoalbum,albamu,2,photographic_album.png,,,photographic_album_de.mp3,photographic_album_sw.mp3
+sculpture,skulptur,sculpture,Skulptur,,2,sculpture.png,sculpture_sv.mp3,sculpture_en.mp3,sculpture_de.mp3,
+painting,målning,painting,Bild,,2,painting.png,painting_sv.mp3,painting_en.mp3,painting_de.mp3,
+canvas,,canvas,Leinwand,,2,canvas.png,,canvas_en.mp3,canvas_de.mp3,
+palette,,palette,,,2,palette.png,,palette_en.mp3,,
+knot,knut,knot,Knoten,fundo,2,knot.png,knot_sv.mp3,knot_en.mp3,knot_de.mp3,knot_sw.mp3
+bow,,bow,Schleife,,2,bow.png,,bow_en.mp3,bow_de.mp3,
+pocket,,pocket,Tasche,mfuko,2,pocket.png,,pocket_en.mp3,pocket_de.mp3,pocket_sw.mp3
+throne,,throne,Thron,,2,throne.png,,throne_en.mp3,throne_de.mp3,
+pendant,,pendant,Anhänger,,2,pendant.png,,pendant_en.mp3,pendant_de.mp3,
+glass_beads,,beads,Glasperlen,,2,glass_beads.png,,glass_beads_en.mp3,glass_beads_de.mp3,
+pearl,,pearl,Perle,lulu,2,pearl.png,,pearl_en.mp3,pearl_de.mp3,pearl_sw.mp3
+wood,,wood,Holz,ubao,2,wood.png,,wood_en.mp3,wood_de.mp3,wood_sw.mp3
+metronome,,metronome,Metronom,,2,metronome.png,,metronome_en.mp3,metronome_de.mp3,
+music_stand,,music stand,Notenständer,,2,music_stand.png,,music_stand_en.mp3,music_stand_de.mp3,
+gamepad,,gamepad,Controller,,2,gamepad.png,,gamepad_en.mp3,gamepad_de.mp3,
+party_blower,,,Tröte,,2,party_blower.png,,,party_blower_de.mp3,
+stamp,,stamp,die Briefmarke,stempu,2,stamp.png,,stamp_en.mp3,stamp_de.mp3,stamp_sw.mp3
+diploma,,diploma,die Urkunde,cheti,2,diploma.png,,diploma_en.mp3,diploma_de.mp3,diploma_sw.mp3

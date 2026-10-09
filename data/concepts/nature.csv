@@ -101,3 +101,51 @@ tornado,,tornado,Tornado,kimbunga,2,tornado.png,,tornado_en.mp3,tornado_de.mp3,t
 mars,Mars,Mars,Mars,Mirihi,2,mars.png,mars_sv.mp3,mars_en.mp3,mars_de.mp3,mars_sw.mp3
 saturn,Saturnus,Saturn,Saturn,Zohali,2,saturn.png,saturn_sv.mp3,saturn_en.mp3,saturn_de.mp3,saturn_sw.mp3
 jupiter,Jupiter,Jupiter,Jupiter,Mshtarii,2,jupiter.png,jupiter_sv.mp3,jupiter_en.mp3,jupiter_de.mp3,jupiter_sw.mp3
+baobab,,baobab,Baobab,mbuyu,2,baobab.png,,baobab_en.mp3,baobab_de.mp3,baobab_sw.mp3
+cypress_tree,,,Zypresse,,2,cypress_tree.png,,,cypress_tree_de.mp3,
+olive_tree,,olive tree,Olivenbaum,mzeituni,2,olive_tree.png,,olive_tree_en.mp3,olive_tree_de.mp3,olive_tree_sw.mp3
+willow,,willow,Trauerweide,,2,willow.png,,willow_en.mp3,willow_de.mp3,
+poplar,,poplar,Pappel,,2,poplar.png,,poplar_en.mp3,poplar_de.mp3,
+lemon_tree,,,Zitronenbaum,mlimau,2,lemon_tree.png,,,lemon_tree_de.mp3,lemon_tree_sw.mp3
+orange_tree,,,Orangenbaum,mchungwa,2,orange_tree.png,,,orange_tree_de.mp3,orange_tree_sw.mp3
+banana_tree,,,Bananenstaude,mgomba,2,banana_tree.png,,,banana_tree_de.mp3,banana_tree_sw.mp3
+fig_tree,,,Feigenbaum,mtini,2,fig_tree.png,,,fig_tree_de.mp3,fig_tree_sw.mp3
+pear_tree,,pear tree,Birnbaum,mpea,2,pear_tree.png,,pear_tree_en.mp3,pear_tree_de.mp3,pear_tree_sw.mp3
+peach_tree,,,Pfirsichbaum,,2,peach_tree.png,,,peach_tree_de.mp3,
+carnation_flower,,,Nelke,,2,carnation_flower.png,,,carnation_flower_de.mp3,
+geranium,,geranium,Geranie,,2,geranium.png,,geranium_en.mp3,geranium_de.mp3,
+lotus_flower,,,Lotusblume,,2,lotus_flower.png,,,lotus_flower_de.mp3,
+pansy,,pansy,Stiefmütterchen,,2,pansy.png,,pansy_en.mp3,pansy_de.mp3,
+violet,,violet,Veilchen,,2,violet.png,,violet_en.mp3,violet_de.mp3,
+mistletoe,,mistletoe,Mistelzweig,,2,mistletoe.png,,mistletoe_en.mp3,mistletoe_de.mp3,
+poinsettia,,poinsettia,Weihnachtsstern,,2,poinsettia.png,,poinsettia_en.mp3,poinsettia_de.mp3,
+lavender,,lavender,Lavendel,,2,lavender.png,,lavender_en.mp3,lavender_de.mp3,
+bark,,bark,Rinde,gome,2,bark.png,,bark_en.mp3,bark_de.mp3,bark_sw.mp3
+petal,,petal,Kronblatt,petali,2,petal.png,,petal_en.mp3,petal_de.mp3,petal_sw.mp3
+pinecone,,pinecone,Tannenzapfen,,2,pinecone.png,,pinecone_en.mp3,pinecone_de.mp3,
+stem,,stem,,shina,2,stem.png,,stem_en.mp3,,stem_sw.mp3
+avalanche,,avalanche,Lawine,,2,avalanche.png,,avalanche_en.mp3,avalanche_de.mp3,
+earthquake,,earthquake,Erdbeben,tetemeko la ardhi,2,earthquake.png,,earthquake_en.mp3,earthquake_de.mp3,earthquake_sw.mp3
+flood,,flood,Überschwemmung,mafuriko,2,flood.png,,flood_en.mp3,flood_de.mp3,flood_sw.mp3
+hurricane,,hurricane,Orkan,,2,hurricane.png,,hurricane_en.mp3,hurricane_de.mp3,
+eruption,utbrott,eruption,Vulkanausbruch,,2,eruption.png,eruption_sv.mp3,eruption_en.mp3,eruption_de.mp3,
+marsh,,marsh,Sumpf,,2,marsh.png,,marsh_en.mp3,marsh_de.mp3,
+mountain_range,,mountain range,Bergkette,safu ya milima,2,mountain_range.png,,mountain_range_en.mp3,mountain_range_de.mp3,mountain_range_sw.mp3
+peak,topp,peak,Gipfel,kilele,2,peak.png,peak_sv.mp3,peak_en.mp3,peak_de.mp3,peak_sw.mp3
+peninsula,,peninsula,Halbinsel,rasi,2,peninsula.png,,peninsula_en.mp3,peninsula_de.mp3,peninsula_sw.mp3
+bay,,bay,Bucht,ghuba,2,bay.png,,bay_en.mp3,bay_de.mp3,bay_sw.mp3
+horizon,,horizon,Horizont,upeo,2,horizon.png,,horizon_en.mp3,horizon_de.mp3,horizon_sw.mp3
+holly,,holly,Stechpalme,,2,holly.png,,holly_en.mp3,holly_de.mp3,
+ivy,,ivy,Efeu,,2,ivy.png,,ivy_en.mp3,ivy_de.mp3,
+vine,,vine,Weinrebe,mzabibu,2,vine.png,,vine_en.mp3,vine_de.mp3,vine_sw.mp3
+ruby,,,Rubin,yakuti,2,ruby.png,,,ruby_de.mp3,ruby_sw.mp3
+fossil,fossil,fossil,Fossil,kisukuku,2,fossil.png,fossil_sv.mp3,fossil_en.mp3,fossil_de.mp3,fossil_sw.mp3
+thunderclap,,thunderclap,,,2,thunderclap.png,,thunderclap_en.mp3,,
+flower_bed,,,Beet,,2,flower_bed.png,,,flower_bed_de.mp3,
+sprinkler,,sprinkler,Rasensprenger,,2,sprinkler.png,,sprinkler_en.mp3,sprinkler_de.mp3,
+sack,,sack,Sack,gunia,2,sack.png,,sack_en.mp3,sack_de.mp3,sack_sw.mp3
+scarecrow,,scarecrow,Vogelscheuche,,2,scarecrow.png,,scarecrow_en.mp3,scarecrow_de.mp3,
+straw,halm,straw,Stroh,,2,straw.png,straw_sv.mp3,straw_en.mp3,straw_de.mp3,
+sunshade,,sunshade,Sonnenschirm,,2,sunshade.png,,sunshade_en.mp3,sunshade_de.mp3,
+bonfire,,bonfire,Lagerfeuer,,2,bonfire.png,,bonfire_en.mp3,bonfire_de.mp3,
+water_drop,,,Wassertropfen,tone,2,water_drop.png,,,water_drop_de.mp3,water_drop_sw.mp3

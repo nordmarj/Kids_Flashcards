@@ -141,3 +141,80 @@ fly,fluga,fly,Fliege,nzi,1,fly.png,fly_sv.mp3,fly_en.mp3,fly_de.mp3,fly_sw.mp3
 wild_boar,,wild boar,Wildschwein,,2,wild_boar.png,,wild_boar_en.mp3,wild_boar_de.mp3,
 pony,,pony,Pony,,1,pony.png,,pony_en.mp3,pony_de.mp3,
 panther,,panther,Panther,,2,panther.png,,panther_en.mp3,panther_de.mp3,
+alligator,,alligator,Kaiman,,2,alligator.png,,alligator_en.mp3,alligator_de.mp3,
+condor,,condor,Kondor,,2,condor.png,,condor_en.mp3,condor_de.mp3,
+cormorant,,cormorant,Kormoran,,2,cormorant.png,,cormorant_en.mp3,cormorant_de.mp3,
+coyote,,coyote,Kojote,,2,coyote.png,,coyote_en.mp3,coyote_de.mp3,
+crayfish,,crayfish,Flusskrebs,,2,crayfish.png,,crayfish_en.mp3,crayfish_de.mp3,
+cuttlefish,,cuttlefish,,,2,cuttlefish.png,,cuttlefish_en.mp3,,
+ferret,,ferret,Frettchen,,2,ferret.png,,ferret_en.mp3,ferret_de.mp3,
+flea,loppa,flea,Floh,kiroboto,2,flea.png,flea_sv.mp3,flea_en.mp3,flea_de.mp3,flea_sw.mp3
+hammerhead_shark,,hammerhead shark,Hammerhai,,2,hammerhead_shark.png,,hammerhead_shark_en.mp3,hammerhead_shark_de.mp3,
+lioness,,lioness,Löwin,simba jike,2,lioness.png,,lioness_en.mp3,lioness_de.mp3,lioness_sw.mp3
+mackerel,,mackerel,Makrele,,2,mackerel.png,,mackerel_en.mp3,mackerel_de.mp3,
+manta,,manta,Manta,,2,manta.png,,manta_en.mp3,manta_de.mp3,
+mantis,,mantis,Gottesanbeterin,,2,mantis.png,,mantis_en.mp3,mantis_de.mp3,
+newt,,newt,,,2,newt.png,,newt_en.mp3,,
+puma,,puma,Puma,,2,puma.png,,puma_en.mp3,puma_de.mp3,
+ray,,ray,Rochen,,2,ray.png,,ray_en.mp3,ray_de.mp3,
+salamander,,salamander,Salamander,,2,salamander.png,,salamander_en.mp3,salamander_de.mp3,
+squid,,squid,Tintenfisch,ngisi,2,squid.png,,squid_en.mp3,squid_de.mp3,squid_sw.mp3
+tree_frog,,tree frog,Laubfrosch,,2,tree_frog.png,,tree_frog_en.mp3,tree_frog_de.mp3,
+trout,,trout,Forelle,,2,trout.png,,trout_en.mp3,trout_de.mp3,
+tuna,,tuna,Thunfisch,jodari,2,tuna.png,,tuna_en.mp3,tuna_de.mp3,tuna_sw.mp3
+viper,,viper,Viper,,2,viper.png,,viper_en.mp3,viper_de.mp3,
+weasel,,weasel,Wiesel,,2,weasel.png,,weasel_en.mp3,weasel_de.mp3,
+clam,,clam,,,2,clam.png,,clam_en.mp3,,
+cockatoo,,cockatoo,Kakadu,,2,cockatoo.png,,cockatoo_en.mp3,cockatoo_de.mp3,
+cockroach,,cockroach,Kakerlake,mende,2,cockroach.png,,cockroach_en.mp3,cockroach_de.mp3,cockroach_sw.mp3
+cod,,cod,Kabeljau,,2,cod.png,,cod_en.mp3,cod_de.mp3,
+magpie,,magpie,Elster,,2,magpie.png,,magpie_en.mp3,magpie_de.mp3,
+marmoset,,marmoset,,,2,marmoset.png,,marmoset_en.mp3,,
+millipede,,millipede,Tausendfüßer,jongoo,2,millipede.png,,millipede_en.mp3,millipede_de.mp3,millipede_sw.mp3
+mussel,,mussel,Muschel,,2,mussel.png,,mussel_en.mp3,mussel_de.mp3,
+quail,,quail,Wachtel,,2,quail.png,,quail_en.mp3,quail_de.mp3,
+turtle,,turtle,,kasa,2,turtle.png,,turtle_en.mp3,,turtle_sw.mp3
+gazelle,,gazelle,Gazelle,,2,gazelle.png,,gazelle_en.mp3,gazelle_de.mp3,
+gnu,,gnu,Gnu,nyumbu,2,gnu.png,,gnu_en.mp3,gnu_de.mp3,gnu_sw.mp3
+hare,,hare,Hase,,2,hare.png,,hare_en.mp3,hare_de.mp3,
+ram,,ram,der Widder,,2,ram.png,,ram_en.mp3,ram_de.mp3,
+cicada,,cicada,Zikade,,2,cicada.png,,cicada_en.mp3,cicada_de.mp3,
+goldfinch,,,Stieglitz,,2,goldfinch.png,,,goldfinch_de.mp3,
+whale_shark,,whale shark,Walhai,,2,whale_shark.png,,whale_shark_en.mp3,whale_shark_de.mp3,
+larva,,larva,Larve,,2,larva.png,,larva_en.mp3,larva_de.mp3,
+stick_insect,,stick insect,Gespenstschrecke,,2,stick_insect.png,,stick_insect_en.mp3,stick_insect_de.mp3,
+marmot,,marmot,Murmeltier,,2,marmot.png,,marmot_en.mp3,marmot_de.mp3,
+pangolin,,pangolin,Schuppentier,kakakuona,2,pangolin.png,,pangolin_en.mp3,pangolin_de.mp3,pangolin_sw.mp3
+roe_deer,,roe deer,Reh,,2,roe_deer.png,,roe_deer_en.mp3,roe_deer_de.mp3,
+reticulated_python,,,Netzpython,,2,reticulated_python.png,,,reticulated_python_de.mp3,
+monitor_lizard,,monitor lizard,Waran,,2,monitor_lizard.png,,monitor_lizard_en.mp3,monitor_lizard_de.mp3,
+american_lobster,,,Amerikanischer Hummer,,2,american_lobster.png,,,american_lobster_de.mp3,
+anemone,,anemone,Anemone,,2,anemone.png,,anemone_en.mp3,anemone_de.mp3,
+tarantula,,,Vogelspinne,,2,tarantula.png,,,tarantula_de.mp3,
+mammoth,,mammoth,Mammut,,2,mammoth.png,,mammoth_en.mp3,mammoth_de.mp3,
+sabertooth,,,Säbelzahntiger,,2,sabertooth.png,,,sabertooth_de.mp3,
+pup,,pup,Welpe,,2,pup.png,,pup_en.mp3,pup_de.mp3,
+chrysalis,,chrysalis,Puppe,,2,chrysalis.png,,chrysalis_en.mp3,chrysalis_de.mp3,
+sea_urchin,,,Seeigel,,2,sea_urchin.png,,,sea_urchin_de.mp3,
+antler,,antler,Geweih,,2,antler.png,,antler_en.mp3,antler_de.mp3,
+claw,,claw,Kralle,,2,claw.png,,claw_en.mp3,claw_de.mp3,
+fang,,fang,Reißzahn,,2,fang.png,,fang_en.mp3,fang_de.mp3,
+feather,,feather,Feder,unyoya,2,feather.png,,feather_en.mp3,feather_de.mp3,feather_sw.mp3
+fin,,fin,Flosse,pezi,2,fin.png,,fin_en.mp3,fin_de.mp3,fin_sw.mp3
+hoof,,hoof,Hufe,ukwato,2,hoof.png,,hoof_en.mp3,hoof_de.mp3,hoof_sw.mp3
+trunk,,trunk,Rüssel,,2,trunk.png,,trunk_en.mp3,trunk_de.mp3,
+tusk,,tusk,Stoßzahn,,2,tusk.png,,tusk_en.mp3,tusk_de.mp3,
+udder,,udder,Euter,kiwele,2,udder.png,,udder_en.mp3,udder_de.mp3,udder_sw.mp3
+anthill,,,Ameisenhügel,kichuguu,2,anthill.png,,,anthill_de.mp3,anthill_sw.mp3
+aquarium,,aquarium,Aquarium,,2,aquarium.png,,aquarium_en.mp3,aquarium_de.mp3,
+beehive,,beehive,Bienenstock,mzinga,2,beehive.png,,beehive_en.mp3,beehive_de.mp3,beehive_sw.mp3
+birdhouse,,birdhouse,Vogelhäuschen,,2,birdhouse.png,,birdhouse_en.mp3,birdhouse_de.mp3,
+cage,,cage,Käfig,,2,cage.png,,cage_en.mp3,cage_de.mp3,
+henhouse,,henhouse,Hühnerstall,,2,henhouse.png,,henhouse_en.mp3,henhouse_de.mp3,
+kennel,,kennel,Hundehütte,,2,kennel.png,,kennel_en.mp3,kennel_de.mp3,
+pigsty,,pigsty,Schweinestall,,2,pigsty.png,,pigsty_en.mp3,pigsty_de.mp3,
+rabbit_hutch,,,Hasenstall,,2,rabbit_hutch.png,,,rabbit_hutch_de.mp3,
+terrarium,,terrarium,Terrarium,,2,terrarium.png,,terrarium_en.mp3,terrarium_de.mp3,
+flock,,flock,,,2,flock.png,,flock_en.mp3,,
+herd,,herd,,,2,herd.png,,herd_en.mp3,,
+swarm,,swarm,Schwarm,,2,swarm.png,,swarm_en.mp3,swarm_de.mp3,

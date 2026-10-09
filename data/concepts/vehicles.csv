@@ -68,3 +68,42 @@ underground,,underground,die U-Bahn,,2,underground.png,,underground_en.mp3,under
 traffic_lights,,traffic light,die Ampel,,1,traffic_lights.png,,traffic_lights_en.mp3,traffic_lights_de.mp3,
 wheelchair,,wheelchair,Rollstuhl,kiti cha magurudumu,2,wheelchair.png,,wheelchair_en.mp3,wheelchair_de.mp3,wheelchair_sw.mp3
 carriage,,carriage,Kutsche,gari la farasi,2,carriage.png,,carriage_en.mp3,carriage_de.mp3,carriage_sw.mp3
+anchor,,anchor,Anker,nanga,2,anchor.png,,anchor_en.mp3,anchor_de.mp3,anchor_sw.mp3
+chain,,chain,Kette,mnyororo,2,chain.png,,chain_en.mp3,chain_de.mp3,chain_sw.mp3
+child_safety_seat,,,Kindersitz,,2,child_safety_seat.png,,,child_safety_seat_de.mp3,
+headlights,,,Scheinwerfer,,2,headlights.png,,,headlights_de.mp3,
+pedal,,pedal,Pedale,,2,pedal.png,,pedal_en.mp3,pedal_de.mp3,
+periscope,,periscope,Periskop,,2,periscope.png,,periscope_en.mp3,periscope_de.mp3,
+sail,,sail,Segel,tanga,2,sail.png,,sail_en.mp3,sail_de.mp3,sail_sw.mp3
+siren,,siren,Sirene,kingora,2,siren.png,,siren_en.mp3,siren_de.mp3,siren_sw.mp3
+windshield_wipers,,,Scheibenwischer,,2,windshield_wipers.png,,,windshield_wipers_de.mp3,
+rear_view_mirror,,rear-view mirror,Rückspiegel,,2,rear_view_mirror.png,,rear_view_mirror_en.mp3,rear_view_mirror_de.mp3,
+handle_bars,,,Lenker,,2,handle_bars.png,,,handle_bars_de.mp3,
+cockpit,,cockpit,Cockpit,,2,cockpit.png,,cockpit_en.mp3,cockpit_de.mp3,
+bumper,,bumper,Stoßstange,,2,bumper.png,,bumper_en.mp3,bumper_de.mp3,
+chair_lift,,,Sessellift,,2,chair_lift.png,,,chair_lift_de.mp3,
+covered_wagon,,,Planwagen,,2,covered_wagon.png,,,covered_wagon_de.mp3,
+electric_car,,electric car,E-Auto,,2,electric_car.png,,electric_car_en.mp3,electric_car_de.mp3,
+pickup,,pickup,Pickup,,2,pickup.png,,pickup_en.mp3,pickup_de.mp3,
+sports_car,,sports car,Sportwagen,,2,sports_car.png,,sports_car_en.mp3,sports_car_de.mp3,
+tandem,,tandem,Tandem,,2,tandem.png,,tandem_en.mp3,tandem_de.mp3,
+tank,,tank,Panzer,,2,tank.png,,tank_en.mp3,tank_de.mp3,
+trailer,,trailer,Anhänger,trela,2,trailer.png,,trailer_en.mp3,trailer_de.mp3,trailer_sw.mp3
+atv,,,Quad,,2,atv.png,,,atv_de.mp3,
+catamaran,,catamaran,Katamaran,,2,catamaran.png,,catamaran_en.mp3,catamaran_de.mp3,
+dinghy,,dinghy,Schlauchboot,,2,dinghy.png,,dinghy_en.mp3,dinghy_de.mp3,
+pirate_boat,,,Piratenschiff,,2,pirate_boat.png,,,pirate_boat_de.mp3,
+shipwreck,,shipwreck,Schiffsuntergang,,2,shipwreck.png,,shipwreck_en.mp3,shipwreck_de.mp3,
+tug,,tug,Schlepper,,2,tug.png,,tug_en.mp3,tug_de.mp3,
+windsurfing_board,,,Windsurfen,,2,windsurfing_board.png,,,windsurfing_board_de.mp3,
+harvester,,harvester,Erntemaschine,,2,harvester.png,,harvester_en.mp3,harvester_de.mp3,
+plough,,plough,Pflug,plau,2,plough.png,,plough_en.mp3,plough_de.mp3,plough_sw.mp3
+road_roller,,road roller,Walze,,2,road_roller.png,,road_roller_en.mp3,road_roller_de.mp3,
+paragliding,,paraglider,Gleitschirmfliegen,,2,paragliding.png,,paragliding_en.mp3,paragliding_de.mp3,
+traffic_cone,kon,traffic cone,Kegel,koni,2,traffic_cone.png,traffic_cone_sv.mp3,traffic_cone_en.mp3,traffic_cone_de.mp3,traffic_cone_sw.mp3
+zebra_crossing,,zebra crossing,Zebrastreifen,kivuko milia,2,zebra_crossing.png,,zebra_crossing_en.mp3,zebra_crossing_de.mp3,zebra_crossing_sw.mp3
+roundabout,,roundabout,der Kreisverkehr,mzunguko,2,roundabout.png,,roundabout_en.mp3,roundabout_de.mp3,roundabout_sw.mp3
+runway,,runway,Landebahn,,2,runway.png,,runway_en.mp3,runway_de.mp3,
+control_tower,,control tower,Tower,,2,control_tower.png,,control_tower_en.mp3,control_tower_de.mp3,
+cycle_lane,,cycle lane,Fahrradweg,,2,cycle_lane.png,,cycle_lane_en.mp3,cycle_lane_de.mp3,
+bus_station,,bus station,Busbahnhof,kituo cha basi,2,bus_station.png,,bus_station_en.mp3,bus_station_de.mp3,bus_station_sw.mp3

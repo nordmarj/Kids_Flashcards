@@ -66,3 +66,22 @@ suit,kostym,suit,der Anzug,suti,2,suit.png,suit_sv.mp3,suit_en.mp3,suit_de.mp3,s
 apron,,apron,Schürze,aproni,2,apron.png,,apron_en.mp3,apron_de.mp3,apron_sw.mp3
 jeans,,jeans,Jeans,,1,jeans.png,,jeans_en.mp3,jeans_de.mp3,
 watch,klocka,watch,Armbanduhr,saa,1,watch.png,watch_sv.mp3,watch_en.mp3,watch_de.mp3,watch_sw.mp3
+anorak,,anorak,,,2,anorak.png,,anorak_en.mp3,,
+bodysuit,,bodysuit,Body,,2,bodysuit.png,,bodysuit_en.mp3,bodysuit_de.mp3,
+leggings,,,Leggings,,2,leggings.png,,,leggings_de.mp3,
+polo_shirt,,,Poloshirt,,2,polo_shirt.png,,,polo_shirt_de.mp3,
+sweatshirt,,sweatshirt,Sweatshirt,,2,sweatshirt.png,,sweatshirt_en.mp3,sweatshirt_de.mp3,
+waistcoat,,waistcoat,,kizibao,2,waistcoat.png,,waistcoat_en.mp3,,waistcoat_sw.mp3
+sleeve,,sleeve,der Ärmel,,2,sleeve.png,,sleeve_en.mp3,sleeve_de.mp3,
+undershirt,,undershirt,Unterhemd,,2,undershirt.png,,undershirt_en.mp3,undershirt_de.mp3,
+balaclava,,balaclava,Sturmhaube,,2,balaclava.png,,balaclava_en.mp3,balaclava_de.mp3,
+bowler_hat,,bowler hat,die Melone,,2,bowler_hat.png,,bowler_hat_en.mp3,bowler_hat_de.mp3,
+brooch,,brooch,Brosche,,2,brooch.png,,brooch_en.mp3,brooch_de.mp3,
+bumbag,,,Bauchtasche,,2,bumbag.png,,,bumbag_de.mp3,
+hair_slide,,,Haarspange,,2,hair_slide.png,,,hair_slide_de.mp3,
+purse,,purse,,,2,purse.png,,purse_en.mp3,,
+shawl,,shawl,Tuch,mtandio,2,shawl.png,,shawl_en.mp3,shawl_de.mp3,shawl_sw.mp3
+luggage,,luggage,das Gepäck,mzigo,2,luggage.png,,luggage_en.mp3,luggage_de.mp3,luggage_sw.mp3
+costume,,costume,Kostüm,,2,costume.png,,costume_en.mp3,costume_de.mp3,
+lab_coat,,,Arztkittel,,2,lab_coat.png,,,lab_coat_de.mp3,
+overalls,,overalls,Overall,ovaroli,2,overalls.png,,overalls_en.mp3,overalls_de.mp3,overalls_sw.mp3
