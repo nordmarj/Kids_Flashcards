@@ -35,7 +35,7 @@ nurse,sjuksköterska,nurse,Krankenschwester,muuguzi,2,nurse.png,nurse_sv.mp3,nur
 photographer,fotograf,photographer,Fotograf,mpiga picha,2,photographer.png,photographer_sv.mp3,photographer_en.mp3,photographer_de.mp3,photographer_sw.mp3
 angel,ängel,angel,Engel,malaika,2,angel.png,angel_sv.mp3,angel_en.mp3,angel_de.mp3,angel_sw.mp3
 birthday,födelsedag,birthday,Geburtstag,siku ya kuzaliwa,1,birthday.png,birthday_sv.mp3,birthday_en.mp3,birthday_de.mp3,birthday_sw.mp3
-architect,arkitekt,architect,,msanifu,2,architect.png,architect_sv.mp3,architect_en.mp3,,architect_sw.mp3
+architect,arkitekt,architect,,,2,architect.png,architect_sv.mp3,architect_en.mp3,,
 cashier,kassör,cashier,,keshia,2,cashier.png,cashier_sv.mp3,cashier_en.mp3,,cashier_sw.mp3
 conductor,dirigent,conductor,,,2,conductor.png,conductor_sv.mp3,conductor_en.mp3,,
 referee,domare,referee,,refa,2,referee.png,referee_sv.mp3,referee_en.mp3,,referee_sw.mp3
@@ -48,7 +48,7 @@ dentist,,dentist,der Zahnarzt,daktari wa meno,2,dentist.png,,dentist_en.mp3,dent
 electrician,,electrician,,,2,electrician.png,,electrician_en.mp3,,
 hairdresser,,hairdresser,der Friseur,kinyozi,2,hairdresser.png,,hairdresser_en.mp3,hairdresser_de.mp3,hairdresser_sw.mp3
 clown,,clown,Clown,mchekeshaji,2,clown.png,,clown_en.mp3,clown_de.mp3,clown_sw.mp3
-mechanic,,mechanic,der Mechaniker,fundi,2,mechanic.png,,mechanic_en.mp3,mechanic_de.mp3,mechanic_sw.mp3
+mechanic,,mechanic,der Mechaniker,,2,mechanic.png,,mechanic_en.mp3,mechanic_de.mp3,
 woodcutter,,woodcutter,,mtema kuni,2,woodcutter.png,,woodcutter_en.mp3,,woodcutter_sw.mp3
 gardener,,gardener,Gärtner,,2,gardener.png,,gardener_en.mp3,gardener_de.mp3,
 garbage_collector,,garbage collector,,,2,garbage_collector.png,,garbage_collector_en.mp3,,

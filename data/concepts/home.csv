@@ -85,7 +85,7 @@ broom,,broom,Besen,ufagio,2,broom.png,,broom_en.mp3,broom_de.mp3,broom_sw.mp3
 shampoo,,shampoo,Shampoo,,2,shampoo.png,,shampoo_en.mp3,shampoo_de.mp3,
 hairbrush,,hairbrush,Bürste,,2,hairbrush.png,,hairbrush_en.mp3,hairbrush_de.mp3,
 zipper,,zipper,Reißverschluss,,2,zipper.png,,zipper_en.mp3,zipper_de.mp3,
-garbage_can,,garbage can,Mülleimer,pipa,2,garbage_can.png,,garbage_can_en.mp3,garbage_can_de.mp3,garbage_can_sw.mp3
+garbage_can,,garbage can,Mülleimer,,2,garbage_can.png,,garbage_can_en.mp3,garbage_can_de.mp3,
 bucket,,bucket,Eimer,ndoo,2,bucket.png,,bucket_en.mp3,bucket_de.mp3,bucket_sw.mp3
 funnel,,funnel,Trichter,,2,funnel.png,,funnel_en.mp3,funnel_de.mp3,
 hook,,hook,Haken,ndoano,2,hook.png,,hook_en.mp3,hook_de.mp3,hook_sw.mp3
@@ -109,7 +109,7 @@ bunk_bed,,bunk bed,Etagenbett,,2,bunk_bed.png,,bunk_bed_en.mp3,bunk_bed_de.mp3,
 printer,,printer,Drucker,printa,2,printer.png,,printer_en.mp3,printer_de.mp3,printer_sw.mp3
 basket,,basket,Korb,kikapu,2,basket.png,,basket_en.mp3,basket_de.mp3,basket_sw.mp3
 christmas_tree,,Christmas tree,Weihnachtsbaum,,2,christmas_tree.png,,christmas_tree_en.mp3,christmas_tree_de.mp3,
-flowerpot,,flowerpot,Blumentopf,chungu,2,flowerpot.png,,flowerpot_en.mp3,flowerpot_de.mp3,flowerpot_sw.mp3
+flowerpot,,flowerpot,Blumentopf,,2,flowerpot.png,,flowerpot_en.mp3,flowerpot_de.mp3,
 saucepan,,saucepan,Kochtopf,sufuria,2,saucepan.png,,saucepan_en.mp3,saucepan_de.mp3,saucepan_sw.mp3
 bookshelf,,bookshelf,Bücherregal,rafu,2,bookshelf.png,,bookshelf_en.mp3,bookshelf_de.mp3,bookshelf_sw.mp3
 bedside_table,,bedside table,Nachttisch,,2,bedside_table.png,,bedside_table_en.mp3,bedside_table_de.mp3,
@@ -143,7 +143,7 @@ mobile_phone,,mobile phone,Handy,,2,mobile_phone.png,,mobile_phone_en.mp3,mobile
 nutcracker,,nutcracker,Nussknacker,,2,nutcracker.png,,nutcracker_en.mp3,nutcracker_de.mp3,
 vase,,vase,Vase,,2,vase.png,,vase_en.mp3,vase_de.mp3,
 cutlery,,cutlery,Besteck,,2,cutlery.png,,cutlery_en.mp3,cutlery_de.mp3,
-chopsticks,,chopsticks,Stäbchen,vijiti,2,chopsticks.png,,chopsticks_en.mp3,chopsticks_de.mp3,chopsticks_sw.mp3
+chopsticks,,chopsticks,Stäbchen,,2,chopsticks.png,,chopsticks_en.mp3,chopsticks_de.mp3,
 teaspoon,,teaspoon,Teelöffel,,2,teaspoon.png,,teaspoon_en.mp3,teaspoon_de.mp3,
 water_bottle,,water bottle,Trinkflasche,,2,water_bottle.png,,water_bottle_en.mp3,water_bottle_de.mp3,
 toothbrush,,toothbrush,Zahnbürste,mswaki,2,toothbrush.png,,toothbrush_en.mp3,toothbrush_de.mp3,toothbrush_sw.mp3

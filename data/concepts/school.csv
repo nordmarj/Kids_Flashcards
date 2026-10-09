@@ -29,7 +29,7 @@ glitter,,glitter,,,2,glitter.png,,glitter_en.mp3,,
 whiteboard,,whiteboard,,,2,whiteboard.png,,whiteboard_en.mp3,,
 slime,,slime,,,2,slime.png,,slime_en.mp3,,
 calendar,,,Kalender,kalenda,2,calendar.png,,,calendar_de.mp3,calendar_sw.mp3
-backpack,,backpack,Rucksack,begi,1,backpack.png,,backpack_en.mp3,backpack_de.mp3,backpack_sw.mp3
+backpack,,backpack,Rucksack,,1,backpack.png,,backpack_en.mp3,backpack_de.mp3,
 classroom,,,Klassenzimmer,darasa,1,classroom.png,,,classroom_de.mp3,classroom_sw.mp3
 pen,penna,,Kugelschreiber,kalamu,1,pen.png,pen_sv.mp3,,pen_de.mp3,pen_sw.mp3
 chalk,,,Kreide,chaki,1,chalk.png,,,chalk_de.mp3,chalk_sw.mp3

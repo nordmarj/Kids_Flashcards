@@ -42,7 +42,7 @@ branch,gren,branch,Ast,tawi,2,branch.png,branch_sv.mp3,branch_en.mp3,branch_de.m
 planet,planet,planet,Planet,sayari,2,planet.png,planet_sv.mp3,planet_en.mp3,planet_de.mp3,planet_sw.mp3
 smoke,rök,smoke,Rauch,moshi,2,smoke.png,smoke_sv.mp3,smoke_en.mp3,smoke_de.mp3,smoke_sw.mp3
 coconut_palm,kokospalm,coconut palm,Kokospalme,mnazi,2,coconut_palm.png,coconut_palm_sv.mp3,coconut_palm_en.mp3,coconut_palm_de.mp3,coconut_palm_sw.mp3
-waterfall,vattenfall,waterfall,Wasserfall,maporomoko,2,waterfall.png,waterfall_sv.mp3,waterfall_en.mp3,waterfall_de.mp3,waterfall_sw.mp3
+waterfall,vattenfall,waterfall,Wasserfall,,2,waterfall.png,waterfall_sv.mp3,waterfall_en.mp3,waterfall_de.mp3,
 oasis,oas,oasis,,,2,oasis.png,oasis_sv.mp3,oasis_en.mp3,,
 stream,ström,stream,Bach,kijito,2,stream.png,stream_sv.mp3,stream_en.mp3,stream_de.mp3,stream_sw.mp3
 archipelago,skärgård,archipelago,,,2,archipelago.png,archipelago_sv.mp3,archipelago_en.mp3,,

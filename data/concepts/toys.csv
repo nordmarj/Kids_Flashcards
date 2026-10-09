@@ -3,7 +3,7 @@ book,bok,book,Buch,kitabu,1,book.png,book_sv.mp3,book_en.mp3,book_de.mp3,book_sw
 ball,boll,ball,Ball,mpira,1,ball.png,ball_sv.mp3,ball_en.mp3,ball_de.mp3,ball_sw.mp3
 kite,drake,kite,Drachen,kishada,2,kite.png,kite_sv.mp3,kite_en.mp3,kite_de.mp3,kite_sw.mp3
 gift,gåva,gift,Geschenk,zawadi,1,gift.png,gift_sv.mp3,gift_en.mp3,gift_de.mp3,gift_sw.mp3
-spinning_top,snurra,spinning top,Kreisel,pia,2,spinning_top.png,spinning_top_sv.mp3,spinning_top_en.mp3,spinning_top_de.mp3,spinning_top_sw.mp3
+spinning_top,snurra,spinning top,Kreisel,,2,spinning_top.png,spinning_top_sv.mp3,spinning_top_en.mp3,spinning_top_de.mp3,
 rocking_horse,gunghäst,rocking horse,Schaukelpferd,,1,rocking_horse.png,rocking_horse_sv.mp3,rocking_horse_en.mp3,rocking_horse_de.mp3,
 football,fotboll,football,Fußball,kandanda,1,football.png,football_sv.mp3,football_en.mp3,football_de.mp3,football_sw.mp3
 crown,krona,crown,Krone,taji,1,crown.png,crown_sv.mp3,crown_en.mp3,crown_de.mp3,crown_sw.mp3

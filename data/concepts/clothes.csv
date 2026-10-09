@@ -33,7 +33,7 @@ sneakers,,sneakers,Turnschuhe,raba,2,sneakers.png,,sneakers_en.mp3,sneakers_de.m
 wallet,,wallet,Geldbeutel,pochi,2,wallet.png,,wallet_en.mp3,wallet_de.mp3,wallet_sw.mp3
 tie,,tie,Krawatte,tai,2,tie.png,,tie_en.mp3,tie_de.mp3,tie_sw.mp3
 coat_hanger,,coat hanger,Kleiderbügel,,2,coat_hanger.png,,coat_hanger_en.mp3,coat_hanger_de.mp3,
-suitcase,,suitcase,Koffer,sanduku,2,suitcase.png,,suitcase_en.mp3,suitcase_de.mp3,suitcase_sw.mp3
+suitcase,,suitcase,Koffer,,2,suitcase.png,,suitcase_en.mp3,suitcase_de.mp3,
 headband,,headband,Stirnband,,2,headband.png,,headband_en.mp3,headband_de.mp3,
 sunglasses,,sunglasses,Sonnenbrille,,2,sunglasses.png,,sunglasses_en.mp3,sunglasses_de.mp3,
 raincoat,,raincoat,Regenmantel,,2,raincoat.png,,raincoat_en.mp3,raincoat_de.mp3,
@@ -64,5 +64,5 @@ shorts,,shorts,die Shorts,kaptura,1,shorts.png,,shorts_en.mp3,shorts_de.mp3,shor
 button,knapp,button,der Knopf,kifungo,1,button.png,button_sv.mp3,button_en.mp3,button_de.mp3,button_sw.mp3
 suit,kostym,,,suti,2,suit.png,suit_sv.mp3,,,suit_sw.mp3
 apron,,,,aproni,2,apron.png,,,,apron_sw.mp3
-jeans,,jeans,Jeans,jinsi,1,jeans.png,,jeans_en.mp3,jeans_de.mp3,jeans_sw.mp3
+jeans,,jeans,Jeans,,1,jeans.png,,jeans_en.mp3,jeans_de.mp3,
 watch,klocka,watch,Armbanduhr,saa,1,watch.png,watch_sv.mp3,watch_en.mp3,watch_de.mp3,watch_sw.mp3

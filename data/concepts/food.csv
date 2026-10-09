@@ -2,7 +2,7 @@ id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
 apple,äpple,apple,Apfel,tufaha,1,apple.png,apple_sv.mp3,apple_en.mp3,apple_de.mp3,apple_sw.mp3
 banana,banan,banana,Banane,ndizi,1,banana.png,banana_sv.mp3,banana_en.mp3,banana_de.mp3,banana_sw.mp3
 orange,apelsin,orange,Orange,chungwa,1,orange.png,orange_sv.mp3,orange_en.mp3,orange_de.mp3,orange_sw.mp3
-pear,päron,pear,Birne,pea,1,pear.png,pear_sv.mp3,pear_en.mp3,pear_de.mp3,pear_sw.mp3
+pear,päron,pear,Birne,,1,pear.png,pear_sv.mp3,pear_en.mp3,pear_de.mp3,
 strawberry,jordgubbe,strawberry,Erdbeere,stroberi,1,strawberry.png,strawberry_sv.mp3,strawberry_en.mp3,strawberry_de.mp3,strawberry_sw.mp3
 carrot,morot,carrot,Karotte,karoti,1,carrot.png,carrot_sv.mp3,carrot_en.mp3,carrot_de.mp3,carrot_sw.mp3
 potato,potatis,potato,Kartoffel,kiazi,1,potato.png,potato_sv.mp3,potato_en.mp3,potato_de.mp3,potato_sw.mp3
@@ -81,7 +81,7 @@ orange_juice,,orange juice,Orangensaft,,2,orange_juice.png,,orange_juice_en.mp3,
 aubergine,,aubergine,Aubergine,biringani,2,aubergine.png,,aubergine_en.mp3,aubergine_de.mp3,aubergine_sw.mp3
 courgette,,courgette,Zucchini,,2,courgette.png,,courgette_en.mp3,courgette_de.mp3,
 pumpkin,,pumpkin,Kürbis,boga,2,pumpkin.png,,pumpkin_en.mp3,pumpkin_de.mp3,pumpkin_sw.mp3
-lollipop,,lollipop,Lutscher,pipi,2,lollipop.png,,lollipop_en.mp3,lollipop_de.mp3,lollipop_sw.mp3
+lollipop,,lollipop,Lutscher,,2,lollipop.png,,lollipop_en.mp3,lollipop_de.mp3,
 kiwi,,kiwi,Kiwi,,2,kiwi.png,,kiwi_en.mp3,kiwi_de.mp3,
 fig,,fig,die Feige,tini,2,fig.png,,fig_en.mp3,fig_de.mp3,fig_sw.mp3
 hazelnut,,hazelnut,die Haselnuss,,2,hazelnut.png,,hazelnut_en.mp3,hazelnut_de.mp3,
@@ -101,7 +101,7 @@ macaroni,,macaroni,Makkaroni,makaroni,2,macaroni.png,,macaroni_en.mp3,macaroni_d
 celery,,celery,Sellerie,,2,celery.png,,celery_en.mp3,celery_de.mp3,
 cupcake,,cupcake,Muffin,,2,cupcake.png,,cupcake_en.mp3,cupcake_de.mp3,
 radish,,radish,Radieschen,figili,2,radish.png,,radish_en.mp3,radish_de.mp3,radish_sw.mp3
-chewing_gum,,chewing gum,Kaugummi,ubani,2,chewing_gum.png,,chewing_gum_en.mp3,chewing_gum_de.mp3,chewing_gum_sw.mp3
+chewing_gum,,chewing gum,Kaugummi,,2,chewing_gum.png,,chewing_gum_en.mp3,chewing_gum_de.mp3,
 lasagna,,lasagna,Lasagne,,2,lasagna.png,,lasagna_en.mp3,lasagna_de.mp3,
 apple_pie,,apple pie,Apfelkuchen,,2,apple_pie.png,,apple_pie_en.mp3,apple_pie_de.mp3,
 mushroom,,mushroom,der Pilz,uyoga,2,mushroom.png,,mushroom_en.mp3,mushroom_de.mp3,mushroom_sw.mp3

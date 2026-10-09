@@ -38,7 +38,7 @@ rat,råtta,rat,Ratte,panya,2,rat.png,rat_sv.mp3,rat_en.mp3,rat_de.mp3,rat_sw.mp3
 tortoise,sköldpadda,tortoise,Schildkröte,kobe,2,tortoise.png,tortoise_sv.mp3,tortoise_en.mp3,tortoise_de.mp3,tortoise_sw.mp3
 whale,val,whale,Wal,nyangumi,1,whale.png,whale_sv.mp3,whale_en.mp3,whale_de.mp3,whale_sw.mp3
 lynx,lo,lynx,Luchs,,2,lynx.png,lynx_sv.mp3,lynx_en.mp3,lynx_de.mp3,
-falcon,falk,falcon,Falke,kozi,2,falcon.png,falcon_sv.mp3,falcon_en.mp3,falcon_de.mp3,falcon_sw.mp3
+falcon,falk,falcon,Falke,,2,falcon.png,falcon_sv.mp3,falcon_en.mp3,falcon_de.mp3,
 chick,kyckling,chick,Küken,kifaranga,1,chick.png,chick_sv.mp3,chick_en.mp3,chick_de.mp3,chick_sw.mp3
 worm,mask,worm,Regenwurm,nyungunyungu,1,worm.png,worm_sv.mp3,worm_en.mp3,worm_de.mp3,worm_sw.mp3
 salmon,lax,salmon,Lachs,,2,salmon.png,salmon_sv.mp3,salmon_en.mp3,salmon_de.mp3,
@@ -63,7 +63,7 @@ seahorse,,seahorse,Seepferdchen,,2,seahorse.png,,seahorse_en.mp3,seahorse_de.mp3
 dinosaur,,dinosaur,Dinosaurier,dinosau,2,dinosaur.png,,dinosaur_en.mp3,dinosaur_de.mp3,dinosaur_sw.mp3
 grasshopper,,grasshopper,Heuschrecke,panzi,2,grasshopper.png,,grasshopper_en.mp3,grasshopper_de.mp3,grasshopper_sw.mp3
 swordfish,,swordfish,Schwertfisch,,2,swordfish.png,,swordfish_en.mp3,swordfish_de.mp3,
-panda,,panda,Panda,panda,2,panda.png,,panda_en.mp3,panda_de.mp3,panda_sw.mp3
+panda,,panda,Panda,,2,panda.png,,panda_en.mp3,panda_de.mp3,
 ladybug,,ladybug,Marienkäfer,,2,ladybug.png,,ladybug_en.mp3,ladybug_de.mp3,
 jellyfish,,jellyfish,Qualle,,2,jellyfish.png,,jellyfish_en.mp3,jellyfish_de.mp3,
 parrot,,parrot,der Papagei,kasuku,2,parrot.png,,parrot_en.mp3,parrot_de.mp3,parrot_sw.mp3
@@ -97,7 +97,7 @@ scorpion,,scorpion,der Skorpion,nge,2,scorpion.png,,scorpion_en.mp3,scorpion_de.
 skunk,,skunk,Stinktier,,2,skunk.png,,skunk_en.mp3,skunk_de.mp3,
 orca,,orca,Orca,,2,orca.png,,orca_en.mp3,orca_de.mp3,
 toucan,,toucan,Tukan,,2,toucan.png,,toucan_en.mp3,toucan_de.mp3,
-hummingbird,,hummingbird,Kolibri,chozi,2,hummingbird.png,,hummingbird_en.mp3,hummingbird_de.mp3,hummingbird_sw.mp3
+hummingbird,,hummingbird,Kolibri,,2,hummingbird.png,,hummingbird_en.mp3,hummingbird_de.mp3,
 dragonfly,,dragonfly,Libelle,,2,dragonfly.png,,dragonfly_en.mp3,dragonfly_de.mp3,
 llama,,llama,Lama,,2,llama.png,,llama_en.mp3,llama_de.mp3,
 mole,,mole,Maulwurf,fuko,2,mole.png,,mole_en.mp3,mole_de.mp3,mole_sw.mp3
