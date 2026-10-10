@@ -1,30 +1,47 @@
 id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
-tale,saga,tale,,,2,tale.png,tale_sv.mp3,tale_en.mp3,,
-blackboard,tavla,blackboard,,,2,blackboard.png,blackboard_sv.mp3,blackboard_en.mp3,,
-dictionary,ordbok,dictionary,,,2,dictionary.png,dictionary_sv.mp3,dictionary_en.mp3,,
-laboratory,laboratorium,laboratory,,,2,laboratory.png,laboratory_sv.mp3,laboratory_en.mp3,,
-bricks,tegelstenar,bricks,,,2,bricks.png,bricks_sv.mp3,bricks_en.mp3,,
-prize,pris,prize,,,2,prize.png,prize_sv.mp3,prize_en.mp3,,
-sellotape,,sellotape,,,2,sellotape.png,,sellotape_en.mp3,,
-stapler,,stapler,,,2,stapler.png,,stapler_en.mp3,,
-glue,,glue,,,2,glue.png,,glue_en.mp3,,
-plasticine,,plasticine,,,2,plasticine.png,,plasticine_en.mp3,,
-pencil_sharpener,,pencil sharpener,,,2,pencil_sharpener.png,,pencil_sharpener_en.mp3,,
-ruler,,ruler,,,2,ruler.png,,ruler_en.mp3,,
-folder,,folder,,,2,folder.png,,folder_en.mp3,,
-felt_tip_pen,,felt-tip pen,,,2,felt_tip_pen.png,,felt_tip_pen_en.mp3,,
-crayons,,crayons,,,2,crayons.png,,crayons_en.mp3,,
-calculator,,calculator,,,2,calculator.png,,calculator_en.mp3,,
-sandbox,,sandbox,,,2,sandbox.png,,sandbox_en.mp3,,
-schoolyard,,schoolyard,,,2,schoolyard.png,,schoolyard_en.mp3,,
-notebook,,notebook,,,2,notebook.png,,notebook_en.mp3,,
-pencil_case,,pencil case,,,2,pencil_case.png,,pencil_case_en.mp3,,
-paper_clip,,paper clip,,,2,paper_clip.png,,paper_clip_en.mp3,,
-eraser,,eraser,,,2,eraser.png,,eraser_en.mp3,,
-abacus,,abacus,,,2,abacus.png,,abacus_en.mp3,,
-globe,,globe,,,2,globe.png,,globe_en.mp3,,
-bookmark,,bookmark,,,2,bookmark.png,,bookmark_en.mp3,,
-sticker,,sticker,,,2,sticker.png,,sticker_en.mp3,,
-glitter,,glitter,,,2,glitter.png,,glitter_en.mp3,,
-whiteboard,,whiteboard,,,2,whiteboard.png,,whiteboard_en.mp3,,
-slime,,slime,,,2,slime.png,,slime_en.mp3,,
+tale,saga,tale,das Märchen,hadithi,2,tale.png,tale_sv.mp3,tale_en.mp3,tale_de.mp3,tale_sw.mp3
+blackboard,tavla,blackboard,Tafel,ubao,2,blackboard.png,blackboard_sv.mp3,blackboard_en.mp3,blackboard_de.mp3,blackboard_sw.mp3
+dictionary,ordbok,dictionary,Wörterbuch,kamusi,2,dictionary.png,dictionary_sv.mp3,dictionary_en.mp3,dictionary_de.mp3,dictionary_sw.mp3
+laboratory,laboratorium,laboratory,Labor,maabara,2,laboratory.png,laboratory_sv.mp3,laboratory_en.mp3,laboratory_de.mp3,laboratory_sw.mp3
+bricks,tegelstenar,bricks,Bausteine,matofali,2,bricks.png,bricks_sv.mp3,bricks_en.mp3,bricks_de.mp3,bricks_sw.mp3
+prize,pris,prize,Pokal,zawadi,2,prize.png,prize_sv.mp3,prize_en.mp3,prize_de.mp3,prize_sw.mp3
+sellotape,,sellotape,Klebeband,,2,sellotape.png,,sellotape_en.mp3,sellotape_de.mp3,
+stapler,,stapler,Tacker,,2,stapler.png,,stapler_en.mp3,stapler_de.mp3,
+glue,,glue,Kleber,gundi,2,glue.png,,glue_en.mp3,glue_de.mp3,glue_sw.mp3
+plasticine,lera,plasticine,Knete,,2,plasticine.png,plasticine_sv.mp3,plasticine_en.mp3,plasticine_de.mp3,
+pencil_sharpener,,pencil sharpener,Anspitzer,,2,pencil_sharpener.png,,pencil_sharpener_en.mp3,pencil_sharpener_de.mp3,
+ruler,,ruler,Lineal,rula,2,ruler.png,,ruler_en.mp3,ruler_de.mp3,ruler_sw.mp3
+folder,,folder,Ordner,faili,2,folder.png,,folder_en.mp3,folder_de.mp3,folder_sw.mp3
+felt_tip_pen,,felt-tip pen,Filzstift,,2,felt_tip_pen.png,,felt_tip_pen_en.mp3,felt_tip_pen_de.mp3,
+crayons,,crayons,Wachsmalstifte,,2,crayons.png,,crayons_en.mp3,crayons_de.mp3,
+calculator,,calculator,Taschenrechner,,2,calculator.png,,calculator_en.mp3,calculator_de.mp3,
+sandbox,,sandbox,Sandkasten,,2,sandbox.png,,sandbox_en.mp3,sandbox_de.mp3,
+schoolyard,,schoolyard,Schulhof,,2,schoolyard.png,,schoolyard_en.mp3,schoolyard_de.mp3,
+notebook,,notebook,Heft,daftari,2,notebook.png,,notebook_en.mp3,notebook_de.mp3,notebook_sw.mp3
+pencil_case,,pencil case,Federmäppchen,,2,pencil_case.png,,pencil_case_en.mp3,pencil_case_de.mp3,
+paper_clip,,paper clip,Büroklammer,,2,paper_clip.png,,paper_clip_en.mp3,paper_clip_de.mp3,
+eraser,,eraser,Schwamm,kifutio,2,eraser.png,,eraser_en.mp3,eraser_de.mp3,eraser_sw.mp3
+abacus,,abacus,Abakus,,2,abacus.png,,abacus_en.mp3,abacus_de.mp3,
+globe,,globe,Globus,tufe,2,globe.png,,globe_en.mp3,globe_de.mp3,globe_sw.mp3
+bookmark,,bookmark,Lesezeichen,,2,bookmark.png,,bookmark_en.mp3,bookmark_de.mp3,
+sticker,,sticker,Aufkleber,stika,2,sticker.png,,sticker_en.mp3,sticker_de.mp3,sticker_sw.mp3
+glitter,,glitter,Glitzer,,2,glitter.png,,glitter_en.mp3,glitter_de.mp3,
+whiteboard,,whiteboard,Whiteboard,,2,whiteboard.png,,whiteboard_en.mp3,whiteboard_de.mp3,
+slime,,slime,Schleim,,2,slime.png,,slime_en.mp3,slime_de.mp3,
+calendar,,calendar,Kalender,kalenda,2,calendar.png,,calendar_en.mp3,calendar_de.mp3,calendar_sw.mp3
+backpack,,backpack,Rucksack,,1,backpack.png,,backpack_en.mp3,backpack_de.mp3,
+classroom,,classroom,Klassenzimmer,darasa,1,classroom.png,,classroom_en.mp3,classroom_de.mp3,classroom_sw.mp3
+pen,penna,pen,Kugelschreiber,kalamu,1,pen.png,pen_sv.mp3,pen_en.mp3,pen_de.mp3,pen_sw.mp3
+chalk,,chalk,Kreide,chaki,1,chalk.png,,chalk_en.mp3,chalk_de.mp3,chalk_sw.mp3
+alphabet,alfabet,alphabet,Alphabet,alfabeti,1,alphabet.png,alphabet_sv.mp3,alphabet_en.mp3,alphabet_de.mp3,alphabet_sw.mp3
+felt_tip_pens,,,Filzstifte,,2,felt_tip_pens.png,,,felt_tip_pens_de.mp3,
+diary,,diary,Terminkalender,shajara,2,diary.png,,diary_en.mp3,diary_de.mp3,diary_sw.mp3
+post_it,,post-it note,Notizzettel,,2,post_it.png,,post_it_en.mp3,post_it_de.mp3,
+thumbtack,,thumbtack,Heftzwecke,,2,thumbtack.png,,thumbtack_en.mp3,thumbtack_de.mp3,
+watercolors,,,Aquarell,,2,watercolors.png,,,watercolors_de.mp3,
+noticeboard,,,Pinnwand,,2,noticeboard.png,,,noticeboard_de.mp3,
+ink,,ink,Tinte,wino,2,ink.png,,ink_en.mp3,ink_de.mp3,ink_sw.mp3
+microscope,,microscope,Mikroskop,hadubini,2,microscope.png,,microscope_en.mp3,microscope_de.mp3,microscope_sw.mp3
+test_tube,,test tube,Reagenzglas,,2,test_tube.png,,test_tube_en.mp3,test_tube_de.mp3,
+ring_binder,,,Ringordner,,2,ring_binder.png,,,ring_binder_de.mp3,
+clapperboard,,,Klappe,,2,clapperboard.png,,,clapperboard_de.mp3,

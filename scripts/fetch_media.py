@@ -260,6 +260,18 @@ def to_mono_mp3(src, dest):
     )
 
 
+def write_sources(sources, have):
+    """Write media/sources.csv: the given rows plus rows for media this run
+    hasn't reached or doesn't manage (e.g. the shape recordings from
+    fetch_shape_audio.py)."""
+    written = {s["file"] for s in sources}
+    rows = sources + [s for f, s in have.items() if f not in written]
+    with SOURCES.open("w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=SOURCE_FIELDS, lineterminator="\n")
+        w.writeheader()
+        w.writerows(sorted(rows, key=lambda s: s["file"]))
+
+
 def download(limit):
     with PICKS.open(encoding="utf-8") as f:
         picks = [p for p in csv.DictReader(f) if complete(p)][:limit]
@@ -296,14 +308,20 @@ def download(limit):
         (MEDIA / "audio" / lang).mkdir(parents=True, exist_ok=True)
     CONCEPTS.mkdir(parents=True, exist_ok=True)
 
-    sources, concepts = [], collections.defaultdict(list)
+    sources, concepts, failed = [], collections.defaultdict(list), []
     for i, p in enumerate(picks, 1):
         cid = p["id"]
         image = MEDIA / "images" / f"{cid}.png"
         if "images/" + image.name in have:
             sources.append(have["images/" + image.name])
         else:
-            download_file(ARASAAC_PNG.format(p["arasaac_id"]), image)
+            try:
+                download_file(ARASAAC_PNG.format(p["arasaac_id"]), image)
+            except requests.RequestException as e:
+                print(f"  {cid}: picture not downloaded ({e}); rerun to retry", file=sys.stderr)
+                failed.append(cid)
+                image.unlink(missing_ok=True)
+                continue
             sources.append(
                 dict(
                     zip(
@@ -326,10 +344,19 @@ def download(limit):
                 continue
             title = p[f"audio_{lang}_title"]
             url, page, author, licence, licence_url = info[title]
-            with tempfile.TemporaryDirectory() as tmp:
-                raw = Path(tmp) / "original.mp3"
-                download_file(transcoded_mp3(url), raw)
-                to_mono_mp3(raw, dest)
+            try:
+                with tempfile.TemporaryDirectory() as tmp:
+                    raw = Path(tmp) / "original.mp3"
+                    download_file(transcoded_mp3(url), raw)
+                    to_mono_mp3(raw, dest)
+            except requests.RequestException as e:
+                # Commons throttles bulk downloads; leave this language out
+                # for now; the next run picks it up.
+                print(f"  {cid}: {lang} recording not downloaded ({e}); rerun to retry",
+                      file=sys.stderr)
+                failed.append(f"{cid}_{lang}")
+                row[lang] = row[f"audio_{lang}"] = ""
+                continue
             source = "Lingua Libre" if title.startswith("File:LL-") else "Wikimedia Commons"
             sources.append(
                 dict(
@@ -340,8 +367,13 @@ def download(limit):
                     )
                 )
             )
-        concepts[p["topic"]].append(row)
+        if any(row[lang] for lang in LANGS):
+            concepts[p["topic"]].append(row)
         print(f"[{i}/{len(picks)}] {cid}", file=sys.stderr)
+        # Save provenance as we go, so an interrupted run (Commons throttles
+        # long downloads) keeps what it fetched.
+        if i % 25 == 0:
+            write_sources(sources, have)
 
     for topic, rows in concepts.items():
         with (CONCEPTS / f"{topic}.csv").open("w", encoding="utf-8", newline="") as f:
@@ -349,16 +381,11 @@ def download(limit):
             w.writeheader()
             w.writerows(rows)
 
-    # Keep provenance rows for media this script doesn't manage (e.g. the
-    # shape recordings from fetch_shape_audio.py).
-    written = {s["file"] for s in sources}
-    sources += [s for f, s in have.items() if f not in written]
-    with SOURCES.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=SOURCE_FIELDS, lineterminator="\n")
-        w.writeheader()
-        w.writerows(sorted(sources, key=lambda s: s["file"]))
+    write_sources(sources, have)
 
     print(f"downloaded media for {len(picks)} concepts into {len(concepts)} topic tables")
+    if failed:
+        print(f"{len(failed)} files not downloaded yet (rerun to retry): " + ", ".join(failed))
 
 
 def main():
