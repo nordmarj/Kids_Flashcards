@@ -1,0 +1,37 @@
+# Builds the decks from main and attaches them to a draft GitHub release.
+# Run it from the Actions tab ("Release decks" → "Run workflow") with a new
+# tag such as v0.2.0, then review the draft under Releases and press Publish.
+name: Release decks
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag, e.g. v0.2.0"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      # Word decks in every language, then the prebuilt maths deck (sv + en).
+      - run: python3 scripts/build_decks.py
+      - run: python3 scripts/build_decks.py --lang sv en
+      - name: Create draft release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ inputs.tag }}
+        run: |
+          gh release create "$TAG" --draft --target "$GITHUB_SHA" \
+            --title "$TAG" --notes-file .github/release-notes.md \
+            build/svenska.apkg build/english.apkg build/deutsch.apkg \
+            build/kiswahili.apkg build/espanol.apkg build/francais.apkg \
+            build/maths_sv_en.apkg

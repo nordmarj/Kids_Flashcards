@@ -26,6 +26,13 @@ The prebuilt maths deck published with each release can't come in every
 combination of languages, so it is the Swedish and English one:
 `python3 scripts/build_decks.py --lang sv en` (`build/maths_sv_en.apkg`).
 
+## Releases
+
+To publish the decks, run the **Release decks** workflow from the Actions tab
+with a new tag (`v0.2.0`). It builds every deck from `main` and attaches them
+to a draft release with the notes in `.github/release-notes.md`; review the
+draft under Releases and press Publish.
+
 ## Licences
 
 The code is MIT (see [LICENSE](LICENSE)). The decks are released under
