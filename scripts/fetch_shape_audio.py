@@ -9,7 +9,7 @@ For each shape and language:
     with a provenance row in media/sources.csv;
   - if no recording exists, leave the audio column empty (the card stays silent).
 
-Writes the audio_sv / audio_en columns of data/shapes/shapes.csv. Shapes that
+Writes the audio_<lang> columns of data/shapes/shapes.csv. Shapes that
 already have audio are skipped, so reruns only look up the gaps.
 
 Usage: python3 scripts/fetch_shape_audio.py
@@ -25,6 +25,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from check_coverage import commons_fallback_files  # noqa: E402
+from word_decks import LANGUAGES  # noqa: E402
 from fetch_media import (  # noqa: E402
     ACCEPTABLE,
     CONCEPTS,
@@ -42,8 +43,8 @@ from fetch_media import (  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SHAPES = ROOT / "data" / "shapes" / "shapes.csv"
-SHAPE_FIELDS = ["id", "sv", "en", "level", "audio_sv", "audio_en"]
-LANGS = ("sv", "en")
+LANGS = list(LANGUAGES)
+SHAPE_FIELDS = ["id", *LANGS, "level"] + [f"audio_{lang}" for lang in LANGS]
 
 
 def existing_recordings():
@@ -63,7 +64,7 @@ def speaker_rank():
     with PICKS.open(encoding="utf-8", newline="") as f:
         for p in csv.DictReader(f):
             for lang in LANGS:
-                m = re.match(r"File:LL-Q\d+ \(\w+\)-([^-]+)-", p[f"audio_{lang}_title"])
+                m = re.match(r"File:LL-Q\d+ \(\w+\)-([^-]+)-", p.get(f"audio_{lang}_title", ""))
                 if m:
                     rank[lang][m.group(1)] += 1
     return rank
@@ -89,7 +90,7 @@ def main():
     for s in shapes:
         for lang in LANGS:
             key = f"audio_{lang}"
-            if s.get(key):
+            if s.get(key) or not s.get(lang):
                 continue
             if (lang, s[lang]) in reuse:
                 s[key] = reuse[(lang, s[lang])]
@@ -109,6 +110,7 @@ def main():
             print(f"{sid} {lang}: {title} has licence {licence!r}, skipped", file=sys.stderr)
             continue
         dest = MEDIA / "audio" / lang / f"shape_{sid}_{lang}.mp3"
+        dest.parent.mkdir(parents=True, exist_ok=True)
         with tempfile.TemporaryDirectory() as tmp:
             raw = Path(tmp) / "original.mp3"
             download_file(transcoded_mp3(url), raw)
@@ -129,8 +131,9 @@ def main():
         w.writerows({k: s.get(k, "") for k in SHAPE_FIELDS} for s in shapes)
 
     for lang in LANGS:
-        n = sum(1 for s in shapes if s[f"audio_{lang}"])
-        print(f"{lang}: {n}/{len(shapes)} shapes have audio")
+        n = sum(1 for s in shapes if s.get(f"audio_{lang}"))
+        named = sum(1 for s in shapes if s.get(lang))
+        print(f"{lang}: {n}/{named} shapes have audio")
 
 
 if __name__ == "__main__":

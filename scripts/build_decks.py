@@ -2,16 +2,18 @@
 """Build Anki decks from data/ into build/*.apkg.
 
 Builds one picture → word package per language (build/svenska.apkg,
-build/english.apkg, build/deutsch.apkg, build/kiswahili.apkg; see word_decks.py) and build/maths.apkg, one "Maths" deck
-with these subdecks:
+build/english.apkg, build/deutsch.apkg, build/kiswahili.apkg,
+build/espanol.apkg, build/francais.apkg; see word_decks.py) and
+build/maths.apkg, one "Maths" deck with these subdecks:
 
 - Arithmetic: one subdeck per CSV file in data/arithmetic/ (written by
   gen_arithmetic.py). Every sum gets two cards: "Choose the answer"
   (multiple choice) and "Type the answer". To use only one style, suspend
   the other in Anki's browser, e.g. search `card:Type*`.
-- Shapes: data/shapes/shapes.csv, one subdeck per language in SHAPES_DECKS
-  (Swedish and English so far). Every shape
-  gets two multiple-choice cards: "Name to picture" and "Picture to name".
+- Shapes: data/shapes/shapes.csv, one subdeck per language in SHAPES_DECKS.
+  Every shape gets two multiple-choice cards: "Name to picture" and
+  "Picture to name". A shape with no name in a language is left out of
+  that language's subdeck.
 
 By default every language in word_decks.LANGUAGES is built. --lang takes
 any list of them and builds only those: their word decks, and a maths deck
@@ -66,6 +68,10 @@ SHAPES_MODEL_ID = 1988648040
 SHAPES_DECKS = {
     "en": ("Maths::5 Shapes (English)", 1748236718),
     "sv": ("Maths::6 Former (svenska)", 1330122437),
+    "de": ("Maths::7 Formen (Deutsch)", 1170477174),
+    "sw": ("Maths::8 Maumbo (Kiswahili)", 1171404613),
+    "es": ("Maths::9 Formas (español)", 2074227502),
+    "fr": ("Maths::9 Formes (français)", 1961347983),
 }
 
 LICENCE_NOTE = "Released under CC BY-NC-SA 4.0: https://github.com/nordmarj/Kids_Flashcards"
@@ -172,7 +178,9 @@ def shapes_model():
 
 
 def shape_distractors(shape, shapes):
-    """Three other shapes of the same level, picked stably per shape."""
+    """Three other shapes of the same level, picked stably per shape.
+
+    `shapes` holds only the shapes named in the deck's language."""
     pool = [s for s in shapes if s["level"] == shape["level"] and s["id"] != shape["id"]]
     return random.Random(f"shapes:{shape['id']}").sample(pool, 3)
 
@@ -180,27 +188,31 @@ def shape_distractors(shape, shapes):
 def build_shapes(langs=tuple(word_decks.LANGUAGES)):
     """Shape decks for the given languages and the audio files they use.
 
-    Only languages with a SHAPES_DECKS entry (and a column in shapes.csv)
-    get a shapes subdeck; the others are skipped.
+    Every language needs a SHAPES_DECKS entry and a column in shapes.csv.
     """
-    langs = [lang for lang in langs if lang in SHAPES_DECKS]
     with (ROOT / "data" / "shapes" / "shapes.csv").open(encoding="utf-8", newline="") as f:
         shapes = list(csv.DictReader(f))
+    if set(word_decks.LANGUAGES) - SHAPES_DECKS.keys():
+        sys.exit(f"build_decks.SHAPES_DECKS has no deck for "
+                 f"{sorted(set(word_decks.LANGUAGES) - SHAPES_DECKS.keys())}")
     for s in shapes:
-        if (not s["id"] or not all(s.get(lang) for lang in SHAPES_DECKS)
-                or s["id"] not in shape_pictures.SHAPES):
+        if not s["id"] or not s.get("level") or s["id"] not in shape_pictures.SHAPES:
             sys.exit(f"shapes.csv: incomplete row or no picture for {s}")
+        for lang in SHAPES_DECKS:
+            if s.get(f"audio_{lang}") and not s.get(lang):
+                sys.exit(f"shapes.csv: {s['id']} has audio_{lang} but no {lang} name")
 
     # Audio is optional here: not every shape name has a recording yet.
     sources = word_decks.read_sources()
     model = shapes_model()
     button = '<button type="button" class="choice"{ok}>{content}</button>'
-    decks, media = [], set()
+    decks, media, cards = [], set(), 0
     for lang in langs:
         name, deck_id = SHAPES_DECKS[lang]
         deck = genanki.Deck(deck_id, name, description=SHAPES_DESCRIPTION)
-        for due, shape in enumerate(shapes):
-            options = [shape] + shape_distractors(shape, shapes)
+        named = [s for s in shapes if s.get(lang)]
+        for due, shape in enumerate(named):
+            options = [shape] + shape_distractors(shape, named)
             ok = lambda o: ' data-ok="1"' if o is shape else ""
             names = "".join(button.format(ok=ok(o), content=html.escape(o[lang])) for o in options)
             pictures = "".join(button.format(ok=ok(o), content=shape_pictures.picture(o["id"]))
@@ -220,7 +232,8 @@ def build_shapes(langs=tuple(word_decks.LANGUAGES)):
                 due=due,
             ))
         decks.append(deck)
-    print(f"{len(shapes)} shapes ({2 * len(shapes) * len(decks)} cards) in {len(decks)} language subdecks, "
+        cards += 2 * len(named)
+    print(f"{len(shapes)} shapes ({cards} cards) in {len(decks)} language subdecks, "
           f"{len(media)} recordings")
     return decks, media
 

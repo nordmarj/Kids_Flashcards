@@ -3,7 +3,8 @@
 // Name the card's language from its lang_<code> tag. The tag carries it
 // rather than a field, so the note type keeps its fields.
 (function () {
-  var names = {lang_sv: "Svenska", lang_en: "English", lang_de: "Deutsch", lang_sw: "Kiswahili"};
+  var names = {lang_sv: "Svenska", lang_en: "English", lang_de: "Deutsch", lang_sw: "Kiswahili",
+               lang_es: "Español", lang_fr: "Français"};
   var labels = document.querySelectorAll(".language");
   var el = labels[labels.length - 1];
   var tags = (el.getAttribute("data-tags") || "").split(/\s+/);

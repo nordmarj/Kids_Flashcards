@@ -28,33 +28,47 @@ MODEL_ID = 1104416739
 # topic -> {language: (subdeck name, deck ID)}
 TOPICS = {
     "animals": {"sv": ("Djur", 1509161000), "en": ("Animals", 1945329914),
-               "de": ("Tiere", 1719208145), "sw": ("Wanyama", 1172855551)},
+               "de": ("Tiere", 1719208145), "sw": ("Wanyama", 1172855551),
+               "es": ("Animales", 1248833739), "fr": ("Animaux", 1836922197)},
     "body": {"sv": ("Kroppen", 2093531152), "en": ("Body", 1573961684),
-            "de": ("Körper", 1975168587), "sw": ("Mwili", 2049668633)},
+            "de": ("Körper", 1975168587), "sw": ("Mwili", 2049668633),
+            "es": ("Cuerpo", 1495289796), "fr": ("Corps", 1865673697)},
     "clothes": {"sv": ("Kläder", 1486385459), "en": ("Clothes", 1298982429),
-               "de": ("Kleidung", 1258231894), "sw": ("Nguo", 1836690930)},
+               "de": ("Kleidung", 1258231894), "sw": ("Nguo", 1836690930),
+               "es": ("Ropa", 1861582769), "fr": ("Vêtements", 1240375460)},
     "colors": {"sv": ("Färger", 2091834092), "en": ("Colours", 1176715808),
-              "de": ("Farben", 1320323415), "sw": ("Rangi", 1365366431)},
+              "de": ("Farben", 1320323415), "sw": ("Rangi", 1365366431),
+              "es": ("Colores", 1142606839), "fr": ("Couleurs", 1717380853)},
     "food": {"sv": ("Mat", 1883932933), "en": ("Food", 1786296919),
-            "de": ("Essen", 1509077666), "sw": ("Chakula", 1473947504)},
+            "de": ("Essen", 1509077666), "sw": ("Chakula", 1473947504),
+            "es": ("Comida", 1587086199), "fr": ("Nourriture", 1637456672)},
     "home": {"sv": ("Hemma", 1612793067), "en": ("Home", 1162162490),
-            "de": ("Zuhause", 1145172546), "sw": ("Nyumbani", 1889390712)},
+            "de": ("Zuhause", 1145172546), "sw": ("Nyumbani", 1889390712),
+            "es": ("Casa", 1365657408), "fr": ("Maison", 1773874960)},
     "nature": {"sv": ("Naturen", 1625126323), "en": ("Nature", 1305707322),
-              "de": ("Natur", 1713924011), "sw": ("Maumbile", 1229174103)},
+              "de": ("Natur", 1713924011), "sw": ("Maumbile", 1229174103),
+              "es": ("Naturaleza", 2003034850), "fr": ("Nature", 1929974124)},
     "people": {"sv": ("Människor", 1704314440), "en": ("People", 1280040928),
-              "de": ("Menschen", 1236117708), "sw": ("Watu", 2075743728)},
+              "de": ("Menschen", 1236117708), "sw": ("Watu", 2075743728),
+              "es": ("Personas", 1319427944), "fr": ("Personnes", 1390050761)},
     "places": {"sv": ("Platser", 2033439675), "en": ("Places", 1134089514),
-              "de": ("Orte", 1756371340), "sw": ("Mahali", 1290079648)},
+              "de": ("Orte", 1756371340), "sw": ("Mahali", 1290079648),
+              "es": ("Lugares", 2061261623), "fr": ("Lieux", 1546203241)},
     "toys": {"sv": ("Leksaker", 1523246323), "en": ("Toys", 1642344530),
-            "de": ("Spielzeug", 1481293229), "sw": ("Vitu vya kuchezea", 1254962600)},
+            "de": ("Spielzeug", 1481293229), "sw": ("Vitu vya kuchezea", 1254962600),
+            "es": ("Juguetes", 1469523877), "fr": ("Jouets", 2098447489)},
     "vehicles": {"sv": ("Fordon", 1914877154), "en": ("Vehicles", 1469005880),
-                "de": ("Fahrzeuge", 1881566209), "sw": ("Vyombo vya usafiri", 2090973461)},
+                "de": ("Fahrzeuge", 1881566209), "sw": ("Vyombo vya usafiri", 2090973461),
+                "es": ("Vehículos", 1806986258), "fr": ("Véhicules", 1999060444)},
     "music": {"sv": ("Musik", 1752141239), "en": ("Music", 1727409939),
-             "de": ("Musik", 1962259706), "sw": ("Muziki", 1281236435)},
+             "de": ("Musik", 1962259706), "sw": ("Muziki", 1281236435),
+             "es": ("Música", 1551968577), "fr": ("Musique", 2009481959)},
     "sports": {"sv": ("Sport", 1803354422), "en": ("Sports", 1926662181),
-              "de": ("Sport", 1329269040), "sw": ("Michezo", 1988179553)},
+              "de": ("Sport", 1329269040), "sw": ("Michezo", 1988179553),
+              "es": ("Deportes", 1776965400), "fr": ("Sports", 1888241247)},
     "school": {"sv": ("Skolan", 1278447885), "en": ("School", 1314221429),
-              "de": ("Schule", 1845751466), "sw": ("Shule", 1133622645)},
+              "de": ("Schule", 1845751466), "sw": ("Shule", 1133622645),
+              "es": ("Escuela", 1809440249), "fr": ("École", 1753630662)},
 }
 ACCEPTABLE = re.compile(
     r"^(CC0|Public domain|CC BY(-SA|-NC|-NC-SA)? [\d.]+)", re.IGNORECASE
@@ -64,8 +78,8 @@ LICENCE_NOTE = "Released under CC BY-NC-SA 4.0: https://github.com/nordmarj/Kids
 # Every language the decks are built in. To add one: add its entry here, its
 # names to TOPICS, and a column with its code (and audio_<code>) to
 # data/candidates/media_picks.csv (fetch_media.py download then adds them to
-# the concept tables). For shape cards too, add a column to
-# data/shapes/shapes.csv and an entry to build_decks.SHAPES_DECKS.
+# the concept tables). It also needs a column (and audio_<code>) in
+# data/shapes/shapes.csv and an entry in build_decks.SHAPES_DECKS.
 LANGUAGES = {
     "sv": {
         "root": "Svenska::Ord",
@@ -102,6 +116,24 @@ LANGUAGES = {
         "description": "Kids Flashcards: tazama picha na ubonyeze neno sahihi. Picha: "
         "ARASAAC (Sergio Palao, Serikali ya Aragon), CC BY-NC-SA. Sauti: Wikimedia "
         "Commons, angalia kila kadi. " + LICENCE_NOTE,
+    },
+    "es": {
+        "root": "Español::Palabras",
+        "package": "espanol.apkg",
+        "picture": "Imagen",
+        "sound": "Sonido",
+        "description": "Kids Flashcards: mira la imagen y toca la palabra correcta. "
+        "Imágenes: ARASAAC (Sergio Palao, Gobierno de Aragón), CC BY-NC-SA. Sonido: "
+        "Lingua Libre y Wikimedia Commons, ver cada tarjeta. " + LICENCE_NOTE,
+    },
+    "fr": {
+        "root": "Français::Mots",
+        "package": "francais.apkg",
+        "picture": "Image",
+        "sound": "Son",
+        "description": "Kids Flashcards : regarde l'image et touche le bon mot. "
+        "Images : ARASAAC (Sergio Palao, Gouvernement d'Aragon), CC BY-NC-SA. Son : "
+        "Lingua Libre et Wikimedia Commons, voir chaque carte. " + LICENCE_NOTE,
     },
 }
 
