@@ -1,73 +1,73 @@
-id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
-book,bok,book,Buch,kitabu,1,book.png,book_sv.mp3,book_en.mp3,book_de.mp3,book_sw.mp3
-ball,boll,ball,Ball,mpira,1,ball.png,ball_sv.mp3,ball_en.mp3,ball_de.mp3,ball_sw.mp3
-kite,drake,kite,Drachen,kishada,2,kite.png,kite_sv.mp3,kite_en.mp3,kite_de.mp3,kite_sw.mp3
-gift,gåva,gift,Geschenk,zawadi,1,gift.png,gift_sv.mp3,gift_en.mp3,gift_de.mp3,gift_sw.mp3
-spinning_top,snurra,spinning top,Kreisel,,2,spinning_top.png,spinning_top_sv.mp3,spinning_top_en.mp3,spinning_top_de.mp3,
-rocking_horse,gunghäst,rocking horse,Schaukelpferd,,1,rocking_horse.png,rocking_horse_sv.mp3,rocking_horse_en.mp3,rocking_horse_de.mp3,
-football,fotboll,football,Fußball,kandanda,1,football.png,football_sv.mp3,football_en.mp3,football_de.mp3,football_sw.mp3
-crown,krona,crown,Krone,taji,1,crown.png,crown_sv.mp3,crown_en.mp3,crown_de.mp3,crown_sw.mp3
-parcel,paket,parcel,Paket,kifurushi,1,parcel.png,parcel_sv.mp3,parcel_en.mp3,parcel_de.mp3,parcel_sw.mp3
-chess,schack,chess,Schach,sataranji,2,chess.png,chess_sv.mp3,chess_en.mp3,chess_de.mp3,chess_sw.mp3
-tennis,tennis,tennis,Tennis,tenisi,2,tennis.png,tennis_sv.mp3,tennis_en.mp3,tennis_de.mp3,tennis_sw.mp3
-tricycle,,tricycle,Dreirad,,2,tricycle.png,,tricycle_en.mp3,tricycle_de.mp3,
-playground,,playground,Spielplatz,,2,playground.png,,playground_en.mp3,playground_de.mp3,
-dominoes,,dominoes,Domino,dhumna,2,dominoes.png,,dominoes_en.mp3,dominoes_de.mp3,dominoes_sw.mp3
-puppet,,puppet,Handpuppe,,2,puppet.png,,puppet_en.mp3,puppet_de.mp3,
-seesaw,,seesaw,Wippe,,2,seesaw.png,,seesaw_en.mp3,seesaw_de.mp3,
-swing,,swing,Schaukel,bembea,2,swing.png,,swing_en.mp3,swing_de.mp3,swing_sw.mp3
-robot,,robot,Roboter,roboti,2,robot.png,,robot_en.mp3,robot_de.mp3,robot_sw.mp3
-rattle,,rattle,Rassel,njuga,2,rattle.png,,rattle_en.mp3,rattle_de.mp3,rattle_sw.mp3
-bubble,,bubble,Seifenblase,,2,bubble.png,,bubble_en.mp3,bubble_de.mp3,
-yo_yo,,yo-yo,Jojo,,2,yo_yo.png,,yo_yo_en.mp3,yo_yo_de.mp3,
-rubik_s_cube,,Rubik's cube,Zauberwürfel,,2,rubik_s_cube.png,,rubik_s_cube_en.mp3,rubik_s_cube_de.mp3,
-hopscotch,,hopscotch,Himmel und Hölle,,2,hopscotch.png,,hopscotch_en.mp3,hopscotch_de.mp3,
-hide_and_seek,,hide-and-seek,Verstecken,,2,hide_and_seek.png,,hide_and_seek_en.mp3,hide_and_seek_de.mp3,
-kaleidoscope,,kaleidoscope,Kaleidoskop,,2,kaleidoscope.png,,kaleidoscope_en.mp3,kaleidoscope_de.mp3,
-maze,,maze,Labyrinth,,2,maze.png,,maze_en.mp3,maze_de.mp3,
-pinwheel,,pinwheel,Windrad,,2,pinwheel.png,,pinwheel_en.mp3,pinwheel_de.mp3,
-foosball,,foosball,Kicker,,2,foosball.png,,foosball_en.mp3,foosball_de.mp3,
-playhouse,,playhouse,,,2,playhouse.png,,playhouse_en.mp3,,
-marble,,marble,Murmel,gololi,2,marble.png,,marble_en.mp3,marble_de.mp3,marble_sw.mp3
-slide,,slide,Rutsche,,2,slide.png,,slide_en.mp3,slide_de.mp3,
-toyshop,,toyshop,Spielzeugladen,,2,toyshop.png,,toyshop_en.mp3,toyshop_de.mp3,
-doll,,doll,Puppe,mwanasesere,1,doll.png,,doll_en.mp3,doll_de.mp3,doll_sw.mp3
-teddy_bear,teddybjörn,teddy bear,Teddybär,,1,teddy_bear.png,teddy_bear_sv.mp3,teddy_bear_en.mp3,teddy_bear_de.mp3,
-balloon,,balloon,Luftballon,puto,1,balloon.png,,balloon_en.mp3,balloon_de.mp3,balloon_sw.mp3
-unicorn,,unicorn,Einhorn,,1,unicorn.png,,unicorn_en.mp3,unicorn_de.mp3,
-piggy_bank,,piggy bank,Sparschwein,,1,piggy_bank.png,,piggy_bank_en.mp3,piggy_bank_de.mp3,
-mask,mask,mask,Maske,kinyago,2,mask.png,mask_sv.mp3,mask_en.mp3,mask_de.mp3,mask_sw.mp3
-puzzle,,,Puzzle,,1,puzzle.png,,,puzzle_de.mp3,
-dice,,dice,Würfel,kete,1,dice.png,,dice_en.mp3,dice_de.mp3,dice_sw.mp3
-paper_plane,,paper airplane,Papierflieger,,1,paper_plane.png,,paper_plane_en.mp3,paper_plane_de.mp3,
-dollhouse,,doll's house,Puppenhaus,,1,dollhouse.png,,dollhouse_en.mp3,dollhouse_de.mp3,
-diabolo,,diabolo,,,2,diabolo.png,,diabolo_en.mp3,,
-slinky,,slinky,Spirale,,2,slinky.png,,slinky_en.mp3,slinky_de.mp3,
-stilts,,,Stelzen,,2,stilts.png,,,stilts_de.mp3,
-toy_truck,,,Spielzeuglastwagen,,2,toy_truck.png,,,toy_truck_de.mp3,
-water_pistol,,,Wasserpistole,,2,water_pistol.png,,,water_pistol_de.mp3,
-stackable_cubes,,,Bauklötze,,2,stackable_cubes.png,,,stackable_cubes_de.mp3,
-target,mål,target,Zielscheibe,shabaha,2,target.png,target_sv.mp3,target_en.mp3,target_de.mp3,target_sw.mp3
-dart,pil,dart,Dartpfeil,,2,dart.png,dart_sv.mp3,dart_en.mp3,dart_de.mp3,
-game_of_marbles,,,Murmeln,,2,game_of_marbles.png,,,game_of_marbles_de.mp3,
-game_of_tag,,tag,Fangspiel,,2,game_of_tag.png,,game_of_tag_en.mp3,game_of_tag_de.mp3,
-rock_paper_scissors_game,,,Schere Stein Papier,,2,rock_paper_scissors_game.png,,,rock_paper_scissors_game_de.mp3,
-sack_race,,,Sackhüpfen,,2,sack_race.png,,,sack_race_de.mp3,
-billiards,,billiards,Billard,biliadi,2,billiards.png,,billiards_en.mp3,billiards_de.mp3,billiards_sw.mp3
-draughts,,draughts,Dame,dama,2,draughts.png,,draughts_en.mp3,draughts_de.mp3,draughts_sw.mp3
-snakes_and_ladders,,snakes and ladders,,,2,snakes_and_ladders.png,,snakes_and_ladders_en.mp3,,
-tangram,,,Tangram,,2,tangram.png,,,tangram_de.mp3,
-ticktacktoe,,tic-tac-toe,,,2,ticktacktoe.png,,ticktacktoe_en.mp3,,
-blocks,,blocks,,,2,blocks.png,,blocks_en.mp3,,
-disco_ball,,disco ball,Diskokugel,,2,disco_ball.png,,disco_ball_en.mp3,disco_ball_de.mp3,
-bumper_car,,,Autoscooter,,2,bumper_car.png,,,bumper_car_de.mp3,
-ghost_train,,,Geisterbahn,,2,ghost_train.png,,,ghost_train_de.mp3,
-inflatable_castle,,,Hüpfburg,,2,inflatable_castle.png,,,inflatable_castle_de.mp3,
-zip_line,,,Seilbahn,,2,zip_line.png,,,zip_line_de.mp3,
-comic,,comic,Comic,,2,comic.png,,comic_en.mp3,comic_de.mp3,
-pinata,,piñata,Piñata,,2,pinata.png,,pinata_en.mp3,pinata_de.mp3,
-easter_bunny,,Easter Bunny,Osterhase,,2,easter_bunny.png,,easter_bunny_en.mp3,easter_bunny_de.mp3,
-crossword_puzzle,,,Kreuzworträtsel,,2,crossword_puzzle.png,,,crossword_puzzle_de.mp3,
-sparkler,,sparkler,Wunderkerze,,2,sparkler.png,,sparkler_en.mp3,sparkler_de.mp3,
-firecracker,,firecracker,Böller,,2,firecracker.png,,firecracker_en.mp3,firecracker_de.mp3,
-airbed,,,Luftmatratze,,2,airbed.png,,,airbed_de.mp3,
+id,sv,en,de,sw,es,fr,level,image,audio_sv,audio_en,audio_de,audio_sw,audio_es,audio_fr
+book,bok,book,Buch,kitabu,libro,livre,1,book.png,book_sv.mp3,book_en.mp3,book_de.mp3,book_sw.mp3,book_es.mp3,book_fr.mp3
+ball,boll,ball,Ball,mpira,balón,ballon,1,ball.png,ball_sv.mp3,ball_en.mp3,ball_de.mp3,ball_sw.mp3,ball_es.mp3,ball_fr.mp3
+kite,drake,kite,Drachen,kishada,cometa,cerf-volant,2,kite.png,kite_sv.mp3,kite_en.mp3,kite_de.mp3,kite_sw.mp3,kite_es.mp3,kite_fr.mp3
+gift,gåva,gift,Geschenk,zawadi,regalo,cadeau,1,gift.png,gift_sv.mp3,gift_en.mp3,gift_de.mp3,gift_sw.mp3,gift_es.mp3,gift_fr.mp3
+spinning_top,snurra,spinning top,Kreisel,,,toupie,2,spinning_top.png,spinning_top_sv.mp3,spinning_top_en.mp3,spinning_top_de.mp3,,,spinning_top_fr.mp3
+rocking_horse,gunghäst,rocking horse,Schaukelpferd,,,cheval à bascule,1,rocking_horse.png,rocking_horse_sv.mp3,rocking_horse_en.mp3,rocking_horse_de.mp3,,,rocking_horse_fr.mp3
+football,fotboll,football,Fußball,kandanda,fútbol,football,1,football.png,football_sv.mp3,football_en.mp3,football_de.mp3,football_sw.mp3,football_es.mp3,football_fr.mp3
+crown,krona,crown,Krone,taji,corona,couronne,1,crown.png,crown_sv.mp3,crown_en.mp3,crown_de.mp3,crown_sw.mp3,crown_es.mp3,crown_fr.mp3
+parcel,paket,parcel,Paket,kifurushi,paquete,colis,1,parcel.png,parcel_sv.mp3,parcel_en.mp3,parcel_de.mp3,parcel_sw.mp3,parcel_es.mp3,parcel_fr.mp3
+chess,schack,chess,Schach,sataranji,ajedrez,jeu d'échecs,2,chess.png,chess_sv.mp3,chess_en.mp3,chess_de.mp3,chess_sw.mp3,chess_es.mp3,chess_fr.mp3
+tennis,tennis,tennis,Tennis,tenisi,tenis,tennis,2,tennis.png,tennis_sv.mp3,tennis_en.mp3,tennis_de.mp3,tennis_sw.mp3,tennis_es.mp3,tennis_fr.mp3
+tricycle,,tricycle,Dreirad,,,tricycle,2,tricycle.png,,tricycle_en.mp3,tricycle_de.mp3,,,tricycle_fr.mp3
+playground,,playground,Spielplatz,,parque,aire de jeux,2,playground.png,,playground_en.mp3,playground_de.mp3,,playground_es.mp3,playground_fr.mp3
+dominoes,,dominoes,Domino,dhumna,dominó,dominos,2,dominoes.png,,dominoes_en.mp3,dominoes_de.mp3,dominoes_sw.mp3,dominoes_es.mp3,dominoes_fr.mp3
+puppet,,puppet,Handpuppe,,títere,marionnette,2,puppet.png,,puppet_en.mp3,puppet_de.mp3,,puppet_es.mp3,puppet_fr.mp3
+seesaw,,seesaw,Wippe,,balancín,bascule,2,seesaw.png,,seesaw_en.mp3,seesaw_de.mp3,,seesaw_es.mp3,seesaw_fr.mp3
+swing,,swing,Schaukel,bembea,columpio,balançoire,2,swing.png,,swing_en.mp3,swing_de.mp3,swing_sw.mp3,swing_es.mp3,swing_fr.mp3
+robot,,robot,Roboter,roboti,robot,robot,2,robot.png,,robot_en.mp3,robot_de.mp3,robot_sw.mp3,robot_es.mp3,robot_fr.mp3
+rattle,,rattle,Rassel,njuga,,hochet,2,rattle.png,,rattle_en.mp3,rattle_de.mp3,rattle_sw.mp3,,rattle_fr.mp3
+bubble,,bubble,Seifenblase,,burbuja,bulle,2,bubble.png,,bubble_en.mp3,bubble_de.mp3,,bubble_es.mp3,bubble_fr.mp3
+yo_yo,,yo-yo,Jojo,,,yoyo,2,yo_yo.png,,yo_yo_en.mp3,yo_yo_de.mp3,,,yo_yo_fr.mp3
+rubik_s_cube,,Rubik's cube,Zauberwürfel,,,,2,rubik_s_cube.png,,rubik_s_cube_en.mp3,rubik_s_cube_de.mp3,,,
+hopscotch,,hopscotch,Himmel und Hölle,,,marelle,2,hopscotch.png,,hopscotch_en.mp3,hopscotch_de.mp3,,,hopscotch_fr.mp3
+hide_and_seek,,hide-and-seek,Verstecken,,escondite,cache-cache,2,hide_and_seek.png,,hide_and_seek_en.mp3,hide_and_seek_de.mp3,,hide_and_seek_es.mp3,hide_and_seek_fr.mp3
+kaleidoscope,,kaleidoscope,Kaleidoskop,,caleidoscopio,kaléidoscope,2,kaleidoscope.png,,kaleidoscope_en.mp3,kaleidoscope_de.mp3,,kaleidoscope_es.mp3,kaleidoscope_fr.mp3
+maze,,maze,Labyrinth,,laberinto,labyrinthe,2,maze.png,,maze_en.mp3,maze_de.mp3,,maze_es.mp3,maze_fr.mp3
+pinwheel,,pinwheel,Windrad,,,moulinet,2,pinwheel.png,,pinwheel_en.mp3,pinwheel_de.mp3,,,pinwheel_fr.mp3
+foosball,,foosball,Kicker,,,babyfoot,2,foosball.png,,foosball_en.mp3,foosball_de.mp3,,,foosball_fr.mp3
+playhouse,,playhouse,,,,maisonnette,2,playhouse.png,,playhouse_en.mp3,,,,playhouse_fr.mp3
+marble,,marble,Murmel,gololi,,bille,2,marble.png,,marble_en.mp3,marble_de.mp3,marble_sw.mp3,,marble_fr.mp3
+slide,,slide,Rutsche,,tobogán,toboggan,2,slide.png,,slide_en.mp3,slide_de.mp3,,slide_es.mp3,slide_fr.mp3
+toyshop,,toyshop,Spielzeugladen,,,,2,toyshop.png,,toyshop_en.mp3,toyshop_de.mp3,,,
+doll,,doll,Puppe,mwanasesere,muñeca,poupée,1,doll.png,,doll_en.mp3,doll_de.mp3,doll_sw.mp3,doll_es.mp3,doll_fr.mp3
+teddy_bear,teddybjörn,teddy bear,Teddybär,,peluche,ours en peluche,1,teddy_bear.png,teddy_bear_sv.mp3,teddy_bear_en.mp3,teddy_bear_de.mp3,,teddy_bear_es.mp3,teddy_bear_fr.mp3
+balloon,,balloon,Luftballon,puto,globo,ballon de baudruche,1,balloon.png,,balloon_en.mp3,balloon_de.mp3,balloon_sw.mp3,balloon_es.mp3,balloon_fr.mp3
+unicorn,,unicorn,Einhorn,,unicornio,licorne,1,unicorn.png,,unicorn_en.mp3,unicorn_de.mp3,,unicorn_es.mp3,unicorn_fr.mp3
+piggy_bank,,piggy bank,Sparschwein,,,tirelire,1,piggy_bank.png,,piggy_bank_en.mp3,piggy_bank_de.mp3,,,piggy_bank_fr.mp3
+mask,mask,mask,Maske,kinyago,máscara,masque,2,mask.png,mask_sv.mp3,mask_en.mp3,mask_de.mp3,mask_sw.mp3,mask_es.mp3,mask_fr.mp3
+puzzle,,,Puzzle,,,puzzle,1,puzzle.png,,,puzzle_de.mp3,,,puzzle_fr.mp3
+dice,,dice,Würfel,kete,dado,dé,1,dice.png,,dice_en.mp3,dice_de.mp3,dice_sw.mp3,dice_es.mp3,dice_fr.mp3
+paper_plane,,paper airplane,Papierflieger,,,,1,paper_plane.png,,paper_plane_en.mp3,paper_plane_de.mp3,,,
+dollhouse,,doll's house,Puppenhaus,,,maison de poupée,1,dollhouse.png,,dollhouse_en.mp3,dollhouse_de.mp3,,,dollhouse_fr.mp3
+diabolo,,diabolo,,,,diabolo,2,diabolo.png,,diabolo_en.mp3,,,,diabolo_fr.mp3
+slinky,,slinky,Spirale,,,slinky,2,slinky.png,,slinky_en.mp3,slinky_de.mp3,,,slinky_fr.mp3
+stilts,,,Stelzen,,,échasses,2,stilts.png,,,stilts_de.mp3,,,stilts_fr.mp3
+toy_truck,,,Spielzeuglastwagen,,,,2,toy_truck.png,,,toy_truck_de.mp3,,,
+water_pistol,,,Wasserpistole,,pistola,pistolet à eau,2,water_pistol.png,,,water_pistol_de.mp3,,water_pistol_es.mp3,water_pistol_fr.mp3
+stackable_cubes,,,Bauklötze,,,,2,stackable_cubes.png,,,stackable_cubes_de.mp3,,,
+target,mål,target,Zielscheibe,shabaha,diana,cible,2,target.png,target_sv.mp3,target_en.mp3,target_de.mp3,target_sw.mp3,target_es.mp3,target_fr.mp3
+dart,pil,dart,Dartpfeil,,,fléchette,2,dart.png,dart_sv.mp3,dart_en.mp3,dart_de.mp3,,,dart_fr.mp3
+game_of_marbles,,,Murmeln,,,,2,game_of_marbles.png,,,game_of_marbles_de.mp3,,,
+game_of_tag,,tag,Fangspiel,,,jeu du loup,2,game_of_tag.png,,game_of_tag_en.mp3,game_of_tag_de.mp3,,,game_of_tag_fr.mp3
+rock_paper_scissors_game,,,Schere Stein Papier,,,chifoumi,2,rock_paper_scissors_game.png,,,rock_paper_scissors_game_de.mp3,,,rock_paper_scissors_game_fr.mp3
+sack_race,,,Sackhüpfen,,,,2,sack_race.png,,,sack_race_de.mp3,,,
+billiards,,billiards,Billard,biliadi,billar,billard,2,billiards.png,,billiards_en.mp3,billiards_de.mp3,billiards_sw.mp3,billiards_es.mp3,billiards_fr.mp3
+draughts,,draughts,Dame,dama,damas,dames,2,draughts.png,,draughts_en.mp3,draughts_de.mp3,draughts_sw.mp3,draughts_es.mp3,draughts_fr.mp3
+snakes_and_ladders,,snakes and ladders,,,,,2,snakes_and_ladders.png,,snakes_and_ladders_en.mp3,,,,
+tangram,,,Tangram,,,,2,tangram.png,,,tangram_de.mp3,,,
+ticktacktoe,,tic-tac-toe,,,,morpion,2,ticktacktoe.png,,ticktacktoe_en.mp3,,,,ticktacktoe_fr.mp3
+blocks,,blocks,,,,blocs,2,blocks.png,,blocks_en.mp3,,,,blocks_fr.mp3
+disco_ball,,disco ball,Diskokugel,,,,2,disco_ball.png,,disco_ball_en.mp3,disco_ball_de.mp3,,,
+bumper_car,,,Autoscooter,,,auto-tamponneuse,2,bumper_car.png,,,bumper_car_de.mp3,,,bumper_car_fr.mp3
+ghost_train,,,Geisterbahn,,,,2,ghost_train.png,,,ghost_train_de.mp3,,,
+inflatable_castle,,,Hüpfburg,,,,2,inflatable_castle.png,,,inflatable_castle_de.mp3,,,
+zip_line,,,Seilbahn,,,tyrolienne,2,zip_line.png,,,zip_line_de.mp3,,,zip_line_fr.mp3
+comic,,comic,Comic,,tebeo,bande dessinée,2,comic.png,,comic_en.mp3,comic_de.mp3,,comic_es.mp3,comic_fr.mp3
+pinata,,piñata,Piñata,,,,2,pinata.png,,pinata_en.mp3,pinata_de.mp3,,,
+easter_bunny,,Easter Bunny,Osterhase,,,,2,easter_bunny.png,,easter_bunny_en.mp3,easter_bunny_de.mp3,,,
+crossword_puzzle,,,Kreuzworträtsel,,crucigrama,mots croisés,2,crossword_puzzle.png,,,crossword_puzzle_de.mp3,,crossword_puzzle_es.mp3,crossword_puzzle_fr.mp3
+sparkler,,sparkler,Wunderkerze,,,,2,sparkler.png,,sparkler_en.mp3,sparkler_de.mp3,,,
+firecracker,,firecracker,Böller,,petardo,pétard,2,firecracker.png,,firecracker_en.mp3,firecracker_de.mp3,,firecracker_es.mp3,firecracker_fr.mp3
+airbed,,,Luftmatratze,,,,2,airbed.png,,,airbed_de.mp3,,,

@@ -1,159 +1,159 @@
-id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
-mum,mamma,mum,Mama,mama,1,mum.png,mum_sv.mp3,mum_en.mp3,mum_de.mp3,mum_sw.mp3
-dad,pappa,dad,Papa,baba,1,dad.png,dad_sv.mp3,dad_en.mp3,dad_de.mp3,dad_sw.mp3
-brother,bror,brother,Bruder,kaka,1,brother.png,brother_sv.mp3,brother_en.mp3,brother_de.mp3,brother_sw.mp3
-sister,syster,sister,Schwester,dada,1,sister.png,sister_sv.mp3,sister_en.mp3,sister_de.mp3,sister_sw.mp3
-grandfather,farfar,grandfather,Opa,babu,1,grandfather.png,grandfather_sv.mp3,grandfather_en.mp3,grandfather_de.mp3,grandfather_sw.mp3
-grandmother,farmor,grandmother,Oma,bibi,1,grandmother.png,grandmother_sv.mp3,grandmother_en.mp3,grandmother_de.mp3,grandmother_sw.mp3
-son,son,son,Sohn,mwana,2,son.png,son_sv.mp3,son_en.mp3,son_de.mp3,son_sw.mp3
-daughter,dotter,daughter,Tochter,binti,2,daughter.png,daughter_sv.mp3,daughter_en.mp3,daughter_de.mp3,daughter_sw.mp3
-cousin,kusin,cousin,Cousin,binamu,2,cousin.png,cousin_sv.mp3,cousin_en.mp3,cousin_de.mp3,cousin_sw.mp3
-family,familj,family,Familie,familia,1,family.png,family_sv.mp3,family_en.mp3,family_de.mp3,family_sw.mp3
-farmer,bonde,farmer,Bauer,mkulima,2,farmer.png,farmer_sv.mp3,farmer_en.mp3,farmer_de.mp3,farmer_sw.mp3
-police,polis,police,Polizist,polisi,1,police.png,police_sv.mp3,police_en.mp3,police_de.mp3,police_sw.mp3
-postman,brevbärare,postman,Briefträger,tarishi,2,postman.png,postman_sv.mp3,postman_en.mp3,postman_de.mp3,postman_sw.mp3
-painter,målare,painter,Maler,mchoraji,2,painter.png,painter_sv.mp3,painter_en.mp3,painter_de.mp3,painter_sw.mp3
-prince,prins,prince,Prinz,mwanamfalme,1,prince.png,prince_sv.mp3,prince_en.mp3,prince_de.mp3,prince_sw.mp3
-king,kung,king,König,mfalme,1,king.png,king_sv.mp3,king_en.mp3,king_de.mp3,king_sw.mp3
-queen,drottning,queen,Königin,malkia,1,queen.png,queen_sv.mp3,queen_en.mp3,queen_de.mp3,queen_sw.mp3
-captain,kapten,captain,Kapitän,nahodha,2,captain.png,captain_sv.mp3,captain_en.mp3,captain_de.mp3,captain_sw.mp3
-girl,flicka,girl,Mädchen,msichana,1,girl.png,girl_sv.mp3,girl_en.mp3,girl_de.mp3,girl_sw.mp3
-boy,pojke,boy,Junge,mvulana,1,boy.png,boy_sv.mp3,boy_en.mp3,boy_de.mp3,boy_sw.mp3
-woman,kvinna,woman,Frau,mwanamke,1,woman.png,woman_sv.mp3,woman_en.mp3,woman_de.mp3,woman_sw.mp3
-man,man,man,Mann,mwanamume,1,man.png,man_sv.mp3,man_en.mp3,man_de.mp3,man_sw.mp3
-doctor,läkare,doctor,Arzt,daktari,1,doctor.png,doctor_sv.mp3,doctor_en.mp3,doctor_de.mp3,doctor_sw.mp3
-teacher,lärare,teacher,Lehrer,mwalimu,1,teacher.png,teacher_sv.mp3,teacher_en.mp3,teacher_de.mp3,teacher_sw.mp3
-friend,vän,friend,Freund,rafiki,1,friend.png,friend_sv.mp3,friend_en.mp3,friend_de.mp3,friend_sw.mp3
-neighbour,granne,neighbour,Nachbar,jirani,2,neighbour.png,neighbour_sv.mp3,neighbour_en.mp3,neighbour_de.mp3,neighbour_sw.mp3
-aunt,moster,aunt,Tante,shangazi,2,aunt.png,aunt_sv.mp3,aunt_en.mp3,aunt_de.mp3,aunt_sw.mp3
-uncle,farbror,uncle,Onkel,mjomba,2,uncle.png,uncle_sv.mp3,uncle_en.mp3,uncle_de.mp3,uncle_sw.mp3
-fisherman,fiskare,fisherman,Fischer,mvuvi,2,fisherman.png,fisherman_sv.mp3,fisherman_en.mp3,fisherman_de.mp3,fisherman_sw.mp3
-singer,sångare,singer,Sänger,mwimbaji,2,singer.png,singer_sv.mp3,singer_en.mp3,singer_de.mp3,singer_sw.mp3
-musician,musiker,musician,Musiker,mwanamuziki,2,musician.png,musician_sv.mp3,musician_en.mp3,musician_de.mp3,musician_sw.mp3
-actor,skådespelare,actor,Schauspieler,mwigizaji,2,actor.png,actor_sv.mp3,actor_en.mp3,actor_de.mp3,actor_sw.mp3
-nurse,sjuksköterska,nurse,Krankenschwester,muuguzi,2,nurse.png,nurse_sv.mp3,nurse_en.mp3,nurse_de.mp3,nurse_sw.mp3
-photographer,fotograf,photographer,Fotograf,mpiga picha,2,photographer.png,photographer_sv.mp3,photographer_en.mp3,photographer_de.mp3,photographer_sw.mp3
-angel,ängel,angel,Engel,malaika,2,angel.png,angel_sv.mp3,angel_en.mp3,angel_de.mp3,angel_sw.mp3
-birthday,födelsedag,birthday,Geburtstag,siku ya kuzaliwa,1,birthday.png,birthday_sv.mp3,birthday_en.mp3,birthday_de.mp3,birthday_sw.mp3
-architect,arkitekt,architect,Architekt,,2,architect.png,architect_sv.mp3,architect_en.mp3,architect_de.mp3,
-cashier,kassör,cashier,Kassierer,keshia,2,cashier.png,cashier_sv.mp3,cashier_en.mp3,cashier_de.mp3,cashier_sw.mp3
-conductor,dirigent,conductor,Dirigent,,2,conductor.png,conductor_sv.mp3,conductor_en.mp3,conductor_de.mp3,
-referee,domare,referee,Schiedsrichter,refa,2,referee.png,referee_sv.mp3,referee_en.mp3,referee_de.mp3,referee_sw.mp3
-writer,författare,writer,der Schriftsteller,mwandishi,2,writer.png,writer_sv.mp3,writer_en.mp3,writer_de.mp3,writer_sw.mp3
-artist,konstnär,artist,Künstler,msanii,2,artist.png,artist_sv.mp3,artist_en.mp3,artist_de.mp3,artist_sw.mp3
-scientist,forskare,scientist,Wissenschaftler,mwanasayansi,2,scientist.png,scientist_sv.mp3,scientist_en.mp3,scientist_de.mp3,scientist_sw.mp3
-ballerina,,ballerina,Ballerina,,2,ballerina.png,,ballerina_en.mp3,ballerina_de.mp3,
-carpenter,,carpenter,Tischler,seremala,2,carpenter.png,,carpenter_en.mp3,carpenter_de.mp3,carpenter_sw.mp3
-dentist,,dentist,der Zahnarzt,daktari wa meno,2,dentist.png,,dentist_en.mp3,dentist_de.mp3,dentist_sw.mp3
-electrician,,electrician,Elektriker,,2,electrician.png,,electrician_en.mp3,electrician_de.mp3,
-hairdresser,,hairdresser,der Friseur,kinyozi,2,hairdresser.png,,hairdresser_en.mp3,hairdresser_de.mp3,hairdresser_sw.mp3
-clown,,clown,Clown,mchekeshaji,2,clown.png,,clown_en.mp3,clown_de.mp3,clown_sw.mp3
-mechanic,,mechanic,der Mechaniker,,2,mechanic.png,,mechanic_en.mp3,mechanic_de.mp3,
-woodcutter,,woodcutter,Holzfäller,mtema kuni,2,woodcutter.png,,woodcutter_en.mp3,woodcutter_de.mp3,woodcutter_sw.mp3
-gardener,,gardener,Gärtner,,2,gardener.png,,gardener_en.mp3,gardener_de.mp3,
-garbage_collector,,garbage collector,Müllmann,,2,garbage_collector.png,,garbage_collector_en.mp3,garbage_collector_de.mp3,
-taxi_driver,,taxi driver,Taxifahrer,,2,taxi_driver.png,,taxi_driver_en.mp3,taxi_driver_de.mp3,
-florist,,florist,Florist,,2,florist.png,,florist_en.mp3,florist_de.mp3,
-plumber,,plumber,Klempner,,2,plumber.png,,plumber_en.mp3,plumber_de.mp3,
-pilot,,pilot,Pilot,rubani,2,pilot.png,,pilot_en.mp3,pilot_de.mp3,pilot_sw.mp3
-astronaut,,astronaut,Astronaut,mwanaanga,2,astronaut.png,,astronaut_en.mp3,astronaut_de.mp3,astronaut_sw.mp3
-actress,,actress,die Schauspielerin,,2,actress.png,,actress_en.mp3,actress_de.mp3,
-acrobat,,acrobat,Akrobat,,2,acrobat.png,,acrobat_en.mp3,acrobat_de.mp3,
-chef,,chef,der Koch,mpishi,2,chef.png,,chef_en.mp3,chef_de.mp3,chef_sw.mp3
-miner,,miner,Bergmann,mchimbaji,2,miner.png,,miner_en.mp3,miner_de.mp3,miner_sw.mp3
-juggler,,juggler,Jongleur,,2,juggler.png,,juggler_en.mp3,juggler_de.mp3,
-veterinarian,,veterinarian,Tierarzt,daktari wa mifugo,2,veterinarian.png,,veterinarian_en.mp3,veterinarian_de.mp3,veterinarian_sw.mp3
-tailor,,tailor,Schneider,mshonaji,2,tailor.png,,tailor_en.mp3,tailor_de.mp3,tailor_sw.mp3
-flight_attendant,,flight attendant,Flugbegleiter,,2,flight_attendant.png,,flight_attendant_en.mp3,flight_attendant_de.mp3,
-magician,,magician,Zauberer,,2,magician.png,,magician_en.mp3,magician_de.mp3,
-bus_driver,,bus driver,Busfahrer,dereva,2,bus_driver.png,,bus_driver_en.mp3,bus_driver_de.mp3,bus_driver_sw.mp3
-beekeeper,,beekeeper,Imker,,2,beekeeper.png,,beekeeper_en.mp3,beekeeper_de.mp3,
-baker,,baker,Bäcker,mwokaji,2,baker.png,,baker_en.mp3,baker_de.mp3,baker_sw.mp3
-butcher,,butcher,Metzger,mchinjaji,2,butcher.png,,butcher_en.mp3,butcher_de.mp3,butcher_sw.mp3
-journalist,journalist,,Journalist,mwanahabari,2,journalist.png,journalist_sv.mp3,,journalist_de.mp3,journalist_sw.mp3
-cowboy,,cowboy,Cowboy,,2,cowboy.png,,cowboy_en.mp3,cowboy_de.mp3,
-children,barn,children,Kinder,watoto,2,children.png,children_sv.mp3,children_en.mp3,children_de.mp3,children_sw.mp3
-grandchild,barnbarn,grandchild,Enkel,mjukuu,2,grandchild.png,grandchild_sv.mp3,grandchild_en.mp3,grandchild_de.mp3,grandchild_sw.mp3
-person,person,person,die Person,mtu,2,person.png,person_sv.mp3,person_en.mp3,person_de.mp3,person_sw.mp3
-baby,baby,baby,Baby,mtoto,2,baby.png,baby_sv.mp3,baby_en.mp3,baby_de.mp3,baby_sw.mp3
-twins,,twins,Zwillinge,pacha,2,twins.png,,twins_en.mp3,twins_de.mp3,twins_sw.mp3
-parents,,parents,die Eltern,wazazi,2,parents.png,,parents_en.mp3,parents_de.mp3,parents_sw.mp3
-family_tree,,family tree,der Stammbaum,,2,family_tree.png,,family_tree_en.mp3,family_tree_de.mp3,
-teenagers,ungdomar,,Jugendliche,vijana,2,teenagers.png,teenagers_sv.mp3,,teenagers_de.mp3,teenagers_sw.mp3
-firefighter,,firefighter,Feuerwehrmann,mzimamoto,1,firefighter.png,,firefighter_en.mp3,firefighter_de.mp3,firefighter_sw.mp3
-pirate,,pirate,Pirat,haramia,1,pirate.png,,pirate_en.mp3,pirate_de.mp3,pirate_sw.mp3
-knight,,knight,Ritter,,1,knight.png,,knight_en.mp3,knight_de.mp3,
-princess,,princess,Prinzessin,binti mfalme,1,princess.png,,princess_en.mp3,princess_de.mp3,princess_sw.mp3
-witch,,witch,Hexe,mchawi,2,witch.png,,witch_en.mp3,witch_de.mp3,witch_sw.mp3
-fairy,,fairy,Fee,,1,fairy.png,,fairy_en.mp3,fairy_de.mp3,
-ghost,,ghost,Gespenst,mzimu,2,ghost.png,,ghost_en.mp3,ghost_de.mp3,ghost_sw.mp3
-father_christmas,tomte,Father Christmas,Weihnachtsmann,,1,father_christmas.png,father_christmas_sv.mp3,father_christmas_en.mp3,father_christmas_de.mp3,
-sailor,,sailor,Matrose,baharia,2,sailor.png,,sailor_en.mp3,sailor_de.mp3,sailor_sw.mp3
-waiter,,waiter,Kellner,mhudumu,2,waiter.png,,waiter_en.mp3,waiter_de.mp3,waiter_sw.mp3
-pupil,elev,pupil,Schüler,mwanafunzi,1,pupil.png,pupil_sv.mp3,pupil_en.mp3,pupil_de.mp3,pupil_sw.mp3
-grandparents,morföräldrar,,Großeltern,,1,grandparents.png,grandparents_sv.mp3,,grandparents_de.mp3,
-astronomer,,astronomer,Astronom,,2,astronomer.png,,astronomer_en.mp3,astronomer_de.mp3,
-blacksmith,,blacksmith,der Schmied,mhunzi,2,blacksmith.png,,blacksmith_en.mp3,blacksmith_de.mp3,blacksmith_sw.mp3
-cleaner,,cleaner,Reinigungskraft,,2,cleaner.png,,cleaner_en.mp3,cleaner_de.mp3,
-detective,,detective,Detektiv,mpelelezi,2,detective.png,,detective_en.mp3,detective_de.mp3,detective_sw.mp3
-librarian,,librarian,Bibliothekar,mkutubi,2,librarian.png,,librarian_en.mp3,librarian_de.mp3,librarian_sw.mp3
-potter,,potter,Töpferin,mfinyanzi,2,potter.png,,potter_en.mp3,potter_de.mp3,potter_sw.mp3
-soldier,,soldier,Soldat,mwanajeshi,2,soldier.png,,soldier_en.mp3,soldier_de.mp3,soldier_sw.mp3
-tightrope_walker,,tightrope walker,Seiltänzer,,2,tightrope_walker.png,,tightrope_walker_en.mp3,tightrope_walker_de.mp3,
-deliveryman,bud,deliveryman,Lieferant,,2,deliveryman.png,deliveryman_sv.mp3,deliveryman_en.mp3,deliveryman_de.mp3,
-security_guard,,security guard,Sicherheitsmann,,2,security_guard.png,,security_guard_en.mp3,security_guard_de.mp3,
-mime,,mime,Pantomime,,2,mime.png,,mime_en.mp3,mime_de.mp3,
-coach,,coach,Schwimmtrainerin,kocha,2,coach.png,,coach_en.mp3,coach_de.mp3,coach_sw.mp3
-baseball_player,,baseball player,Baseballspieler,,2,baseball_player.png,,baseball_player_en.mp3,baseball_player_de.mp3,
-basketball_player,,basketball player,Basketballspieler,,2,basketball_player.png,,basketball_player_en.mp3,basketball_player_de.mp3,
-boxer,,boxer,Boxer,bondia,2,boxer.png,,boxer_en.mp3,boxer_de.mp3,boxer_sw.mp3
-canoeist,,,Kanufahrer,,2,canoeist.png,,,canoeist_de.mp3,
-golfer,,golfer,Golfspieler,,2,golfer.png,,golfer_en.mp3,golfer_de.mp3,
-gymnast,,gymnast,Turner,,2,gymnast.png,,gymnast_en.mp3,gymnast_de.mp3,
-ice_hockey_player,,,Eishockeyspieler,,2,ice_hockey_player.png,,,ice_hockey_player_de.mp3,
-motorcyclist,,motorcyclist,Motorradfahrer,,2,motorcyclist.png,,motorcyclist_en.mp3,motorcyclist_de.mp3,
-mountaineer,,mountaineer,Bergsteiger,,2,mountaineer.png,,mountaineer_en.mp3,mountaineer_de.mp3,
-parachutist,,,Fallschirmspringer,,2,parachutist.png,,,parachutist_de.mp3,
-skater,,skater,,,2,skater.png,,skater_en.mp3,,
-skier,,skier,Skifahrerin,,2,skier.png,,skier_en.mp3,skier_de.mp3,
-surfer,,surfer,Surfer,,2,surfer.png,,surfer_en.mp3,surfer_de.mp3,
-tennis_player,,tennis player,Tennisspielerin,,2,tennis_player.png,,tennis_player_en.mp3,tennis_player_de.mp3,
-rock_climber,,,Kletterin,,2,rock_climber.png,,,rock_climber_de.mp3,
-choir,kör,choir,Chor,kwaya,2,choir.png,choir_sv.mp3,choir_en.mp3,choir_de.mp3,choir_sw.mp3
-music_band,band,,,bendi,2,music_band.png,music_band_sv.mp3,,,music_band_sw.mp3
-team,,team,Mannschaft,timu,2,team.png,,team_en.mp3,team_de.mp3,team_sw.mp3
-neighbours,,neighbours,der Nachbar,,2,neighbours.png,,neighbours_en.mp3,neighbours_de.mp3,
-fishmonger,,fishmonger,Fischhändlerin,,2,fishmonger.png,,fishmonger_en.mp3,fishmonger_de.mp3,
-greengrocer,,greengrocer,Obsthändler,,2,greengrocer.png,,greengrocer_en.mp3,greengrocer_de.mp3,
-ice_cream_seller,,,Eisverkäuferin,,2,ice_cream_seller.png,,,ice_cream_seller_de.mp3,
-optician,,optician,Optikerin,,2,optician.png,,optician_en.mp3,optician_de.mp3,
-shoemaker,,shoemaker,Schuster,,2,shoemaker.png,,shoemaker_en.mp3,shoemaker_de.mp3,
-shop_assistant,,shop assistant,der Verkäufer,,2,shop_assistant.png,,shop_assistant_en.mp3,shop_assistant_de.mp3,
-elf,,elf,Elfe,,2,elf.png,,elf_en.mp3,elf_de.mp3,
-genie,ande,genie,,jini,2,genie.png,genie_sv.mp3,genie_en.mp3,,genie_sw.mp3
-gnome,,gnome,Zwerg,,2,gnome.png,,gnome_en.mp3,gnome_de.mp3,
-goblin,,goblin,,,2,goblin.png,,goblin_en.mp3,,
-monster,monster,monster,Monster,,2,monster.png,monster_sv.mp3,monster_en.mp3,monster_de.mp3,
-centaur,,centaur,Zentaur,,2,centaur.png,,centaur_en.mp3,centaur_de.mp3,
-dragon,drake,dragon,Drache,dragoni,2,dragon.png,dragon_sv.mp3,dragon_en.mp3,dragon_de.mp3,dragon_sw.mp3
-mermaid,,mermaid,Meerjungfrau,nguva,2,mermaid.png,,mermaid_en.mp3,mermaid_de.mp3,mermaid_sw.mp3
-ogre,,ogre,Oger,,2,ogre.png,,ogre_en.mp3,ogre_de.mp3,
-phoenix,,phoenix,Phönix,,2,phoenix.png,,phoenix_en.mp3,phoenix_de.mp3,
-bride,,bride,Braut,,2,bride.png,,bride_en.mp3,bride_de.mp3,
-bridegroom,,bridegroom,Bräutigam,bwana harusi,2,bridegroom.png,,bridegroom_en.mp3,bridegroom_de.mp3,bridegroom_sw.mp3
-classmates,,,Klassenkameraden,,2,classmates.png,,,classmates_de.mp3,
-head_teacher,rektor,,Rektorin,,2,head_teacher.png,head_teacher_sv.mp3,,head_teacher_de.mp3,
-tourist,,tourist,Tourist,mtalii,2,tourist.png,,tourist_en.mp3,tourist_de.mp3,tourist_sw.mp3
-pedestrian,,pedestrian,der Fußgänger,,2,pedestrian.png,,pedestrian_en.mp3,pedestrian_de.mp3,
-diver,,diver,Taucherin,,2,diver.png,,diver_en.mp3,diver_de.mp3,
-scout,,scout,Pfadfinderin,,2,scout.png,,scout_en.mp3,scout_de.mp3,
-caveman,,caveman,Neandertaler,,2,caveman.png,,caveman_en.mp3,caveman_de.mp3,
-pharaoh,,pharaoh,Pharao,farao,2,pharaoh.png,,pharaoh_en.mp3,pharaoh_de.mp3,pharaoh_sw.mp3
-mummy,,mummy,Mumie,,2,mummy.png,,mummy_en.mp3,mummy_de.mp3,
-martian,,martian,Marsmensch,,2,martian.png,,martian_en.mp3,martian_de.mp3,
-superheroes,,,Superhelden,,2,superheroes.png,,,superheroes_de.mp3,
-toddler,,toddler,Kleinkind,,2,toddler.png,,toddler_en.mp3,toddler_de.mp3,
-burglar,,burglar,Diebin,mwizi,2,burglar.png,,burglar_en.mp3,burglar_de.mp3,burglar_sw.mp3
-prisoner,,prisoner,Häftling,mfungwa,2,prisoner.png,,prisoner_en.mp3,prisoner_de.mp3,prisoner_sw.mp3
-cheerleader,,cheerleader,Cheerleaderin,,2,cheerleader.png,,cheerleader_en.mp3,cheerleader_de.mp3,
-roman,,,der Römer,,2,roman.png,,,roman_de.mp3,
+id,sv,en,de,sw,es,fr,level,image,audio_sv,audio_en,audio_de,audio_sw,audio_es,audio_fr
+mum,mamma,mum,Mama,mama,mamá,maman,1,mum.png,mum_sv.mp3,mum_en.mp3,mum_de.mp3,mum_sw.mp3,mum_es.mp3,mum_fr.mp3
+dad,pappa,dad,Papa,baba,papá,papa,1,dad.png,dad_sv.mp3,dad_en.mp3,dad_de.mp3,dad_sw.mp3,dad_es.mp3,dad_fr.mp3
+brother,bror,brother,Bruder,kaka,hermano,frère,1,brother.png,brother_sv.mp3,brother_en.mp3,brother_de.mp3,brother_sw.mp3,brother_es.mp3,brother_fr.mp3
+sister,syster,sister,Schwester,dada,hermana,sœur,1,sister.png,sister_sv.mp3,sister_en.mp3,sister_de.mp3,sister_sw.mp3,sister_es.mp3,sister_fr.mp3
+grandfather,farfar,grandfather,Opa,babu,abuelo,grand-père,1,grandfather.png,grandfather_sv.mp3,grandfather_en.mp3,grandfather_de.mp3,grandfather_sw.mp3,grandfather_es.mp3,grandfather_fr.mp3
+grandmother,farmor,grandmother,Oma,bibi,abuela,grand-mère,1,grandmother.png,grandmother_sv.mp3,grandmother_en.mp3,grandmother_de.mp3,grandmother_sw.mp3,grandmother_es.mp3,grandmother_fr.mp3
+son,son,son,Sohn,mwana,hijo,fils,2,son.png,son_sv.mp3,son_en.mp3,son_de.mp3,son_sw.mp3,son_es.mp3,son_fr.mp3
+daughter,dotter,daughter,Tochter,binti,hija,,2,daughter.png,daughter_sv.mp3,daughter_en.mp3,daughter_de.mp3,daughter_sw.mp3,daughter_es.mp3,
+cousin,kusin,cousin,Cousin,binamu,primo,cousin,2,cousin.png,cousin_sv.mp3,cousin_en.mp3,cousin_de.mp3,cousin_sw.mp3,cousin_es.mp3,cousin_fr.mp3
+family,familj,family,Familie,familia,familia,famille,1,family.png,family_sv.mp3,family_en.mp3,family_de.mp3,family_sw.mp3,family_es.mp3,family_fr.mp3
+farmer,bonde,farmer,Bauer,mkulima,agricultor,agriculteur,2,farmer.png,farmer_sv.mp3,farmer_en.mp3,farmer_de.mp3,farmer_sw.mp3,farmer_es.mp3,farmer_fr.mp3
+police,polis,police,Polizist,polisi,policía,policier,1,police.png,police_sv.mp3,police_en.mp3,police_de.mp3,police_sw.mp3,police_es.mp3,police_fr.mp3
+postman,brevbärare,postman,Briefträger,tarishi,cartero,facteur,2,postman.png,postman_sv.mp3,postman_en.mp3,postman_de.mp3,postman_sw.mp3,postman_es.mp3,postman_fr.mp3
+painter,målare,painter,Maler,mchoraji,pintor,peintre,2,painter.png,painter_sv.mp3,painter_en.mp3,painter_de.mp3,painter_sw.mp3,painter_es.mp3,painter_fr.mp3
+prince,prins,prince,Prinz,mwanamfalme,príncipe,prince,1,prince.png,prince_sv.mp3,prince_en.mp3,prince_de.mp3,prince_sw.mp3,prince_es.mp3,prince_fr.mp3
+king,kung,king,König,mfalme,rey,roi,1,king.png,king_sv.mp3,king_en.mp3,king_de.mp3,king_sw.mp3,king_es.mp3,king_fr.mp3
+queen,drottning,queen,Königin,malkia,reina,reine,1,queen.png,queen_sv.mp3,queen_en.mp3,queen_de.mp3,queen_sw.mp3,queen_es.mp3,queen_fr.mp3
+captain,kapten,captain,Kapitän,nahodha,capitán,capitaine,2,captain.png,captain_sv.mp3,captain_en.mp3,captain_de.mp3,captain_sw.mp3,captain_es.mp3,captain_fr.mp3
+girl,flicka,girl,Mädchen,msichana,niña,fille,1,girl.png,girl_sv.mp3,girl_en.mp3,girl_de.mp3,girl_sw.mp3,girl_es.mp3,girl_fr.mp3
+boy,pojke,boy,Junge,mvulana,niño,garçon,1,boy.png,boy_sv.mp3,boy_en.mp3,boy_de.mp3,boy_sw.mp3,boy_es.mp3,boy_fr.mp3
+woman,kvinna,woman,Frau,mwanamke,mujer,femme,1,woman.png,woman_sv.mp3,woman_en.mp3,woman_de.mp3,woman_sw.mp3,woman_es.mp3,woman_fr.mp3
+man,man,man,Mann,mwanamume,hombre,homme,1,man.png,man_sv.mp3,man_en.mp3,man_de.mp3,man_sw.mp3,man_es.mp3,man_fr.mp3
+doctor,läkare,doctor,Arzt,daktari,médico,médecin,1,doctor.png,doctor_sv.mp3,doctor_en.mp3,doctor_de.mp3,doctor_sw.mp3,doctor_es.mp3,doctor_fr.mp3
+teacher,lärare,teacher,Lehrer,mwalimu,maestro,maître,1,teacher.png,teacher_sv.mp3,teacher_en.mp3,teacher_de.mp3,teacher_sw.mp3,teacher_es.mp3,teacher_fr.mp3
+friend,vän,friend,Freund,rafiki,amigo,ami,1,friend.png,friend_sv.mp3,friend_en.mp3,friend_de.mp3,friend_sw.mp3,friend_es.mp3,friend_fr.mp3
+neighbour,granne,neighbour,Nachbar,jirani,vecino,voisin,2,neighbour.png,neighbour_sv.mp3,neighbour_en.mp3,neighbour_de.mp3,neighbour_sw.mp3,neighbour_es.mp3,neighbour_fr.mp3
+aunt,moster,aunt,Tante,shangazi,tía,tante,2,aunt.png,aunt_sv.mp3,aunt_en.mp3,aunt_de.mp3,aunt_sw.mp3,aunt_es.mp3,aunt_fr.mp3
+uncle,farbror,uncle,Onkel,mjomba,tío,oncle,2,uncle.png,uncle_sv.mp3,uncle_en.mp3,uncle_de.mp3,uncle_sw.mp3,uncle_es.mp3,uncle_fr.mp3
+fisherman,fiskare,fisherman,Fischer,mvuvi,pescador,pêcheur,2,fisherman.png,fisherman_sv.mp3,fisherman_en.mp3,fisherman_de.mp3,fisherman_sw.mp3,fisherman_es.mp3,fisherman_fr.mp3
+singer,sångare,singer,Sänger,mwimbaji,cantante,chanteur,2,singer.png,singer_sv.mp3,singer_en.mp3,singer_de.mp3,singer_sw.mp3,singer_es.mp3,singer_fr.mp3
+musician,musiker,musician,Musiker,mwanamuziki,músico,musicien,2,musician.png,musician_sv.mp3,musician_en.mp3,musician_de.mp3,musician_sw.mp3,musician_es.mp3,musician_fr.mp3
+actor,skådespelare,actor,Schauspieler,mwigizaji,actor,acteur,2,actor.png,actor_sv.mp3,actor_en.mp3,actor_de.mp3,actor_sw.mp3,actor_es.mp3,actor_fr.mp3
+nurse,sjuksköterska,nurse,Krankenschwester,muuguzi,enfermera,infirmière,2,nurse.png,nurse_sv.mp3,nurse_en.mp3,nurse_de.mp3,nurse_sw.mp3,nurse_es.mp3,nurse_fr.mp3
+photographer,fotograf,photographer,Fotograf,mpiga picha,fotógrafo,photographe,2,photographer.png,photographer_sv.mp3,photographer_en.mp3,photographer_de.mp3,photographer_sw.mp3,photographer_es.mp3,photographer_fr.mp3
+angel,ängel,angel,Engel,malaika,ángel,ange,2,angel.png,angel_sv.mp3,angel_en.mp3,angel_de.mp3,angel_sw.mp3,angel_es.mp3,angel_fr.mp3
+birthday,födelsedag,birthday,Geburtstag,siku ya kuzaliwa,cumpleaños,anniversaire,1,birthday.png,birthday_sv.mp3,birthday_en.mp3,birthday_de.mp3,birthday_sw.mp3,birthday_es.mp3,birthday_fr.mp3
+architect,arkitekt,architect,Architekt,,arquitecto,architecte,2,architect.png,architect_sv.mp3,architect_en.mp3,architect_de.mp3,,architect_es.mp3,architect_fr.mp3
+cashier,kassör,cashier,Kassierer,keshia,cajero,caissière,2,cashier.png,cashier_sv.mp3,cashier_en.mp3,cashier_de.mp3,cashier_sw.mp3,cashier_es.mp3,cashier_fr.mp3
+conductor,dirigent,conductor,Dirigent,,,,2,conductor.png,conductor_sv.mp3,conductor_en.mp3,conductor_de.mp3,,,
+referee,domare,referee,Schiedsrichter,refa,árbitro,arbitre,2,referee.png,referee_sv.mp3,referee_en.mp3,referee_de.mp3,referee_sw.mp3,referee_es.mp3,referee_fr.mp3
+writer,författare,writer,der Schriftsteller,mwandishi,escritor,écrivain,2,writer.png,writer_sv.mp3,writer_en.mp3,writer_de.mp3,writer_sw.mp3,writer_es.mp3,writer_fr.mp3
+artist,konstnär,artist,Künstler,msanii,artista,artiste,2,artist.png,artist_sv.mp3,artist_en.mp3,artist_de.mp3,artist_sw.mp3,artist_es.mp3,artist_fr.mp3
+scientist,forskare,scientist,Wissenschaftler,mwanasayansi,científico,scientifique,2,scientist.png,scientist_sv.mp3,scientist_en.mp3,scientist_de.mp3,scientist_sw.mp3,scientist_es.mp3,scientist_fr.mp3
+ballerina,,ballerina,Ballerina,,bailarina,danseuse,2,ballerina.png,,ballerina_en.mp3,ballerina_de.mp3,,ballerina_es.mp3,ballerina_fr.mp3
+carpenter,,carpenter,Tischler,seremala,carpintero,menuisier,2,carpenter.png,,carpenter_en.mp3,carpenter_de.mp3,carpenter_sw.mp3,carpenter_es.mp3,carpenter_fr.mp3
+dentist,,dentist,der Zahnarzt,daktari wa meno,dentista,dentiste,2,dentist.png,,dentist_en.mp3,dentist_de.mp3,dentist_sw.mp3,dentist_es.mp3,dentist_fr.mp3
+electrician,,electrician,Elektriker,,electricista,électricien,2,electrician.png,,electrician_en.mp3,electrician_de.mp3,,electrician_es.mp3,electrician_fr.mp3
+hairdresser,,hairdresser,der Friseur,kinyozi,peluquero,coiffeur,2,hairdresser.png,,hairdresser_en.mp3,hairdresser_de.mp3,hairdresser_sw.mp3,hairdresser_es.mp3,hairdresser_fr.mp3
+clown,,clown,Clown,mchekeshaji,payaso,clown,2,clown.png,,clown_en.mp3,clown_de.mp3,clown_sw.mp3,clown_es.mp3,clown_fr.mp3
+mechanic,,mechanic,der Mechaniker,,mecánico,mécanicien,2,mechanic.png,,mechanic_en.mp3,mechanic_de.mp3,,mechanic_es.mp3,mechanic_fr.mp3
+woodcutter,,woodcutter,Holzfäller,mtema kuni,leñador,bûcheron,2,woodcutter.png,,woodcutter_en.mp3,woodcutter_de.mp3,woodcutter_sw.mp3,woodcutter_es.mp3,woodcutter_fr.mp3
+gardener,,gardener,Gärtner,,jardinero,jardinier,2,gardener.png,,gardener_en.mp3,gardener_de.mp3,,gardener_es.mp3,gardener_fr.mp3
+garbage_collector,,garbage collector,Müllmann,,basurero,éboueur,2,garbage_collector.png,,garbage_collector_en.mp3,garbage_collector_de.mp3,,garbage_collector_es.mp3,garbage_collector_fr.mp3
+taxi_driver,,taxi driver,Taxifahrer,,taxista,,2,taxi_driver.png,,taxi_driver_en.mp3,taxi_driver_de.mp3,,taxi_driver_es.mp3,
+florist,,florist,Florist,,florista,fleuriste,2,florist.png,,florist_en.mp3,florist_de.mp3,,florist_es.mp3,florist_fr.mp3
+plumber,,plumber,Klempner,,fontanero,plombier,2,plumber.png,,plumber_en.mp3,plumber_de.mp3,,plumber_es.mp3,plumber_fr.mp3
+pilot,,pilot,Pilot,rubani,piloto,pilote,2,pilot.png,,pilot_en.mp3,pilot_de.mp3,pilot_sw.mp3,pilot_es.mp3,pilot_fr.mp3
+astronaut,,astronaut,Astronaut,mwanaanga,astronauta,astronaute,2,astronaut.png,,astronaut_en.mp3,astronaut_de.mp3,astronaut_sw.mp3,astronaut_es.mp3,astronaut_fr.mp3
+actress,,actress,die Schauspielerin,,actriz,actrice,2,actress.png,,actress_en.mp3,actress_de.mp3,,actress_es.mp3,actress_fr.mp3
+acrobat,,acrobat,Akrobat,,acróbata,acrobate,2,acrobat.png,,acrobat_en.mp3,acrobat_de.mp3,,acrobat_es.mp3,acrobat_fr.mp3
+chef,,chef,der Koch,mpishi,cocinero,cuisinier,2,chef.png,,chef_en.mp3,chef_de.mp3,chef_sw.mp3,chef_es.mp3,chef_fr.mp3
+miner,,miner,Bergmann,mchimbaji,minero,mineur,2,miner.png,,miner_en.mp3,miner_de.mp3,miner_sw.mp3,miner_es.mp3,miner_fr.mp3
+juggler,,juggler,Jongleur,,malabarista,jongleur,2,juggler.png,,juggler_en.mp3,juggler_de.mp3,,juggler_es.mp3,juggler_fr.mp3
+veterinarian,,veterinarian,Tierarzt,daktari wa mifugo,veterinario,vétérinaire,2,veterinarian.png,,veterinarian_en.mp3,veterinarian_de.mp3,veterinarian_sw.mp3,veterinarian_es.mp3,veterinarian_fr.mp3
+tailor,,tailor,Schneider,mshonaji,sastre,tailleur,2,tailor.png,,tailor_en.mp3,tailor_de.mp3,tailor_sw.mp3,tailor_es.mp3,tailor_fr.mp3
+flight_attendant,,flight attendant,Flugbegleiter,,azafata,steward,2,flight_attendant.png,,flight_attendant_en.mp3,flight_attendant_de.mp3,,flight_attendant_es.mp3,flight_attendant_fr.mp3
+magician,,magician,Zauberer,,mago,magicien,2,magician.png,,magician_en.mp3,magician_de.mp3,,magician_es.mp3,magician_fr.mp3
+bus_driver,,bus driver,Busfahrer,dereva,,chauffeur,2,bus_driver.png,,bus_driver_en.mp3,bus_driver_de.mp3,bus_driver_sw.mp3,,bus_driver_fr.mp3
+beekeeper,,beekeeper,Imker,,apicultor,apiculteur,2,beekeeper.png,,beekeeper_en.mp3,beekeeper_de.mp3,,beekeeper_es.mp3,beekeeper_fr.mp3
+baker,,baker,Bäcker,mwokaji,panadero,boulanger,2,baker.png,,baker_en.mp3,baker_de.mp3,baker_sw.mp3,baker_es.mp3,baker_fr.mp3
+butcher,,butcher,Metzger,mchinjaji,carnicero,boucher,2,butcher.png,,butcher_en.mp3,butcher_de.mp3,butcher_sw.mp3,butcher_es.mp3,butcher_fr.mp3
+journalist,journalist,,Journalist,mwanahabari,periodista,journaliste,2,journalist.png,journalist_sv.mp3,,journalist_de.mp3,journalist_sw.mp3,journalist_es.mp3,journalist_fr.mp3
+cowboy,,cowboy,Cowboy,,vaquero,cow-boy,2,cowboy.png,,cowboy_en.mp3,cowboy_de.mp3,,cowboy_es.mp3,cowboy_fr.mp3
+children,barn,children,Kinder,watoto,niños,enfants,2,children.png,children_sv.mp3,children_en.mp3,children_de.mp3,children_sw.mp3,children_es.mp3,children_fr.mp3
+grandchild,barnbarn,grandchild,Enkel,mjukuu,nieto,petit-fils,2,grandchild.png,grandchild_sv.mp3,grandchild_en.mp3,grandchild_de.mp3,grandchild_sw.mp3,grandchild_es.mp3,grandchild_fr.mp3
+person,person,person,die Person,mtu,persona,personne,2,person.png,person_sv.mp3,person_en.mp3,person_de.mp3,person_sw.mp3,person_es.mp3,person_fr.mp3
+baby,baby,baby,Baby,mtoto,bebé,bébé,2,baby.png,baby_sv.mp3,baby_en.mp3,baby_de.mp3,baby_sw.mp3,baby_es.mp3,baby_fr.mp3
+twins,,twins,Zwillinge,pacha,gemelos,jumeaux,2,twins.png,,twins_en.mp3,twins_de.mp3,twins_sw.mp3,twins_es.mp3,twins_fr.mp3
+parents,,parents,die Eltern,wazazi,padres,parents,2,parents.png,,parents_en.mp3,parents_de.mp3,parents_sw.mp3,parents_es.mp3,parents_fr.mp3
+family_tree,,family tree,der Stammbaum,,,arbre généalogique,2,family_tree.png,,family_tree_en.mp3,family_tree_de.mp3,,,family_tree_fr.mp3
+teenagers,ungdomar,,Jugendliche,vijana,,adolescents,2,teenagers.png,teenagers_sv.mp3,,teenagers_de.mp3,teenagers_sw.mp3,,teenagers_fr.mp3
+firefighter,,firefighter,Feuerwehrmann,mzimamoto,bombero,pompier,1,firefighter.png,,firefighter_en.mp3,firefighter_de.mp3,firefighter_sw.mp3,firefighter_es.mp3,firefighter_fr.mp3
+pirate,,pirate,Pirat,haramia,pirata,pirate,1,pirate.png,,pirate_en.mp3,pirate_de.mp3,pirate_sw.mp3,pirate_es.mp3,pirate_fr.mp3
+knight,,knight,Ritter,,caballero,chevalier,1,knight.png,,knight_en.mp3,knight_de.mp3,,knight_es.mp3,knight_fr.mp3
+princess,,princess,Prinzessin,binti mfalme,princesa,princesse,1,princess.png,,princess_en.mp3,princess_de.mp3,princess_sw.mp3,princess_es.mp3,princess_fr.mp3
+witch,,witch,Hexe,mchawi,bruja,sorcière,2,witch.png,,witch_en.mp3,witch_de.mp3,witch_sw.mp3,witch_es.mp3,witch_fr.mp3
+fairy,,fairy,Fee,,hada,fée,1,fairy.png,,fairy_en.mp3,fairy_de.mp3,,fairy_es.mp3,fairy_fr.mp3
+ghost,,ghost,Gespenst,mzimu,fantasma,fantôme,2,ghost.png,,ghost_en.mp3,ghost_de.mp3,ghost_sw.mp3,ghost_es.mp3,ghost_fr.mp3
+father_christmas,tomte,Father Christmas,Weihnachtsmann,,,Père Noël,1,father_christmas.png,father_christmas_sv.mp3,father_christmas_en.mp3,father_christmas_de.mp3,,,father_christmas_fr.mp3
+sailor,,sailor,Matrose,baharia,marinero,marin,2,sailor.png,,sailor_en.mp3,sailor_de.mp3,sailor_sw.mp3,sailor_es.mp3,sailor_fr.mp3
+waiter,,waiter,Kellner,mhudumu,camarero,serveur,2,waiter.png,,waiter_en.mp3,waiter_de.mp3,waiter_sw.mp3,waiter_es.mp3,waiter_fr.mp3
+pupil,elev,pupil,Schüler,mwanafunzi,alumno,élève,1,pupil.png,pupil_sv.mp3,pupil_en.mp3,pupil_de.mp3,pupil_sw.mp3,pupil_es.mp3,pupil_fr.mp3
+grandparents,morföräldrar,,Großeltern,,abuelos,grands-parents,1,grandparents.png,grandparents_sv.mp3,,grandparents_de.mp3,,grandparents_es.mp3,grandparents_fr.mp3
+astronomer,,astronomer,Astronom,,astrónomo,astronome,2,astronomer.png,,astronomer_en.mp3,astronomer_de.mp3,,astronomer_es.mp3,astronomer_fr.mp3
+blacksmith,,blacksmith,der Schmied,mhunzi,herrero,forgeron,2,blacksmith.png,,blacksmith_en.mp3,blacksmith_de.mp3,blacksmith_sw.mp3,blacksmith_es.mp3,blacksmith_fr.mp3
+cleaner,,cleaner,Reinigungskraft,,,femme de ménage,2,cleaner.png,,cleaner_en.mp3,cleaner_de.mp3,,,cleaner_fr.mp3
+detective,,detective,Detektiv,mpelelezi,detective,détective,2,detective.png,,detective_en.mp3,detective_de.mp3,detective_sw.mp3,detective_es.mp3,detective_fr.mp3
+librarian,,librarian,Bibliothekar,mkutubi,bibliotecario,bibliothécaire,2,librarian.png,,librarian_en.mp3,librarian_de.mp3,librarian_sw.mp3,librarian_es.mp3,librarian_fr.mp3
+potter,,potter,Töpferin,mfinyanzi,alfarero,potière,2,potter.png,,potter_en.mp3,potter_de.mp3,potter_sw.mp3,potter_es.mp3,potter_fr.mp3
+soldier,,soldier,Soldat,mwanajeshi,militar,soldat,2,soldier.png,,soldier_en.mp3,soldier_de.mp3,soldier_sw.mp3,soldier_es.mp3,soldier_fr.mp3
+tightrope_walker,,tightrope walker,Seiltänzer,,,équilibriste,2,tightrope_walker.png,,tightrope_walker_en.mp3,tightrope_walker_de.mp3,,,tightrope_walker_fr.mp3
+deliveryman,bud,deliveryman,Lieferant,,,livreur,2,deliveryman.png,deliveryman_sv.mp3,deliveryman_en.mp3,deliveryman_de.mp3,,,deliveryman_fr.mp3
+security_guard,,security guard,Sicherheitsmann,,vigilante,gardien,2,security_guard.png,,security_guard_en.mp3,security_guard_de.mp3,,security_guard_es.mp3,security_guard_fr.mp3
+mime,,mime,Pantomime,,,mime,2,mime.png,,mime_en.mp3,mime_de.mp3,,,mime_fr.mp3
+coach,,coach,Schwimmtrainerin,kocha,,coach,2,coach.png,,coach_en.mp3,coach_de.mp3,coach_sw.mp3,,coach_fr.mp3
+baseball_player,,baseball player,Baseballspieler,,,,2,baseball_player.png,,baseball_player_en.mp3,baseball_player_de.mp3,,,
+basketball_player,,basketball player,Basketballspieler,,,basketteur,2,basketball_player.png,,basketball_player_en.mp3,basketball_player_de.mp3,,,basketball_player_fr.mp3
+boxer,,boxer,Boxer,bondia,boxeador,boxeur,2,boxer.png,,boxer_en.mp3,boxer_de.mp3,boxer_sw.mp3,boxer_es.mp3,boxer_fr.mp3
+canoeist,,,Kanufahrer,,,canoéiste,2,canoeist.png,,,canoeist_de.mp3,,,canoeist_fr.mp3
+golfer,,golfer,Golfspieler,,golfista,golfeur,2,golfer.png,,golfer_en.mp3,golfer_de.mp3,,golfer_es.mp3,golfer_fr.mp3
+gymnast,,gymnast,Turner,,gimnasta,gymnaste,2,gymnast.png,,gymnast_en.mp3,gymnast_de.mp3,,gymnast_es.mp3,gymnast_fr.mp3
+ice_hockey_player,,,Eishockeyspieler,,,hockeyeur,2,ice_hockey_player.png,,,ice_hockey_player_de.mp3,,,ice_hockey_player_fr.mp3
+motorcyclist,,motorcyclist,Motorradfahrer,,,motocycliste,2,motorcyclist.png,,motorcyclist_en.mp3,motorcyclist_de.mp3,,,motorcyclist_fr.mp3
+mountaineer,,mountaineer,Bergsteiger,,alpinista,alpiniste,2,mountaineer.png,,mountaineer_en.mp3,mountaineer_de.mp3,,mountaineer_es.mp3,mountaineer_fr.mp3
+parachutist,,,Fallschirmspringer,,paracaidista,parachutiste,2,parachutist.png,,,parachutist_de.mp3,,parachutist_es.mp3,parachutist_fr.mp3
+skater,,skater,,,,skateuse,2,skater.png,,skater_en.mp3,,,,skater_fr.mp3
+skier,,skier,Skifahrerin,,esquiador,skieur,2,skier.png,,skier_en.mp3,skier_de.mp3,,skier_es.mp3,skier_fr.mp3
+surfer,,surfer,Surfer,,,surfeur,2,surfer.png,,surfer_en.mp3,surfer_de.mp3,,,surfer_fr.mp3
+tennis_player,,tennis player,Tennisspielerin,,tenista,,2,tennis_player.png,,tennis_player_en.mp3,tennis_player_de.mp3,,tennis_player_es.mp3,
+rock_climber,,,Kletterin,,,grimpeuse,2,rock_climber.png,,,rock_climber_de.mp3,,,rock_climber_fr.mp3
+choir,kör,choir,Chor,kwaya,coro,chorale,2,choir.png,choir_sv.mp3,choir_en.mp3,choir_de.mp3,choir_sw.mp3,choir_es.mp3,choir_fr.mp3
+music_band,band,,,bendi,banda,groupe,2,music_band.png,music_band_sv.mp3,,,music_band_sw.mp3,music_band_es.mp3,music_band_fr.mp3
+team,,team,Mannschaft,timu,equipo,équipe,2,team.png,,team_en.mp3,team_de.mp3,team_sw.mp3,team_es.mp3,team_fr.mp3
+neighbours,,neighbours,der Nachbar,,,voisins,2,neighbours.png,,neighbours_en.mp3,neighbours_de.mp3,,,neighbours_fr.mp3
+fishmonger,,fishmonger,Fischhändlerin,,,poissonnière,2,fishmonger.png,,fishmonger_en.mp3,fishmonger_de.mp3,,,fishmonger_fr.mp3
+greengrocer,,greengrocer,Obsthändler,,frutero,primeur,2,greengrocer.png,,greengrocer_en.mp3,greengrocer_de.mp3,,greengrocer_es.mp3,greengrocer_fr.mp3
+ice_cream_seller,,,Eisverkäuferin,,heladera,,2,ice_cream_seller.png,,,ice_cream_seller_de.mp3,,ice_cream_seller_es.mp3,
+optician,,optician,Optikerin,,,opticienne,2,optician.png,,optician_en.mp3,optician_de.mp3,,,optician_fr.mp3
+shoemaker,,shoemaker,Schuster,,zapatero,cordonnier,2,shoemaker.png,,shoemaker_en.mp3,shoemaker_de.mp3,,shoemaker_es.mp3,shoemaker_fr.mp3
+shop_assistant,,shop assistant,der Verkäufer,,dependiente,vendeur,2,shop_assistant.png,,shop_assistant_en.mp3,shop_assistant_de.mp3,,shop_assistant_es.mp3,shop_assistant_fr.mp3
+elf,,elf,Elfe,,,elfe,2,elf.png,,elf_en.mp3,elf_de.mp3,,,elf_fr.mp3
+genie,ande,genie,,jini,genio,génie,2,genie.png,genie_sv.mp3,genie_en.mp3,,genie_sw.mp3,genie_es.mp3,genie_fr.mp3
+gnome,,gnome,Zwerg,,enano,nain,2,gnome.png,,gnome_en.mp3,gnome_de.mp3,,gnome_es.mp3,gnome_fr.mp3
+goblin,,goblin,,,duende,lutin,2,goblin.png,,goblin_en.mp3,,,goblin_es.mp3,goblin_fr.mp3
+monster,monster,monster,Monster,,monstruo,monstre,2,monster.png,monster_sv.mp3,monster_en.mp3,monster_de.mp3,,monster_es.mp3,monster_fr.mp3
+centaur,,centaur,Zentaur,,centauro,centaure,2,centaur.png,,centaur_en.mp3,centaur_de.mp3,,centaur_es.mp3,centaur_fr.mp3
+dragon,drake,dragon,Drache,dragoni,dragón,dragon,2,dragon.png,dragon_sv.mp3,dragon_en.mp3,dragon_de.mp3,dragon_sw.mp3,dragon_es.mp3,dragon_fr.mp3
+mermaid,,mermaid,Meerjungfrau,nguva,sirena,sirène,2,mermaid.png,,mermaid_en.mp3,mermaid_de.mp3,mermaid_sw.mp3,mermaid_es.mp3,mermaid_fr.mp3
+ogre,,ogre,Oger,,,ogre,2,ogre.png,,ogre_en.mp3,ogre_de.mp3,,,ogre_fr.mp3
+phoenix,,phoenix,Phönix,,fénix,phénix,2,phoenix.png,,phoenix_en.mp3,phoenix_de.mp3,,phoenix_es.mp3,phoenix_fr.mp3
+bride,,bride,Braut,,novia,mariée,2,bride.png,,bride_en.mp3,bride_de.mp3,,bride_es.mp3,bride_fr.mp3
+bridegroom,,bridegroom,Bräutigam,bwana harusi,novio,marié,2,bridegroom.png,,bridegroom_en.mp3,bridegroom_de.mp3,bridegroom_sw.mp3,bridegroom_es.mp3,bridegroom_fr.mp3
+classmates,,,Klassenkameraden,,,camarades,2,classmates.png,,,classmates_de.mp3,,,classmates_fr.mp3
+head_teacher,rektor,,Rektorin,,directora,directrice,2,head_teacher.png,head_teacher_sv.mp3,,head_teacher_de.mp3,,head_teacher_es.mp3,head_teacher_fr.mp3
+tourist,,tourist,Tourist,mtalii,turista,touriste,2,tourist.png,,tourist_en.mp3,tourist_de.mp3,tourist_sw.mp3,tourist_es.mp3,tourist_fr.mp3
+pedestrian,,pedestrian,der Fußgänger,,peatón,piéton,2,pedestrian.png,,pedestrian_en.mp3,pedestrian_de.mp3,,pedestrian_es.mp3,pedestrian_fr.mp3
+diver,,diver,Taucherin,,buzo,plongeuse,2,diver.png,,diver_en.mp3,diver_de.mp3,,diver_es.mp3,diver_fr.mp3
+scout,,scout,Pfadfinderin,,,scoute,2,scout.png,,scout_en.mp3,scout_de.mp3,,,scout_fr.mp3
+caveman,,caveman,Neandertaler,,,,2,caveman.png,,caveman_en.mp3,caveman_de.mp3,,,
+pharaoh,,pharaoh,Pharao,farao,faraón,pharaon,2,pharaoh.png,,pharaoh_en.mp3,pharaoh_de.mp3,pharaoh_sw.mp3,pharaoh_es.mp3,pharaoh_fr.mp3
+mummy,,mummy,Mumie,,momia,momie,2,mummy.png,,mummy_en.mp3,mummy_de.mp3,,mummy_es.mp3,mummy_fr.mp3
+martian,,martian,Marsmensch,,,martien,2,martian.png,,martian_en.mp3,martian_de.mp3,,,martian_fr.mp3
+superheroes,,,Superhelden,,,superhéros,2,superheroes.png,,,superheroes_de.mp3,,,superheroes_fr.mp3
+toddler,,toddler,Kleinkind,,,bambin,2,toddler.png,,toddler_en.mp3,toddler_de.mp3,,,toddler_fr.mp3
+burglar,,burglar,Diebin,mwizi,ladrón,voleuse,2,burglar.png,,burglar_en.mp3,burglar_de.mp3,burglar_sw.mp3,burglar_es.mp3,burglar_fr.mp3
+prisoner,,prisoner,Häftling,mfungwa,preso,prisonnier,2,prisoner.png,,prisoner_en.mp3,prisoner_de.mp3,prisoner_sw.mp3,prisoner_es.mp3,prisoner_fr.mp3
+cheerleader,,cheerleader,Cheerleaderin,,,majorette,2,cheerleader.png,,cheerleader_en.mp3,cheerleader_de.mp3,,,cheerleader_fr.mp3
+roman,,,der Römer,,romano,romain,2,roman.png,,,roman_de.mp3,,roman_es.mp3,roman_fr.mp3

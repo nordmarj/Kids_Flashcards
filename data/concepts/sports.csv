@@ -1,98 +1,98 @@
-id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
-medal,medalj,medal,Medaille,medali,2,medal.png,medal_sv.mp3,medal_en.mp3,medal_de.mp3,medal_sw.mp3
-arrow,pil,arrow,Pfeil,mshale,2,arrow.png,arrow_sv.mp3,arrow_en.mp3,arrow_de.mp3,arrow_sw.mp3
-stadium,stadion,stadium,Stadion,uwanja,2,stadium.png,stadium_sv.mp3,stadium_en.mp3,stadium_de.mp3,stadium_sw.mp3
-goal,mål,goal,das Tor,goli,2,goal.png,goal_sv.mp3,goal_en.mp3,goal_de.mp3,goal_sw.mp3
-net,nät,net,Netz,wavu,2,net.png,net_sv.mp3,net_en.mp3,net_de.mp3,net_sw.mp3
-bikini,,bikini,Bikini,,2,bikini.png,,bikini_en.mp3,bikini_de.mp3,
-swimsuit,,swimsuit,der Badeanzug,,2,swimsuit.png,,swimsuit_en.mp3,swimsuit_de.mp3,
-paddle,,paddle,Tischtennisschläger,,2,paddle.png,,paddle_en.mp3,paddle_de.mp3,
-skateboard,,skateboard,Skateboard,,2,skateboard.png,,skateboard_en.mp3,skateboard_de.mp3,
-skates,,skates,Rollschuhe,,2,skates.png,,skates_en.mp3,skates_de.mp3,
-racquet,,racquet,Tennisschläger,,2,racquet.png,,racquet_en.mp3,racquet_de.mp3,
-helmet,,helmet,Helm,kofia ngumu,2,helmet.png,,helmet_en.mp3,helmet_de.mp3,helmet_sw.mp3
-flip_flops,,flip-flops,Flipflops,,2,flip_flops.png,,flip_flops_en.mp3,flip_flops_de.mp3,
-cyclist,,cyclist,der Radfahrer,,2,cyclist.png,,cyclist_en.mp3,cyclist_de.mp3,
-darts,,darts,Darts,,2,darts.png,,darts_en.mp3,darts_de.mp3,
-skis,,skis,der Ski,,2,skis.png,,skis_en.mp3,skis_de.mp3,
-swimming_pool,,swimming pool,Schwimmbad,bwawa la kuogelea,2,swimming_pool.png,,swimming_pool_en.mp3,swimming_pool_de.mp3,swimming_pool_sw.mp3
-footballer,,footballer,Fußballer,,2,footballer.png,,footballer_en.mp3,footballer_de.mp3,
-skipping_rope,,skipping rope,Springseil,,2,skipping_rope.png,,skipping_rope_en.mp3,skipping_rope_de.mp3,
-sleeping_bag,,sleeping bag,Schlafsack,,2,sleeping_bag.png,,sleeping_bag_en.mp3,sleeping_bag_de.mp3,
-surfboard,,surfboard,Surfbrett,,2,surfboard.png,,surfboard_en.mp3,surfboard_de.mp3,
-basketball,,basketball,Basketball,mpira wa kikapu,2,basketball.png,,basketball_en.mp3,basketball_de.mp3,basketball_sw.mp3
-badminton,,badminton,Federball,,2,badminton.png,,badminton_en.mp3,badminton_de.mp3,
-archer,,archer,Bogenschütze,,2,archer.png,,archer_en.mp3,archer_de.mp3,
-whistle,,whistle,Trillerpfeife,filimbi,2,whistle.png,,whistle_en.mp3,whistle_de.mp3,whistle_sw.mp3
-oar,,oar,Ruder,kasia,2,oar.png,,oar_en.mp3,oar_de.mp3,oar_sw.mp3
-saddle,,saddle,Sattel,,2,saddle.png,,saddle_en.mp3,saddle_de.mp3,
-red_card,,red card,Rote Karte,,2,red_card.png,,red_card_en.mp3,red_card_de.mp3,
-yellow_card,,yellow card,Gelbe Karte,,2,yellow_card.png,,yellow_card_en.mp3,yellow_card_de.mp3,
-golf_club,,golf club,Golfschläger,,2,golf_club.png,,golf_club_en.mp3,golf_club_de.mp3,
-baseball,,baseball,Baseball,,2,baseball.png,,baseball_en.mp3,baseball_de.mp3,
-boomerang,,boomerang,Bumerang,,2,boomerang.png,,boomerang_en.mp3,boomerang_de.mp3,
-hockey,,hockey,Hockey,hoki,2,hockey.png,,hockey_en.mp3,hockey_de.mp3,hockey_sw.mp3
-ping_pong,,ping-pong,Tischtennis,,2,ping_pong.png,,ping_pong_en.mp3,ping_pong_de.mp3,
-golf,,golf,Golf,gofu,2,golf.png,,golf_en.mp3,golf_de.mp3,golf_sw.mp3
-volleyball,,volleyball,Volleyball,voliboli,2,volleyball.png,,volleyball_en.mp3,volleyball_de.mp3,volleyball_sw.mp3
-high_jump,,high jump,Hochsprung,,2,high_jump.png,,high_jump_en.mp3,high_jump_de.mp3,
-long_jump,,long jump,Weitsprung,,2,long_jump.png,,long_jump_en.mp3,long_jump_de.mp3,
-rugby,,rugby,Rugby,raga,2,rugby.png,,rugby_en.mp3,rugby_de.mp3,rugby_sw.mp3
-karate,,karate,Karate,karate,2,karate.png,,karate_en.mp3,karate_de.mp3,karate_sw.mp3
-trampoline,,trampoline,Trampolin,,2,trampoline.png,,trampoline_en.mp3,trampoline_de.mp3,
-bowling_ball,,bowling ball,Bowlingkugel,,2,bowling_ball.png,,bowling_ball_en.mp3,bowling_ball_de.mp3,
-snowboarding,,snowboarding,Snowboard,,2,snowboarding.png,,snowboarding_en.mp3,snowboarding_de.mp3,
-boxing_glove,,boxing glove,Boxhandschuh,glavu,2,boxing_glove.png,,boxing_glove_en.mp3,boxing_glove_de.mp3,boxing_glove_sw.mp3
-frisbee,,frisbee,Frisbee,,2,frisbee.png,,frisbee_en.mp3,frisbee_de.mp3,
-goalkeeper,,goalkeeper,Torwart,kipa,2,goalkeeper.png,,goalkeeper_en.mp3,goalkeeper_de.mp3,goalkeeper_sw.mp3
-goggles,,goggles,Schwimmbrille,,2,goggles.png,,goggles_en.mp3,goggles_de.mp3,
-sledge,,sledge,Schlitten,,1,sledge.png,,sledge_en.mp3,sledge_de.mp3,
-ice_skates,,,Schlittschuhe,,1,ice_skates.png,,,ice_skates_de.mp3,
-tennis_ball,,,Tennisball,,2,tennis_ball.png,,,tennis_ball_de.mp3,
-dumbbell,,dumbbell,Hantel,,2,dumbbell.png,,dumbbell_en.mp3,dumbbell_de.mp3,
-rider,,rider,Reiter,mpanda farasi,2,rider.png,,rider_en.mp3,rider_de.mp3,rider_sw.mp3
-swimmer,,swimmer,Schwimmer,muogeleaji,2,swimmer.png,,swimmer_en.mp3,swimmer_de.mp3,swimmer_sw.mp3
-runner,,runner,Läufer,mkimbiaji,2,runner.png,,runner_en.mp3,runner_de.mp3,runner_sw.mp3
-american_football,,,Football,,2,american_football.png,,,american_football_de.mp3,
-baseball_bat,,,Baseballschläger,,2,baseball_bat.png,,,baseball_bat_de.mp3,
-baseball_glove,,,Baseballhandschuh,,2,baseball_glove.png,,,baseball_glove_de.mp3,
-diving_board,,,Sprungbrett,,2,diving_board.png,,,diving_board_de.mp3,
-golf_ball,,,Golfball,,2,golf_ball.png,,,golf_ball_de.mp3,
-hockey_stick,,hockey stick,Hockeyschläger,,2,hockey_stick.png,,hockey_stick_en.mp3,hockey_stick_de.mp3,
-hoop,ring,,Hula-Hoop-Reifen,,2,hoop.png,hoop_sv.mp3,,hoop_de.mp3,
-knee_pad,,,Knieschoner,,2,knee_pad.png,,,knee_pad_de.mp3,
-elbow_pad,,,Ellbogenschützer,,2,elbow_pad.png,,,elbow_pad_de.mp3,
-ping_pong_table,,,Tischtennistisch,,2,ping_pong_table.png,,,ping_pong_table_de.mp3,
-ping_pong_ball,,,Tischtennisball,,2,ping_pong_ball.png,,,ping_pong_ball_de.mp3,
-pool_noodle,,,Poolnudel,,2,pool_noodle.png,,,pool_noodle_de.mp3,
-scoreboard,,scoreboard,Anzeigetafel,,2,scoreboard.png,,scoreboard_en.mp3,scoreboard_de.mp3,
-ski_poles,,,Skistöcke,,2,ski_poles.png,,,ski_poles_de.mp3,
-snowshoes,,,Schneeschuhe,,2,snowshoes.png,,,snowshoes_de.mp3,
-swimming_cap,,,Badekappe,,2,swimming_cap.png,,,swimming_cap_de.mp3,
-treadmill,,treadmill,Laufband,,2,treadmill.png,,treadmill_en.mp3,treadmill_de.mp3,
-trophy,,trophy,Trophäe,kombe,2,trophy.png,,trophy_en.mp3,trophy_de.mp3,trophy_sw.mp3
-wetsuit,,wetsuit,Neopren,,2,wetsuit.png,,wetsuit_en.mp3,wetsuit_de.mp3,
-armbands,,,Schwimmflügel,,2,armbands.png,,,armbands_de.mp3,
-exercise_bike,,,Ergometer,,2,exercise_bike.png,,,exercise_bike_de.mp3,
-swimming_board,,,Schwimmbrett,,2,swimming_board.png,,,swimming_board_de.mp3,
-boxing,,boxing,Boxen,ndondi,2,boxing.png,,boxing_en.mp3,boxing_de.mp3,boxing_sw.mp3
-cycling,,cycling,Radsport,,2,cycling.png,,cycling_en.mp3,cycling_de.mp3,
-fencing,,fencing,Fechten,,2,fencing.png,,fencing_en.mp3,fencing_de.mp3,
-handball,,handball,Handball,,2,handball.png,,handball_en.mp3,handball_de.mp3,
-yoga,,yoga,Yoga,yoga,2,yoga.png,,yoga_en.mp3,yoga_de.mp3,yoga_sw.mp3
-water_skiing,,,Wasserski,,2,water_skiing.png,,,water_skiing_de.mp3,
-martial_arts,,,Kampfsport,,2,martial_arts.png,,,martial_arts_de.mp3,
-basketball_court,,,Basketballfeld,,2,basketball_court.png,,,basketball_court_de.mp3,
-climbing_wall,,,Kletterwand,,2,climbing_wall.png,,,climbing_wall_de.mp3,
-finishing_line,,,Ziellinie,,2,finishing_line.png,,,finishing_line_de.mp3,
-golf_course,,golf course,Golfplatz,,2,golf_course.png,,golf_course_en.mp3,golf_course_de.mp3,
-gymnasium,,gymnasium,Fitnessstudio,,2,gymnasium.png,,gymnasium_en.mp3,gymnasium_de.mp3,
-ice_ring,,,Eisfläche,,2,ice_ring.png,,,ice_ring_de.mp3,
-running_track,,,Leichtathletikbahn,,2,running_track.png,,,running_track_de.mp3,
-ski_run,,,Skipiste,,2,ski_run.png,,,ski_run_de.mp3,
-flippers,,,Schwimmflossen,,2,flippers.png,,,flippers_de.mp3,
-football_boots,,,Fußballschuhe,,2,football_boots.png,,,football_boots_de.mp3,
-ski_boots,,,Skischuhe,,2,ski_boots.png,,,ski_boots_de.mp3,
-life_ring,,,Rettungsring,,2,life_ring.png,,,life_ring_de.mp3,
-somersault,,somersault,Purzelbaum,,2,somersault.png,,somersault_en.mp3,somersault_de.mp3,
-winner,vinnare,winner,Siegerin,mshindi,2,winner.png,winner_sv.mp3,winner_en.mp3,winner_de.mp3,winner_sw.mp3
+id,sv,en,de,sw,es,fr,level,image,audio_sv,audio_en,audio_de,audio_sw,audio_es,audio_fr
+medal,medalj,medal,Medaille,medali,medalla,médaille,2,medal.png,medal_sv.mp3,medal_en.mp3,medal_de.mp3,medal_sw.mp3,medal_es.mp3,medal_fr.mp3
+arrow,pil,arrow,Pfeil,mshale,flecha,flèche,2,arrow.png,arrow_sv.mp3,arrow_en.mp3,arrow_de.mp3,arrow_sw.mp3,arrow_es.mp3,arrow_fr.mp3
+stadium,stadion,stadium,Stadion,uwanja,estadio,stade,2,stadium.png,stadium_sv.mp3,stadium_en.mp3,stadium_de.mp3,stadium_sw.mp3,stadium_es.mp3,stadium_fr.mp3
+goal,mål,goal,das Tor,goli,arco,but,2,goal.png,goal_sv.mp3,goal_en.mp3,goal_de.mp3,goal_sw.mp3,goal_es.mp3,goal_fr.mp3
+net,nät,net,Netz,wavu,red,filet,2,net.png,net_sv.mp3,net_en.mp3,net_de.mp3,net_sw.mp3,net_es.mp3,net_fr.mp3
+bikini,,bikini,Bikini,,biquini,bikini,2,bikini.png,,bikini_en.mp3,bikini_de.mp3,,bikini_es.mp3,bikini_fr.mp3
+swimsuit,,swimsuit,der Badeanzug,,bañador,maillot de bain,2,swimsuit.png,,swimsuit_en.mp3,swimsuit_de.mp3,,swimsuit_es.mp3,swimsuit_fr.mp3
+paddle,,paddle,Tischtennisschläger,,,,2,paddle.png,,paddle_en.mp3,paddle_de.mp3,,,
+skateboard,,skateboard,Skateboard,,,planche à roulettes,2,skateboard.png,,skateboard_en.mp3,skateboard_de.mp3,,,skateboard_fr.mp3
+skates,,skates,Rollschuhe,,,patins à roulettes,2,skates.png,,skates_en.mp3,skates_de.mp3,,,skates_fr.mp3
+racquet,,racquet,Tennisschläger,,raqueta,raquette,2,racquet.png,,racquet_en.mp3,racquet_de.mp3,,racquet_es.mp3,racquet_fr.mp3
+helmet,,helmet,Helm,kofia ngumu,casco,casque,2,helmet.png,,helmet_en.mp3,helmet_de.mp3,helmet_sw.mp3,helmet_es.mp3,helmet_fr.mp3
+flip_flops,,flip-flops,Flipflops,,,,2,flip_flops.png,,flip_flops_en.mp3,flip_flops_de.mp3,,,
+cyclist,,cyclist,der Radfahrer,,ciclista,cycliste,2,cyclist.png,,cyclist_en.mp3,cyclist_de.mp3,,cyclist_es.mp3,cyclist_fr.mp3
+darts,,darts,Darts,,,,2,darts.png,,darts_en.mp3,darts_de.mp3,,,
+skis,,skis,der Ski,,,skis,2,skis.png,,skis_en.mp3,skis_de.mp3,,,skis_fr.mp3
+swimming_pool,,swimming pool,Schwimmbad,bwawa la kuogelea,piscina,piscine,2,swimming_pool.png,,swimming_pool_en.mp3,swimming_pool_de.mp3,swimming_pool_sw.mp3,swimming_pool_es.mp3,swimming_pool_fr.mp3
+footballer,,footballer,Fußballer,,futbolista,footballeur,2,footballer.png,,footballer_en.mp3,footballer_de.mp3,,footballer_es.mp3,footballer_fr.mp3
+skipping_rope,,skipping rope,Springseil,,,corde à sauter,2,skipping_rope.png,,skipping_rope_en.mp3,skipping_rope_de.mp3,,,skipping_rope_fr.mp3
+sleeping_bag,,sleeping bag,Schlafsack,,,sac de couchage,2,sleeping_bag.png,,sleeping_bag_en.mp3,sleeping_bag_de.mp3,,,sleeping_bag_fr.mp3
+surfboard,,surfboard,Surfbrett,,,planche de surf,2,surfboard.png,,surfboard_en.mp3,surfboard_de.mp3,,,surfboard_fr.mp3
+basketball,,basketball,Basketball,mpira wa kikapu,baloncesto,basket,2,basketball.png,,basketball_en.mp3,basketball_de.mp3,basketball_sw.mp3,basketball_es.mp3,basketball_fr.mp3
+badminton,,badminton,Federball,,bádminton,badminton,2,badminton.png,,badminton_en.mp3,badminton_de.mp3,,badminton_es.mp3,badminton_fr.mp3
+archer,,archer,Bogenschütze,,arquero,archer,2,archer.png,,archer_en.mp3,archer_de.mp3,,archer_es.mp3,archer_fr.mp3
+whistle,,whistle,Trillerpfeife,filimbi,silbato,sifflet,2,whistle.png,,whistle_en.mp3,whistle_de.mp3,whistle_sw.mp3,whistle_es.mp3,whistle_fr.mp3
+oar,,oar,Ruder,kasia,remo,rame,2,oar.png,,oar_en.mp3,oar_de.mp3,oar_sw.mp3,oar_es.mp3,oar_fr.mp3
+saddle,,saddle,Sattel,,,selle,2,saddle.png,,saddle_en.mp3,saddle_de.mp3,,,saddle_fr.mp3
+red_card,,red card,Rote Karte,,,carton rouge,2,red_card.png,,red_card_en.mp3,red_card_de.mp3,,,red_card_fr.mp3
+yellow_card,,yellow card,Gelbe Karte,,,carton jaune,2,yellow_card.png,,yellow_card_en.mp3,yellow_card_de.mp3,,,yellow_card_fr.mp3
+golf_club,,golf club,Golfschläger,,,,2,golf_club.png,,golf_club_en.mp3,golf_club_de.mp3,,,
+baseball,,baseball,Baseball,,béisbol,base-ball,2,baseball.png,,baseball_en.mp3,baseball_de.mp3,,baseball_es.mp3,baseball_fr.mp3
+boomerang,,boomerang,Bumerang,,bumerán,boomerang,2,boomerang.png,,boomerang_en.mp3,boomerang_de.mp3,,boomerang_es.mp3,boomerang_fr.mp3
+hockey,,hockey,Hockey,hoki,,hockey,2,hockey.png,,hockey_en.mp3,hockey_de.mp3,hockey_sw.mp3,,hockey_fr.mp3
+ping_pong,,ping-pong,Tischtennis,,tenis de mesa,ping-pong,2,ping_pong.png,,ping_pong_en.mp3,ping_pong_de.mp3,,ping_pong_es.mp3,ping_pong_fr.mp3
+golf,,golf,Golf,gofu,golf,golf,2,golf.png,,golf_en.mp3,golf_de.mp3,golf_sw.mp3,golf_es.mp3,golf_fr.mp3
+volleyball,,volleyball,Volleyball,voliboli,voleibol,volley-ball,2,volleyball.png,,volleyball_en.mp3,volleyball_de.mp3,volleyball_sw.mp3,volleyball_es.mp3,volleyball_fr.mp3
+high_jump,,high jump,Hochsprung,,,saut en hauteur,2,high_jump.png,,high_jump_en.mp3,high_jump_de.mp3,,,high_jump_fr.mp3
+long_jump,,long jump,Weitsprung,,,saut en longueur,2,long_jump.png,,long_jump_en.mp3,long_jump_de.mp3,,,long_jump_fr.mp3
+rugby,,rugby,Rugby,raga,,rugby,2,rugby.png,,rugby_en.mp3,rugby_de.mp3,rugby_sw.mp3,,rugby_fr.mp3
+karate,,karate,Karate,karate,karate,karaté,2,karate.png,,karate_en.mp3,karate_de.mp3,karate_sw.mp3,karate_es.mp3,karate_fr.mp3
+trampoline,,trampoline,Trampolin,,,trampoline,2,trampoline.png,,trampoline_en.mp3,trampoline_de.mp3,,,trampoline_fr.mp3
+bowling_ball,,bowling ball,Bowlingkugel,,,,2,bowling_ball.png,,bowling_ball_en.mp3,bowling_ball_de.mp3,,,
+snowboarding,,snowboarding,Snowboard,,,snowboard,2,snowboarding.png,,snowboarding_en.mp3,snowboarding_de.mp3,,,snowboarding_fr.mp3
+boxing_glove,,boxing glove,Boxhandschuh,glavu,,,2,boxing_glove.png,,boxing_glove_en.mp3,boxing_glove_de.mp3,boxing_glove_sw.mp3,,
+frisbee,,frisbee,Frisbee,,,frisbee,2,frisbee.png,,frisbee_en.mp3,frisbee_de.mp3,,,frisbee_fr.mp3
+goalkeeper,,goalkeeper,Torwart,kipa,portero,gardien de but,2,goalkeeper.png,,goalkeeper_en.mp3,goalkeeper_de.mp3,goalkeeper_sw.mp3,goalkeeper_es.mp3,goalkeeper_fr.mp3
+goggles,,goggles,Schwimmbrille,,,lunettes de plongée,2,goggles.png,,goggles_en.mp3,goggles_de.mp3,,,goggles_fr.mp3
+sledge,,sledge,Schlitten,,trineo,luge,1,sledge.png,,sledge_en.mp3,sledge_de.mp3,,sledge_es.mp3,sledge_fr.mp3
+ice_skates,,,Schlittschuhe,,,,1,ice_skates.png,,,ice_skates_de.mp3,,,
+tennis_ball,,,Tennisball,,,,2,tennis_ball.png,,,tennis_ball_de.mp3,,,
+dumbbell,,dumbbell,Hantel,,pesa,poids,2,dumbbell.png,,dumbbell_en.mp3,dumbbell_de.mp3,,dumbbell_es.mp3,dumbbell_fr.mp3
+rider,,rider,Reiter,mpanda farasi,jinete,cavalier,2,rider.png,,rider_en.mp3,rider_de.mp3,rider_sw.mp3,rider_es.mp3,rider_fr.mp3
+swimmer,,swimmer,Schwimmer,muogeleaji,nadador,nageur,2,swimmer.png,,swimmer_en.mp3,swimmer_de.mp3,swimmer_sw.mp3,swimmer_es.mp3,swimmer_fr.mp3
+runner,,runner,Läufer,mkimbiaji,corredor,coureur,2,runner.png,,runner_en.mp3,runner_de.mp3,runner_sw.mp3,runner_es.mp3,runner_fr.mp3
+american_football,,,Football,,,football américain,2,american_football.png,,,american_football_de.mp3,,,american_football_fr.mp3
+baseball_bat,,,Baseballschläger,,bate,batte,2,baseball_bat.png,,,baseball_bat_de.mp3,,baseball_bat_es.mp3,baseball_bat_fr.mp3
+baseball_glove,,,Baseballhandschuh,,,,2,baseball_glove.png,,,baseball_glove_de.mp3,,,
+diving_board,,,Sprungbrett,,trampolín,plongeoir,2,diving_board.png,,,diving_board_de.mp3,,diving_board_es.mp3,diving_board_fr.mp3
+golf_ball,,,Golfball,,,balle de golf,2,golf_ball.png,,,golf_ball_de.mp3,,,golf_ball_fr.mp3
+hockey_stick,,hockey stick,Hockeyschläger,,,crosse,2,hockey_stick.png,,hockey_stick_en.mp3,hockey_stick_de.mp3,,,hockey_stick_fr.mp3
+hoop,ring,,Hula-Hoop-Reifen,,aro,cerceau,2,hoop.png,hoop_sv.mp3,,hoop_de.mp3,,hoop_es.mp3,hoop_fr.mp3
+knee_pad,,,Knieschoner,,,genouillère,2,knee_pad.png,,,knee_pad_de.mp3,,,knee_pad_fr.mp3
+elbow_pad,,,Ellbogenschützer,,,coudière,2,elbow_pad.png,,,elbow_pad_de.mp3,,,elbow_pad_fr.mp3
+ping_pong_table,,,Tischtennistisch,,,,2,ping_pong_table.png,,,ping_pong_table_de.mp3,,,
+ping_pong_ball,,,Tischtennisball,,,,2,ping_pong_ball.png,,,ping_pong_ball_de.mp3,,,
+pool_noodle,,,Poolnudel,,churro,frite,2,pool_noodle.png,,,pool_noodle_de.mp3,,pool_noodle_es.mp3,pool_noodle_fr.mp3
+scoreboard,,scoreboard,Anzeigetafel,,,,2,scoreboard.png,,scoreboard_en.mp3,scoreboard_de.mp3,,,
+ski_poles,,,Skistöcke,,,,2,ski_poles.png,,,ski_poles_de.mp3,,,
+snowshoes,,,Schneeschuhe,,,,2,snowshoes.png,,,snowshoes_de.mp3,,,
+swimming_cap,,,Badekappe,,,bonnet de bain,2,swimming_cap.png,,,swimming_cap_de.mp3,,,swimming_cap_fr.mp3
+treadmill,,treadmill,Laufband,,,tapis de course,2,treadmill.png,,treadmill_en.mp3,treadmill_de.mp3,,,treadmill_fr.mp3
+trophy,,trophy,Trophäe,kombe,copa,trophée,2,trophy.png,,trophy_en.mp3,trophy_de.mp3,trophy_sw.mp3,trophy_es.mp3,trophy_fr.mp3
+wetsuit,,wetsuit,Neopren,,,combinaison,2,wetsuit.png,,wetsuit_en.mp3,wetsuit_de.mp3,,,wetsuit_fr.mp3
+armbands,,,Schwimmflügel,,,brassards,2,armbands.png,,,armbands_de.mp3,,,armbands_fr.mp3
+exercise_bike,,,Ergometer,,,vélo stationnaire,2,exercise_bike.png,,,exercise_bike_de.mp3,,,exercise_bike_fr.mp3
+swimming_board,,,Schwimmbrett,,,,2,swimming_board.png,,,swimming_board_de.mp3,,,
+boxing,,boxing,Boxen,ndondi,boxeo,boxe,2,boxing.png,,boxing_en.mp3,boxing_de.mp3,boxing_sw.mp3,boxing_es.mp3,boxing_fr.mp3
+cycling,,cycling,Radsport,,ciclismo,cyclisme,2,cycling.png,,cycling_en.mp3,cycling_de.mp3,,cycling_es.mp3,cycling_fr.mp3
+fencing,,fencing,Fechten,,esgrima,escrime,2,fencing.png,,fencing_en.mp3,fencing_de.mp3,,fencing_es.mp3,fencing_fr.mp3
+handball,,handball,Handball,,balonmano,handball,2,handball.png,,handball_en.mp3,handball_de.mp3,,handball_es.mp3,handball_fr.mp3
+yoga,,yoga,Yoga,yoga,,yoga,2,yoga.png,,yoga_en.mp3,yoga_de.mp3,yoga_sw.mp3,,yoga_fr.mp3
+water_skiing,,,Wasserski,,,ski nautique,2,water_skiing.png,,,water_skiing_de.mp3,,,water_skiing_fr.mp3
+martial_arts,,,Kampfsport,,,,2,martial_arts.png,,,martial_arts_de.mp3,,,
+basketball_court,,,Basketballfeld,,,,2,basketball_court.png,,,basketball_court_de.mp3,,,
+climbing_wall,,,Kletterwand,,,,2,climbing_wall.png,,,climbing_wall_de.mp3,,,
+finishing_line,,,Ziellinie,,meta,,2,finishing_line.png,,,finishing_line_de.mp3,,finishing_line_es.mp3,
+golf_course,,golf course,Golfplatz,,,,2,golf_course.png,,golf_course_en.mp3,golf_course_de.mp3,,,
+gymnasium,,gymnasium,Fitnessstudio,,gimnasio,gymnase,2,gymnasium.png,,gymnasium_en.mp3,gymnasium_de.mp3,,gymnasium_es.mp3,gymnasium_fr.mp3
+ice_ring,,,Eisfläche,,,patinoire,2,ice_ring.png,,,ice_ring_de.mp3,,,ice_ring_fr.mp3
+running_track,,,Leichtathletikbahn,,pista,,2,running_track.png,,,running_track_de.mp3,,running_track_es.mp3,
+ski_run,,,Skipiste,,,piste,2,ski_run.png,,,ski_run_de.mp3,,,ski_run_fr.mp3
+flippers,,,Schwimmflossen,,,palmes,2,flippers.png,,,flippers_de.mp3,,,flippers_fr.mp3
+football_boots,,,Fußballschuhe,,,chaussures,2,football_boots.png,,,football_boots_de.mp3,,,football_boots_fr.mp3
+ski_boots,,,Skischuhe,,,,2,ski_boots.png,,,ski_boots_de.mp3,,,
+life_ring,,,Rettungsring,,,bouée de sauvetage,2,life_ring.png,,,life_ring_de.mp3,,,life_ring_fr.mp3
+somersault,,somersault,Purzelbaum,,,galipette,2,somersault.png,,somersault_en.mp3,somersault_de.mp3,,,somersault_fr.mp3
+winner,vinnare,winner,Siegerin,mshindi,ganador,gagnante,2,winner.png,winner_sv.mp3,winner_en.mp3,winner_de.mp3,winner_sw.mp3,winner_es.mp3,winner_fr.mp3
