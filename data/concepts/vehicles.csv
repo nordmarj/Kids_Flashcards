@@ -1,109 +1,109 @@
-id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
-car,bil,car,Auto,gari,1,car.png,car_sv.mp3,car_en.mp3,car_de.mp3,car_sw.mp3
-bus,buss,bus,Bus,basi,1,bus.png,bus_sv.mp3,bus_en.mp3,bus_de.mp3,bus_sw.mp3
-train,tåg,train,Zug,treni,1,train.png,train_sv.mp3,train_en.mp3,train_de.mp3,train_sw.mp3
-boat,båt,boat,Boot,mashua,1,boat.png,boat_sv.mp3,boat_en.mp3,boat_de.mp3,boat_sw.mp3
-airplane,flygplan,airplane,Flugzeug,ndege,1,airplane.png,airplane_sv.mp3,airplane_en.mp3,airplane_de.mp3,airplane_sw.mp3
-bicycle,cykel,bicycle,Fahrrad,baiskeli,1,bicycle.png,bicycle_sv.mp3,bicycle_en.mp3,bicycle_de.mp3,bicycle_sw.mp3
-truck,lastbil,truck,Lastwagen,lori,2,truck.png,truck_sv.mp3,truck_en.mp3,truck_de.mp3,truck_sw.mp3
-ambulance,ambulans,ambulance,Krankenwagen,ambulensi,1,ambulance.png,ambulance_sv.mp3,ambulance_en.mp3,ambulance_de.mp3,ambulance_sw.mp3
-ship,skepp,ship,Schiff,meli,1,ship.png,ship_sv.mp3,ship_en.mp3,ship_de.mp3,ship_sw.mp3
-wheel,hjul,wheel,Rad,gurudumu,1,wheel.png,wheel_sv.mp3,wheel_en.mp3,wheel_de.mp3,wheel_sw.mp3
-engine,motor,engine,Motor,injini,2,engine.png,engine_sv.mp3,engine_en.mp3,engine_de.mp3,engine_sw.mp3
-road,väg,road,Weg,barabara,1,road.png,road_sv.mp3,road_en.mp3,road_de.mp3,road_sw.mp3
-tunnel,tunnel,tunnel,Tunnel,handaki,2,tunnel.png,tunnel_sv.mp3,tunnel_en.mp3,tunnel_de.mp3,tunnel_sw.mp3
-train_station,station,train station,Bahnhof,stesheni,2,train_station.png,train_station_sv.mp3,train_station_en.mp3,train_station_de.mp3,train_station_sw.mp3
-ticket,biljett,ticket,Fahrkarte,tikiti,2,ticket.png,ticket_sv.mp3,ticket_en.mp3,ticket_de.mp3,ticket_sw.mp3
-tyre,däck,tyre,Reifen,tairi,2,tyre.png,tyre_sv.mp3,tyre_en.mp3,tyre_de.mp3,tyre_sw.mp3
-cart,vagn,cart,Karren,mkokoteni,2,cart.png,cart_sv.mp3,cart_en.mp3,cart_de.mp3,cart_sw.mp3
-rocket,,rocket,Rakete,roketi,2,rocket.png,,rocket_en.mp3,rocket_de.mp3,rocket_sw.mp3
-motorbike,,motorbike,das Motorrad,pikipiki,2,motorbike.png,,motorbike_en.mp3,motorbike_de.mp3,motorbike_sw.mp3
-scooter,,scooter,Roller,skuta,2,scooter.png,,scooter_en.mp3,scooter_de.mp3,scooter_sw.mp3
-taxi,,taxi,das Taxi,teksi,2,taxi.png,,taxi_en.mp3,taxi_de.mp3,taxi_sw.mp3
-tram,,tram,die Straßenbahn,,2,tram.png,,tram_en.mp3,tram_de.mp3,
-cement_mixer,,cement mixer,Betonmischer,,2,cement_mixer.png,,cement_mixer_en.mp3,cement_mixer_de.mp3,
-submarine,,submarine,Unterseeboot,nyambizi,2,submarine.png,,submarine_en.mp3,submarine_de.mp3,submarine_sw.mp3
-yacht,,yacht,Yacht,,2,yacht.png,,yacht_en.mp3,yacht_de.mp3,
-caravan,,caravan,Wohnwagen,,2,caravan.png,,caravan_en.mp3,caravan_de.mp3,
-van,,van,Lieferwagen,,2,van.png,,van_en.mp3,van_de.mp3,
-police_car,,police car,Polizeiauto,,2,police_car.png,,police_car_en.mp3,police_car_de.mp3,
-life_jacket,,life jacket,Schwimmweste,,2,life_jacket.png,,life_jacket_en.mp3,life_jacket_de.mp3,
-lighthouse,,lighthouse,Leuchtturm,,2,lighthouse.png,,lighthouse_en.mp3,lighthouse_de.mp3,
-race_car,,race car,Rennwagen,,2,race_car.png,,race_car_en.mp3,race_car_de.mp3,
-safety_belt,,safety belt,Sicherheitsgurt,mkanda,2,safety_belt.png,,safety_belt_en.mp3,safety_belt_de.mp3,safety_belt_sw.mp3
-petrol_station,,petrol station,die Tankstelle,kituo cha mafuta,2,petrol_station.png,,petrol_station_en.mp3,petrol_station_de.mp3,petrol_station_sw.mp3
-canoe,,canoe,Kanu,mtumbwi,2,canoe.png,,canoe_en.mp3,canoe_de.mp3,canoe_sw.mp3
-steering_wheel,,steering wheel,das Lenkrad,usukani,2,steering_wheel.png,,steering_wheel_en.mp3,steering_wheel_de.mp3,steering_wheel_sw.mp3
-car_park,,car park,Parkplatz,maegesho,2,car_park.png,,car_park_en.mp3,car_park_de.mp3,car_park_sw.mp3
-highway,,highway,Autobahn,,2,highway.png,,highway_en.mp3,highway_de.mp3,
-railway,,railway,Eisenbahn,reli,2,railway.png,,railway_en.mp3,railway_de.mp3,railway_sw.mp3
-garbage_truck,,garbage truck,Müllauto,,2,garbage_truck.png,,garbage_truck_en.mp3,garbage_truck_de.mp3,
-spaceship,,spaceship,Space Shuttle,,2,spaceship.png,,spaceship_en.mp3,spaceship_de.mp3,
-wing,,wing,Flügel,bawa,2,wing.png,,wing_en.mp3,wing_de.mp3,wing_sw.mp3
-snowplow,,snowplow,Schneepflug,,2,snowplow.png,,snowplow_en.mp3,snowplow_de.mp3,
-bullet_train,,bullet train,Schnellzug,,2,bullet_train.png,,bullet_train_en.mp3,bullet_train_de.mp3,
-tow_truck,,tow truck,Abschleppwagen,,2,tow_truck.png,,tow_truck_en.mp3,tow_truck_de.mp3,
-cruise_ship,,cruise ship,Kreuzfahrtschiff,,2,cruise_ship.png,,cruise_ship_en.mp3,cruise_ship_de.mp3,
-stagecoach,,stagecoach,Postkutsche,,2,stagecoach.png,,stagecoach_en.mp3,stagecoach_de.mp3,
-cable_car,,cable car,Seilbahn,,2,cable_car.png,,cable_car_en.mp3,cable_car_de.mp3,
-parachute,,parachute,der Fallschirm,parachuti,2,parachute.png,,parachute_en.mp3,parachute_de.mp3,parachute_sw.mp3
-ferry,,ferry,Fähre,kivuko,2,ferry.png,,ferry_en.mp3,ferry_de.mp3,ferry_sw.mp3
-school_bus,,school bus,Schulbus,,2,school_bus.png,,school_bus_en.mp3,school_bus_de.mp3,
-gondola,,gondola,Gondel,,2,gondola.png,,gondola_en.mp3,gondola_de.mp3,
-food_truck,,food truck,Foodtruck,,2,food_truck.png,,food_truck_en.mp3,food_truck_de.mp3,
-jet_ski,,jet ski,Jetski,,2,jet_ski.png,,jet_ski_en.mp3,jet_ski_de.mp3,
-drone,,drone,Drohne,droni,2,drone.png,,drone_en.mp3,drone_de.mp3,drone_sw.mp3
-tractor,,tractor,Traktor,trekta,1,tractor.png,,tractor_en.mp3,tractor_de.mp3,tractor_sw.mp3
-helicopter,,helicopter,Hubschrauber,helikopta,1,helicopter.png,,helicopter_en.mp3,helicopter_de.mp3,helicopter_sw.mp3
-fire_truck,,,Feuerwehrauto,,1,fire_truck.png,,,fire_truck_de.mp3,
-fishing_boat,,fishing boat,Fischerboot,,2,fishing_boat.png,,fishing_boat_en.mp3,fishing_boat_de.mp3,
-pram,,pram,Kinderwagen,,1,pram.png,,pram_en.mp3,pram_de.mp3,
-hot_air_balloon,,hot-air balloon,Heißluftballon,,1,hot_air_balloon.png,,hot_air_balloon_en.mp3,hot_air_balloon_de.mp3,
-excavator,,excavator,Bagger,katapila,1,excavator.png,,excavator_en.mp3,excavator_de.mp3,excavator_sw.mp3
-crane,,crane,Kran,winchi,2,crane.png,,crane_en.mp3,crane_de.mp3,crane_sw.mp3
-sailing_boat,,sailboat,Segelboot,jahazi,1,sailing_boat.png,,sailing_boat_en.mp3,sailing_boat_de.mp3,sailing_boat_sw.mp3
-rowing_boat,,rowboat,Ruderboot,,2,rowing_boat.png,,rowing_boat_en.mp3,rowing_boat_de.mp3,
-jeep,,jeep,Jeep,,2,jeep.png,,jeep_en.mp3,jeep_de.mp3,
-underground,,underground,die U-Bahn,,2,underground.png,,underground_en.mp3,underground_de.mp3,
-traffic_lights,,traffic light,die Ampel,,1,traffic_lights.png,,traffic_lights_en.mp3,traffic_lights_de.mp3,
-wheelchair,,wheelchair,Rollstuhl,kiti cha magurudumu,2,wheelchair.png,,wheelchair_en.mp3,wheelchair_de.mp3,wheelchair_sw.mp3
-carriage,,carriage,Kutsche,gari la farasi,2,carriage.png,,carriage_en.mp3,carriage_de.mp3,carriage_sw.mp3
-anchor,,anchor,Anker,nanga,2,anchor.png,,anchor_en.mp3,anchor_de.mp3,anchor_sw.mp3
-chain,,chain,Kette,mnyororo,2,chain.png,,chain_en.mp3,chain_de.mp3,chain_sw.mp3
-child_safety_seat,,,Kindersitz,,2,child_safety_seat.png,,,child_safety_seat_de.mp3,
-headlights,,,Scheinwerfer,,2,headlights.png,,,headlights_de.mp3,
-pedal,,pedal,Pedale,,2,pedal.png,,pedal_en.mp3,pedal_de.mp3,
-periscope,,periscope,Periskop,,2,periscope.png,,periscope_en.mp3,periscope_de.mp3,
-sail,,sail,Segel,tanga,2,sail.png,,sail_en.mp3,sail_de.mp3,sail_sw.mp3
-siren,,siren,Sirene,kingora,2,siren.png,,siren_en.mp3,siren_de.mp3,siren_sw.mp3
-windshield_wipers,,,Scheibenwischer,,2,windshield_wipers.png,,,windshield_wipers_de.mp3,
-rear_view_mirror,,rear-view mirror,Rückspiegel,,2,rear_view_mirror.png,,rear_view_mirror_en.mp3,rear_view_mirror_de.mp3,
-handle_bars,,,Lenker,,2,handle_bars.png,,,handle_bars_de.mp3,
-cockpit,,cockpit,Cockpit,,2,cockpit.png,,cockpit_en.mp3,cockpit_de.mp3,
-bumper,,bumper,Stoßstange,,2,bumper.png,,bumper_en.mp3,bumper_de.mp3,
-chair_lift,,,Sessellift,,2,chair_lift.png,,,chair_lift_de.mp3,
-covered_wagon,,,Planwagen,,2,covered_wagon.png,,,covered_wagon_de.mp3,
-electric_car,,electric car,E-Auto,,2,electric_car.png,,electric_car_en.mp3,electric_car_de.mp3,
-pickup,,pickup,Pickup,,2,pickup.png,,pickup_en.mp3,pickup_de.mp3,
-sports_car,,sports car,Sportwagen,,2,sports_car.png,,sports_car_en.mp3,sports_car_de.mp3,
-tandem,,tandem,Tandem,,2,tandem.png,,tandem_en.mp3,tandem_de.mp3,
-tank,,tank,Panzer,,2,tank.png,,tank_en.mp3,tank_de.mp3,
-trailer,,trailer,Anhänger,trela,2,trailer.png,,trailer_en.mp3,trailer_de.mp3,trailer_sw.mp3
-atv,,,Quad,,2,atv.png,,,atv_de.mp3,
-catamaran,,catamaran,Katamaran,,2,catamaran.png,,catamaran_en.mp3,catamaran_de.mp3,
-dinghy,,dinghy,Schlauchboot,,2,dinghy.png,,dinghy_en.mp3,dinghy_de.mp3,
-pirate_boat,,,Piratenschiff,,2,pirate_boat.png,,,pirate_boat_de.mp3,
-shipwreck,,shipwreck,Schiffsuntergang,,2,shipwreck.png,,shipwreck_en.mp3,shipwreck_de.mp3,
-tug,,tug,Schlepper,,2,tug.png,,tug_en.mp3,tug_de.mp3,
-windsurfing_board,,,Windsurfen,,2,windsurfing_board.png,,,windsurfing_board_de.mp3,
-harvester,,harvester,Erntemaschine,,2,harvester.png,,harvester_en.mp3,harvester_de.mp3,
-plough,,plough,Pflug,plau,2,plough.png,,plough_en.mp3,plough_de.mp3,plough_sw.mp3
-road_roller,,road roller,Walze,,2,road_roller.png,,road_roller_en.mp3,road_roller_de.mp3,
-paragliding,,paraglider,Gleitschirmfliegen,,2,paragliding.png,,paragliding_en.mp3,paragliding_de.mp3,
-traffic_cone,kon,traffic cone,Kegel,koni,2,traffic_cone.png,traffic_cone_sv.mp3,traffic_cone_en.mp3,traffic_cone_de.mp3,traffic_cone_sw.mp3
-zebra_crossing,,zebra crossing,Zebrastreifen,kivuko milia,2,zebra_crossing.png,,zebra_crossing_en.mp3,zebra_crossing_de.mp3,zebra_crossing_sw.mp3
-roundabout,,roundabout,der Kreisverkehr,mzunguko,2,roundabout.png,,roundabout_en.mp3,roundabout_de.mp3,roundabout_sw.mp3
-runway,,runway,Landebahn,,2,runway.png,,runway_en.mp3,runway_de.mp3,
-control_tower,,control tower,Tower,,2,control_tower.png,,control_tower_en.mp3,control_tower_de.mp3,
-cycle_lane,,cycle lane,Fahrradweg,,2,cycle_lane.png,,cycle_lane_en.mp3,cycle_lane_de.mp3,
-bus_station,,bus station,Busbahnhof,kituo cha basi,2,bus_station.png,,bus_station_en.mp3,bus_station_de.mp3,bus_station_sw.mp3
+id,sv,en,de,sw,es,fr,level,image,audio_sv,audio_en,audio_de,audio_sw,audio_es,audio_fr
+car,bil,car,Auto,gari,coche,voiture,1,car.png,car_sv.mp3,car_en.mp3,car_de.mp3,car_sw.mp3,car_es.mp3,car_fr.mp3
+bus,buss,bus,Bus,basi,autobús,bus,1,bus.png,bus_sv.mp3,bus_en.mp3,bus_de.mp3,bus_sw.mp3,bus_es.mp3,bus_fr.mp3
+train,tåg,train,Zug,treni,tren,train,1,train.png,train_sv.mp3,train_en.mp3,train_de.mp3,train_sw.mp3,train_es.mp3,train_fr.mp3
+boat,båt,boat,Boot,mashua,barco,bateau,1,boat.png,boat_sv.mp3,boat_en.mp3,boat_de.mp3,boat_sw.mp3,boat_es.mp3,boat_fr.mp3
+airplane,flygplan,airplane,Flugzeug,ndege,avión,avion,1,airplane.png,airplane_sv.mp3,airplane_en.mp3,airplane_de.mp3,airplane_sw.mp3,airplane_es.mp3,airplane_fr.mp3
+bicycle,cykel,bicycle,Fahrrad,baiskeli,bicicleta,vélo,1,bicycle.png,bicycle_sv.mp3,bicycle_en.mp3,bicycle_de.mp3,bicycle_sw.mp3,bicycle_es.mp3,bicycle_fr.mp3
+truck,lastbil,truck,Lastwagen,lori,camión,camion,2,truck.png,truck_sv.mp3,truck_en.mp3,truck_de.mp3,truck_sw.mp3,truck_es.mp3,truck_fr.mp3
+ambulance,ambulans,ambulance,Krankenwagen,ambulensi,ambulancia,ambulance,1,ambulance.png,ambulance_sv.mp3,ambulance_en.mp3,ambulance_de.mp3,ambulance_sw.mp3,ambulance_es.mp3,ambulance_fr.mp3
+ship,skepp,ship,Schiff,meli,,navire,1,ship.png,ship_sv.mp3,ship_en.mp3,ship_de.mp3,ship_sw.mp3,,ship_fr.mp3
+wheel,hjul,wheel,Rad,gurudumu,rueda,roue,1,wheel.png,wheel_sv.mp3,wheel_en.mp3,wheel_de.mp3,wheel_sw.mp3,wheel_es.mp3,wheel_fr.mp3
+engine,motor,engine,Motor,injini,motor,moteur,2,engine.png,engine_sv.mp3,engine_en.mp3,engine_de.mp3,engine_sw.mp3,engine_es.mp3,engine_fr.mp3
+road,väg,road,Weg,barabara,carretera,route,1,road.png,road_sv.mp3,road_en.mp3,road_de.mp3,road_sw.mp3,road_es.mp3,road_fr.mp3
+tunnel,tunnel,tunnel,Tunnel,handaki,túnel,tunnel,2,tunnel.png,tunnel_sv.mp3,tunnel_en.mp3,tunnel_de.mp3,tunnel_sw.mp3,tunnel_es.mp3,tunnel_fr.mp3
+train_station,station,train station,Bahnhof,stesheni,estación,gare,2,train_station.png,train_station_sv.mp3,train_station_en.mp3,train_station_de.mp3,train_station_sw.mp3,train_station_es.mp3,train_station_fr.mp3
+ticket,biljett,ticket,Fahrkarte,tikiti,billete,billet,2,ticket.png,ticket_sv.mp3,ticket_en.mp3,ticket_de.mp3,ticket_sw.mp3,ticket_es.mp3,ticket_fr.mp3
+tyre,däck,tyre,Reifen,tairi,neumático,pneu,2,tyre.png,tyre_sv.mp3,tyre_en.mp3,tyre_de.mp3,tyre_sw.mp3,tyre_es.mp3,tyre_fr.mp3
+cart,vagn,cart,Karren,mkokoteni,carro,charrette,2,cart.png,cart_sv.mp3,cart_en.mp3,cart_de.mp3,cart_sw.mp3,cart_es.mp3,cart_fr.mp3
+rocket,,rocket,Rakete,roketi,cohete,fusée,2,rocket.png,,rocket_en.mp3,rocket_de.mp3,rocket_sw.mp3,rocket_es.mp3,rocket_fr.mp3
+motorbike,,motorbike,das Motorrad,pikipiki,motocicleta,moto,2,motorbike.png,,motorbike_en.mp3,motorbike_de.mp3,motorbike_sw.mp3,motorbike_es.mp3,motorbike_fr.mp3
+scooter,,scooter,Roller,skuta,,trottinette,2,scooter.png,,scooter_en.mp3,scooter_de.mp3,scooter_sw.mp3,,scooter_fr.mp3
+taxi,,taxi,das Taxi,teksi,taxi,taxi,2,taxi.png,,taxi_en.mp3,taxi_de.mp3,taxi_sw.mp3,taxi_es.mp3,taxi_fr.mp3
+tram,,tram,die Straßenbahn,,tranvía,tramway,2,tram.png,,tram_en.mp3,tram_de.mp3,,tram_es.mp3,tram_fr.mp3
+cement_mixer,,cement mixer,Betonmischer,,,bétonnière,2,cement_mixer.png,,cement_mixer_en.mp3,cement_mixer_de.mp3,,,cement_mixer_fr.mp3
+submarine,,submarine,Unterseeboot,nyambizi,submarino,sous-marin,2,submarine.png,,submarine_en.mp3,submarine_de.mp3,submarine_sw.mp3,submarine_es.mp3,submarine_fr.mp3
+yacht,,yacht,Yacht,,yate,yacht,2,yacht.png,,yacht_en.mp3,yacht_de.mp3,,yacht_es.mp3,yacht_fr.mp3
+caravan,,caravan,Wohnwagen,,caravana,caravane,2,caravan.png,,caravan_en.mp3,caravan_de.mp3,,caravan_es.mp3,caravan_fr.mp3
+van,,van,Lieferwagen,,,fourgonnette,2,van.png,,van_en.mp3,van_de.mp3,,,van_fr.mp3
+police_car,,police car,Polizeiauto,,,,2,police_car.png,,police_car_en.mp3,police_car_de.mp3,,,
+life_jacket,,life jacket,Schwimmweste,,,gilet de sauvetage,2,life_jacket.png,,life_jacket_en.mp3,life_jacket_de.mp3,,,life_jacket_fr.mp3
+lighthouse,,lighthouse,Leuchtturm,,faro,phare,2,lighthouse.png,,lighthouse_en.mp3,lighthouse_de.mp3,,lighthouse_es.mp3,lighthouse_fr.mp3
+race_car,,race car,Rennwagen,,,bolide,2,race_car.png,,race_car_en.mp3,race_car_de.mp3,,,race_car_fr.mp3
+safety_belt,,safety belt,Sicherheitsgurt,mkanda,,ceinture de sécurité,2,safety_belt.png,,safety_belt_en.mp3,safety_belt_de.mp3,safety_belt_sw.mp3,,safety_belt_fr.mp3
+petrol_station,,petrol station,die Tankstelle,kituo cha mafuta,gasolinera,station-service,2,petrol_station.png,,petrol_station_en.mp3,petrol_station_de.mp3,petrol_station_sw.mp3,petrol_station_es.mp3,petrol_station_fr.mp3
+canoe,,canoe,Kanu,mtumbwi,canoa,canoë,2,canoe.png,,canoe_en.mp3,canoe_de.mp3,canoe_sw.mp3,canoe_es.mp3,canoe_fr.mp3
+steering_wheel,,steering wheel,das Lenkrad,usukani,volante,volant,2,steering_wheel.png,,steering_wheel_en.mp3,steering_wheel_de.mp3,steering_wheel_sw.mp3,steering_wheel_es.mp3,steering_wheel_fr.mp3
+car_park,,car park,Parkplatz,maegesho,aparcamiento,parking,2,car_park.png,,car_park_en.mp3,car_park_de.mp3,car_park_sw.mp3,car_park_es.mp3,car_park_fr.mp3
+highway,,highway,Autobahn,,autopista,autoroute,2,highway.png,,highway_en.mp3,highway_de.mp3,,highway_es.mp3,highway_fr.mp3
+railway,,railway,Eisenbahn,reli,vía,voie ferrée,2,railway.png,,railway_en.mp3,railway_de.mp3,railway_sw.mp3,railway_es.mp3,railway_fr.mp3
+garbage_truck,,garbage truck,Müllauto,,,camion poubelle,2,garbage_truck.png,,garbage_truck_en.mp3,garbage_truck_de.mp3,,,garbage_truck_fr.mp3
+spaceship,,spaceship,Space Shuttle,,transbordador,navette spatiale,2,spaceship.png,,spaceship_en.mp3,spaceship_de.mp3,,spaceship_es.mp3,spaceship_fr.mp3
+wing,,wing,Flügel,bawa,ala,aile,2,wing.png,,wing_en.mp3,wing_de.mp3,wing_sw.mp3,wing_es.mp3,wing_fr.mp3
+snowplow,,snowplow,Schneepflug,,,chasse-neige,2,snowplow.png,,snowplow_en.mp3,snowplow_de.mp3,,,snowplow_fr.mp3
+bullet_train,,bullet train,Schnellzug,,,train à grande vitesse,2,bullet_train.png,,bullet_train_en.mp3,bullet_train_de.mp3,,,bullet_train_fr.mp3
+tow_truck,,tow truck,Abschleppwagen,,,dépanneuse,2,tow_truck.png,,tow_truck_en.mp3,tow_truck_de.mp3,,,tow_truck_fr.mp3
+cruise_ship,,cruise ship,Kreuzfahrtschiff,,crucero,paquebot,2,cruise_ship.png,,cruise_ship_en.mp3,cruise_ship_de.mp3,,cruise_ship_es.mp3,cruise_ship_fr.mp3
+stagecoach,,stagecoach,Postkutsche,,diligencia,diligence,2,stagecoach.png,,stagecoach_en.mp3,stagecoach_de.mp3,,stagecoach_es.mp3,stagecoach_fr.mp3
+cable_car,,cable car,Seilbahn,,,télécabine,2,cable_car.png,,cable_car_en.mp3,cable_car_de.mp3,,,cable_car_fr.mp3
+parachute,,parachute,der Fallschirm,parachuti,paracaídas,parachute,2,parachute.png,,parachute_en.mp3,parachute_de.mp3,parachute_sw.mp3,parachute_es.mp3,parachute_fr.mp3
+ferry,,ferry,Fähre,kivuko,,ferry,2,ferry.png,,ferry_en.mp3,ferry_de.mp3,ferry_sw.mp3,,ferry_fr.mp3
+school_bus,,school bus,Schulbus,,,,2,school_bus.png,,school_bus_en.mp3,school_bus_de.mp3,,,
+gondola,,gondola,Gondel,,,gondole,2,gondola.png,,gondola_en.mp3,gondola_de.mp3,,,gondola_fr.mp3
+food_truck,,food truck,Foodtruck,,,,2,food_truck.png,,food_truck_en.mp3,food_truck_de.mp3,,,
+jet_ski,,jet ski,Jetski,,,,2,jet_ski.png,,jet_ski_en.mp3,jet_ski_de.mp3,,,
+drone,,drone,Drohne,droni,,drone,2,drone.png,,drone_en.mp3,drone_de.mp3,drone_sw.mp3,,drone_fr.mp3
+tractor,,tractor,Traktor,trekta,tractor,tracteur,1,tractor.png,,tractor_en.mp3,tractor_de.mp3,tractor_sw.mp3,tractor_es.mp3,tractor_fr.mp3
+helicopter,,helicopter,Hubschrauber,helikopta,helicóptero,hélicoptère,1,helicopter.png,,helicopter_en.mp3,helicopter_de.mp3,helicopter_sw.mp3,helicopter_es.mp3,helicopter_fr.mp3
+fire_truck,,,Feuerwehrauto,,,,1,fire_truck.png,,,fire_truck_de.mp3,,,
+fishing_boat,,fishing boat,Fischerboot,,,bateau de pêche,2,fishing_boat.png,,fishing_boat_en.mp3,fishing_boat_de.mp3,,,fishing_boat_fr.mp3
+pram,,pram,Kinderwagen,,,poussette,1,pram.png,,pram_en.mp3,pram_de.mp3,,,pram_fr.mp3
+hot_air_balloon,,hot-air balloon,Heißluftballon,,globo,montgolfière,1,hot_air_balloon.png,,hot_air_balloon_en.mp3,hot_air_balloon_de.mp3,,hot_air_balloon_es.mp3,hot_air_balloon_fr.mp3
+excavator,,excavator,Bagger,katapila,excavadora,pelleteuse,1,excavator.png,,excavator_en.mp3,excavator_de.mp3,excavator_sw.mp3,excavator_es.mp3,excavator_fr.mp3
+crane,,crane,Kran,winchi,grúa,grue,2,crane.png,,crane_en.mp3,crane_de.mp3,crane_sw.mp3,crane_es.mp3,crane_fr.mp3
+sailing_boat,,sailboat,Segelboot,jahazi,velero,voilier,1,sailing_boat.png,,sailing_boat_en.mp3,sailing_boat_de.mp3,sailing_boat_sw.mp3,sailing_boat_es.mp3,sailing_boat_fr.mp3
+rowing_boat,,rowboat,Ruderboot,,barca,barque,2,rowing_boat.png,,rowing_boat_en.mp3,rowing_boat_de.mp3,,rowing_boat_es.mp3,rowing_boat_fr.mp3
+jeep,,jeep,Jeep,,,jeep,2,jeep.png,,jeep_en.mp3,jeep_de.mp3,,,jeep_fr.mp3
+underground,,underground,die U-Bahn,,metro,métro,2,underground.png,,underground_en.mp3,underground_de.mp3,,underground_es.mp3,underground_fr.mp3
+traffic_lights,,traffic light,die Ampel,,semáforo,feu tricolore,1,traffic_lights.png,,traffic_lights_en.mp3,traffic_lights_de.mp3,,traffic_lights_es.mp3,traffic_lights_fr.mp3
+wheelchair,,wheelchair,Rollstuhl,kiti cha magurudumu,silla de ruedas,fauteuil roulant,2,wheelchair.png,,wheelchair_en.mp3,wheelchair_de.mp3,wheelchair_sw.mp3,wheelchair_es.mp3,wheelchair_fr.mp3
+carriage,,carriage,Kutsche,gari la farasi,carruaje,calèche,2,carriage.png,,carriage_en.mp3,carriage_de.mp3,carriage_sw.mp3,carriage_es.mp3,carriage_fr.mp3
+anchor,,anchor,Anker,nanga,ancla,ancre,2,anchor.png,,anchor_en.mp3,anchor_de.mp3,anchor_sw.mp3,anchor_es.mp3,anchor_fr.mp3
+chain,,chain,Kette,mnyororo,cadena,chaîne,2,chain.png,,chain_en.mp3,chain_de.mp3,chain_sw.mp3,chain_es.mp3,chain_fr.mp3
+child_safety_seat,,,Kindersitz,,,,2,child_safety_seat.png,,,child_safety_seat_de.mp3,,,
+headlights,,,Scheinwerfer,,,phares,2,headlights.png,,,headlights_de.mp3,,,headlights_fr.mp3
+pedal,,pedal,Pedale,,pedal,pédale,2,pedal.png,,pedal_en.mp3,pedal_de.mp3,,pedal_es.mp3,pedal_fr.mp3
+periscope,,periscope,Periskop,,,périscope,2,periscope.png,,periscope_en.mp3,periscope_de.mp3,,,periscope_fr.mp3
+sail,,sail,Segel,tanga,vela,voile,2,sail.png,,sail_en.mp3,sail_de.mp3,sail_sw.mp3,sail_es.mp3,sail_fr.mp3
+siren,,siren,Sirene,kingora,sirena,sirène,2,siren.png,,siren_en.mp3,siren_de.mp3,siren_sw.mp3,siren_es.mp3,siren_fr.mp3
+windshield_wipers,,,Scheibenwischer,,,essuie-glace,2,windshield_wipers.png,,,windshield_wipers_de.mp3,,,windshield_wipers_fr.mp3
+rear_view_mirror,,rear-view mirror,Rückspiegel,,,rétroviseur,2,rear_view_mirror.png,,rear_view_mirror_en.mp3,rear_view_mirror_de.mp3,,,rear_view_mirror_fr.mp3
+handle_bars,,,Lenker,,,guidon,2,handle_bars.png,,,handle_bars_de.mp3,,,handle_bars_fr.mp3
+cockpit,,cockpit,Cockpit,,cabina,cockpit,2,cockpit.png,,cockpit_en.mp3,cockpit_de.mp3,,cockpit_es.mp3,cockpit_fr.mp3
+bumper,,bumper,Stoßstange,,parachoques,pare-chocs,2,bumper.png,,bumper_en.mp3,bumper_de.mp3,,bumper_es.mp3,bumper_fr.mp3
+chair_lift,,,Sessellift,,,télésiège,2,chair_lift.png,,,chair_lift_de.mp3,,,chair_lift_fr.mp3
+covered_wagon,,,Planwagen,,,roulotte,2,covered_wagon.png,,,covered_wagon_de.mp3,,,covered_wagon_fr.mp3
+electric_car,,electric car,E-Auto,,,,2,electric_car.png,,electric_car_en.mp3,electric_car_de.mp3,,,
+pickup,,pickup,Pickup,,camioneta,pick-up,2,pickup.png,,pickup_en.mp3,pickup_de.mp3,,pickup_es.mp3,pickup_fr.mp3
+sports_car,,sports car,Sportwagen,,,,2,sports_car.png,,sports_car_en.mp3,sports_car_de.mp3,,,
+tandem,,tandem,Tandem,,,tandem,2,tandem.png,,tandem_en.mp3,tandem_de.mp3,,,tandem_fr.mp3
+tank,,tank,Panzer,,tanque,tank,2,tank.png,,tank_en.mp3,tank_de.mp3,,tank_es.mp3,tank_fr.mp3
+trailer,,trailer,Anhänger,trela,remolque,remorque,2,trailer.png,,trailer_en.mp3,trailer_de.mp3,trailer_sw.mp3,trailer_es.mp3,trailer_fr.mp3
+atv,,,Quad,,,quad,2,atv.png,,,atv_de.mp3,,,atv_fr.mp3
+catamaran,,catamaran,Katamaran,,,catamaran,2,catamaran.png,,catamaran_en.mp3,catamaran_de.mp3,,,catamaran_fr.mp3
+dinghy,,dinghy,Schlauchboot,,lancha,canot,2,dinghy.png,,dinghy_en.mp3,dinghy_de.mp3,,dinghy_es.mp3,dinghy_fr.mp3
+pirate_boat,,,Piratenschiff,,,,2,pirate_boat.png,,,pirate_boat_de.mp3,,,
+shipwreck,,shipwreck,Schiffsuntergang,,,naufrage,2,shipwreck.png,,shipwreck_en.mp3,shipwreck_de.mp3,,,shipwreck_fr.mp3
+tug,,tug,Schlepper,,,remorqueur,2,tug.png,,tug_en.mp3,tug_de.mp3,,,tug_fr.mp3
+windsurfing_board,,,Windsurfen,,tabla,planche à voile,2,windsurfing_board.png,,,windsurfing_board_de.mp3,,windsurfing_board_es.mp3,windsurfing_board_fr.mp3
+harvester,,harvester,Erntemaschine,,,moissonneuse,2,harvester.png,,harvester_en.mp3,harvester_de.mp3,,,harvester_fr.mp3
+plough,,plough,Pflug,plau,arado,charrue,2,plough.png,,plough_en.mp3,plough_de.mp3,plough_sw.mp3,plough_es.mp3,plough_fr.mp3
+road_roller,,road roller,Walze,,,rouleau compresseur,2,road_roller.png,,road_roller_en.mp3,road_roller_de.mp3,,,road_roller_fr.mp3
+paragliding,,paraglider,Gleitschirmfliegen,,,parapente,2,paragliding.png,,paragliding_en.mp3,paragliding_de.mp3,,,paragliding_fr.mp3
+traffic_cone,kon,traffic cone,Kegel,koni,cono,cône,2,traffic_cone.png,traffic_cone_sv.mp3,traffic_cone_en.mp3,traffic_cone_de.mp3,traffic_cone_sw.mp3,traffic_cone_es.mp3,traffic_cone_fr.mp3
+zebra_crossing,,zebra crossing,Zebrastreifen,kivuko milia,,passage piéton,2,zebra_crossing.png,,zebra_crossing_en.mp3,zebra_crossing_de.mp3,zebra_crossing_sw.mp3,,zebra_crossing_fr.mp3
+roundabout,,roundabout,der Kreisverkehr,mzunguko,rotonda,rond-point,2,roundabout.png,,roundabout_en.mp3,roundabout_de.mp3,roundabout_sw.mp3,roundabout_es.mp3,roundabout_fr.mp3
+runway,,runway,Landebahn,,,piste,2,runway.png,,runway_en.mp3,runway_de.mp3,,,runway_fr.mp3
+control_tower,,control tower,Tower,,,tour de contrôle,2,control_tower.png,,control_tower_en.mp3,control_tower_de.mp3,,,control_tower_fr.mp3
+cycle_lane,,cycle lane,Fahrradweg,,,piste cyclable,2,cycle_lane.png,,cycle_lane_en.mp3,cycle_lane_de.mp3,,,cycle_lane_fr.mp3
+bus_station,,bus station,Busbahnhof,kituo cha basi,,gare routière,2,bus_station.png,,bus_station_en.mp3,bus_station_de.mp3,bus_station_sw.mp3,,bus_station_fr.mp3

@@ -37,9 +37,10 @@ USER_AGENT = (
 DELAY = 0.3  # seconds between requests, to stay well inside rate limits
 
 LINGUA_LIBRE = {"sv": "LL-Q9027 (swe)", "en": "LL-Q1860 (eng)", "de": "LL-Q188 (deu)",
-                "sw": "LL-Q7838 (swa)"}
+                "sw": "LL-Q7838 (swa)", "es": "LL-Q1321 (spa)", "fr": "LL-Q150 (fra)"}
 COMMONS_FALLBACK = {"sv": ["Sv-{}.ogg"], "en": ["En-us-{}.ogg", "En-uk-{}.ogg", "En-au-{}.ogg"],
-                    "de": ["De-{}.ogg"], "sw": ["Sw-ke-{}.flac"]}
+                    "de": ["De-{}.ogg"], "sw": ["Sw-ke-{}.flac"],
+                    "es": ["Es-{}.ogg"], "fr": ["Fr-{}.ogg"]}
 
 session = requests.Session()
 session.headers["User-Agent"] = USER_AGENT

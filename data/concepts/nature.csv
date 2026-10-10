@@ -1,151 +1,151 @@
-id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
-sun,sol,sun,Sonne,jua,1,sun.png,sun_sv.mp3,sun_en.mp3,sun_de.mp3,sun_sw.mp3
-moon,måne,moon,Mond,mwezi,1,moon.png,moon_sv.mp3,moon_en.mp3,moon_de.mp3,moon_sw.mp3
-star,stjärna,star,Stern,nyota,1,star.png,star_sv.mp3,star_en.mp3,star_de.mp3,star_sw.mp3
-tree,träd,tree,Baum,mti,1,tree.png,tree_sv.mp3,tree_en.mp3,tree_de.mp3,tree_sw.mp3
-flower,blomma,flower,Blume,ua,1,flower.png,flower_sv.mp3,flower_en.mp3,flower_de.mp3,flower_sw.mp3
-rain,regn,rain,Regen,mvua,2,rain.png,rain_sv.mp3,rain_en.mp3,rain_de.mp3,rain_sw.mp3
-snow,snö,snow,Schnee,theluji,2,snow.png,snow_sv.mp3,snow_en.mp3,snow_de.mp3,snow_sw.mp3
-cloud,moln,cloud,Wolke,wingu,2,cloud.png,cloud_sv.mp3,cloud_en.mp3,cloud_de.mp3,cloud_sw.mp3
-rainbow,regnbåge,rainbow,Regenbogen,upinde wa mvua,2,rainbow.png,rainbow_sv.mp3,rainbow_en.mp3,rainbow_de.mp3,rainbow_sw.mp3
-stone,sten,stone,Stein,jiwe,2,stone.png,stone_sv.mp3,stone_en.mp3,stone_de.mp3,stone_sw.mp3
-sea,hav,sea,Meer,bahari,2,sea.png,sea_sv.mp3,sea_en.mp3,sea_de.mp3,sea_sw.mp3
-mountain,berg,mountain,Berg,mlima,2,mountain.png,mountain_sv.mp3,mountain_en.mp3,mountain_de.mp3,mountain_sw.mp3
-fire,eld,fire,Feuer,moto,2,fire.png,fire_sv.mp3,fire_en.mp3,fire_de.mp3,fire_sw.mp3
-grass,gräs,grass,Gras,nyasi,1,grass.png,grass_sv.mp3,grass_en.mp3,grass_de.mp3,grass_sw.mp3
-forest,skog,forest,Wald,msitu,1,forest.png,forest_sv.mp3,forest_en.mp3,forest_de.mp3,forest_sw.mp3
-lake,sjö,lake,See,ziwa,1,lake.png,lake_sv.mp3,lake_en.mp3,lake_de.mp3,lake_sw.mp3
-beach,strand,beach,Strand,pwani,1,beach.png,beach_sv.mp3,beach_en.mp3,beach_de.mp3,beach_sw.mp3
-cliff,klippa,cliff,Klippe,genge,2,cliff.png,cliff_sv.mp3,cliff_en.mp3,cliff_de.mp3,cliff_sw.mp3
-fir,gran,fir,Tanne,,2,fir.png,fir_sv.mp3,fir_en.mp3,fir_de.mp3,
-rose,ros,rose,Rose,waridi,1,rose.png,rose_sv.mp3,rose_en.mp3,rose_de.mp3,rose_sw.mp3
-wind,vind,wind,Wind,upepo,1,wind.png,wind_sv.mp3,wind_en.mp3,wind_de.mp3,wind_sw.mp3
-summer,sommar,summer,Sommer,kiangazi,1,summer.png,summer_sv.mp3,summer_en.mp3,summer_de.mp3,summer_sw.mp3
-winter,vinter,winter,Winter,kipupwe,1,winter.png,winter_sv.mp3,winter_en.mp3,winter_de.mp3,winter_sw.mp3
-spring,vår,spring,Frühling,,1,spring.png,spring_sv.mp3,spring_en.mp3,spring_de.mp3,
-sky,himmel,sky,Himmel,anga,1,sky.png,sky_sv.mp3,sky_en.mp3,sky_de.mp3,sky_sw.mp3
-shadow,skugga,shadow,Schatten,kivuli,2,shadow.png,shadow_sv.mp3,shadow_en.mp3,shadow_de.mp3,shadow_sw.mp3
-snowman,snögubbe,snowman,Schneemann,,1,snowman.png,snowman_sv.mp3,snowman_en.mp3,snowman_de.mp3,
-island,ö,island,Insel,kisiwa,1,island.png,island_sv.mp3,island_en.mp3,island_de.mp3,island_sw.mp3
-desert,öken,desert,Wüste,jangwa,2,desert.png,desert_sv.mp3,desert_en.mp3,desert_de.mp3,desert_sw.mp3
-river,flod,river,Fluss,mto,2,river.png,river_sv.mp3,river_en.mp3,river_de.mp3,river_sw.mp3
-valley,dal,valley,Tal,bonde,2,valley.png,valley_sv.mp3,valley_en.mp3,valley_de.mp3,valley_sw.mp3
-field,fält,field,Feld,shamba,2,field.png,field_sv.mp3,field_en.mp3,field_de.mp3,field_sw.mp3
-clover,klöver,clover,Kleeblatt,,2,clover.png,clover_sv.mp3,clover_en.mp3,clover_de.mp3,
-night,natt,night,Nacht,usiku,1,night.png,night_sv.mp3,night_en.mp3,night_de.mp3,night_sw.mp3
-morning,morgon,morning,Morgen,asubuhi,1,morning.png,morning_sv.mp3,morning_en.mp3,morning_de.mp3,morning_sw.mp3
-afternoon,eftermiddag,afternoon,Nachmittag,alasiri,2,afternoon.png,afternoon_sv.mp3,afternoon_en.mp3,afternoon_de.mp3,afternoon_sw.mp3
-sand,sand,sand,Sand,mchanga,1,sand.png,sand_sv.mp3,sand_en.mp3,sand_de.mp3,sand_sw.mp3
-ice,is,ice,Eis,barafu,1,ice.png,ice_sv.mp3,ice_en.mp3,ice_de.mp3,ice_sw.mp3
-nest,bo,nest,Nest,kiota,1,nest.png,nest_sv.mp3,nest_en.mp3,nest_de.mp3,nest_sw.mp3
-branch,gren,branch,Ast,tawi,2,branch.png,branch_sv.mp3,branch_en.mp3,branch_de.mp3,branch_sw.mp3
-planet,planet,planet,Planet,sayari,2,planet.png,planet_sv.mp3,planet_en.mp3,planet_de.mp3,planet_sw.mp3
-smoke,rök,smoke,Rauch,moshi,2,smoke.png,smoke_sv.mp3,smoke_en.mp3,smoke_de.mp3,smoke_sw.mp3
-coconut_palm,kokospalm,coconut palm,Kokospalme,mnazi,2,coconut_palm.png,coconut_palm_sv.mp3,coconut_palm_en.mp3,coconut_palm_de.mp3,coconut_palm_sw.mp3
-waterfall,vattenfall,waterfall,Wasserfall,,2,waterfall.png,waterfall_sv.mp3,waterfall_en.mp3,waterfall_de.mp3,
-oasis,oas,oasis,Oase,,2,oasis.png,oasis_sv.mp3,oasis_en.mp3,oasis_de.mp3,
-stream,ström,stream,Bach,kijito,2,stream.png,stream_sv.mp3,stream_en.mp3,stream_de.mp3,stream_sw.mp3
-archipelago,skärgård,archipelago,Archipel,,2,archipelago.png,archipelago_sv.mp3,archipelago_en.mp3,archipelago_de.mp3,
-fog,dimma,fog,Nebel,ukungu,2,fog.png,fog_sv.mp3,fog_en.mp3,fog_de.mp3,fog_sw.mp3
-pond,damm,pond,Teich,bwawa,2,pond.png,pond_sv.mp3,pond_en.mp3,pond_de.mp3,pond_sw.mp3
-comet,,comet,Komet,,2,comet.png,,comet_en.mp3,comet_de.mp3,
-lightning,,lightning,Blitz,umeme,2,lightning.png,,lightning_en.mp3,lightning_de.mp3,lightning_sw.mp3
-cactus,,cactus,Kaktus,,2,cactus.png,,cactus_en.mp3,cactus_de.mp3,
-hail,,hail,Hagel,mvua ya mawe,2,hail.png,,hail_en.mp3,hail_de.mp3,hail_sw.mp3
-daisy,,daisy,Gänseblümchen,,2,daisy.png,,daisy_en.mp3,daisy_de.mp3,
-tulip,,tulip,Tulpe,,2,tulip.png,,tulip_en.mp3,tulip_de.mp3,
-cherry_tree,,cherry tree,Kirschbaum,,2,cherry_tree.png,,cherry_tree_en.mp3,cherry_tree_de.mp3,
-apple_tree,,apple tree,der Apfelbaum,mtofaa,2,apple_tree.png,,apple_tree_en.mp3,apple_tree_de.mp3,apple_tree_sw.mp3
-pine,,pine,Kiefer,msonobari,2,pine.png,,pine_en.mp3,pine_de.mp3,pine_sw.mp3
-wave,,wave,Welle,wimbi,2,wave.png,,wave_en.mp3,wave_de.mp3,wave_sw.mp3
-tent,,tent,das Zelt,hema,2,tent.png,,tent_en.mp3,tent_de.mp3,tent_sw.mp3
-sandcastle,,sandcastle,Sandburg,,2,sandcastle.png,,sandcastle_en.mp3,sandcastle_de.mp3,
-seaweed,,seaweed,Alge,mwani,2,seaweed.png,,seaweed_en.mp3,seaweed_de.mp3,seaweed_sw.mp3
-volcano,,volcano,Vulkan,volkano,2,volcano.png,,volcano_en.mp3,volcano_de.mp3,volcano_sw.mp3
-poppy,,poppy,Klatschmohn,,2,poppy.png,,poppy_en.mp3,poppy_de.mp3,
-bouquet,,bouquet,Blumenstrauß,shada,2,bouquet.png,,bouquet_en.mp3,bouquet_de.mp3,bouquet_sw.mp3
-compass,,compass,Kompass,dira,2,compass.png,,compass_en.mp3,compass_de.mp3,compass_sw.mp3
-binoculars,,binoculars,Fernglas,darubini,2,binoculars.png,,binoculars_en.mp3,binoculars_de.mp3,binoculars_sw.mp3
-bonsai,,bonsai,Bonsai,,2,bonsai.png,,bonsai_en.mp3,bonsai_de.mp3,
-fern,,fern,Farn,,2,fern.png,,fern_en.mp3,fern_de.mp3,
-new_moon,,new moon,Neumond,,2,new_moon.png,,new_moon_en.mp3,new_moon_de.mp3,
-bud,,bud,Knospe,chipukizi,2,bud.png,,bud_en.mp3,bud_de.mp3,bud_sw.mp3
-sunflower,,sunflower,Sonnenblume,alizeti,2,sunflower.png,,sunflower_en.mp3,sunflower_de.mp3,sunflower_sw.mp3
-orchid,,orchid,Orchidee,,2,orchid.png,,orchid_en.mp3,orchid_de.mp3,
-bamboo,,bamboo,Bambus,mwanzi,2,bamboo.png,,bamboo_en.mp3,bamboo_de.mp3,bamboo_sw.mp3
-sunscreen,,sunscreen,Sonnencreme,,2,sunscreen.png,,sunscreen_en.mp3,sunscreen_de.mp3,
-constellation,,constellation,Sternbild,,2,constellation.png,,constellation_en.mp3,constellation_de.mp3,
-buoy,,buoy,Boje,boya,2,buoy.png,,buoy_en.mp3,buoy_de.mp3,buoy_sw.mp3
-daffodil,,daffodil,Narzisse,,2,daffodil.png,,daffodil_en.mp3,daffodil_de.mp3,
-moss,,moss,Moos,,2,moss.png,,moss_en.mp3,moss_de.mp3,
-bush,,bush,Busch,kichaka,2,bush.png,,bush_en.mp3,bush_de.mp3,bush_sw.mp3
-meteorite,,meteorite,Meteorit,kimondo,2,meteorite.png,,meteorite_en.mp3,meteorite_de.mp3,meteorite_sw.mp3
-solar_system,,solar system,Sonnensystem,,2,solar_system.png,,solar_system_en.mp3,solar_system_de.mp3,
-snowflake,,snowflake,Schneeflocke,,2,snowflake.png,,snowflake_en.mp3,snowflake_de.mp3,
-aurora_borealis,norrsken,aurora borealis,Nordlicht,,2,aurora_borealis.png,aurora_borealis_sv.mp3,aurora_borealis_en.mp3,aurora_borealis_de.mp3,
-hill,backe,hill,Hügel,kilima,2,hill.png,hill_sv.mp3,hill_en.mp3,hill_de.mp3,hill_sw.mp3
-eclipse,,eclipse,Finsternis,,2,eclipse.png,,eclipse_en.mp3,eclipse_de.mp3,
-sea_shells,skal,,Muscheln,kombe,2,sea_shells.png,sea_shells_sv.mp3,,sea_shells_de.mp3,sea_shells_sw.mp3
-calla_lily,kalla,,,,2,calla_lily.png,calla_lily_sv.mp3,,,
-leaf,blad,leaf,Blatt,jani,1,leaf.png,leaf_sv.mp3,leaf_en.mp3,leaf_de.mp3,leaf_sw.mp3
-plant,växt,plant,die Pflanze,mmea,1,plant.png,plant_sv.mp3,plant_en.mp3,plant_de.mp3,plant_sw.mp3
-root,rot,root,Wurzel,mzizi,2,root.png,root_sv.mp3,root_en.mp3,root_de.mp3,root_sw.mp3
-seed,,seed,Samen,mbegu,2,seed.png,,seed_en.mp3,seed_de.mp3,seed_sw.mp3
-iceberg,,iceberg,Eisberg,,2,iceberg.png,,iceberg_en.mp3,iceberg_de.mp3,
-earth,jorden,Earth,Erde,dunia,1,earth.png,earth_sv.mp3,earth_en.mp3,earth_de.mp3,earth_sw.mp3
-autumn,höst,autumn,Herbst,,1,autumn.png,autumn_sv.mp3,autumn_en.mp3,autumn_de.mp3,
-puddle,,puddle,Pfütze,dimbwi,1,puddle.png,,puddle_en.mp3,puddle_de.mp3,puddle_sw.mp3
-stick,,stick,Stock,fimbo,1,stick.png,,stick_en.mp3,stick_de.mp3,stick_sw.mp3
-acorn,,acorn,Eichel,,2,acorn.png,,acorn_en.mp3,acorn_de.mp3,
-tornado,,tornado,Tornado,kimbunga,2,tornado.png,,tornado_en.mp3,tornado_de.mp3,tornado_sw.mp3
-mars,Mars,Mars,Mars,Mirihi,2,mars.png,mars_sv.mp3,mars_en.mp3,mars_de.mp3,mars_sw.mp3
-saturn,Saturnus,Saturn,Saturn,Zohali,2,saturn.png,saturn_sv.mp3,saturn_en.mp3,saturn_de.mp3,saturn_sw.mp3
-jupiter,Jupiter,Jupiter,Jupiter,Mshtarii,2,jupiter.png,jupiter_sv.mp3,jupiter_en.mp3,jupiter_de.mp3,jupiter_sw.mp3
-baobab,,baobab,Baobab,mbuyu,2,baobab.png,,baobab_en.mp3,baobab_de.mp3,baobab_sw.mp3
-cypress_tree,,,Zypresse,,2,cypress_tree.png,,,cypress_tree_de.mp3,
-olive_tree,,olive tree,Olivenbaum,mzeituni,2,olive_tree.png,,olive_tree_en.mp3,olive_tree_de.mp3,olive_tree_sw.mp3
-willow,,willow,Trauerweide,,2,willow.png,,willow_en.mp3,willow_de.mp3,
-poplar,,poplar,Pappel,,2,poplar.png,,poplar_en.mp3,poplar_de.mp3,
-lemon_tree,,,Zitronenbaum,mlimau,2,lemon_tree.png,,,lemon_tree_de.mp3,lemon_tree_sw.mp3
-orange_tree,,,Orangenbaum,mchungwa,2,orange_tree.png,,,orange_tree_de.mp3,orange_tree_sw.mp3
-banana_tree,,,Bananenstaude,mgomba,2,banana_tree.png,,,banana_tree_de.mp3,banana_tree_sw.mp3
-fig_tree,,,Feigenbaum,mtini,2,fig_tree.png,,,fig_tree_de.mp3,fig_tree_sw.mp3
-pear_tree,,pear tree,Birnbaum,mpea,2,pear_tree.png,,pear_tree_en.mp3,pear_tree_de.mp3,pear_tree_sw.mp3
-peach_tree,,,Pfirsichbaum,,2,peach_tree.png,,,peach_tree_de.mp3,
-carnation_flower,,,Nelke,,2,carnation_flower.png,,,carnation_flower_de.mp3,
-geranium,,geranium,Geranie,,2,geranium.png,,geranium_en.mp3,geranium_de.mp3,
-lotus_flower,,,Lotusblume,,2,lotus_flower.png,,,lotus_flower_de.mp3,
-pansy,,pansy,Stiefmütterchen,,2,pansy.png,,pansy_en.mp3,pansy_de.mp3,
-violet,,violet,Veilchen,,2,violet.png,,violet_en.mp3,violet_de.mp3,
-mistletoe,,mistletoe,Mistelzweig,,2,mistletoe.png,,mistletoe_en.mp3,mistletoe_de.mp3,
-poinsettia,,poinsettia,Weihnachtsstern,,2,poinsettia.png,,poinsettia_en.mp3,poinsettia_de.mp3,
-lavender,,lavender,Lavendel,,2,lavender.png,,lavender_en.mp3,lavender_de.mp3,
-bark,,bark,Rinde,gome,2,bark.png,,bark_en.mp3,bark_de.mp3,bark_sw.mp3
-petal,,petal,Kronblatt,petali,2,petal.png,,petal_en.mp3,petal_de.mp3,petal_sw.mp3
-pinecone,,pinecone,Tannenzapfen,,2,pinecone.png,,pinecone_en.mp3,pinecone_de.mp3,
-stem,,stem,,shina,2,stem.png,,stem_en.mp3,,stem_sw.mp3
-avalanche,,avalanche,Lawine,,2,avalanche.png,,avalanche_en.mp3,avalanche_de.mp3,
-earthquake,,earthquake,Erdbeben,tetemeko la ardhi,2,earthquake.png,,earthquake_en.mp3,earthquake_de.mp3,earthquake_sw.mp3
-flood,,flood,Überschwemmung,mafuriko,2,flood.png,,flood_en.mp3,flood_de.mp3,flood_sw.mp3
-hurricane,,hurricane,Orkan,,2,hurricane.png,,hurricane_en.mp3,hurricane_de.mp3,
-eruption,utbrott,eruption,Vulkanausbruch,,2,eruption.png,eruption_sv.mp3,eruption_en.mp3,eruption_de.mp3,
-marsh,,marsh,Sumpf,,2,marsh.png,,marsh_en.mp3,marsh_de.mp3,
-mountain_range,,mountain range,Bergkette,safu ya milima,2,mountain_range.png,,mountain_range_en.mp3,mountain_range_de.mp3,mountain_range_sw.mp3
-peak,topp,peak,Gipfel,kilele,2,peak.png,peak_sv.mp3,peak_en.mp3,peak_de.mp3,peak_sw.mp3
-peninsula,,peninsula,Halbinsel,rasi,2,peninsula.png,,peninsula_en.mp3,peninsula_de.mp3,peninsula_sw.mp3
-bay,,bay,Bucht,ghuba,2,bay.png,,bay_en.mp3,bay_de.mp3,bay_sw.mp3
-horizon,,horizon,Horizont,upeo,2,horizon.png,,horizon_en.mp3,horizon_de.mp3,horizon_sw.mp3
-holly,,holly,Stechpalme,,2,holly.png,,holly_en.mp3,holly_de.mp3,
-ivy,,ivy,Efeu,,2,ivy.png,,ivy_en.mp3,ivy_de.mp3,
-vine,,vine,Weinrebe,mzabibu,2,vine.png,,vine_en.mp3,vine_de.mp3,vine_sw.mp3
-ruby,,,Rubin,yakuti,2,ruby.png,,,ruby_de.mp3,ruby_sw.mp3
-fossil,fossil,fossil,Fossil,kisukuku,2,fossil.png,fossil_sv.mp3,fossil_en.mp3,fossil_de.mp3,fossil_sw.mp3
-thunderclap,,thunderclap,,,2,thunderclap.png,,thunderclap_en.mp3,,
-flower_bed,,,Beet,,2,flower_bed.png,,,flower_bed_de.mp3,
-sprinkler,,sprinkler,Rasensprenger,,2,sprinkler.png,,sprinkler_en.mp3,sprinkler_de.mp3,
-sack,,sack,Sack,gunia,2,sack.png,,sack_en.mp3,sack_de.mp3,sack_sw.mp3
-scarecrow,,scarecrow,Vogelscheuche,,2,scarecrow.png,,scarecrow_en.mp3,scarecrow_de.mp3,
-straw,halm,straw,Stroh,,2,straw.png,straw_sv.mp3,straw_en.mp3,straw_de.mp3,
-sunshade,,sunshade,Sonnenschirm,,2,sunshade.png,,sunshade_en.mp3,sunshade_de.mp3,
-bonfire,,bonfire,Lagerfeuer,,2,bonfire.png,,bonfire_en.mp3,bonfire_de.mp3,
-water_drop,,,Wassertropfen,tone,2,water_drop.png,,,water_drop_de.mp3,water_drop_sw.mp3
+id,sv,en,de,sw,es,fr,level,image,audio_sv,audio_en,audio_de,audio_sw,audio_es,audio_fr
+sun,sol,sun,Sonne,jua,sol,soleil,1,sun.png,sun_sv.mp3,sun_en.mp3,sun_de.mp3,sun_sw.mp3,sun_es.mp3,sun_fr.mp3
+moon,måne,moon,Mond,mwezi,luna,lune,1,moon.png,moon_sv.mp3,moon_en.mp3,moon_de.mp3,moon_sw.mp3,moon_es.mp3,moon_fr.mp3
+star,stjärna,star,Stern,nyota,estrella,étoile,1,star.png,star_sv.mp3,star_en.mp3,star_de.mp3,star_sw.mp3,star_es.mp3,star_fr.mp3
+tree,träd,tree,Baum,mti,árbol,arbre,1,tree.png,tree_sv.mp3,tree_en.mp3,tree_de.mp3,tree_sw.mp3,tree_es.mp3,tree_fr.mp3
+flower,blomma,flower,Blume,ua,flor,fleur,1,flower.png,flower_sv.mp3,flower_en.mp3,flower_de.mp3,flower_sw.mp3,flower_es.mp3,flower_fr.mp3
+rain,regn,rain,Regen,mvua,lluvia,pluie,2,rain.png,rain_sv.mp3,rain_en.mp3,rain_de.mp3,rain_sw.mp3,rain_es.mp3,rain_fr.mp3
+snow,snö,snow,Schnee,theluji,nieve,neige,2,snow.png,snow_sv.mp3,snow_en.mp3,snow_de.mp3,snow_sw.mp3,snow_es.mp3,snow_fr.mp3
+cloud,moln,cloud,Wolke,wingu,nube,nuage,2,cloud.png,cloud_sv.mp3,cloud_en.mp3,cloud_de.mp3,cloud_sw.mp3,cloud_es.mp3,cloud_fr.mp3
+rainbow,regnbåge,rainbow,Regenbogen,upinde wa mvua,arco iris,arc-en-ciel,2,rainbow.png,rainbow_sv.mp3,rainbow_en.mp3,rainbow_de.mp3,rainbow_sw.mp3,rainbow_es.mp3,rainbow_fr.mp3
+stone,sten,stone,Stein,jiwe,piedra,pierre,2,stone.png,stone_sv.mp3,stone_en.mp3,stone_de.mp3,stone_sw.mp3,stone_es.mp3,stone_fr.mp3
+sea,hav,sea,Meer,bahari,mar,mer,2,sea.png,sea_sv.mp3,sea_en.mp3,sea_de.mp3,sea_sw.mp3,sea_es.mp3,sea_fr.mp3
+mountain,berg,mountain,Berg,mlima,montaña,montagne,2,mountain.png,mountain_sv.mp3,mountain_en.mp3,mountain_de.mp3,mountain_sw.mp3,mountain_es.mp3,mountain_fr.mp3
+fire,eld,fire,Feuer,moto,fuego,feu,2,fire.png,fire_sv.mp3,fire_en.mp3,fire_de.mp3,fire_sw.mp3,fire_es.mp3,fire_fr.mp3
+grass,gräs,grass,Gras,nyasi,hierba,herbe,1,grass.png,grass_sv.mp3,grass_en.mp3,grass_de.mp3,grass_sw.mp3,grass_es.mp3,grass_fr.mp3
+forest,skog,forest,Wald,msitu,bosque,forêt,1,forest.png,forest_sv.mp3,forest_en.mp3,forest_de.mp3,forest_sw.mp3,forest_es.mp3,forest_fr.mp3
+lake,sjö,lake,See,ziwa,lago,lac,1,lake.png,lake_sv.mp3,lake_en.mp3,lake_de.mp3,lake_sw.mp3,lake_es.mp3,lake_fr.mp3
+beach,strand,beach,Strand,pwani,playa,plage,1,beach.png,beach_sv.mp3,beach_en.mp3,beach_de.mp3,beach_sw.mp3,beach_es.mp3,beach_fr.mp3
+cliff,klippa,cliff,Klippe,genge,acantilado,falaise,2,cliff.png,cliff_sv.mp3,cliff_en.mp3,cliff_de.mp3,cliff_sw.mp3,cliff_es.mp3,cliff_fr.mp3
+fir,gran,fir,Tanne,,abeto,sapin,2,fir.png,fir_sv.mp3,fir_en.mp3,fir_de.mp3,,fir_es.mp3,fir_fr.mp3
+rose,ros,rose,Rose,waridi,rosa,rose,1,rose.png,rose_sv.mp3,rose_en.mp3,rose_de.mp3,rose_sw.mp3,rose_es.mp3,rose_fr.mp3
+wind,vind,wind,Wind,upepo,viento,vent,1,wind.png,wind_sv.mp3,wind_en.mp3,wind_de.mp3,wind_sw.mp3,wind_es.mp3,wind_fr.mp3
+summer,sommar,summer,Sommer,kiangazi,verano,été,1,summer.png,summer_sv.mp3,summer_en.mp3,summer_de.mp3,summer_sw.mp3,summer_es.mp3,summer_fr.mp3
+winter,vinter,winter,Winter,kipupwe,invierno,hiver,1,winter.png,winter_sv.mp3,winter_en.mp3,winter_de.mp3,winter_sw.mp3,winter_es.mp3,winter_fr.mp3
+spring,vår,spring,Frühling,,primavera,printemps,1,spring.png,spring_sv.mp3,spring_en.mp3,spring_de.mp3,,spring_es.mp3,spring_fr.mp3
+sky,himmel,sky,Himmel,anga,cielo,ciel,1,sky.png,sky_sv.mp3,sky_en.mp3,sky_de.mp3,sky_sw.mp3,sky_es.mp3,sky_fr.mp3
+shadow,skugga,shadow,Schatten,kivuli,sombra,ombre,2,shadow.png,shadow_sv.mp3,shadow_en.mp3,shadow_de.mp3,shadow_sw.mp3,shadow_es.mp3,shadow_fr.mp3
+snowman,snögubbe,snowman,Schneemann,,,bonhomme de neige,1,snowman.png,snowman_sv.mp3,snowman_en.mp3,snowman_de.mp3,,,snowman_fr.mp3
+island,ö,island,Insel,kisiwa,isla,île,1,island.png,island_sv.mp3,island_en.mp3,island_de.mp3,island_sw.mp3,island_es.mp3,island_fr.mp3
+desert,öken,desert,Wüste,jangwa,desierto,désert,2,desert.png,desert_sv.mp3,desert_en.mp3,desert_de.mp3,desert_sw.mp3,desert_es.mp3,desert_fr.mp3
+river,flod,river,Fluss,mto,río,fleuve,2,river.png,river_sv.mp3,river_en.mp3,river_de.mp3,river_sw.mp3,river_es.mp3,river_fr.mp3
+valley,dal,valley,Tal,bonde,valle,vallée,2,valley.png,valley_sv.mp3,valley_en.mp3,valley_de.mp3,valley_sw.mp3,valley_es.mp3,valley_fr.mp3
+field,fält,field,Feld,shamba,campo,champ,2,field.png,field_sv.mp3,field_en.mp3,field_de.mp3,field_sw.mp3,field_es.mp3,field_fr.mp3
+clover,klöver,clover,Kleeblatt,,trébol,trèfle,2,clover.png,clover_sv.mp3,clover_en.mp3,clover_de.mp3,,clover_es.mp3,clover_fr.mp3
+night,natt,night,Nacht,usiku,noche,nuit,1,night.png,night_sv.mp3,night_en.mp3,night_de.mp3,night_sw.mp3,night_es.mp3,night_fr.mp3
+morning,morgon,morning,Morgen,asubuhi,mañana,matin,1,morning.png,morning_sv.mp3,morning_en.mp3,morning_de.mp3,morning_sw.mp3,morning_es.mp3,morning_fr.mp3
+afternoon,eftermiddag,afternoon,Nachmittag,alasiri,tarde,après-midi,2,afternoon.png,afternoon_sv.mp3,afternoon_en.mp3,afternoon_de.mp3,afternoon_sw.mp3,afternoon_es.mp3,afternoon_fr.mp3
+sand,sand,sand,Sand,mchanga,arena,sable,1,sand.png,sand_sv.mp3,sand_en.mp3,sand_de.mp3,sand_sw.mp3,sand_es.mp3,sand_fr.mp3
+ice,is,ice,Eis,barafu,hielo,glace,1,ice.png,ice_sv.mp3,ice_en.mp3,ice_de.mp3,ice_sw.mp3,ice_es.mp3,ice_fr.mp3
+nest,bo,nest,Nest,kiota,nido,nid,1,nest.png,nest_sv.mp3,nest_en.mp3,nest_de.mp3,nest_sw.mp3,nest_es.mp3,nest_fr.mp3
+branch,gren,branch,Ast,tawi,rama,branche,2,branch.png,branch_sv.mp3,branch_en.mp3,branch_de.mp3,branch_sw.mp3,branch_es.mp3,branch_fr.mp3
+planet,planet,planet,Planet,sayari,planeta,planète,2,planet.png,planet_sv.mp3,planet_en.mp3,planet_de.mp3,planet_sw.mp3,planet_es.mp3,planet_fr.mp3
+smoke,rök,smoke,Rauch,moshi,humo,fumée,2,smoke.png,smoke_sv.mp3,smoke_en.mp3,smoke_de.mp3,smoke_sw.mp3,smoke_es.mp3,smoke_fr.mp3
+coconut_palm,kokospalm,coconut palm,Kokospalme,mnazi,cocotero,cocotier,2,coconut_palm.png,coconut_palm_sv.mp3,coconut_palm_en.mp3,coconut_palm_de.mp3,coconut_palm_sw.mp3,coconut_palm_es.mp3,coconut_palm_fr.mp3
+waterfall,vattenfall,waterfall,Wasserfall,,cascada,cascade,2,waterfall.png,waterfall_sv.mp3,waterfall_en.mp3,waterfall_de.mp3,,waterfall_es.mp3,waterfall_fr.mp3
+oasis,oas,oasis,Oase,,oasis,oasis,2,oasis.png,oasis_sv.mp3,oasis_en.mp3,oasis_de.mp3,,oasis_es.mp3,oasis_fr.mp3
+stream,ström,stream,Bach,kijito,arroyo,ruisseau,2,stream.png,stream_sv.mp3,stream_en.mp3,stream_de.mp3,stream_sw.mp3,stream_es.mp3,stream_fr.mp3
+archipelago,skärgård,archipelago,Archipel,,archipiélago,archipel,2,archipelago.png,archipelago_sv.mp3,archipelago_en.mp3,archipelago_de.mp3,,archipelago_es.mp3,archipelago_fr.mp3
+fog,dimma,fog,Nebel,ukungu,niebla,brouillard,2,fog.png,fog_sv.mp3,fog_en.mp3,fog_de.mp3,fog_sw.mp3,fog_es.mp3,fog_fr.mp3
+pond,damm,pond,Teich,bwawa,estanque,mare,2,pond.png,pond_sv.mp3,pond_en.mp3,pond_de.mp3,pond_sw.mp3,pond_es.mp3,pond_fr.mp3
+comet,,comet,Komet,,cometa,comète,2,comet.png,,comet_en.mp3,comet_de.mp3,,comet_es.mp3,comet_fr.mp3
+lightning,,lightning,Blitz,umeme,relámpago,éclair,2,lightning.png,,lightning_en.mp3,lightning_de.mp3,lightning_sw.mp3,lightning_es.mp3,lightning_fr.mp3
+cactus,,cactus,Kaktus,,cactus,cactus,2,cactus.png,,cactus_en.mp3,cactus_de.mp3,,cactus_es.mp3,cactus_fr.mp3
+hail,,hail,Hagel,mvua ya mawe,granizo,grêle,2,hail.png,,hail_en.mp3,hail_de.mp3,hail_sw.mp3,hail_es.mp3,hail_fr.mp3
+daisy,,daisy,Gänseblümchen,,margarita,marguerite,2,daisy.png,,daisy_en.mp3,daisy_de.mp3,,daisy_es.mp3,daisy_fr.mp3
+tulip,,tulip,Tulpe,,tulipán,tulipe,2,tulip.png,,tulip_en.mp3,tulip_de.mp3,,tulip_es.mp3,tulip_fr.mp3
+cherry_tree,,cherry tree,Kirschbaum,,cerezo,cerisier,2,cherry_tree.png,,cherry_tree_en.mp3,cherry_tree_de.mp3,,cherry_tree_es.mp3,cherry_tree_fr.mp3
+apple_tree,,apple tree,der Apfelbaum,mtofaa,manzano,pommier,2,apple_tree.png,,apple_tree_en.mp3,apple_tree_de.mp3,apple_tree_sw.mp3,apple_tree_es.mp3,apple_tree_fr.mp3
+pine,,pine,Kiefer,msonobari,pino,pin,2,pine.png,,pine_en.mp3,pine_de.mp3,pine_sw.mp3,pine_es.mp3,pine_fr.mp3
+wave,,wave,Welle,wimbi,ola,vague,2,wave.png,,wave_en.mp3,wave_de.mp3,wave_sw.mp3,wave_es.mp3,wave_fr.mp3
+tent,,tent,das Zelt,hema,carpa,tente,2,tent.png,,tent_en.mp3,tent_de.mp3,tent_sw.mp3,tent_es.mp3,tent_fr.mp3
+sandcastle,,sandcastle,Sandburg,,,château de sable,2,sandcastle.png,,sandcastle_en.mp3,sandcastle_de.mp3,,,sandcastle_fr.mp3
+seaweed,,seaweed,Alge,mwani,alga,algue,2,seaweed.png,,seaweed_en.mp3,seaweed_de.mp3,seaweed_sw.mp3,seaweed_es.mp3,seaweed_fr.mp3
+volcano,,volcano,Vulkan,volkano,volcán,volcan,2,volcano.png,,volcano_en.mp3,volcano_de.mp3,volcano_sw.mp3,volcano_es.mp3,volcano_fr.mp3
+poppy,,poppy,Klatschmohn,,amapola,coquelicot,2,poppy.png,,poppy_en.mp3,poppy_de.mp3,,poppy_es.mp3,poppy_fr.mp3
+bouquet,,bouquet,Blumenstrauß,shada,ramo,bouquet,2,bouquet.png,,bouquet_en.mp3,bouquet_de.mp3,bouquet_sw.mp3,bouquet_es.mp3,bouquet_fr.mp3
+compass,,compass,Kompass,dira,brújula,boussole,2,compass.png,,compass_en.mp3,compass_de.mp3,compass_sw.mp3,compass_es.mp3,compass_fr.mp3
+binoculars,,binoculars,Fernglas,darubini,,jumelles,2,binoculars.png,,binoculars_en.mp3,binoculars_de.mp3,binoculars_sw.mp3,,binoculars_fr.mp3
+bonsai,,bonsai,Bonsai,,,bonsaï,2,bonsai.png,,bonsai_en.mp3,bonsai_de.mp3,,,bonsai_fr.mp3
+fern,,fern,Farn,,helecho,fougère,2,fern.png,,fern_en.mp3,fern_de.mp3,,fern_es.mp3,fern_fr.mp3
+new_moon,,new moon,Neumond,,,nouvelle lune,2,new_moon.png,,new_moon_en.mp3,new_moon_de.mp3,,,new_moon_fr.mp3
+bud,,bud,Knospe,chipukizi,capullo,bourgeon,2,bud.png,,bud_en.mp3,bud_de.mp3,bud_sw.mp3,bud_es.mp3,bud_fr.mp3
+sunflower,,sunflower,Sonnenblume,alizeti,girasol,tournesol,2,sunflower.png,,sunflower_en.mp3,sunflower_de.mp3,sunflower_sw.mp3,sunflower_es.mp3,sunflower_fr.mp3
+orchid,,orchid,Orchidee,,orquídea,orchidée,2,orchid.png,,orchid_en.mp3,orchid_de.mp3,,orchid_es.mp3,orchid_fr.mp3
+bamboo,,bamboo,Bambus,mwanzi,bambú,bambou,2,bamboo.png,,bamboo_en.mp3,bamboo_de.mp3,bamboo_sw.mp3,bamboo_es.mp3,bamboo_fr.mp3
+sunscreen,,sunscreen,Sonnencreme,,crema,crème solaire,2,sunscreen.png,,sunscreen_en.mp3,sunscreen_de.mp3,,sunscreen_es.mp3,sunscreen_fr.mp3
+constellation,,constellation,Sternbild,,constelación,constellation,2,constellation.png,,constellation_en.mp3,constellation_de.mp3,,constellation_es.mp3,constellation_fr.mp3
+buoy,,buoy,Boje,boya,,bouée,2,buoy.png,,buoy_en.mp3,buoy_de.mp3,buoy_sw.mp3,,buoy_fr.mp3
+daffodil,,daffodil,Narzisse,,narciso,jonquille,2,daffodil.png,,daffodil_en.mp3,daffodil_de.mp3,,daffodil_es.mp3,daffodil_fr.mp3
+moss,,moss,Moos,,musgo,mousse,2,moss.png,,moss_en.mp3,moss_de.mp3,,moss_es.mp3,moss_fr.mp3
+bush,,bush,Busch,kichaka,arbusto,buisson,2,bush.png,,bush_en.mp3,bush_de.mp3,bush_sw.mp3,bush_es.mp3,bush_fr.mp3
+meteorite,,meteorite,Meteorit,kimondo,meteorito,météorite,2,meteorite.png,,meteorite_en.mp3,meteorite_de.mp3,meteorite_sw.mp3,meteorite_es.mp3,meteorite_fr.mp3
+solar_system,,solar system,Sonnensystem,,sistema solar,système solaire,2,solar_system.png,,solar_system_en.mp3,solar_system_de.mp3,,solar_system_es.mp3,solar_system_fr.mp3
+snowflake,,snowflake,Schneeflocke,,,flocon de neige,2,snowflake.png,,snowflake_en.mp3,snowflake_de.mp3,,,snowflake_fr.mp3
+aurora_borealis,norrsken,aurora borealis,Nordlicht,,,aurore boréale,2,aurora_borealis.png,aurora_borealis_sv.mp3,aurora_borealis_en.mp3,aurora_borealis_de.mp3,,,aurora_borealis_fr.mp3
+hill,backe,hill,Hügel,kilima,colina,colline,2,hill.png,hill_sv.mp3,hill_en.mp3,hill_de.mp3,hill_sw.mp3,hill_es.mp3,hill_fr.mp3
+eclipse,,eclipse,Finsternis,,eclipse,éclipse,2,eclipse.png,,eclipse_en.mp3,eclipse_de.mp3,,eclipse_es.mp3,eclipse_fr.mp3
+sea_shells,skal,,Muscheln,kombe,concha,coquillages,2,sea_shells.png,sea_shells_sv.mp3,,sea_shells_de.mp3,sea_shells_sw.mp3,sea_shells_es.mp3,sea_shells_fr.mp3
+calla_lily,kalla,,,,cala,arum,2,calla_lily.png,calla_lily_sv.mp3,,,,calla_lily_es.mp3,calla_lily_fr.mp3
+leaf,blad,leaf,Blatt,jani,hoja,feuille,1,leaf.png,leaf_sv.mp3,leaf_en.mp3,leaf_de.mp3,leaf_sw.mp3,leaf_es.mp3,leaf_fr.mp3
+plant,växt,plant,die Pflanze,mmea,planta,plante,1,plant.png,plant_sv.mp3,plant_en.mp3,plant_de.mp3,plant_sw.mp3,plant_es.mp3,plant_fr.mp3
+root,rot,root,Wurzel,mzizi,raíz,racine,2,root.png,root_sv.mp3,root_en.mp3,root_de.mp3,root_sw.mp3,root_es.mp3,root_fr.mp3
+seed,,seed,Samen,mbegu,semilla,graine,2,seed.png,,seed_en.mp3,seed_de.mp3,seed_sw.mp3,seed_es.mp3,seed_fr.mp3
+iceberg,,iceberg,Eisberg,,iceberg,iceberg,2,iceberg.png,,iceberg_en.mp3,iceberg_de.mp3,,iceberg_es.mp3,iceberg_fr.mp3
+earth,jorden,Earth,Erde,dunia,Tierra,Terre,1,earth.png,earth_sv.mp3,earth_en.mp3,earth_de.mp3,earth_sw.mp3,earth_es.mp3,earth_fr.mp3
+autumn,höst,autumn,Herbst,,otoño,automne,1,autumn.png,autumn_sv.mp3,autumn_en.mp3,autumn_de.mp3,,autumn_es.mp3,autumn_fr.mp3
+puddle,,puddle,Pfütze,dimbwi,charco,flaque,1,puddle.png,,puddle_en.mp3,puddle_de.mp3,puddle_sw.mp3,puddle_es.mp3,puddle_fr.mp3
+stick,,stick,Stock,fimbo,palo,bâton,1,stick.png,,stick_en.mp3,stick_de.mp3,stick_sw.mp3,stick_es.mp3,stick_fr.mp3
+acorn,,acorn,Eichel,,bellota,gland,2,acorn.png,,acorn_en.mp3,acorn_de.mp3,,acorn_es.mp3,acorn_fr.mp3
+tornado,,tornado,Tornado,kimbunga,tornado,tornade,2,tornado.png,,tornado_en.mp3,tornado_de.mp3,tornado_sw.mp3,tornado_es.mp3,tornado_fr.mp3
+mars,Mars,Mars,Mars,Mirihi,,Mars,2,mars.png,mars_sv.mp3,mars_en.mp3,mars_de.mp3,mars_sw.mp3,,mars_fr.mp3
+saturn,Saturnus,Saturn,Saturn,Zohali,,Saturne,2,saturn.png,saturn_sv.mp3,saturn_en.mp3,saturn_de.mp3,saturn_sw.mp3,,saturn_fr.mp3
+jupiter,Jupiter,Jupiter,Jupiter,Mshtarii,,Jupiter,2,jupiter.png,jupiter_sv.mp3,jupiter_en.mp3,jupiter_de.mp3,jupiter_sw.mp3,,jupiter_fr.mp3
+baobab,,baobab,Baobab,mbuyu,baobab,baobab,2,baobab.png,,baobab_en.mp3,baobab_de.mp3,baobab_sw.mp3,baobab_es.mp3,baobab_fr.mp3
+cypress_tree,,,Zypresse,,ciprés,cyprès,2,cypress_tree.png,,,cypress_tree_de.mp3,,cypress_tree_es.mp3,cypress_tree_fr.mp3
+olive_tree,,olive tree,Olivenbaum,mzeituni,olivo,olivier,2,olive_tree.png,,olive_tree_en.mp3,olive_tree_de.mp3,olive_tree_sw.mp3,olive_tree_es.mp3,olive_tree_fr.mp3
+willow,,willow,Trauerweide,,sauce,saule,2,willow.png,,willow_en.mp3,willow_de.mp3,,willow_es.mp3,willow_fr.mp3
+poplar,,poplar,Pappel,,chopo,peuplier,2,poplar.png,,poplar_en.mp3,poplar_de.mp3,,poplar_es.mp3,poplar_fr.mp3
+lemon_tree,,,Zitronenbaum,mlimau,limonero,citronnier,2,lemon_tree.png,,,lemon_tree_de.mp3,lemon_tree_sw.mp3,lemon_tree_es.mp3,lemon_tree_fr.mp3
+orange_tree,,,Orangenbaum,mchungwa,naranjo,oranger,2,orange_tree.png,,,orange_tree_de.mp3,orange_tree_sw.mp3,orange_tree_es.mp3,orange_tree_fr.mp3
+banana_tree,,,Bananenstaude,mgomba,,bananier,2,banana_tree.png,,,banana_tree_de.mp3,banana_tree_sw.mp3,,banana_tree_fr.mp3
+fig_tree,,,Feigenbaum,mtini,higuera,figuier,2,fig_tree.png,,,fig_tree_de.mp3,fig_tree_sw.mp3,fig_tree_es.mp3,fig_tree_fr.mp3
+pear_tree,,pear tree,Birnbaum,mpea,peral,poirier,2,pear_tree.png,,pear_tree_en.mp3,pear_tree_de.mp3,pear_tree_sw.mp3,pear_tree_es.mp3,pear_tree_fr.mp3
+peach_tree,,,Pfirsichbaum,,melocotonero,pêcher,2,peach_tree.png,,,peach_tree_de.mp3,,peach_tree_es.mp3,peach_tree_fr.mp3
+carnation_flower,,,Nelke,,clavel,œillet,2,carnation_flower.png,,,carnation_flower_de.mp3,,carnation_flower_es.mp3,carnation_flower_fr.mp3
+geranium,,geranium,Geranie,,,géranium,2,geranium.png,,geranium_en.mp3,geranium_de.mp3,,,geranium_fr.mp3
+lotus_flower,,,Lotusblume,,,lotus,2,lotus_flower.png,,,lotus_flower_de.mp3,,,lotus_flower_fr.mp3
+pansy,,pansy,Stiefmütterchen,,pensamiento,pensée,2,pansy.png,,pansy_en.mp3,pansy_de.mp3,,pansy_es.mp3,pansy_fr.mp3
+violet,,violet,Veilchen,,violeta,violette,2,violet.png,,violet_en.mp3,violet_de.mp3,,violet_es.mp3,violet_fr.mp3
+mistletoe,,mistletoe,Mistelzweig,,,gui,2,mistletoe.png,,mistletoe_en.mp3,mistletoe_de.mp3,,,mistletoe_fr.mp3
+poinsettia,,poinsettia,Weihnachtsstern,,,poinsettia,2,poinsettia.png,,poinsettia_en.mp3,poinsettia_de.mp3,,,poinsettia_fr.mp3
+lavender,,lavender,Lavendel,,lavanda,lavande,2,lavender.png,,lavender_en.mp3,lavender_de.mp3,,lavender_es.mp3,lavender_fr.mp3
+bark,,bark,Rinde,gome,corteza,écorce,2,bark.png,,bark_en.mp3,bark_de.mp3,bark_sw.mp3,bark_es.mp3,bark_fr.mp3
+petal,,petal,Kronblatt,petali,pétalo,pétale,2,petal.png,,petal_en.mp3,petal_de.mp3,petal_sw.mp3,petal_es.mp3,petal_fr.mp3
+pinecone,,pinecone,Tannenzapfen,,piña,pomme de pin,2,pinecone.png,,pinecone_en.mp3,pinecone_de.mp3,,pinecone_es.mp3,pinecone_fr.mp3
+stem,,stem,,shina,tallo,tige,2,stem.png,,stem_en.mp3,,stem_sw.mp3,stem_es.mp3,stem_fr.mp3
+avalanche,,avalanche,Lawine,,alud,avalanche,2,avalanche.png,,avalanche_en.mp3,avalanche_de.mp3,,avalanche_es.mp3,avalanche_fr.mp3
+earthquake,,earthquake,Erdbeben,tetemeko la ardhi,terremoto,tremblement de terre,2,earthquake.png,,earthquake_en.mp3,earthquake_de.mp3,earthquake_sw.mp3,earthquake_es.mp3,earthquake_fr.mp3
+flood,,flood,Überschwemmung,mafuriko,inundación,inondation,2,flood.png,,flood_en.mp3,flood_de.mp3,flood_sw.mp3,flood_es.mp3,flood_fr.mp3
+hurricane,,hurricane,Orkan,,huracán,ouragan,2,hurricane.png,,hurricane_en.mp3,hurricane_de.mp3,,hurricane_es.mp3,hurricane_fr.mp3
+eruption,utbrott,eruption,Vulkanausbruch,,erupción,éruption,2,eruption.png,eruption_sv.mp3,eruption_en.mp3,eruption_de.mp3,,eruption_es.mp3,eruption_fr.mp3
+marsh,,marsh,Sumpf,,pantano,marais,2,marsh.png,,marsh_en.mp3,marsh_de.mp3,,marsh_es.mp3,marsh_fr.mp3
+mountain_range,,mountain range,Bergkette,safu ya milima,cordillera,chaîne de montagnes,2,mountain_range.png,,mountain_range_en.mp3,mountain_range_de.mp3,mountain_range_sw.mp3,mountain_range_es.mp3,mountain_range_fr.mp3
+peak,topp,peak,Gipfel,kilele,cima,sommet,2,peak.png,peak_sv.mp3,peak_en.mp3,peak_de.mp3,peak_sw.mp3,peak_es.mp3,peak_fr.mp3
+peninsula,,peninsula,Halbinsel,rasi,península,péninsule,2,peninsula.png,,peninsula_en.mp3,peninsula_de.mp3,peninsula_sw.mp3,peninsula_es.mp3,peninsula_fr.mp3
+bay,,bay,Bucht,ghuba,bahía,baie,2,bay.png,,bay_en.mp3,bay_de.mp3,bay_sw.mp3,bay_es.mp3,bay_fr.mp3
+horizon,,horizon,Horizont,upeo,horizonte,horizon,2,horizon.png,,horizon_en.mp3,horizon_de.mp3,horizon_sw.mp3,horizon_es.mp3,horizon_fr.mp3
+holly,,holly,Stechpalme,,acebo,houx,2,holly.png,,holly_en.mp3,holly_de.mp3,,holly_es.mp3,holly_fr.mp3
+ivy,,ivy,Efeu,,hiedra,lierre,2,ivy.png,,ivy_en.mp3,ivy_de.mp3,,ivy_es.mp3,ivy_fr.mp3
+vine,,vine,Weinrebe,mzabibu,vid,vigne,2,vine.png,,vine_en.mp3,vine_de.mp3,vine_sw.mp3,vine_es.mp3,vine_fr.mp3
+ruby,,,Rubin,yakuti,rubí,rubis,2,ruby.png,,,ruby_de.mp3,ruby_sw.mp3,ruby_es.mp3,ruby_fr.mp3
+fossil,fossil,fossil,Fossil,kisukuku,fósil,fossile,2,fossil.png,fossil_sv.mp3,fossil_en.mp3,fossil_de.mp3,fossil_sw.mp3,fossil_es.mp3,fossil_fr.mp3
+thunderclap,,thunderclap,,,trueno,tonnerre,2,thunderclap.png,,thunderclap_en.mp3,,,thunderclap_es.mp3,thunderclap_fr.mp3
+flower_bed,,,Beet,,,jardinière,2,flower_bed.png,,,flower_bed_de.mp3,,,flower_bed_fr.mp3
+sprinkler,,sprinkler,Rasensprenger,,,arroseur,2,sprinkler.png,,sprinkler_en.mp3,sprinkler_de.mp3,,,sprinkler_fr.mp3
+sack,,sack,Sack,gunia,saco,sac,2,sack.png,,sack_en.mp3,sack_de.mp3,sack_sw.mp3,sack_es.mp3,sack_fr.mp3
+scarecrow,,scarecrow,Vogelscheuche,,espantapájaros,épouvantail,2,scarecrow.png,,scarecrow_en.mp3,scarecrow_de.mp3,,scarecrow_es.mp3,scarecrow_fr.mp3
+straw,halm,straw,Stroh,,paja,paille,2,straw.png,straw_sv.mp3,straw_en.mp3,straw_de.mp3,,straw_es.mp3,straw_fr.mp3
+sunshade,,sunshade,Sonnenschirm,,sombrilla,parasol,2,sunshade.png,,sunshade_en.mp3,sunshade_de.mp3,,sunshade_es.mp3,sunshade_fr.mp3
+bonfire,,bonfire,Lagerfeuer,,hoguera,feu de camp,2,bonfire.png,,bonfire_en.mp3,bonfire_de.mp3,,bonfire_es.mp3,bonfire_fr.mp3
+water_drop,,,Wassertropfen,tone,gota,goutte,2,water_drop.png,,,water_drop_de.mp3,water_drop_sw.mp3,water_drop_es.mp3,water_drop_fr.mp3

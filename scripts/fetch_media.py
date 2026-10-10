@@ -349,9 +349,10 @@ def download(limit):
                     raw = Path(tmp) / "original.mp3"
                     download_file(transcoded_mp3(url), raw)
                     to_mono_mp3(raw, dest)
-            except requests.RequestException as e:
-                # Commons throttles bulk downloads; leave this language out
-                # for now; the next run picks it up.
+            except (requests.RequestException, subprocess.CalledProcessError) as e:
+                # Commons throttles bulk downloads, and now and then serves a
+                # transcode ffmpeg can't read; leave this language out for
+                # now; the next run retries it.
                 print(f"  {cid}: {lang} recording not downloaded ({e}); rerun to retry",
                       file=sys.stderr)
                 failed.append(f"{cid}_{lang}")

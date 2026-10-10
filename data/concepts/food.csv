@@ -1,206 +1,206 @@
-id,sv,en,de,sw,level,image,audio_sv,audio_en,audio_de,audio_sw
-apple,äpple,apple,Apfel,tufaha,1,apple.png,apple_sv.mp3,apple_en.mp3,apple_de.mp3,apple_sw.mp3
-banana,banan,banana,Banane,ndizi,1,banana.png,banana_sv.mp3,banana_en.mp3,banana_de.mp3,banana_sw.mp3
-orange,apelsin,orange,Orange,chungwa,1,orange.png,orange_sv.mp3,orange_en.mp3,orange_de.mp3,orange_sw.mp3
-pear,päron,pear,Birne,,1,pear.png,pear_sv.mp3,pear_en.mp3,pear_de.mp3,
-strawberry,jordgubbe,strawberry,Erdbeere,stroberi,1,strawberry.png,strawberry_sv.mp3,strawberry_en.mp3,strawberry_de.mp3,strawberry_sw.mp3
-carrot,morot,carrot,Karotte,karoti,1,carrot.png,carrot_sv.mp3,carrot_en.mp3,carrot_de.mp3,carrot_sw.mp3
-potato,potatis,potato,Kartoffel,kiazi,1,potato.png,potato_sv.mp3,potato_en.mp3,potato_de.mp3,potato_sw.mp3
-bread,bröd,bread,Brot,mkate,1,bread.png,bread_sv.mp3,bread_en.mp3,bread_de.mp3,bread_sw.mp3
-milk,mjölk,milk,Milch,maziwa,1,milk.png,milk_sv.mp3,milk_en.mp3,milk_de.mp3,milk_sw.mp3
-egg,ägg,egg,Ei,yai,1,egg.png,egg_sv.mp3,egg_en.mp3,egg_de.mp3,egg_sw.mp3
-cheese,ost,cheese,Käse,jibini,1,cheese.png,cheese_sv.mp3,cheese_en.mp3,cheese_de.mp3,cheese_sw.mp3
-ice_cream,glass,ice cream,Eis,aiskrimu,1,ice_cream.png,ice_cream_sv.mp3,ice_cream_en.mp3,ice_cream_de.mp3,ice_cream_sw.mp3
-water,vatten,water,Wasser,maji,1,water.png,water_sv.mp3,water_en.mp3,water_de.mp3,water_sw.mp3
-tomato,tomat,tomato,Tomate,nyanya,2,tomato.png,tomato_sv.mp3,tomato_en.mp3,tomato_de.mp3,tomato_sw.mp3
-cucumber,gurka,cucumber,Gurke,tango,2,cucumber.png,cucumber_sv.mp3,cucumber_en.mp3,cucumber_de.mp3,cucumber_sw.mp3
-pizza,pizza,pizza,Pizza,piza,1,pizza.png,pizza_sv.mp3,pizza_en.mp3,pizza_de.mp3,pizza_sw.mp3
-pineapple,ananas,pineapple,Ananas,nanasi,1,pineapple.png,pineapple_sv.mp3,pineapple_en.mp3,pineapple_de.mp3,pineapple_sw.mp3
-apricot,aprikos,apricot,Aprikose,aprikoti,2,apricot.png,apricot_sv.mp3,apricot_en.mp3,apricot_de.mp3,apricot_sw.mp3
-avocado,avokado,avocado,Avocado,parachichi,2,avocado.png,avocado_sv.mp3,avocado_en.mp3,avocado_de.mp3,avocado_sw.mp3
-lemon,citron,lemon,Zitrone,limau,1,lemon.png,lemon_sv.mp3,lemon_en.mp3,lemon_de.mp3,lemon_sw.mp3
-raspberry,hallon,raspberry,Himbeere,,1,raspberry.png,raspberry_sv.mp3,raspberry_en.mp3,raspberry_de.mp3,
-cherry,körsbär,cherry,Kirsche,cheri,1,cherry.png,cherry_sv.mp3,cherry_en.mp3,cherry_de.mp3,cherry_sw.mp3
-peach,persika,peach,Pfirsich,pichi,2,peach.png,peach_sv.mp3,peach_en.mp3,peach_de.mp3,peach_sw.mp3
-corn,majs,corn,Mais,mahindi,1,corn.png,corn_sv.mp3,corn_en.mp3,corn_de.mp3,corn_sw.mp3
-onion,lök,onion,Zwiebel,kitunguu,1,onion.png,onion_sv.mp3,onion_en.mp3,onion_de.mp3,onion_sw.mp3
-cabbage,kål,cabbage,Kohl,kabichi,2,cabbage.png,cabbage_sv.mp3,cabbage_en.mp3,cabbage_de.mp3,cabbage_sw.mp3
-rice,ris,rice,Reis,mchele,1,rice.png,rice_sv.mp3,rice_en.mp3,rice_de.mp3,rice_sw.mp3
-soup,soppa,soup,Suppe,supu,1,soup.png,soup_sv.mp3,soup_en.mp3,soup_de.mp3,soup_sw.mp3
-butter,smör,butter,Butter,siagi,1,butter.png,butter_sv.mp3,butter_en.mp3,butter_de.mp3,butter_sw.mp3
-sugar,socker,sugar,Zucker,sukari,2,sugar.png,sugar_sv.mp3,sugar_en.mp3,sugar_de.mp3,sugar_sw.mp3
-honey,honung,honey,Honig,asali,1,honey.png,honey_sv.mp3,honey_en.mp3,honey_de.mp3,honey_sw.mp3
-meat,kött,meat,Fleisch,nyama,2,meat.png,meat_sv.mp3,meat_en.mp3,meat_de.mp3,meat_sw.mp3
-meatballs,köttbullar,meatballs,Frikadellen,kababu,1,meatballs.png,meatballs_sv.mp3,meatballs_en.mp3,meatballs_de.mp3,meatballs_sw.mp3
-tea,te,tea,Tee,chai,2,tea.png,tea_sv.mp3,tea_en.mp3,tea_de.mp3,tea_sw.mp3
-salad,sallad,salad,Salat,saladi,2,salad.png,salad_sv.mp3,salad_en.mp3,salad_de.mp3,salad_sw.mp3
-beetroot,rödbeta,beetroot,Rote Bete,kiazi sukari,2,beetroot.png,beetroot_sv.mp3,beetroot_en.mp3,beetroot_de.mp3,beetroot_sw.mp3
-asparagus,sparris,asparagus,Spargel,,2,asparagus.png,asparagus_sv.mp3,asparagus_en.mp3,asparagus_de.mp3,
-spinach,spenat,spinach,Spinat,mchicha,2,spinach.png,spinach_sv.mp3,spinach_en.mp3,spinach_de.mp3,spinach_sw.mp3
-flour,mjöl,flour,Mehl,unga,2,flour.png,flour_sv.mp3,flour_en.mp3,flour_de.mp3,flour_sw.mp3
-berries,bär,berries,Beeren,,2,berries.png,berries_sv.mp3,berries_en.mp3,berries_de.mp3,
-chocolate,choklad,chocolate,Schokolade,chokoleti,1,chocolate.png,chocolate_sv.mp3,chocolate_en.mp3,chocolate_de.mp3,chocolate_sw.mp3
-sausage,korv,sausage,Wurst,soseji,1,sausage.png,sausage_sv.mp3,sausage_en.mp3,sausage_de.mp3,sausage_sw.mp3
-pasta,pasta,pasta,Nudeln,tambi,1,pasta.png,pasta_sv.mp3,pasta_en.mp3,pasta_de.mp3,pasta_sw.mp3
-peanut,jordnöt,peanut,Erdnuss,karanga,1,peanut.png,peanut_sv.mp3,peanut_en.mp3,peanut_de.mp3,peanut_sw.mp3
-walnut,valnöt,walnut,Walnuss,jozi,2,walnut.png,walnut_sv.mp3,walnut_en.mp3,walnut_de.mp3,walnut_sw.mp3
-almond,mandel,almond,Mandel,lozi,2,almond.png,almond_sv.mp3,almond_en.mp3,almond_de.mp3,almond_sw.mp3
-breakfast,frukost,breakfast,Frühstück,kifungua kinywa,1,breakfast.png,breakfast_sv.mp3,breakfast_en.mp3,breakfast_de.mp3,breakfast_sw.mp3
-lunch,lunch,lunch,Mittagessen,chakula cha mchana,1,lunch.png,lunch_sv.mp3,lunch_en.mp3,lunch_de.mp3,lunch_sw.mp3
-dinner,middag,dinner,Abendessen,chakula cha jioni,1,dinner.png,dinner_sv.mp3,dinner_en.mp3,dinner_de.mp3,dinner_sw.mp3
-ginger,ingefära,ginger,Ingwer,tangawizi,2,ginger.png,ginger_sv.mp3,ginger_en.mp3,ginger_de.mp3,ginger_sw.mp3
-cinnamon,kanel,cinnamon,Zimt,mdalasini,2,cinnamon.png,cinnamon_sv.mp3,cinnamon_en.mp3,cinnamon_de.mp3,cinnamon_sw.mp3
-croissant,croissant,croissant,Croissant,,2,croissant.png,croissant_sv.mp3,croissant_en.mp3,croissant_de.mp3,
-artichoke,kronärtskocka,artichoke,die Artischocke,,2,artichoke.png,artichoke_sv.mp3,artichoke_en.mp3,artichoke_de.mp3,
-cream,grädde,cream,die Sahne,krimu,2,cream.png,cream_sv.mp3,cream_en.mp3,cream_de.mp3,cream_sw.mp3
-peas,ärt,peas,Erbsen,njegere,2,peas.png,peas_sv.mp3,peas_en.mp3,peas_de.mp3,peas_sw.mp3
-salt,salt,salt,Salz,chumvi,2,salt.png,salt_sv.mp3,salt_en.mp3,salt_de.mp3,salt_sw.mp3
-mozzarella,mozzarella,mozzarella,Mozzarella,,2,mozzarella.png,mozzarella_sv.mp3,mozzarella_en.mp3,mozzarella_de.mp3,
-passion_fruit,passionsfrukt,passion fruit,Passionsfrucht,pasheni,2,passion_fruit.png,passion_fruit_sv.mp3,passion_fruit_en.mp3,passion_fruit_de.mp3,passion_fruit_sw.mp3
-fruit,frukt,fruit,das Obst,tunda,2,fruit.png,fruit_sv.mp3,fruit_en.mp3,fruit_de.mp3,fruit_sw.mp3
-vegetable,grönsak,vegetable,das Gemüse,mboga,2,vegetable.png,vegetable_sv.mp3,vegetable_en.mp3,vegetable_de.mp3,vegetable_sw.mp3
-rice_pudding,risgrynsgröt,rice pudding,Milchreis,,2,rice_pudding.png,rice_pudding_sv.mp3,rice_pudding_en.mp3,rice_pudding_de.mp3,
-sweet_potato,sötpotatis,sweet potato,Süßkartoffel,kiazi kitamu,2,sweet_potato.png,sweet_potato_sv.mp3,sweet_potato_en.mp3,sweet_potato_de.mp3,sweet_potato_sw.mp3
-meringue,maräng,meringue,Baiser,,2,meringue.png,meringue_sv.mp3,meringue_en.mp3,meringue_de.mp3,
-vinegar,vinäger,vinegar,der Essig,siki,2,vinegar.png,vinegar_sv.mp3,vinegar_en.mp3,vinegar_de.mp3,vinegar_sw.mp3
-oil,olja,oil,das Öl,mafuta,2,oil.png,oil_sv.mp3,oil_en.mp3,oil_de.mp3,oil_sw.mp3
-chilli,chilipeppar,chilli,Chili,pilipili,2,chilli.png,chilli_sv.mp3,chilli_en.mp3,chilli_de.mp3,chilli_sw.mp3
-tofu,tofu,tofu,Tofu,,2,tofu.png,tofu_sv.mp3,tofu_en.mp3,tofu_de.mp3,
-sandwich,,sandwich,Sandwich,sandwichi,2,sandwich.png,,sandwich_en.mp3,sandwich_de.mp3,sandwich_sw.mp3
-donut,,donut,Donut,maandazi,2,donut.png,,donut_en.mp3,donut_de.mp3,donut_sw.mp3
-spaghetti,,spaghetti,Spaghetti,,2,spaghetti.png,,spaghetti_en.mp3,spaghetti_de.mp3,
-cookies,,cookies,Kekse,biskuti,2,cookies.png,,cookies_en.mp3,cookies_de.mp3,cookies_sw.mp3
-ice_cream_cone,,ice cream cone,Eiswaffel,,2,ice_cream_cone.png,,ice_cream_cone_en.mp3,ice_cream_cone_de.mp3,
-hamburger,,hamburger,Hamburger,hambaga,2,hamburger.png,,hamburger_en.mp3,hamburger_de.mp3,hamburger_sw.mp3
-ham,,ham,Schinken,,2,ham.png,,ham_en.mp3,ham_de.mp3,
-melon,,melon,die Melone,,2,melon.png,,melon_en.mp3,melon_de.mp3,
-jam,,jam,die Marmelade,,2,jam.png,,jam_en.mp3,jam_de.mp3,
-water_melon,,water melon,die Wassermelone,tikiti maji,2,water_melon.png,,water_melon_en.mp3,water_melon_de.mp3,water_melon_sw.mp3
-yogurt,,yogurt,der Joghurt,mtindi,2,yogurt.png,,yogurt_en.mp3,yogurt_de.mp3,yogurt_sw.mp3
-orange_juice,,orange juice,Orangensaft,,2,orange_juice.png,,orange_juice_en.mp3,orange_juice_de.mp3,
-aubergine,,aubergine,Aubergine,biringani,2,aubergine.png,,aubergine_en.mp3,aubergine_de.mp3,aubergine_sw.mp3
-courgette,,courgette,Zucchini,,2,courgette.png,,courgette_en.mp3,courgette_de.mp3,
-pumpkin,,pumpkin,Kürbis,boga,2,pumpkin.png,,pumpkin_en.mp3,pumpkin_de.mp3,pumpkin_sw.mp3
-lollipop,,lollipop,Lutscher,,2,lollipop.png,,lollipop_en.mp3,lollipop_de.mp3,
-kiwi,,kiwi,Kiwi,,2,kiwi.png,,kiwi_en.mp3,kiwi_de.mp3,
-fig,,fig,die Feige,tini,2,fig.png,,fig_en.mp3,fig_de.mp3,fig_sw.mp3
-hazelnut,,hazelnut,die Haselnuss,,2,hazelnut.png,,hazelnut_en.mp3,hazelnut_de.mp3,
-popcorn,,popcorn,Popcorn,bisi,2,popcorn.png,,popcorn_en.mp3,popcorn_de.mp3,popcorn_sw.mp3
-ketchup,,ketchup,Ketchup,,2,ketchup.png,,ketchup_en.mp3,ketchup_de.mp3,
-lemonade,,lemonade,Limonade,,2,lemonade.png,,lemonade_en.mp3,lemonade_de.mp3,
-fish_stick,,fish stick,Fischstäbchen,,2,fish_stick.png,,fish_stick_en.mp3,fish_stick_de.mp3,
-wheat,,wheat,Weizen,ngano,2,wheat.png,,wheat_en.mp3,wheat_de.mp3,wheat_sw.mp3
-yolk,,yolk,Eigelb,kiini,2,yolk.png,,yolk_en.mp3,yolk_de.mp3,yolk_sw.mp3
-sponge_cake,,sponge cake,Kuchen,,2,sponge_cake.png,,sponge_cake_en.mp3,sponge_cake_de.mp3,
-chestnut,,chestnut,Kastanie,,2,chestnut.png,,chestnut_en.mp3,chestnut_de.mp3,
-plum,,plum,Pflaume,plamu,2,plum.png,,plum_en.mp3,plum_de.mp3,plum_sw.mp3
-olive,,olive,die Olive,zeituni,2,olive.png,,olive_en.mp3,olive_de.mp3,olive_sw.mp3
-bean,,bean,Bohne,haragwe,2,bean.png,,bean_en.mp3,bean_de.mp3,bean_sw.mp3
-green_bean,,green bean,die grüne Bohne,,2,green_bean.png,,green_bean_en.mp3,green_bean_de.mp3,
-macaroni,,macaroni,Makkaroni,makaroni,2,macaroni.png,,macaroni_en.mp3,macaroni_de.mp3,macaroni_sw.mp3
-celery,,celery,Sellerie,,2,celery.png,,celery_en.mp3,celery_de.mp3,
-cupcake,,cupcake,Muffin,,2,cupcake.png,,cupcake_en.mp3,cupcake_de.mp3,
-radish,,radish,Radieschen,figili,2,radish.png,,radish_en.mp3,radish_de.mp3,radish_sw.mp3
-chewing_gum,,chewing gum,Kaugummi,,2,chewing_gum.png,,chewing_gum_en.mp3,chewing_gum_de.mp3,
-lasagna,,lasagna,Lasagne,,2,lasagna.png,,lasagna_en.mp3,lasagna_de.mp3,
-apple_pie,,apple pie,Apfelkuchen,,2,apple_pie.png,,apple_pie_en.mp3,apple_pie_de.mp3,
-mushroom,,mushroom,der Pilz,uyoga,2,mushroom.png,,mushroom_en.mp3,mushroom_de.mp3,mushroom_sw.mp3
-coconut,,coconut,die Kokosnuss,nazi,2,coconut.png,,coconut_en.mp3,coconut_de.mp3,coconut_sw.mp3
-bread_roll,fralla,bread roll,Brötchen,,2,bread_roll.png,bread_roll_sv.mp3,bread_roll_en.mp3,bread_roll_de.mp3,
-cotton_candy,,cotton candy,Zuckerwatte,,2,cotton_candy.png,,cotton_candy_en.mp3,cotton_candy_de.mp3,
-mandarin,,mandarin,Mandarine,chenza,2,mandarin.png,,mandarin_en.mp3,mandarin_de.mp3,mandarin_sw.mp3
-easter_egg,,Easter egg,Osterei,,2,easter_egg.png,,easter_egg_en.mp3,easter_egg_de.mp3,
-apple_juice,,apple juice,der Apfelsaft,,2,apple_juice.png,,apple_juice_en.mp3,apple_juice_de.mp3,
-grapefruit,,grapefruit,Grapefruit,balungi,2,grapefruit.png,,grapefruit_en.mp3,grapefruit_de.mp3,grapefruit_sw.mp3
-caramel,,caramel,Bonbon,,2,caramel.png,,caramel_en.mp3,caramel_de.mp3,
-lime,lime,lime,Limette,ndimu,2,lime.png,lime_sv.mp3,lime_en.mp3,lime_de.mp3,lime_sw.mp3
-mango,,mango,Mango,embe,2,mango.png,,mango_en.mp3,mango_de.mp3,mango_sw.mp3
-nuts,,nuts,Nüsse,,2,nuts.png,,nuts_en.mp3,nuts_de.mp3,
-hot_chocolate,,hot chocolate,der Kakao,kakao,2,hot_chocolate.png,,hot_chocolate_en.mp3,hot_chocolate_de.mp3,hot_chocolate_sw.mp3
-cauliflower,,cauliflower,der Blumenkohl,koliflawa,2,cauliflower.png,,cauliflower_en.mp3,cauliflower_de.mp3,cauliflower_sw.mp3
-brussels_sprout,,Brussels sprout,Rosenkohl,,2,brussels_sprout.png,,brussels_sprout_en.mp3,brussels_sprout_de.mp3,
-broccoli,,broccoli,Brokkoli,brokoli,2,broccoli.png,,broccoli_en.mp3,broccoli_de.mp3,broccoli_sw.mp3
-liquorice,,liquorice,Lakritz,,2,liquorice.png,,liquorice_en.mp3,liquorice_de.mp3,
-noodles,,noodles,,,2,noodles.png,,noodles_en.mp3,,
-chocolate_cake,,chocolate cake,Schokoladenkuchen,,2,chocolate_cake.png,,chocolate_cake_en.mp3,chocolate_cake_de.mp3,
-waffle,,waffle,Waffel,,2,waffle.png,,waffle_en.mp3,waffle_de.mp3,
-candy_cane,,candy cane,Zuckerstange,,2,candy_cane.png,,candy_cane_en.mp3,candy_cane_de.mp3,
-blueberry,,blueberry,Blaubeere,,2,blueberry.png,,blueberry_en.mp3,blueberry_de.mp3,
-pancakes,,pancakes,Pfannkuchen,,2,pancakes.png,,pancakes_en.mp3,pancakes_de.mp3,
-peanut_butter,,peanut butter,Erdnussbutter,,2,peanut_butter.png,,peanut_butter_en.mp3,peanut_butter_de.mp3,
-bagel,,bagel,Bagel,,2,bagel.png,,bagel_en.mp3,bagel_de.mp3,
-sushi,,sushi,Sushi,,2,sushi.png,,sushi_en.mp3,sushi_de.mp3,
-pretzel,,pretzel,Brezel,,2,pretzel.png,,pretzel_en.mp3,pretzel_de.mp3,
-taco,,taco,Taco,,2,taco.png,,taco_en.mp3,taco_de.mp3,
-cinnamon_roll,kanelbulle,,Zimtschnecke,,2,cinnamon_roll.png,cinnamon_roll_sv.mp3,,cinnamon_roll_de.mp3,
-gingerbread_cookie,pepparkaka,,Lebkuchen,,2,gingerbread_cookie.png,gingerbread_cookie_sv.mp3,,gingerbread_cookie_de.mp3,
-cake,,cake,Torte,keki,1,cake.png,,cake_en.mp3,cake_de.mp3,cake_sw.mp3
-grapes,,grapes,Weintrauben,zabibu,1,grapes.png,,grapes_en.mp3,grapes_de.mp3,grapes_sw.mp3
-dough,,dough,der Teig,,2,dough.png,,dough_en.mp3,dough_de.mp3,
-coffee,kaffe,coffee,der Kaffee,kahawa,2,coffee.png,coffee_sv.mp3,coffee_en.mp3,coffee_de.mp3,coffee_sw.mp3
-juice,,juice,der Saft,juisi,1,juice.png,,juice_en.mp3,juice_de.mp3,juice_sw.mp3
-fried_egg,,fried egg,das Spiegelei,,1,fried_egg.png,,fried_egg_en.mp3,fried_egg_de.mp3,
-garlic,vitlök,garlic,der Knoblauch,kitunguu saumu,2,garlic.png,garlic_sv.mp3,garlic_en.mp3,garlic_de.mp3,garlic_sw.mp3
-lentils,,,Linsen,dengu,2,lentils.png,,,lentils_de.mp3,lentils_sw.mp3
-leek,,leek,der Lauch,,2,leek.png,,leek_en.mp3,leek_de.mp3,
-gherkin,,gherkin,Essiggurke,,2,gherkin.png,,gherkin_en.mp3,gherkin_de.mp3,
-sweets,,sweets,Süßigkeiten,peremende,1,sweets.png,,sweets_en.mp3,sweets_de.mp3,sweets_sw.mp3
-toast,rostat bröd,toast,Toast,,1,toast.png,toast_sv.mp3,toast_en.mp3,toast_de.mp3,
-biscuit,,biscuit,Keks,,1,biscuit.png,,biscuit_en.mp3,biscuit_de.mp3,
-chips,pommes frites,chips,Pommes frites,chipsi,1,chips.png,chips_sv.mp3,chips_en.mp3,chips_de.mp3,chips_sw.mp3
-hot_dog,,hot dog,Hotdog,,1,hot_dog.png,,hot_dog_en.mp3,hot_dog_de.mp3,
-omelette,,omelette,Omelett,kimanda,2,omelette.png,,omelette_en.mp3,omelette_de.mp3,omelette_sw.mp3
-bell_pepper,,pepper,die Paprika,pilipili hoho,1,bell_pepper.png,,bell_pepper_en.mp3,bell_pepper_de.mp3,bell_pepper_sw.mp3
-papaya,,,Papaya,papai,2,papaya.png,,,papaya_de.mp3,papaya_sw.mp3
-raisins,,,Rosinen,,2,raisins.png,,,raisins_de.mp3,
-cheesecake,ostkaka,cheesecake,Käsekuchen,,2,cheesecake.png,cheesecake_sv.mp3,cheesecake_en.mp3,cheesecake_de.mp3,
-parsley,,parsley,die Petersilie,,2,parsley.png,,parsley_en.mp3,parsley_de.mp3,
-mint,,mint,die Minze,nanaa,2,mint.png,,mint_en.mp3,mint_de.mp3,mint_sw.mp3
-barbecue,,barbecue,Grillen,,2,barbecue.png,,barbecue_en.mp3,barbecue_de.mp3,
-chicken_soup,,chicken soup,Hühnersuppe,,2,chicken_soup.png,,chicken_soup_en.mp3,chicken_soup_de.mp3,
-chicken_wings,,,Hähnchenflügel,,2,chicken_wings.png,,,chicken_wings_de.mp3,
-chickpeas,,chickpeas,Kichererbsen,,2,chickpeas.png,,chickpeas_en.mp3,chickpeas_de.mp3,
-fruit_salad,,fruit salad,Obstsalat,,2,fruit_salad.png,,fruit_salad_en.mp3,fruit_salad_de.mp3,
-guacamole,,guacamole,Guacamole,,2,guacamole.png,,guacamole_en.mp3,guacamole_de.mp3,
-scrambled_eggs,,,Rührei,,2,scrambled_eggs.png,,,scrambled_eggs_de.mp3,
-steak,,steak,Rindersteak,steki,2,steak.png,,steak_en.mp3,steak_de.mp3,steak_sw.mp3
-stew,,stew,Gulasch,,2,stew.png,,stew_en.mp3,stew_de.mp3,
-roast_turkey,,,Braten,,2,roast_turkey.png,,,roast_turkey_de.mp3,
-burrito,,burrito,Burrito,,2,burrito.png,,burrito_en.mp3,burrito_de.mp3,
-couscous,,couscous,Couscous,,2,couscous.png,,couscous_en.mp3,couscous_de.mp3,
-falafel,,falafel,Falafel,,2,falafel.png,,falafel_en.mp3,falafel_de.mp3,
-hummus,,hummus,Hummus,,2,hummus.png,,hummus_en.mp3,hummus_de.mp3,
-paella,,paella,Paella,,2,paella.png,,paella_en.mp3,paella_de.mp3,
-cereals,,,Cornflakes,,2,cereals.png,,,cereals_de.mp3,
-cracker,,cracker,Cracker,,2,cracker.png,,cracker_en.mp3,cracker_de.mp3,
-breadstick,,breadstick,,,2,breadstick.png,,breadstick_en.mp3,,
-nachos,,nachos,Nachos,,2,nachos.png,,nachos_en.mp3,nachos_de.mp3,
-tomato_sauce,,tomato sauce,Tomatensoße,sosi ya nyanya,2,tomato_sauce.png,,tomato_sauce_en.mp3,tomato_sauce_de.mp3,tomato_sauce_sw.mp3
-milkshake,,milkshake,Milchshake,,2,milkshake.png,,milkshake_en.mp3,milkshake_de.mp3,
-soda,,soda,Sprudel,soda,2,soda.png,,soda_en.mp3,soda_de.mp3,soda_sw.mp3
-chocolates,,bonbons,Pralinen,,2,chocolates.png,,chocolates_en.mp3,chocolates_de.mp3,
-crepe,,crepe,Crêpe,,2,crepe.png,,crepe_en.mp3,crepe_de.mp3,
-lettuce,,lettuce,Kopfsalat,,2,lettuce.png,,lettuce_en.mp3,lettuce_de.mp3,
-broad_bean,,broad bean,Ackerbohne,,2,broad_bean.png,,broad_bean_en.mp3,broad_bean_de.mp3,
-cassava,,cassava,Maniok,muhogo,2,cassava.png,,cassava_en.mp3,cassava_de.mp3,cassava_sw.mp3
-spring_onion,,spring onion,Frühlingszwiebel,,2,spring_onion.png,,spring_onion_en.mp3,spring_onion_de.mp3,
-okra,,okra,Okra,bamia,2,okra.png,,okra_en.mp3,okra_de.mp3,okra_sw.mp3
-yam,,yam,Yamswurzel,kiazi kikuu,2,yam.png,,yam_en.mp3,yam_de.mp3,yam_sw.mp3
-blackberries,,,Brombeeren,,2,blackberries.png,,,blackberries_de.mp3,
-dates,,dates,Datteln,,2,dates.png,,dates_en.mp3,dates_de.mp3,
-guava,,guava,Guave,pera,2,guava.png,,guava_en.mp3,guava_de.mp3,guava_sw.mp3
-nectarine,,nectarine,Nektarine,,2,nectarine.png,,nectarine_en.mp3,nectarine_de.mp3,
-plantain,,plantain,Kochbanane,,2,plantain.png,,plantain_en.mp3,plantain_de.mp3,
-cashew_nuts,,,,korosho,2,cashew_nuts.png,,,,cashew_nuts_sw.mp3
-pistachios,,pistachios,Pistazien,,2,pistachios.png,,pistachios_en.mp3,pistachios_de.mp3,
-pumpkin_seeds,,,Kürbiskerne,,2,pumpkin_seeds.png,,,pumpkin_seeds_de.mp3,
-whipped_cream,,whipped cream,Schlagsahne,,2,whipped_cream.png,,whipped_cream_en.mp3,whipped_cream_de.mp3,
-gelatine,gelatin,gelatine,Gelatine,,2,gelatine.png,gelatine_sv.mp3,gelatine_en.mp3,gelatine_de.mp3,
-creme_caramel,,,Karamellpudding,,2,creme_caramel.png,,,creme_caramel_de.mp3,
-vanilla,,vanilla,Vanille,,2,vanilla.png,,vanilla_en.mp3,vanilla_de.mp3,
-gummies,,,Weingummi,,2,gummies.png,,,gummies_de.mp3,
-mayonnaise,,mayonnaise,Mayonnaise,,2,mayonnaise.png,,mayonnaise_en.mp3,mayonnaise_de.mp3,
-basil,,basil,Basilikum,mrehani,2,basil.png,,basil_en.mp3,basil_de.mp3,basil_sw.mp3
-rosemary,,rosemary,Rosmarin,,2,rosemary.png,,rosemary_en.mp3,rosemary_de.mp3,
-camomile,,camomile,Kamille,,2,camomile.png,,camomile_en.mp3,camomile_de.mp3,
-honeycomb,,honeycomb,Honigwabe,,2,honeycomb.png,,honeycomb_en.mp3,honeycomb_de.mp3,
+id,sv,en,de,sw,es,fr,level,image,audio_sv,audio_en,audio_de,audio_sw,audio_es,audio_fr
+apple,äpple,apple,Apfel,tufaha,manzana,pomme,1,apple.png,apple_sv.mp3,apple_en.mp3,apple_de.mp3,apple_sw.mp3,apple_es.mp3,apple_fr.mp3
+banana,banan,banana,Banane,ndizi,plátano,banane,1,banana.png,banana_sv.mp3,banana_en.mp3,banana_de.mp3,banana_sw.mp3,banana_es.mp3,banana_fr.mp3
+orange,apelsin,orange,Orange,chungwa,naranja,orange,1,orange.png,orange_sv.mp3,orange_en.mp3,orange_de.mp3,orange_sw.mp3,orange_es.mp3,orange_fr.mp3
+pear,päron,pear,Birne,,pera,poire,1,pear.png,pear_sv.mp3,pear_en.mp3,pear_de.mp3,,pear_es.mp3,pear_fr.mp3
+strawberry,jordgubbe,strawberry,Erdbeere,stroberi,fresa,fraise,1,strawberry.png,strawberry_sv.mp3,strawberry_en.mp3,strawberry_de.mp3,strawberry_sw.mp3,strawberry_es.mp3,strawberry_fr.mp3
+carrot,morot,carrot,Karotte,karoti,zanahoria,carotte,1,carrot.png,carrot_sv.mp3,carrot_en.mp3,carrot_de.mp3,carrot_sw.mp3,carrot_es.mp3,carrot_fr.mp3
+potato,potatis,potato,Kartoffel,kiazi,patata,pomme de terre,1,potato.png,potato_sv.mp3,potato_en.mp3,potato_de.mp3,potato_sw.mp3,potato_es.mp3,potato_fr.mp3
+bread,bröd,bread,Brot,mkate,pan,pain,1,bread.png,bread_sv.mp3,bread_en.mp3,bread_de.mp3,bread_sw.mp3,bread_es.mp3,bread_fr.mp3
+milk,mjölk,milk,Milch,maziwa,leche,lait,1,milk.png,milk_sv.mp3,milk_en.mp3,milk_de.mp3,milk_sw.mp3,milk_es.mp3,milk_fr.mp3
+egg,ägg,egg,Ei,yai,huevo,œuf,1,egg.png,egg_sv.mp3,egg_en.mp3,egg_de.mp3,egg_sw.mp3,egg_es.mp3,egg_fr.mp3
+cheese,ost,cheese,Käse,jibini,queso,fromage,1,cheese.png,cheese_sv.mp3,cheese_en.mp3,cheese_de.mp3,cheese_sw.mp3,cheese_es.mp3,cheese_fr.mp3
+ice_cream,glass,ice cream,Eis,aiskrimu,helado,glace,1,ice_cream.png,ice_cream_sv.mp3,ice_cream_en.mp3,ice_cream_de.mp3,ice_cream_sw.mp3,ice_cream_es.mp3,ice_cream_fr.mp3
+water,vatten,water,Wasser,maji,agua,eau,1,water.png,water_sv.mp3,water_en.mp3,water_de.mp3,water_sw.mp3,water_es.mp3,water_fr.mp3
+tomato,tomat,tomato,Tomate,nyanya,tomate,tomate,2,tomato.png,tomato_sv.mp3,tomato_en.mp3,tomato_de.mp3,tomato_sw.mp3,tomato_es.mp3,tomato_fr.mp3
+cucumber,gurka,cucumber,Gurke,tango,pepino,concombre,2,cucumber.png,cucumber_sv.mp3,cucumber_en.mp3,cucumber_de.mp3,cucumber_sw.mp3,cucumber_es.mp3,cucumber_fr.mp3
+pizza,pizza,pizza,Pizza,piza,pizza,pizza,1,pizza.png,pizza_sv.mp3,pizza_en.mp3,pizza_de.mp3,pizza_sw.mp3,pizza_es.mp3,pizza_fr.mp3
+pineapple,ananas,pineapple,Ananas,nanasi,piña,ananas,1,pineapple.png,pineapple_sv.mp3,pineapple_en.mp3,pineapple_de.mp3,pineapple_sw.mp3,pineapple_es.mp3,pineapple_fr.mp3
+apricot,aprikos,apricot,Aprikose,aprikoti,albaricoque,abricot,2,apricot.png,apricot_sv.mp3,apricot_en.mp3,apricot_de.mp3,apricot_sw.mp3,apricot_es.mp3,apricot_fr.mp3
+avocado,avokado,avocado,Avocado,parachichi,aguacate,avocat,2,avocado.png,avocado_sv.mp3,avocado_en.mp3,avocado_de.mp3,avocado_sw.mp3,avocado_es.mp3,avocado_fr.mp3
+lemon,citron,lemon,Zitrone,limau,limón,citron,1,lemon.png,lemon_sv.mp3,lemon_en.mp3,lemon_de.mp3,lemon_sw.mp3,lemon_es.mp3,lemon_fr.mp3
+raspberry,hallon,raspberry,Himbeere,,frambuesa,framboise,1,raspberry.png,raspberry_sv.mp3,raspberry_en.mp3,raspberry_de.mp3,,raspberry_es.mp3,raspberry_fr.mp3
+cherry,körsbär,cherry,Kirsche,cheri,cereza,cerise,1,cherry.png,cherry_sv.mp3,cherry_en.mp3,cherry_de.mp3,cherry_sw.mp3,cherry_es.mp3,cherry_fr.mp3
+peach,persika,peach,Pfirsich,pichi,melocotón,pêche,2,peach.png,peach_sv.mp3,peach_en.mp3,peach_de.mp3,peach_sw.mp3,peach_es.mp3,peach_fr.mp3
+corn,majs,corn,Mais,mahindi,maíz,maïs,1,corn.png,corn_sv.mp3,corn_en.mp3,corn_de.mp3,corn_sw.mp3,corn_es.mp3,corn_fr.mp3
+onion,lök,onion,Zwiebel,kitunguu,cebolla,oignon,1,onion.png,onion_sv.mp3,onion_en.mp3,onion_de.mp3,onion_sw.mp3,onion_es.mp3,onion_fr.mp3
+cabbage,kål,cabbage,Kohl,kabichi,col,chou,2,cabbage.png,cabbage_sv.mp3,cabbage_en.mp3,cabbage_de.mp3,cabbage_sw.mp3,cabbage_es.mp3,cabbage_fr.mp3
+rice,ris,rice,Reis,mchele,arroz,riz,1,rice.png,rice_sv.mp3,rice_en.mp3,rice_de.mp3,rice_sw.mp3,rice_es.mp3,rice_fr.mp3
+soup,soppa,soup,Suppe,supu,sopa,soupe,1,soup.png,soup_sv.mp3,soup_en.mp3,soup_de.mp3,soup_sw.mp3,soup_es.mp3,soup_fr.mp3
+butter,smör,butter,Butter,siagi,mantequilla,beurre,1,butter.png,butter_sv.mp3,butter_en.mp3,butter_de.mp3,butter_sw.mp3,butter_es.mp3,butter_fr.mp3
+sugar,socker,sugar,Zucker,sukari,azúcar,sucre,2,sugar.png,sugar_sv.mp3,sugar_en.mp3,sugar_de.mp3,sugar_sw.mp3,sugar_es.mp3,sugar_fr.mp3
+honey,honung,honey,Honig,asali,miel,miel,1,honey.png,honey_sv.mp3,honey_en.mp3,honey_de.mp3,honey_sw.mp3,honey_es.mp3,honey_fr.mp3
+meat,kött,meat,Fleisch,nyama,carne,viande,2,meat.png,meat_sv.mp3,meat_en.mp3,meat_de.mp3,meat_sw.mp3,meat_es.mp3,meat_fr.mp3
+meatballs,köttbullar,meatballs,Frikadellen,kababu,,boulettes,1,meatballs.png,meatballs_sv.mp3,meatballs_en.mp3,meatballs_de.mp3,meatballs_sw.mp3,,meatballs_fr.mp3
+tea,te,tea,Tee,chai,té,thé,2,tea.png,tea_sv.mp3,tea_en.mp3,tea_de.mp3,tea_sw.mp3,tea_es.mp3,tea_fr.mp3
+salad,sallad,salad,Salat,saladi,ensalada,salade,2,salad.png,salad_sv.mp3,salad_en.mp3,salad_de.mp3,salad_sw.mp3,salad_es.mp3,salad_fr.mp3
+beetroot,rödbeta,beetroot,Rote Bete,kiazi sukari,remolacha,betterave,2,beetroot.png,beetroot_sv.mp3,beetroot_en.mp3,beetroot_de.mp3,beetroot_sw.mp3,beetroot_es.mp3,beetroot_fr.mp3
+asparagus,sparris,asparagus,Spargel,,,asperge,2,asparagus.png,asparagus_sv.mp3,asparagus_en.mp3,asparagus_de.mp3,,,asparagus_fr.mp3
+spinach,spenat,spinach,Spinat,mchicha,espinaca,épinard,2,spinach.png,spinach_sv.mp3,spinach_en.mp3,spinach_de.mp3,spinach_sw.mp3,spinach_es.mp3,spinach_fr.mp3
+flour,mjöl,flour,Mehl,unga,harina,farine,2,flour.png,flour_sv.mp3,flour_en.mp3,flour_de.mp3,flour_sw.mp3,flour_es.mp3,flour_fr.mp3
+berries,bär,berries,Beeren,,,baies,2,berries.png,berries_sv.mp3,berries_en.mp3,berries_de.mp3,,,berries_fr.mp3
+chocolate,choklad,chocolate,Schokolade,chokoleti,chocolate,chocolat,1,chocolate.png,chocolate_sv.mp3,chocolate_en.mp3,chocolate_de.mp3,chocolate_sw.mp3,chocolate_es.mp3,chocolate_fr.mp3
+sausage,korv,sausage,Wurst,soseji,salchicha,saucisse,1,sausage.png,sausage_sv.mp3,sausage_en.mp3,sausage_de.mp3,sausage_sw.mp3,sausage_es.mp3,sausage_fr.mp3
+pasta,pasta,pasta,Nudeln,tambi,pasta,pâtes,1,pasta.png,pasta_sv.mp3,pasta_en.mp3,pasta_de.mp3,pasta_sw.mp3,pasta_es.mp3,pasta_fr.mp3
+peanut,jordnöt,peanut,Erdnuss,karanga,cacahuete,cacahuète,1,peanut.png,peanut_sv.mp3,peanut_en.mp3,peanut_de.mp3,peanut_sw.mp3,peanut_es.mp3,peanut_fr.mp3
+walnut,valnöt,walnut,Walnuss,jozi,nuez,noix,2,walnut.png,walnut_sv.mp3,walnut_en.mp3,walnut_de.mp3,walnut_sw.mp3,walnut_es.mp3,walnut_fr.mp3
+almond,mandel,almond,Mandel,lozi,almendra,amande,2,almond.png,almond_sv.mp3,almond_en.mp3,almond_de.mp3,almond_sw.mp3,almond_es.mp3,almond_fr.mp3
+breakfast,frukost,breakfast,Frühstück,kifungua kinywa,desayuno,petit déjeuner,1,breakfast.png,breakfast_sv.mp3,breakfast_en.mp3,breakfast_de.mp3,breakfast_sw.mp3,breakfast_es.mp3,breakfast_fr.mp3
+lunch,lunch,lunch,Mittagessen,chakula cha mchana,comida,déjeuner,1,lunch.png,lunch_sv.mp3,lunch_en.mp3,lunch_de.mp3,lunch_sw.mp3,lunch_es.mp3,lunch_fr.mp3
+dinner,middag,dinner,Abendessen,chakula cha jioni,cena,dîner,1,dinner.png,dinner_sv.mp3,dinner_en.mp3,dinner_de.mp3,dinner_sw.mp3,dinner_es.mp3,dinner_fr.mp3
+ginger,ingefära,ginger,Ingwer,tangawizi,jengibre,gingembre,2,ginger.png,ginger_sv.mp3,ginger_en.mp3,ginger_de.mp3,ginger_sw.mp3,ginger_es.mp3,ginger_fr.mp3
+cinnamon,kanel,cinnamon,Zimt,mdalasini,canela,cannelle,2,cinnamon.png,cinnamon_sv.mp3,cinnamon_en.mp3,cinnamon_de.mp3,cinnamon_sw.mp3,cinnamon_es.mp3,cinnamon_fr.mp3
+croissant,croissant,croissant,Croissant,,cruasán,croissant,2,croissant.png,croissant_sv.mp3,croissant_en.mp3,croissant_de.mp3,,croissant_es.mp3,croissant_fr.mp3
+artichoke,kronärtskocka,artichoke,die Artischocke,,alcachofa,artichaut,2,artichoke.png,artichoke_sv.mp3,artichoke_en.mp3,artichoke_de.mp3,,artichoke_es.mp3,artichoke_fr.mp3
+cream,grädde,cream,die Sahne,krimu,,crème,2,cream.png,cream_sv.mp3,cream_en.mp3,cream_de.mp3,cream_sw.mp3,,cream_fr.mp3
+peas,ärt,peas,Erbsen,njegere,arveja,petit pois,2,peas.png,peas_sv.mp3,peas_en.mp3,peas_de.mp3,peas_sw.mp3,peas_es.mp3,peas_fr.mp3
+salt,salt,salt,Salz,chumvi,sal,sel,2,salt.png,salt_sv.mp3,salt_en.mp3,salt_de.mp3,salt_sw.mp3,salt_es.mp3,salt_fr.mp3
+mozzarella,mozzarella,mozzarella,Mozzarella,,,mozzarella,2,mozzarella.png,mozzarella_sv.mp3,mozzarella_en.mp3,mozzarella_de.mp3,,,mozzarella_fr.mp3
+passion_fruit,passionsfrukt,passion fruit,Passionsfrucht,pasheni,,fruit de la passion,2,passion_fruit.png,passion_fruit_sv.mp3,passion_fruit_en.mp3,passion_fruit_de.mp3,passion_fruit_sw.mp3,,passion_fruit_fr.mp3
+fruit,frukt,fruit,das Obst,tunda,fruta,fruit,2,fruit.png,fruit_sv.mp3,fruit_en.mp3,fruit_de.mp3,fruit_sw.mp3,fruit_es.mp3,fruit_fr.mp3
+vegetable,grönsak,vegetable,das Gemüse,mboga,verdura,légumes,2,vegetable.png,vegetable_sv.mp3,vegetable_en.mp3,vegetable_de.mp3,vegetable_sw.mp3,vegetable_es.mp3,vegetable_fr.mp3
+rice_pudding,risgrynsgröt,rice pudding,Milchreis,,,riz au lait,2,rice_pudding.png,rice_pudding_sv.mp3,rice_pudding_en.mp3,rice_pudding_de.mp3,,,rice_pudding_fr.mp3
+sweet_potato,sötpotatis,sweet potato,Süßkartoffel,kiazi kitamu,boniato,patate douce,2,sweet_potato.png,sweet_potato_sv.mp3,sweet_potato_en.mp3,sweet_potato_de.mp3,sweet_potato_sw.mp3,sweet_potato_es.mp3,sweet_potato_fr.mp3
+meringue,maräng,meringue,Baiser,,,meringue,2,meringue.png,meringue_sv.mp3,meringue_en.mp3,meringue_de.mp3,,,meringue_fr.mp3
+vinegar,vinäger,vinegar,der Essig,siki,vinagre,vinaigre,2,vinegar.png,vinegar_sv.mp3,vinegar_en.mp3,vinegar_de.mp3,vinegar_sw.mp3,vinegar_es.mp3,vinegar_fr.mp3
+oil,olja,oil,das Öl,mafuta,aceite,huile,2,oil.png,oil_sv.mp3,oil_en.mp3,oil_de.mp3,oil_sw.mp3,oil_es.mp3,oil_fr.mp3
+chilli,chilipeppar,chilli,Chili,pilipili,guindilla,piment,2,chilli.png,chilli_sv.mp3,chilli_en.mp3,chilli_de.mp3,chilli_sw.mp3,chilli_es.mp3,chilli_fr.mp3
+tofu,tofu,tofu,Tofu,,,tofu,2,tofu.png,tofu_sv.mp3,tofu_en.mp3,tofu_de.mp3,,,tofu_fr.mp3
+sandwich,,sandwich,Sandwich,sandwichi,bocadillo,sandwich,2,sandwich.png,,sandwich_en.mp3,sandwich_de.mp3,sandwich_sw.mp3,sandwich_es.mp3,sandwich_fr.mp3
+donut,,donut,Donut,maandazi,,donut,2,donut.png,,donut_en.mp3,donut_de.mp3,donut_sw.mp3,,donut_fr.mp3
+spaghetti,,spaghetti,Spaghetti,,espagueti,spaghettis,2,spaghetti.png,,spaghetti_en.mp3,spaghetti_de.mp3,,spaghetti_es.mp3,spaghetti_fr.mp3
+cookies,,cookies,Kekse,biskuti,,cookie,2,cookies.png,,cookies_en.mp3,cookies_de.mp3,cookies_sw.mp3,,cookies_fr.mp3
+ice_cream_cone,,ice cream cone,Eiswaffel,,,cornet,2,ice_cream_cone.png,,ice_cream_cone_en.mp3,ice_cream_cone_de.mp3,,,ice_cream_cone_fr.mp3
+hamburger,,hamburger,Hamburger,hambaga,hamburguesa,hamburger,2,hamburger.png,,hamburger_en.mp3,hamburger_de.mp3,hamburger_sw.mp3,hamburger_es.mp3,hamburger_fr.mp3
+ham,,ham,Schinken,,jamón,jambon,2,ham.png,,ham_en.mp3,ham_de.mp3,,ham_es.mp3,ham_fr.mp3
+melon,,melon,die Melone,,melón,melon,2,melon.png,,melon_en.mp3,melon_de.mp3,,melon_es.mp3,melon_fr.mp3
+jam,,jam,die Marmelade,,mermelada,confiture,2,jam.png,,jam_en.mp3,jam_de.mp3,,jam_es.mp3,jam_fr.mp3
+water_melon,,water melon,die Wassermelone,tikiti maji,sandía,pastèque,2,water_melon.png,,water_melon_en.mp3,water_melon_de.mp3,water_melon_sw.mp3,water_melon_es.mp3,water_melon_fr.mp3
+yogurt,,yogurt,der Joghurt,mtindi,yogur,yaourt,2,yogurt.png,,yogurt_en.mp3,yogurt_de.mp3,yogurt_sw.mp3,yogurt_es.mp3,yogurt_fr.mp3
+orange_juice,,orange juice,Orangensaft,,,,2,orange_juice.png,,orange_juice_en.mp3,orange_juice_de.mp3,,,
+aubergine,,aubergine,Aubergine,biringani,berenjena,aubergine,2,aubergine.png,,aubergine_en.mp3,aubergine_de.mp3,aubergine_sw.mp3,aubergine_es.mp3,aubergine_fr.mp3
+courgette,,courgette,Zucchini,,calabacín,courgette,2,courgette.png,,courgette_en.mp3,courgette_de.mp3,,courgette_es.mp3,courgette_fr.mp3
+pumpkin,,pumpkin,Kürbis,boga,calabaza,citrouille,2,pumpkin.png,,pumpkin_en.mp3,pumpkin_de.mp3,pumpkin_sw.mp3,pumpkin_es.mp3,pumpkin_fr.mp3
+lollipop,,lollipop,Lutscher,,,sucette,2,lollipop.png,,lollipop_en.mp3,lollipop_de.mp3,,,lollipop_fr.mp3
+kiwi,,kiwi,Kiwi,,,kiwi,2,kiwi.png,,kiwi_en.mp3,kiwi_de.mp3,,,kiwi_fr.mp3
+fig,,fig,die Feige,tini,higo,figue,2,fig.png,,fig_en.mp3,fig_de.mp3,fig_sw.mp3,fig_es.mp3,fig_fr.mp3
+hazelnut,,hazelnut,die Haselnuss,,avellana,noisette,2,hazelnut.png,,hazelnut_en.mp3,hazelnut_de.mp3,,hazelnut_es.mp3,hazelnut_fr.mp3
+popcorn,,popcorn,Popcorn,bisi,,pop-corn,2,popcorn.png,,popcorn_en.mp3,popcorn_de.mp3,popcorn_sw.mp3,,popcorn_fr.mp3
+ketchup,,ketchup,Ketchup,,,ketchup,2,ketchup.png,,ketchup_en.mp3,ketchup_de.mp3,,,ketchup_fr.mp3
+lemonade,,lemonade,Limonade,,limonada,limonade,2,lemonade.png,,lemonade_en.mp3,lemonade_de.mp3,,lemonade_es.mp3,lemonade_fr.mp3
+fish_stick,,fish stick,Fischstäbchen,,,,2,fish_stick.png,,fish_stick_en.mp3,fish_stick_de.mp3,,,
+wheat,,wheat,Weizen,ngano,trigo,blé,2,wheat.png,,wheat_en.mp3,wheat_de.mp3,wheat_sw.mp3,wheat_es.mp3,wheat_fr.mp3
+yolk,,yolk,Eigelb,kiini,yema,jaune,2,yolk.png,,yolk_en.mp3,yolk_de.mp3,yolk_sw.mp3,yolk_es.mp3,yolk_fr.mp3
+sponge_cake,,sponge cake,Kuchen,,bizcocho,biscuit de Savoie,2,sponge_cake.png,,sponge_cake_en.mp3,sponge_cake_de.mp3,,sponge_cake_es.mp3,sponge_cake_fr.mp3
+chestnut,,chestnut,Kastanie,,castaña,châtaigne,2,chestnut.png,,chestnut_en.mp3,chestnut_de.mp3,,chestnut_es.mp3,chestnut_fr.mp3
+plum,,plum,Pflaume,plamu,ciruela,prune,2,plum.png,,plum_en.mp3,plum_de.mp3,plum_sw.mp3,plum_es.mp3,plum_fr.mp3
+olive,,olive,die Olive,zeituni,aceituna,olive,2,olive.png,,olive_en.mp3,olive_de.mp3,olive_sw.mp3,olive_es.mp3,olive_fr.mp3
+bean,,bean,Bohne,haragwe,alubia,haricot,2,bean.png,,bean_en.mp3,bean_de.mp3,bean_sw.mp3,bean_es.mp3,bean_fr.mp3
+green_bean,,green bean,die grüne Bohne,,judía verde,haricot vert,2,green_bean.png,,green_bean_en.mp3,green_bean_de.mp3,,green_bean_es.mp3,green_bean_fr.mp3
+macaroni,,macaroni,Makkaroni,makaroni,,macaroni,2,macaroni.png,,macaroni_en.mp3,macaroni_de.mp3,macaroni_sw.mp3,,macaroni_fr.mp3
+celery,,celery,Sellerie,,apio,céleri,2,celery.png,,celery_en.mp3,celery_de.mp3,,celery_es.mp3,celery_fr.mp3
+cupcake,,cupcake,Muffin,,,muffin,2,cupcake.png,,cupcake_en.mp3,cupcake_de.mp3,,,cupcake_fr.mp3
+radish,,radish,Radieschen,figili,rábano,radis,2,radish.png,,radish_en.mp3,radish_de.mp3,radish_sw.mp3,radish_es.mp3,radish_fr.mp3
+chewing_gum,,chewing gum,Kaugummi,,chicle,chewing-gum,2,chewing_gum.png,,chewing_gum_en.mp3,chewing_gum_de.mp3,,chewing_gum_es.mp3,chewing_gum_fr.mp3
+lasagna,,lasagna,Lasagne,,lasaña,lasagne,2,lasagna.png,,lasagna_en.mp3,lasagna_de.mp3,,lasagna_es.mp3,lasagna_fr.mp3
+apple_pie,,apple pie,Apfelkuchen,,,tarte,2,apple_pie.png,,apple_pie_en.mp3,apple_pie_de.mp3,,,apple_pie_fr.mp3
+mushroom,,mushroom,der Pilz,uyoga,seta,champignon,2,mushroom.png,,mushroom_en.mp3,mushroom_de.mp3,mushroom_sw.mp3,mushroom_es.mp3,mushroom_fr.mp3
+coconut,,coconut,die Kokosnuss,nazi,coco,noix de coco,2,coconut.png,,coconut_en.mp3,coconut_de.mp3,coconut_sw.mp3,coconut_es.mp3,coconut_fr.mp3
+bread_roll,fralla,bread roll,Brötchen,,,petit pain,2,bread_roll.png,bread_roll_sv.mp3,bread_roll_en.mp3,bread_roll_de.mp3,,,bread_roll_fr.mp3
+cotton_candy,,cotton candy,Zuckerwatte,,algodón de azúcar,barbe à papa,2,cotton_candy.png,,cotton_candy_en.mp3,cotton_candy_de.mp3,,cotton_candy_es.mp3,cotton_candy_fr.mp3
+mandarin,,mandarin,Mandarine,chenza,mandarina,mandarine,2,mandarin.png,,mandarin_en.mp3,mandarin_de.mp3,mandarin_sw.mp3,mandarin_es.mp3,mandarin_fr.mp3
+easter_egg,,Easter egg,Osterei,,,œuf de Pâques,2,easter_egg.png,,easter_egg_en.mp3,easter_egg_de.mp3,,,easter_egg_fr.mp3
+apple_juice,,apple juice,der Apfelsaft,,,jus de pomme,2,apple_juice.png,,apple_juice_en.mp3,apple_juice_de.mp3,,,apple_juice_fr.mp3
+grapefruit,,grapefruit,Grapefruit,balungi,pomelo,pamplemousse,2,grapefruit.png,,grapefruit_en.mp3,grapefruit_de.mp3,grapefruit_sw.mp3,grapefruit_es.mp3,grapefruit_fr.mp3
+caramel,,caramel,Bonbon,,caramelo,caramel,2,caramel.png,,caramel_en.mp3,caramel_de.mp3,,caramel_es.mp3,caramel_fr.mp3
+lime,lime,lime,Limette,ndimu,lima,citron vert,2,lime.png,lime_sv.mp3,lime_en.mp3,lime_de.mp3,lime_sw.mp3,lime_es.mp3,lime_fr.mp3
+mango,,mango,Mango,embe,mango,mangue,2,mango.png,,mango_en.mp3,mango_de.mp3,mango_sw.mp3,mango_es.mp3,mango_fr.mp3
+nuts,,nuts,Nüsse,,,,2,nuts.png,,nuts_en.mp3,nuts_de.mp3,,,
+hot_chocolate,,hot chocolate,der Kakao,kakao,,chocolat chaud,2,hot_chocolate.png,,hot_chocolate_en.mp3,hot_chocolate_de.mp3,hot_chocolate_sw.mp3,,hot_chocolate_fr.mp3
+cauliflower,,cauliflower,der Blumenkohl,koliflawa,coliflor,chou-fleur,2,cauliflower.png,,cauliflower_en.mp3,cauliflower_de.mp3,cauliflower_sw.mp3,cauliflower_es.mp3,cauliflower_fr.mp3
+brussels_sprout,,Brussels sprout,Rosenkohl,,col de Bruselas,chou de Bruxelles,2,brussels_sprout.png,,brussels_sprout_en.mp3,brussels_sprout_de.mp3,,brussels_sprout_es.mp3,brussels_sprout_fr.mp3
+broccoli,,broccoli,Brokkoli,brokoli,brócoli,brocoli,2,broccoli.png,,broccoli_en.mp3,broccoli_de.mp3,broccoli_sw.mp3,broccoli_es.mp3,broccoli_fr.mp3
+liquorice,,liquorice,Lakritz,,regaliz,réglisse,2,liquorice.png,,liquorice_en.mp3,liquorice_de.mp3,,liquorice_es.mp3,liquorice_fr.mp3
+noodles,,noodles,,,,nouilles,2,noodles.png,,noodles_en.mp3,,,,noodles_fr.mp3
+chocolate_cake,,chocolate cake,Schokoladenkuchen,,,,2,chocolate_cake.png,,chocolate_cake_en.mp3,chocolate_cake_de.mp3,,,
+waffle,,waffle,Waffel,,,gaufre,2,waffle.png,,waffle_en.mp3,waffle_de.mp3,,,waffle_fr.mp3
+candy_cane,,candy cane,Zuckerstange,,,,2,candy_cane.png,,candy_cane_en.mp3,candy_cane_de.mp3,,,
+blueberry,,blueberry,Blaubeere,,arándano,myrtille,2,blueberry.png,,blueberry_en.mp3,blueberry_de.mp3,,blueberry_es.mp3,blueberry_fr.mp3
+pancakes,,pancakes,Pfannkuchen,,,crêpes,2,pancakes.png,,pancakes_en.mp3,pancakes_de.mp3,,,pancakes_fr.mp3
+peanut_butter,,peanut butter,Erdnussbutter,,,,2,peanut_butter.png,,peanut_butter_en.mp3,peanut_butter_de.mp3,,,
+bagel,,bagel,Bagel,,,bagel,2,bagel.png,,bagel_en.mp3,bagel_de.mp3,,,bagel_fr.mp3
+sushi,,sushi,Sushi,,,sushi,2,sushi.png,,sushi_en.mp3,sushi_de.mp3,,,sushi_fr.mp3
+pretzel,,pretzel,Brezel,,,bretzel,2,pretzel.png,,pretzel_en.mp3,pretzel_de.mp3,,,pretzel_fr.mp3
+taco,,taco,Taco,,taco,taco,2,taco.png,,taco_en.mp3,taco_de.mp3,,taco_es.mp3,taco_fr.mp3
+cinnamon_roll,kanelbulle,,Zimtschnecke,,,,2,cinnamon_roll.png,cinnamon_roll_sv.mp3,,cinnamon_roll_de.mp3,,,
+gingerbread_cookie,pepparkaka,,Lebkuchen,,,,2,gingerbread_cookie.png,gingerbread_cookie_sv.mp3,,gingerbread_cookie_de.mp3,,,
+cake,,cake,Torte,keki,tarta,gâteau,1,cake.png,,cake_en.mp3,cake_de.mp3,cake_sw.mp3,cake_es.mp3,cake_fr.mp3
+grapes,,grapes,Weintrauben,zabibu,uva,raisin,1,grapes.png,,grapes_en.mp3,grapes_de.mp3,grapes_sw.mp3,grapes_es.mp3,grapes_fr.mp3
+dough,,dough,der Teig,,masa,pâte,2,dough.png,,dough_en.mp3,dough_de.mp3,,dough_es.mp3,dough_fr.mp3
+coffee,kaffe,coffee,der Kaffee,kahawa,café,café,2,coffee.png,coffee_sv.mp3,coffee_en.mp3,coffee_de.mp3,coffee_sw.mp3,coffee_es.mp3,coffee_fr.mp3
+juice,,juice,der Saft,juisi,zumo,jus,1,juice.png,,juice_en.mp3,juice_de.mp3,juice_sw.mp3,juice_es.mp3,juice_fr.mp3
+fried_egg,,fried egg,das Spiegelei,,,œuf au plat,1,fried_egg.png,,fried_egg_en.mp3,fried_egg_de.mp3,,,fried_egg_fr.mp3
+garlic,vitlök,garlic,der Knoblauch,kitunguu saumu,ajo,ail,2,garlic.png,garlic_sv.mp3,garlic_en.mp3,garlic_de.mp3,garlic_sw.mp3,garlic_es.mp3,garlic_fr.mp3
+lentils,,,Linsen,dengu,,lentilles,2,lentils.png,,,lentils_de.mp3,lentils_sw.mp3,,lentils_fr.mp3
+leek,,leek,der Lauch,,puerro,poireau,2,leek.png,,leek_en.mp3,leek_de.mp3,,leek_es.mp3,leek_fr.mp3
+gherkin,,gherkin,Essiggurke,,,cornichon,2,gherkin.png,,gherkin_en.mp3,gherkin_de.mp3,,,gherkin_fr.mp3
+sweets,,sweets,Süßigkeiten,peremende,,friandises,1,sweets.png,,sweets_en.mp3,sweets_de.mp3,sweets_sw.mp3,,sweets_fr.mp3
+toast,rostat bröd,toast,Toast,,tostada,pain grillé,1,toast.png,toast_sv.mp3,toast_en.mp3,toast_de.mp3,,toast_es.mp3,toast_fr.mp3
+biscuit,,biscuit,Keks,,galleta,biscuit,1,biscuit.png,,biscuit_en.mp3,biscuit_de.mp3,,biscuit_es.mp3,biscuit_fr.mp3
+chips,pommes frites,chips,Pommes frites,chipsi,,frites,1,chips.png,chips_sv.mp3,chips_en.mp3,chips_de.mp3,chips_sw.mp3,,chips_fr.mp3
+hot_dog,,hot dog,Hotdog,,pancho,hot-dog,1,hot_dog.png,,hot_dog_en.mp3,hot_dog_de.mp3,,hot_dog_es.mp3,hot_dog_fr.mp3
+omelette,,omelette,Omelett,kimanda,tortilla,omelette,2,omelette.png,,omelette_en.mp3,omelette_de.mp3,omelette_sw.mp3,omelette_es.mp3,omelette_fr.mp3
+bell_pepper,,pepper,die Paprika,pilipili hoho,pimiento,poivron,1,bell_pepper.png,,bell_pepper_en.mp3,bell_pepper_de.mp3,bell_pepper_sw.mp3,bell_pepper_es.mp3,bell_pepper_fr.mp3
+papaya,,,Papaya,papai,papaya,papaye,2,papaya.png,,,papaya_de.mp3,papaya_sw.mp3,papaya_es.mp3,papaya_fr.mp3
+raisins,,,Rosinen,,,,2,raisins.png,,,raisins_de.mp3,,,
+cheesecake,ostkaka,cheesecake,Käsekuchen,,,cheesecake,2,cheesecake.png,cheesecake_sv.mp3,cheesecake_en.mp3,cheesecake_de.mp3,,,cheesecake_fr.mp3
+parsley,,parsley,die Petersilie,,perejil,persil,2,parsley.png,,parsley_en.mp3,parsley_de.mp3,,parsley_es.mp3,parsley_fr.mp3
+mint,,mint,die Minze,nanaa,menta,menthe,2,mint.png,,mint_en.mp3,mint_de.mp3,mint_sw.mp3,mint_es.mp3,mint_fr.mp3
+barbecue,,barbecue,Grillen,,barbacoa,barbecue,2,barbecue.png,,barbecue_en.mp3,barbecue_de.mp3,,barbecue_es.mp3,barbecue_fr.mp3
+chicken_soup,,chicken soup,Hühnersuppe,,,,2,chicken_soup.png,,chicken_soup_en.mp3,chicken_soup_de.mp3,,,
+chicken_wings,,,Hähnchenflügel,,,,2,chicken_wings.png,,,chicken_wings_de.mp3,,,
+chickpeas,,chickpeas,Kichererbsen,,,pois chiche,2,chickpeas.png,,chickpeas_en.mp3,chickpeas_de.mp3,,,chickpeas_fr.mp3
+fruit_salad,,fruit salad,Obstsalat,,macedonia,salade de fruits,2,fruit_salad.png,,fruit_salad_en.mp3,fruit_salad_de.mp3,,fruit_salad_es.mp3,fruit_salad_fr.mp3
+guacamole,,guacamole,Guacamole,,guacamole,guacamole,2,guacamole.png,,guacamole_en.mp3,guacamole_de.mp3,,guacamole_es.mp3,guacamole_fr.mp3
+scrambled_eggs,,,Rührei,,,œufs brouillés,2,scrambled_eggs.png,,,scrambled_eggs_de.mp3,,,scrambled_eggs_fr.mp3
+steak,,steak,Rindersteak,steki,bistec,bifteck,2,steak.png,,steak_en.mp3,steak_de.mp3,steak_sw.mp3,steak_es.mp3,steak_fr.mp3
+stew,,stew,Gulasch,,guiso,ragoût,2,stew.png,,stew_en.mp3,stew_de.mp3,,stew_es.mp3,stew_fr.mp3
+roast_turkey,,,Braten,,,,2,roast_turkey.png,,,roast_turkey_de.mp3,,,
+burrito,,burrito,Burrito,,,burrito,2,burrito.png,,burrito_en.mp3,burrito_de.mp3,,,burrito_fr.mp3
+couscous,,couscous,Couscous,,,couscous,2,couscous.png,,couscous_en.mp3,couscous_de.mp3,,,couscous_fr.mp3
+falafel,,falafel,Falafel,,,falafel,2,falafel.png,,falafel_en.mp3,falafel_de.mp3,,,falafel_fr.mp3
+hummus,,hummus,Hummus,,,houmous,2,hummus.png,,hummus_en.mp3,hummus_de.mp3,,,hummus_fr.mp3
+paella,,paella,Paella,,paella,paella,2,paella.png,,paella_en.mp3,paella_de.mp3,,paella_es.mp3,paella_fr.mp3
+cereals,,,Cornflakes,,,céréales,2,cereals.png,,,cereals_de.mp3,,,cereals_fr.mp3
+cracker,,cracker,Cracker,,,cracker,2,cracker.png,,cracker_en.mp3,cracker_de.mp3,,,cracker_fr.mp3
+breadstick,,breadstick,,,,gressin,2,breadstick.png,,breadstick_en.mp3,,,,breadstick_fr.mp3
+nachos,,nachos,Nachos,,nachos,,2,nachos.png,,nachos_en.mp3,nachos_de.mp3,,nachos_es.mp3,
+tomato_sauce,,tomato sauce,Tomatensoße,sosi ya nyanya,,sauce tomate,2,tomato_sauce.png,,tomato_sauce_en.mp3,tomato_sauce_de.mp3,tomato_sauce_sw.mp3,,tomato_sauce_fr.mp3
+milkshake,,milkshake,Milchshake,,batido,milk-shake,2,milkshake.png,,milkshake_en.mp3,milkshake_de.mp3,,milkshake_es.mp3,milkshake_fr.mp3
+soda,,soda,Sprudel,soda,gaseosa,soda,2,soda.png,,soda_en.mp3,soda_de.mp3,soda_sw.mp3,soda_es.mp3,soda_fr.mp3
+chocolates,,bonbons,Pralinen,,,chocolats,2,chocolates.png,,chocolates_en.mp3,chocolates_de.mp3,,,chocolates_fr.mp3
+crepe,,crepe,Crêpe,,panqueque,crêpe,2,crepe.png,,crepe_en.mp3,crepe_de.mp3,,crepe_es.mp3,crepe_fr.mp3
+lettuce,,lettuce,Kopfsalat,,lechuga,laitue,2,lettuce.png,,lettuce_en.mp3,lettuce_de.mp3,,lettuce_es.mp3,lettuce_fr.mp3
+broad_bean,,broad bean,Ackerbohne,,haba,fève,2,broad_bean.png,,broad_bean_en.mp3,broad_bean_de.mp3,,broad_bean_es.mp3,broad_bean_fr.mp3
+cassava,,cassava,Maniok,muhogo,yuca,manioc,2,cassava.png,,cassava_en.mp3,cassava_de.mp3,cassava_sw.mp3,cassava_es.mp3,cassava_fr.mp3
+spring_onion,,spring onion,Frühlingszwiebel,,cebolleta,,2,spring_onion.png,,spring_onion_en.mp3,spring_onion_de.mp3,,spring_onion_es.mp3,
+okra,,okra,Okra,bamia,,gombo,2,okra.png,,okra_en.mp3,okra_de.mp3,okra_sw.mp3,,okra_fr.mp3
+yam,,yam,Yamswurzel,kiazi kikuu,ñame,igname,2,yam.png,,yam_en.mp3,yam_de.mp3,yam_sw.mp3,yam_es.mp3,yam_fr.mp3
+blackberries,,,Brombeeren,,,mûres,2,blackberries.png,,,blackberries_de.mp3,,,blackberries_fr.mp3
+dates,,dates,Datteln,,,dattes,2,dates.png,,dates_en.mp3,dates_de.mp3,,,dates_fr.mp3
+guava,,guava,Guave,pera,guayaba,goyave,2,guava.png,,guava_en.mp3,guava_de.mp3,guava_sw.mp3,guava_es.mp3,guava_fr.mp3
+nectarine,,nectarine,Nektarine,,nectarina,nectarine,2,nectarine.png,,nectarine_en.mp3,nectarine_de.mp3,,nectarine_es.mp3,nectarine_fr.mp3
+plantain,,plantain,Kochbanane,,plátano macho,banane plantain,2,plantain.png,,plantain_en.mp3,plantain_de.mp3,,plantain_es.mp3,plantain_fr.mp3
+cashew_nuts,,,,korosho,,noix de cajou,2,cashew_nuts.png,,,,cashew_nuts_sw.mp3,,cashew_nuts_fr.mp3
+pistachios,,pistachios,Pistazien,,,pistache,2,pistachios.png,,pistachios_en.mp3,pistachios_de.mp3,,,pistachios_fr.mp3
+pumpkin_seeds,,,Kürbiskerne,,,,2,pumpkin_seeds.png,,,pumpkin_seeds_de.mp3,,,
+whipped_cream,,whipped cream,Schlagsahne,,nata,crème fouettée,2,whipped_cream.png,,whipped_cream_en.mp3,whipped_cream_de.mp3,,whipped_cream_es.mp3,whipped_cream_fr.mp3
+gelatine,gelatin,gelatine,Gelatine,,gelatina,gélatine,2,gelatine.png,gelatine_sv.mp3,gelatine_en.mp3,gelatine_de.mp3,,gelatine_es.mp3,gelatine_fr.mp3
+creme_caramel,,,Karamellpudding,,flan,crème caramel,2,creme_caramel.png,,,creme_caramel_de.mp3,,creme_caramel_es.mp3,creme_caramel_fr.mp3
+vanilla,,vanilla,Vanille,,vainilla,vanille,2,vanilla.png,,vanilla_en.mp3,vanilla_de.mp3,,vanilla_es.mp3,vanilla_fr.mp3
+gummies,,,Weingummi,,,bonbons,2,gummies.png,,,gummies_de.mp3,,,gummies_fr.mp3
+mayonnaise,,mayonnaise,Mayonnaise,,mayonesa,mayonnaise,2,mayonnaise.png,,mayonnaise_en.mp3,mayonnaise_de.mp3,,mayonnaise_es.mp3,mayonnaise_fr.mp3
+basil,,basil,Basilikum,mrehani,albahaca,basilic,2,basil.png,,basil_en.mp3,basil_de.mp3,basil_sw.mp3,basil_es.mp3,basil_fr.mp3
+rosemary,,rosemary,Rosmarin,,romero,romarin,2,rosemary.png,,rosemary_en.mp3,rosemary_de.mp3,,rosemary_es.mp3,rosemary_fr.mp3
+camomile,,camomile,Kamille,,manzanilla,camomille,2,camomile.png,,camomile_en.mp3,camomile_de.mp3,,camomile_es.mp3,camomile_fr.mp3
+honeycomb,,honeycomb,Honigwabe,,panal,alvéole,2,honeycomb.png,,honeycomb_en.mp3,honeycomb_de.mp3,,honeycomb_es.mp3,honeycomb_fr.mp3
