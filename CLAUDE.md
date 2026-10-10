@@ -63,9 +63,7 @@ Swahili (`sw`), Spanish (`es`) and French (`fr`)** (ISO 639-1 codes).
   `Maths::7 Formen (Deutsch)`, `Maths::8 Maumbo (Kiswahili)`,
   `Maths::9 Formas (español)`, `Maths::9 Formes (français)`), as a deliberate
   exception to the per-language trees, because they are a maths topic.
-  The default `build/maths.apkg` has the English and Swedish shapes only
-  (Jens, 2026-10-10); `build_decks.py --lang` builds the chosen languages'
-  shape subdecks instead.
+  `build_decks.py --lang` builds only the chosen languages' shape subdecks.
   Swahili has no word for diamond, octagon or semicircle in the
   dictionaries, so those shapes are left out of its subdeck.
 - Swedish text must keep `å ä ö`, German `ä ö ü ß`, Spanish `á é í ó ú ñ`
@@ -210,3 +208,6 @@ Licence consequence: bundling CC BY-SA and CC BY-NC-SA material means the
 - When fetching media, respect each site's API terms and rate limits, and set
   a descriptive User-Agent (Wikimedia requires one).
 - Built `.apkg` files are published as GitHub Release assets, not committed.
+  The released maths deck is the Swedish and English build
+  (`build_decks.py --lang sv en`, Jens 2026-10-10), since every language
+  combination can't be prebuilt; the word decks are released per language.

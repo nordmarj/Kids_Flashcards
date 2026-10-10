@@ -15,11 +15,10 @@ build/maths.apkg, one "Maths" deck with these subdecks:
   "Picture to name". A shape with no name in a language is left out of
   that language's subdeck.
 
-By default every language in word_decks.LANGUAGES gets a word deck, and
-build/maths.apkg has shapes in DEFAULT_SHAPES_LANGS only (English and
-Swedish). --lang takes any list of languages and builds only those: their
-word decks, and a maths deck whose shapes are in those languages only,
-named after them (e.g. build/maths_sv.apkg).
+By default every language in word_decks.LANGUAGES is built. --lang takes
+any list of them and builds only those: their word decks, and a maths deck
+whose shapes are in those languages only, named after them (e.g.
+build/maths_sv.apkg).
 
     python3 scripts/build_decks.py [--lang LANG ...]
 """
@@ -65,8 +64,6 @@ ARITHMETIC_DECKS = {
 }
 
 SHAPES_MODEL_ID = 1988648040
-# Shape languages in the default build/maths.apkg (no --lang).
-DEFAULT_SHAPES_LANGS = ("en", "sv")
 # language -> (Anki deck name, deck ID)
 SHAPES_DECKS = {
     "en": ("Maths::5 Shapes (English)", 1748236718),
@@ -244,11 +241,10 @@ def build_shapes(langs=tuple(word_decks.LANGUAGES)):
 def main():
     parser = argparse.ArgumentParser(description="Build the Anki decks into build/.")
     every = list(word_decks.LANGUAGES)
-    parser.add_argument("--lang", nargs="+", choices=every, metavar="LANG",
-                        help=f"languages to build, any of {' '.join(every)} (default: every "
-                        f"word deck, and shapes in {' '.join(DEFAULT_SHAPES_LANGS)})")
-    chosen = parser.parse_args().lang
-    langs = [lang for lang in every if lang in (chosen or every)]
+    parser.add_argument("--lang", nargs="+", choices=every, default=every, metavar="LANG",
+                        help=f"languages to build, any of {' '.join(every)} (default: all)")
+    chosen = set(parser.parse_args().lang)
+    langs = [lang for lang in every if lang in chosen]
 
     BUILD_DIR.mkdir(exist_ok=True)
     for lang, (decks, media) in word_decks.build(langs).items():
@@ -256,13 +252,8 @@ def main():
         genanki.Package(decks, media_files=[str(m) for m in media]).write_to_file(out)
         print(f"-> {out.relative_to(ROOT)}")
 
-    if chosen:
-        shape_langs = langs
-        out = BUILD_DIR / f"maths_{'_'.join(langs)}.apkg"
-    else:
-        shape_langs = [lang for lang in every if lang in DEFAULT_SHAPES_LANGS]
-        out = BUILD_DIR / "maths.apkg"
-    shape_decks, shape_media = build_shapes(shape_langs)
+    shape_decks, shape_media = build_shapes(langs)
+    out = BUILD_DIR / ("maths.apkg" if langs == every else f"maths_{'_'.join(langs)}.apkg")
     genanki.Package(build_arithmetic() + shape_decks,
                     media_files=[str(m) for m in sorted(shape_media)]).write_to_file(out)
     print(f"-> {out.relative_to(ROOT)}")
