@@ -1,9 +1,12 @@
-"""Picture → word decks, built from data/concepts/*.csv and media/.
+"""Word decks, built from data/concepts/*.csv and media/.
 
 Each language gets its own deck tree, one subdeck per topic:
-Svenska::Ord::<Swedish topic> and English::Words::<English topic>. A card
+Svenska::Ord::<Swedish topic> and English::Words::<English topic>. Every
+word has two multiple-choice cards in its topic subdeck. "Picture to word"
 shows a picture and four words from the same topic; the back shows the word,
-plays its recording and credits the picture and the speaker.
+plays its recording and credits the picture and the speaker. "Word to
+picture" shows the word, plays its recording and offers four pictures from
+the same topic; the back shows the word and its picture.
 
 Also writes ATTRIBUTION.md from media/sources.csv.
 """
@@ -24,6 +27,9 @@ MEDIA = ROOT / "media"
 # Model and deck IDs are fixed forever: changing one makes Anki treat the
 # note type or deck as new. Add new topics with fresh IDs; never reuse one.
 MODEL_ID = 1104416739
+# Word to picture is its own note type, so adding it left the picture to word
+# note type, and the progress on its cards, untouched.
+WORD_TO_PICTURE_MODEL_ID = 1630271958
 
 # topic -> {language: (subdeck name, deck ID)}
 TOPICS = {
@@ -194,13 +200,15 @@ def read_concepts():
     return topics
 
 
-def model(choices_js):
+def models(choices_js):
+    """The picture to word and the word to picture note types."""
     tpl = ROOT / "templates" / "picture_choice"
     label = (tpl / "language_label.html").read_text(encoding="utf-8")
     read = lambda name: ((tpl / name).read_text(encoding="utf-8")
                          .replace("{{CHOICES_JS}}", choices_js)
                          .replace("{{LANGUAGE_LABEL}}", label))
-    return genanki.Model(
+    css = (tpl / "style.css").read_text(encoding="utf-8")
+    picture_to_word = genanki.Model(
         MODEL_ID,
         "Kids Flashcards: Picture to word",
         fields=[{"name": "Word"}, {"name": "Picture"}, {"name": "Audio"},
@@ -210,13 +218,31 @@ def model(choices_js):
             "qfmt": read("front.html"),
             "afmt": read("back.html"),
         }],
-        css=(tpl / "style.css").read_text(encoding="utf-8"),
+        css=css,
     )
+    word_to_picture = genanki.Model(
+        WORD_TO_PICTURE_MODEL_ID,
+        "Kids Flashcards: Word to picture",
+        fields=[{"name": "Word"}, {"name": "Picture"}, {"name": "Audio"},
+                {"name": "PictureChoices"}, {"name": "Credits"}],
+        templates=[{
+            "name": "Word to picture",
+            "qfmt": read("word_front.html"),
+            "afmt": read("word_back.html"),
+        }],
+        css=css,
+    )
+    return picture_to_word, word_to_picture
 
 
 def distractors(concept, rows, lang):
-    """Three other words from the same topic, picked stably per concept."""
-    pool = [r for r in rows if r["id"] != concept["id"] and r[lang] != concept[lang]]
+    """Three other words from the same topic, picked stably per concept.
+
+    The word to picture card offers the same three, so none of them may share
+    the concept's picture either.
+    """
+    pool = [r for r in rows if r["id"] != concept["id"] and r[lang] != concept[lang]
+            and r["image"] != concept["image"]]
     return random.Random(f"words:{concept['id']}:{lang}").sample(pool, 3)
 
 
@@ -225,8 +251,8 @@ def build(langs=tuple(LANGUAGES)):
     sources = read_sources()
     topics = read_concepts()
     choices_js = (ROOT / "templates" / "shapes" / "choices_script.html").read_text(encoding="utf-8")
-    note_model = model(choices_js)
-    button = '<button type="button" class="choice"{ok}>{word}</button>'
+    picture_to_word, word_to_picture = models(choices_js)
+    button = '<button type="button" class="choice"{ok}>{content}</button>'
 
     out = {}
     for lang in langs:
@@ -243,27 +269,37 @@ def build(langs=tuple(LANGUAGES)):
             info = LANGUAGES[lang]
             deck = genanki.Deck(deck_id, f"{info['root']}::{name}", description=info["description"])
             for due, c in enumerate(rows):
-                image = media_file(sources, f"images/{c['image']}")
-                audio = media_file(sources, f"audio/{lang}/{c[f'audio_{lang}']}")
-                files.update([image, audio])
                 options = [c] + distractors(c, pool, lang)
-                choices = "".join(
-                    button.format(ok=' data-ok="1"' if o is c else "", word=html.escape(o[lang]))
-                    for o in options
-                )
-                credits = (f"{info['picture']}: {credit(sources[f'images/{image.name}'])} · "
+                images = [media_file(sources, f"images/{o['image']}") for o in options]
+                audio = media_file(sources, f"audio/{lang}/{c[f'audio_{lang}']}")
+                files.update([*images, audio])
+                ok = lambda o: ' data-ok="1"' if o is c else ""
+                words = "".join(button.format(ok=ok(o), content=html.escape(o[lang]))
+                                for o in options)
+                pictures = "".join(button.format(ok=ok(o), content=f'<img src="{i.name}">')
+                                   for o, i in zip(options, images))
+                credits = (f"{info['picture']}: {credit(sources[f'images/{images[0].name}'])} · "
                            f"{info['sound']}: {credit(sources[f'audio/{lang}/{audio.name}'])}")
+                word, picture = html.escape(c[lang]), f'<img src="{images[0].name}">'
+                tags = [f"level{c['level']}", topic, f"lang_{lang}"]
                 deck.add_note(genanki.Note(
-                    model=note_model,
-                    fields=[html.escape(c[lang]), f'<img src="{image.name}">',
-                            f"[sound:{audio.name}]", choices, credits],
+                    model=picture_to_word,
+                    fields=[word, picture, f"[sound:{audio.name}]", words, credits],
                     guid=genanki.guid_for("kids_flashcards", "words", c["id"], lang),
-                    tags=[f"level{c['level']}", topic, f"lang_{lang}"],
+                    tags=tags,
+                    due=due,
+                ))
+                deck.add_note(genanki.Note(
+                    model=word_to_picture,
+                    fields=[word, picture, f"[sound:{audio.name}]", pictures, credits],
+                    guid=genanki.guid_for("kids_flashcards", "word_to_picture", c["id"], lang),
+                    tags=tags,
                     due=due,
                 ))
             decks.append(deck)
         out[lang] = (decks, sorted(files))
-        print(f"{sum(len(d.notes) for d in decks)} {lang} word cards in {len(decks)} topic subdecks")
+        words = sum(len(d.notes) for d in decks) // 2
+        print(f"{words} {lang} words ({2 * words} cards) in {len(decks)} topic subdecks")
     write_attribution(sources)
     return out
 

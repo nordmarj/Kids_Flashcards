@@ -1,7 +1,7 @@
 # Kids_Flashcards
 
 Source data and build scripts for [Anki](https://apps.ankiweb.net/) flashcard
-decks for young children: picture → word cards in Swedish, English, German,
+decks for young children: picture → word and word → picture cards in Swedish, English, German,
 Swahili, Spanish and French, plus arithmetic and shapes. See [CLAUDE.md](CLAUDE.md) for how the project works.
 
 ## Build
