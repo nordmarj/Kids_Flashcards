@@ -14,6 +14,14 @@ spoken aloud by a real person.
 - `espanol.apkg` (Español::Palabras)
 - `francais.apkg` (Français::Mots)
 
+**Geography decks**: a flag or a map, a few place names to choose from, and
+the name spoken aloud. Each language's deck has every country, continent and
+region whose name has a recording in that language.
+
+- `geography_sv.apkg` (Geografi), `geography_en.apkg` (Geography),
+  `geography_de.apkg` (Geografie), `geography_sw.apkg` (Jiografia),
+  `geography_es.apkg` (Geografía), `geography_fr.apkg` (Géographie)
+
 **Maths** (`maths_sv_en.apkg`): addition, subtraction, multiplication tables
 0–20 and division, as multiple-choice and typing cards with counting
 pictures, plus shapes in Swedish and English. For shapes in other languages,

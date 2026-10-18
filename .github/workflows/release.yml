@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      # Word decks in every language, then the prebuilt maths deck (sv + en).
+      # Word and geography decks in every language, then the prebuilt maths deck (sv + en).
       - run: python3 scripts/build_decks.py
       - run: python3 scripts/build_decks.py --lang sv en
       - name: Create draft release
@@ -34,4 +34,6 @@ jobs:
             --title "$TAG" --notes-file .github/release-notes.md \
             build/svenska.apkg build/english.apkg build/deutsch.apkg \
             build/kiswahili.apkg build/espanol.apkg build/francais.apkg \
+            build/geography_sv.apkg build/geography_en.apkg build/geography_de.apkg \
+            build/geography_sw.apkg build/geography_es.apkg build/geography_fr.apkg \
             build/maths_sv_en.apkg

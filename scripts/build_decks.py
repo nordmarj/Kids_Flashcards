@@ -15,8 +15,12 @@ build/maths.apkg, one "Maths" deck with these subdecks:
   "Picture to name". A shape with no name in a language is left out of
   that language's subdeck.
 
+It also builds one geography package per language
+(build/geography_sv.apkg, ...; see geography_decks.py): flags and maps to
+place names.
+
 By default every language in word_decks.LANGUAGES is built. --lang takes
-any list of them and builds only those: their word decks, and a maths deck
+any list of them and builds only those: their word and geography decks, and a maths deck
 whose shapes are in those languages only, named after them (e.g.
 build/maths_sv.apkg).
 
@@ -32,6 +36,7 @@ from pathlib import Path
 
 import genanki
 
+import geography_decks
 import shape_pictures
 import word_decks
 from arithmetic_pictures import picture
@@ -249,6 +254,11 @@ def main():
     BUILD_DIR.mkdir(exist_ok=True)
     for lang, (decks, media) in word_decks.build(langs).items():
         out = BUILD_DIR / word_decks.LANGUAGES[lang]["package"]
+        genanki.Package(decks, media_files=[str(m) for m in media]).write_to_file(out)
+        print(f"-> {out.relative_to(ROOT)}")
+
+    for lang, (decks, media) in geography_decks.build(langs).items():
+        out = BUILD_DIR / geography_decks.DECKS[lang][1]
         genanki.Package(decks, media_files=[str(m) for m in media]).write_to_file(out)
         print(f"-> {out.relative_to(ROOT)}")
 
