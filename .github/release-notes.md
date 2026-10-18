@@ -14,8 +14,9 @@ spoken aloud by a real person.
 - `espanol.apkg` (Español::Palabras)
 - `francais.apkg` (Français::Mots)
 
-**Geography decks**: a flag or a map, a few place names to choose from, and
-the name spoken aloud. Each language's deck has every country, continent and
+**Geography decks**: flags and maps. Each one has two cards: pick the right
+name for the flag or map, and hear a name and pick the right flag or map.
+Names are spoken aloud by a real person. Each language's deck has every country, continent and
 region whose name has a recording in that language.
 
 - `geography_sv.apkg` (Geografi), `geography_en.apkg` (Geography),

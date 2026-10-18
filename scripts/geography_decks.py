@@ -4,9 +4,9 @@ Each language gets its own package (build/geography_<lang>.apkg) with a
 subdeck for flags and one for maps, e.g. Geografi::Flaggor and
 Geografi::Kartor. A place is in a language's deck only when it has a
 recorded name in that language, so each deck holds everything the
-language has. A card shows the flag or map and four names of places of
-the same kind; the back shows the name and plays its recording. The cards
-use the picture → word note type, so they look like the word cards.
+language has. Every flag and map gets two multiple-choice cards, like the
+shapes: "Picture to name" (tap the right name of four) and "Name to
+picture" (hear the name, tap the right flag or map of four).
 """
 
 import csv
@@ -24,7 +24,9 @@ GEOGRAPHY = ROOT / "data" / "geography"
 
 TOPICS = ("countries", "continents", "regions")
 
-# Deck IDs are fixed forever; never change or reuse one.
+# Model and deck IDs are fixed forever; never change or reuse one.
+MODEL_ID = 1987814188
+
 # language -> (root deck, package, {picture kind: (subdeck name, deck ID)})
 DECKS = {
     "sv": ("Geografi", "geography_sv.apkg",
@@ -100,6 +102,30 @@ def distractors(place, pool, lang, kind):
     return random.Random(f"geography:{place['id']}:{lang}").sample(others, 3)
 
 
+def model(choices_js):
+    tpl = ROOT / "templates" / "geography"
+    label = (ROOT / "templates" / "picture_choice" / "language_label.html").read_text(encoding="utf-8")
+    read = lambda name: ((tpl / name).read_text(encoding="utf-8")
+                         .replace("{{CHOICES_JS}}", choices_js)
+                         .replace("{{LANGUAGE_LABEL}}", label))
+    return genanki.Model(
+        MODEL_ID,
+        "Kids Flashcards: Geography",
+        fields=[{"name": "Name"}, {"name": "Picture"}, {"name": "Audio"},
+                {"name": "NameChoices"}, {"name": "PictureChoices"}, {"name": "Credits"}],
+        templates=[{
+            "name": "Picture to name",
+            "qfmt": read("picture_front.html"),
+            "afmt": read("picture_back.html"),
+        }, {
+            "name": "Name to picture",
+            "qfmt": read("name_front.html"),
+            "afmt": read("name_back.html"),
+        }],
+        css=(tpl / "style.css").read_text(encoding="utf-8"),
+    )
+
+
 def build(langs=tuple(word_decks.LANGUAGES)):
     """Return {language: (decks, media files)} for the given languages."""
     if set(word_decks.LANGUAGES) - DECKS.keys():
@@ -108,8 +134,8 @@ def build(langs=tuple(word_decks.LANGUAGES)):
     sources = word_decks.read_sources()
     places = read_places()
     choices_js = (ROOT / "templates" / "shapes" / "choices_script.html").read_text(encoding="utf-8")
-    note_model = word_decks.model(choices_js)
-    button = '<button type="button" class="choice"{ok}>{word}</button>'
+    note_model = model(choices_js)
+    button = '<button type="button" class="choice"{ok}>{content}</button>'
     labels = word_decks.LANGUAGES
 
     out = {}
@@ -127,27 +153,29 @@ def build(langs=tuple(word_decks.LANGUAGES)):
                 # with countries), or from every place when that is too few.
                 same = [q for t, q in rows if t == topic]
                 pool = same if len(same) >= 4 else [q for _, q in rows]
-                image = word_decks.media_file(sources, f"images/{p[kind]}")
-                audio = word_decks.media_file(sources, f"audio/{lang}/{p[f'audio_{lang}']}")
-                files.update([image, audio])
                 options = [p] + distractors(p, pool, lang, kind)
-                choices = "".join(
-                    button.format(ok=' data-ok="1"' if o is p else "", word=html.escape(o[lang]))
-                    for o in options
-                )
+                images = [word_decks.media_file(sources, f"images/{o[kind]}") for o in options]
+                audio = word_decks.media_file(sources, f"audio/{lang}/{p[f'audio_{lang}']}")
+                files.update([*images, audio])
+                ok = lambda o: ' data-ok="1"' if o is p else ""
+                names = "".join(button.format(ok=ok(o), content=html.escape(o[lang]))
+                                for o in options)
+                pictures = "".join(button.format(ok=ok(o), content=f'<img src="{i.name}">')
+                                   for o, i in zip(options, images))
                 credits = (f"{labels[lang]['picture']}: "
-                           f"{word_decks.credit(sources[f'images/{image.name}'])} · "
+                           f"{word_decks.credit(sources[f'images/{images[0].name}'])} · "
                            f"{labels[lang]['sound']}: "
                            f"{word_decks.credit(sources[f'audio/{lang}/{audio.name}'])}")
                 deck.add_note(genanki.Note(
                     model=note_model,
-                    fields=[html.escape(p[lang]), f'<img src="{image.name}">',
-                            f"[sound:{audio.name}]", choices, credits],
+                    fields=[html.escape(p[lang]), f'<img src="{images[0].name}">',
+                            f"[sound:{audio.name}]", names, pictures, credits],
                     guid=genanki.guid_for("kids_flashcards", "geography", kind, p["id"], lang),
                     tags=[f"level{p['level']}", topic, kind, f"lang_{lang}"],
                     due=due,
                 ))
             decks.append(deck)
         out[lang] = (decks, sorted(files))
-        print(f"{sum(len(d.notes) for d in decks)} {lang} geography cards in {len(decks)} subdecks")
+        notes = sum(len(d.notes) for d in decks)
+        print(f"{notes} {lang} places ({2 * notes} cards) in {len(decks)} geography subdecks")
     return out

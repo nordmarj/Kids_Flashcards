@@ -41,6 +41,7 @@ import re
 import subprocess
 import sys
 import tempfile
+import time
 import unicodedata
 from pathlib import Path
 
@@ -69,6 +70,10 @@ from word_decks import LANGUAGES  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 PICKS = ROOT / "data" / "candidates" / "geography_picks.csv"
 GEOGRAPHY = ROOT / "data" / "geography"
+
+# upload.wikimedia.org answers a quick series of downloads with 429 ("robot
+# policy"); a pause before each recording keeps it serving.
+AUDIO_PAUSE = 6  # seconds
 
 ARASAAC_ALL = "https://api.arasaac.org/v1/pictograms/all/{}"
 SPARQL = "https://query.wikidata.org/sparql"
@@ -423,6 +428,7 @@ def download(limit):
                 row[lang] = ""
                 continue
             url, page, author, licence, licence_url = info[title]
+            time.sleep(AUDIO_PAUSE)
             try:
                 with tempfile.TemporaryDirectory() as tmp:
                     raw = Path(tmp) / "original.mp3"

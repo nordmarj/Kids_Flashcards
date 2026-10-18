@@ -35,13 +35,15 @@ older children (longer words, larger numbers) via separate levelled decks.
    name → picture and a picture → name multiple-choice card, in every
    language. Shapes are drawn as inline SVG, so they need no image files.
 
-4. **Geography** – flags and maps → place name (multiple choice), for
+4. **Geography** – flags and maps ↔ place names (multiple choice), for
    countries, continents and a few regions (Jens, 2026-10-18). One table per
    topic in `data/geography/` ties each place's ARASAAC flag and/or map to its
    name and recording in every language. A place is kept when at least one
    language has a recording of its name; each language's geography deck
    (`Geografi::Flaggor`, `Geography::Maps`, …, one package per language)
-   holds everything that language has. No card without a recording. Names
+   holds everything that language has. No card without a recording. Every
+   flag and map gets a picture → name and a name → picture card (Jens,
+   2026-10-18), both multiple choice. Names
    come from Wikidata labels (ARASAAC has no Swedish place keywords) and
    ARASAAC keywords, matched to recordings by file name.
 
@@ -137,7 +139,7 @@ scripts/
   geography_decks.py        # flag/map → place name decks
   build_decks.py            # reads data/ + media/, writes build/*.apkg
 templates/<note_type>/      # Anki card HTML/CSS/JS per note type (arithmetic,
-                            # picture_choice, shapes): front/back HTML, style.css
+                            # picture_choice, shapes, geography): front/back HTML, style.css
 build/                      # svenska, english, deutsch, kiswahili, espanol, francais,
                             # geography_<lang>, maths .apkg; git-ignored
 ATTRIBUTION.md              # generated credits for all bundled media
