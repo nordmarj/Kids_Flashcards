@@ -1,0 +1,7 @@
+id,sv,en,de,sw,es,fr,level,flag,map,audio_sv,audio_en,audio_de,audio_sw,audio_es,audio_fr
+africa,,Africa,Afrika,Afrika,,Afrique,1,,map_africa.png,,geo_africa_en.mp3,geo_africa_de.mp3,geo_africa_sw.mp3,,geo_africa_fr.mp3
+americas,,Americas,Amerika,Amerika,América,Amérique,1,,map_americas.png,,geo_americas_en.mp3,geo_americas_de.mp3,geo_americas_sw.mp3,geo_americas_es.mp3,geo_americas_fr.mp3
+antarctica,Antarktis,Antarctica,Antarktika,Antaktika,,Antarctique,1,,map_antarctica.png,geo_antarctica_sv.mp3,geo_antarctica_en.mp3,geo_antarctica_de.mp3,geo_antarctica_sw.mp3,,geo_antarctica_fr.mp3
+asia,Asien,Asia,Asien,Asia,,Asie,1,,map_asia.png,geo_asia_sv.mp3,geo_asia_en.mp3,geo_asia_de.mp3,geo_asia_sw.mp3,,geo_asia_fr.mp3
+europe,,Europe,Europa,Ulaya,Europa,Europe,1,flag_europe.png,map_europe.png,,geo_europe_en.mp3,geo_europe_de.mp3,geo_europe_sw.mp3,geo_europe_es.mp3,geo_europe_fr.mp3
+oceania,,Oceania,Ozeanien,,,Océanie,1,,map_oceania.png,,geo_oceania_en.mp3,geo_oceania_de.mp3,,,geo_oceania_fr.mp3

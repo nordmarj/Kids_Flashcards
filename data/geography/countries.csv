@@ -1,0 +1,176 @@
+id,sv,en,de,sw,es,fr,level,flag,map,audio_sv,audio_en,audio_de,audio_sw,audio_es,audio_fr
+afghanistan,Afghanistan,Afghanistan,Afghanistan,,Afganistán,Afghanistan,2,flag_afghanistan.png,,geo_afghanistan_sv.mp3,geo_afghanistan_en.mp3,geo_afghanistan_de.mp3,,geo_afghanistan_es.mp3,geo_afghanistan_fr.mp3
+albania,Albanien,Albania,Albanien,,Albania,Albanie,2,flag_albania.png,map_albania.png,geo_albania_sv.mp3,geo_albania_en.mp3,geo_albania_de.mp3,,geo_albania_es.mp3,geo_albania_fr.mp3
+algeria,Algeriet,Algeria,Algerien,Algeria,Argelia,Algérie,2,flag_algeria.png,,geo_algeria_sv.mp3,geo_algeria_en.mp3,geo_algeria_de.mp3,geo_algeria_sw.mp3,geo_algeria_es.mp3,geo_algeria_fr.mp3
+andorra,Andorra,Andorra,Andorra,,Andorra,Andorre,2,flag_andorra.png,map_andorra.png,geo_andorra_sv.mp3,geo_andorra_en.mp3,geo_andorra_de.mp3,,geo_andorra_es.mp3,geo_andorra_fr.mp3
+angola,Angola,Angola,Angola,Angola,Angola,Angola,2,flag_angola.png,,geo_angola_sv.mp3,geo_angola_en.mp3,geo_angola_de.mp3,geo_angola_sw.mp3,geo_angola_es.mp3,geo_angola_fr.mp3
+argentina,Argentina,Argentina,Argentinien,Argentina,Argentina,Argentine,2,flag_argentina.png,map_argentina.png,geo_argentina_sv.mp3,geo_argentina_en.mp3,geo_argentina_de.mp3,geo_argentina_sw.mp3,geo_argentina_es.mp3,geo_argentina_fr.mp3
+armenia,Armenien,Armenia,Armenien,,Armenia,Arménie,2,flag_armenia.png,map_armenia.png,geo_armenia_sv.mp3,geo_armenia_en.mp3,geo_armenia_de.mp3,,geo_armenia_es.mp3,geo_armenia_fr.mp3
+australia,Australien,Australia,Australien,,Australia,Australie,1,flag_australia.png,map_australia.png,geo_australia_sv.mp3,geo_australia_en.mp3,geo_australia_de.mp3,,geo_australia_es.mp3,geo_australia_fr.mp3
+austria,Österrike,Austria,Österreich,Austria,Austria,Autriche,2,flag_austria.png,map_austria.png,geo_austria_sv.mp3,geo_austria_en.mp3,geo_austria_de.mp3,geo_austria_sw.mp3,geo_austria_es.mp3,geo_austria_fr.mp3
+azerbaijan,,Azerbaijan,Aserbaidschan,,Azerbaiyán,Azerbaïdjan,2,flag_azerbaijan.png,map_azerbaijan.png,,geo_azerbaijan_en.mp3,geo_azerbaijan_de.mp3,,geo_azerbaijan_es.mp3,geo_azerbaijan_fr.mp3
+bahamas,Bahamas,Bahamas,Bahamas,,Bahamas,Bahamas,2,flag_bahamas.png,map_bahamas.png,geo_bahamas_sv.mp3,geo_bahamas_en.mp3,geo_bahamas_de.mp3,,geo_bahamas_es.mp3,geo_bahamas_fr.mp3
+bahrain,Bahrain,Bahrain,Bahrain,Bahrain,Baréin,Bahreïn,2,flag_bahrain.png,,geo_bahrain_sv.mp3,geo_bahrain_en.mp3,geo_bahrain_de.mp3,geo_bahrain_sw.mp3,geo_bahrain_es.mp3,geo_bahrain_fr.mp3
+bangladesh,Bangladesh,Bangladesh,Bangladesch,Bangladesh,Bangladés,Bangladesh,2,flag_bangladesh.png,,geo_bangladesh_sv.mp3,geo_bangladesh_en.mp3,geo_bangladesh_de.mp3,geo_bangladesh_sw.mp3,geo_bangladesh_es.mp3,geo_bangladesh_fr.mp3
+barbados,Barbados,Barbados,Barbados,Barbados,Barbados,Barbade,2,flag_barbados.png,map_barbados.png,geo_barbados_sv.mp3,geo_barbados_en.mp3,geo_barbados_de.mp3,geo_barbados_sw.mp3,geo_barbados_es.mp3,geo_barbados_fr.mp3
+belarus,Belarus,Belarus,Belarus,,Bielorrusia,Biélorussie,2,flag_belarus.png,map_belarus.png,geo_belarus_sv.mp3,geo_belarus_en.mp3,geo_belarus_de.mp3,,geo_belarus_es.mp3,geo_belarus_fr.mp3
+belgium,Belgien,Belgium,Belgien,Ubelgiji,Bélgica,Belgique,2,flag_belgium.png,map_belgium.png,geo_belgium_sv.mp3,geo_belgium_en.mp3,geo_belgium_de.mp3,geo_belgium_sw.mp3,geo_belgium_es.mp3,geo_belgium_fr.mp3
+belize,,Belize,Belize,,Belice,Belize,2,flag_belize.png,map_belize.png,,geo_belize_en.mp3,geo_belize_de.mp3,,geo_belize_es.mp3,geo_belize_fr.mp3
+benin,Benin,Benin,Benin,Benin,Benín,Bénin,2,flag_benin.png,,geo_benin_sv.mp3,geo_benin_en.mp3,geo_benin_de.mp3,geo_benin_sw.mp3,geo_benin_es.mp3,geo_benin_fr.mp3
+bhutan,Bhutan,Bhutan,Bhutan,,Bután,Bhoutan,2,flag_bhutan.png,,geo_bhutan_sv.mp3,geo_bhutan_en.mp3,geo_bhutan_de.mp3,,geo_bhutan_es.mp3,geo_bhutan_fr.mp3
+bolivia,Bolivia,Bolivia,Bolivien,,Bolivia,Bolivie,2,flag_bolivia.png,map_bolivia.png,geo_bolivia_sv.mp3,geo_bolivia_en.mp3,geo_bolivia_de.mp3,,geo_bolivia_es.mp3,geo_bolivia_fr.mp3
+bosnia_and_herzegovina,,Bosnia and Herzegovina,Bosnien und Herzegowina,,,Bosnie-Herzégovine,2,flag_bosnia_and_herzegovina.png,map_bosnia_and_herzegovina.png,,geo_bosnia_and_herzegovina_en.mp3,geo_bosnia_and_herzegovina_de.mp3,,,geo_bosnia_and_herzegovina_fr.mp3
+botswana,Botswana,Botswana,Botswana,Botswana,Botsuana,Botswana,2,flag_botswana.png,,geo_botswana_sv.mp3,geo_botswana_en.mp3,geo_botswana_de.mp3,geo_botswana_sw.mp3,geo_botswana_es.mp3,geo_botswana_fr.mp3
+brazil,Brasilien,Brazil,Brasilien,,Brasil,Brésil,1,flag_brazil.png,map_brazil.png,geo_brazil_sv.mp3,geo_brazil_en.mp3,geo_brazil_de.mp3,,geo_brazil_es.mp3,geo_brazil_fr.mp3
+brunei,Brunei,Brunei,Brunei,,Brunéi,Brunei,2,flag_brunei.png,,geo_brunei_sv.mp3,geo_brunei_en.mp3,geo_brunei_de.mp3,,geo_brunei_es.mp3,geo_brunei_fr.mp3
+bulgaria,Bulgarien,Bulgaria,Bulgarien,Bulgaria,Bulgaria,Bulgarie,2,flag_bulgaria.png,map_bulgaria.png,geo_bulgaria_sv.mp3,geo_bulgaria_en.mp3,geo_bulgaria_de.mp3,geo_bulgaria_sw.mp3,geo_bulgaria_es.mp3,geo_bulgaria_fr.mp3
+burkina_faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,2,flag_burkina_faso.png,,geo_burkina_faso_sv.mp3,geo_burkina_faso_en.mp3,geo_burkina_faso_de.mp3,geo_burkina_faso_sw.mp3,geo_burkina_faso_es.mp3,geo_burkina_faso_fr.mp3
+burundi,Burundi,Burundi,Burundi,Burundi,Burundi,Burundi,2,flag_burundi.png,,geo_burundi_sv.mp3,geo_burundi_en.mp3,geo_burundi_de.mp3,geo_burundi_sw.mp3,geo_burundi_es.mp3,geo_burundi_fr.mp3
+cambodia,Kambodja,Cambodia,Kambodscha,,Camboya,Cambodge,2,flag_cambodia.png,,geo_cambodia_sv.mp3,geo_cambodia_en.mp3,geo_cambodia_de.mp3,,geo_cambodia_es.mp3,geo_cambodia_fr.mp3
+cameroon,Kamerun,Cameroon,Kamerun,Kamerun,Camerún,Cameroun,2,flag_cameroon.png,,geo_cameroon_sv.mp3,geo_cameroon_en.mp3,geo_cameroon_de.mp3,geo_cameroon_sw.mp3,geo_cameroon_es.mp3,geo_cameroon_fr.mp3
+canada,Kanada,Canada,Kanada,Kanada,Canadá,Canada,1,flag_canada.png,map_canada.png,geo_canada_sv.mp3,geo_canada_en.mp3,geo_canada_de.mp3,geo_canada_sw.mp3,geo_canada_es.mp3,geo_canada_fr.mp3
+cape_verde,Kap Verde,Cape Verde,Kap Verde,Cabo Verde,Cabo Verde,Cap-Vert,2,flag_cape_verde.png,,geo_cape_verde_sv.mp3,geo_cape_verde_en.mp3,geo_cape_verde_de.mp3,geo_cape_verde_sw.mp3,geo_cape_verde_es.mp3,geo_cape_verde_fr.mp3
+chad,Tchad,Chad,Tschad,Chad,Chad,Tchad,2,flag_chad.png,,geo_chad_sv.mp3,geo_chad_en.mp3,geo_chad_de.mp3,geo_chad_sw.mp3,geo_chad_es.mp3,geo_chad_fr.mp3
+chile,Chile,Chile,Chile,,Chile,Chili,2,flag_chile.png,map_chile.png,geo_chile_sv.mp3,geo_chile_en.mp3,geo_chile_de.mp3,,geo_chile_es.mp3,geo_chile_fr.mp3
+china,Kina,China,China,Uchina,China,Chine,1,flag_china.png,map_china.png,geo_china_sv.mp3,geo_china_en.mp3,geo_china_de.mp3,geo_china_sw.mp3,geo_china_es.mp3,geo_china_fr.mp3
+colombia,Colombia,Colombia,Kolumbien,Kolombia,Colombia,Colombie,2,flag_colombia.png,map_colombia.png,geo_colombia_sv.mp3,geo_colombia_en.mp3,geo_colombia_de.mp3,geo_colombia_sw.mp3,geo_colombia_es.mp3,geo_colombia_fr.mp3
+comoros,Komorerna,Comoros,Komoren,Komori,Comoras,Comores,2,flag_comoros.png,,geo_comoros_sv.mp3,geo_comoros_en.mp3,geo_comoros_de.mp3,geo_comoros_sw.mp3,geo_comoros_es.mp3,geo_comoros_fr.mp3
+costa_rica,Costa Rica,Costa Rica,Costa Rica,,Costa Rica,Costa Rica,2,flag_costa_rica.png,map_costa_rica.png,geo_costa_rica_sv.mp3,geo_costa_rica_en.mp3,geo_costa_rica_de.mp3,,geo_costa_rica_es.mp3,geo_costa_rica_fr.mp3
+croatia,Kroatien,Croatia,Kroatien,,Croacia,Croatie,2,flag_croatia.png,map_croatia.png,geo_croatia_sv.mp3,geo_croatia_en.mp3,geo_croatia_de.mp3,,geo_croatia_es.mp3,geo_croatia_fr.mp3
+cuba,Kuba,Cuba,Kuba,Kuba,Cuba,Cuba,2,flag_cuba.png,map_cuba.png,geo_cuba_sv.mp3,geo_cuba_en.mp3,geo_cuba_de.mp3,geo_cuba_sw.mp3,geo_cuba_es.mp3,geo_cuba_fr.mp3
+cyprus,Cypern,Cyprus,Zypern,,Chipre,Chypre,2,flag_cyprus.png,,geo_cyprus_sv.mp3,geo_cyprus_en.mp3,geo_cyprus_de.mp3,,geo_cyprus_es.mp3,geo_cyprus_fr.mp3
+czech_republic,Tjeckien,Czech Republic,Tschechien,,República Checa,Tchéquie,2,flag_czech_republic.png,,geo_czech_republic_sv.mp3,geo_czech_republic_en.mp3,geo_czech_republic_de.mp3,,geo_czech_republic_es.mp3,geo_czech_republic_fr.mp3
+democratic_republic_of_congo,Kongo-Kinshasa,Democratic Republic of the Congo,Demokratische Republik Kongo,Jamhuri ya Kidemokrasia ya Kongo,República Democrática del Congo,République démocratique du Congo,2,flag_democratic_republic_of_congo.png,,geo_democratic_republic_of_congo_sv.mp3,geo_democratic_republic_of_congo_en.mp3,geo_democratic_republic_of_congo_de.mp3,geo_democratic_republic_of_congo_sw.mp3,geo_democratic_republic_of_congo_es.mp3,geo_democratic_republic_of_congo_fr.mp3
+denmark,Danmark,Denmark,Dänemark,,Dinamarca,Danemark,1,flag_denmark.png,map_denmark.png,geo_denmark_sv.mp3,geo_denmark_en.mp3,geo_denmark_de.mp3,,geo_denmark_es.mp3,geo_denmark_fr.mp3
+djibouti,Djibouti,Djibouti,Dschibuti,Jibuti,Yibuti,Djibouti,2,flag_djibouti.png,,geo_djibouti_sv.mp3,geo_djibouti_en.mp3,geo_djibouti_de.mp3,geo_djibouti_sw.mp3,geo_djibouti_es.mp3,geo_djibouti_fr.mp3
+dominican_republic,Dominikanska republiken,Dominican Republic,Dominikanische Republik,,República Dominicana,République dominicaine,2,flag_dominican_republic.png,map_dominican_republic.png,geo_dominican_republic_sv.mp3,geo_dominican_republic_en.mp3,geo_dominican_republic_de.mp3,,geo_dominican_republic_es.mp3,geo_dominican_republic_fr.mp3
+ecuador,Ecuador,Ecuador,Ecuador,,Ecuador,Équateur,2,flag_ecuador.png,map_ecuador.png,geo_ecuador_sv.mp3,geo_ecuador_en.mp3,geo_ecuador_de.mp3,,geo_ecuador_es.mp3,geo_ecuador_fr.mp3
+egypt,Egypten,Egypt,Ägypten,Misri,Egipto,Égypte,1,flag_egypt.png,map_egypt.png,geo_egypt_sv.mp3,geo_egypt_en.mp3,geo_egypt_de.mp3,geo_egypt_sw.mp3,geo_egypt_es.mp3,geo_egypt_fr.mp3
+el_salvador,El Salvador,El Salvador,El Salvador,,El Salvador,Salvador,2,flag_el_salvador.png,map_el_salvador.png,geo_el_salvador_sv.mp3,geo_el_salvador_en.mp3,geo_el_salvador_de.mp3,,geo_el_salvador_es.mp3,geo_el_salvador_fr.mp3
+equatorial_guinea,,Equatorial Guinea,Äquatorialguinea,Guinea ya Ikweta,Guinea Ecuatorial,Guinée équatoriale,2,flag_equatorial_guinea.png,,,geo_equatorial_guinea_en.mp3,geo_equatorial_guinea_de.mp3,geo_equatorial_guinea_sw.mp3,geo_equatorial_guinea_es.mp3,geo_equatorial_guinea_fr.mp3
+eritrea,Eritrea,Eritrea,Eritrea,Eritrea,Eritrea,Érythrée,2,flag_eritrea.png,,geo_eritrea_sv.mp3,geo_eritrea_en.mp3,geo_eritrea_de.mp3,geo_eritrea_sw.mp3,geo_eritrea_es.mp3,geo_eritrea_fr.mp3
+estonia,,Estonia,Estland,Estonia,Estonia,Estonie,2,flag_estonia.png,map_estonia.png,,geo_estonia_en.mp3,geo_estonia_de.mp3,geo_estonia_sw.mp3,geo_estonia_es.mp3,geo_estonia_fr.mp3
+eswatini,,Eswatini,Eswatini,Uswazi,Suazilandia,Eswatini,2,flag_eswatini.png,,,geo_eswatini_en.mp3,geo_eswatini_de.mp3,geo_eswatini_sw.mp3,geo_eswatini_es.mp3,geo_eswatini_fr.mp3
+ethiopia,Etiopien,Ethiopia,Äthiopien,Ethiopia,Etiopía,Éthiopie,2,flag_ethiopia.png,,geo_ethiopia_sv.mp3,geo_ethiopia_en.mp3,geo_ethiopia_de.mp3,geo_ethiopia_sw.mp3,geo_ethiopia_es.mp3,geo_ethiopia_fr.mp3
+faroe_islands,,Faroe Islands,Färöer,,Islas Feroe,îles Féroé,2,flag_faroe_islands.png,,,geo_faroe_islands_en.mp3,geo_faroe_islands_de.mp3,,geo_faroe_islands_es.mp3,geo_faroe_islands_fr.mp3
+finland,Finland,Finland,Finnland,Ufini,Finlandia,Finlande,1,flag_finland.png,map_finland.png,geo_finland_sv.mp3,geo_finland_en.mp3,geo_finland_de.mp3,geo_finland_sw.mp3,geo_finland_es.mp3,geo_finland_fr.mp3
+france,Frankrike,France,Frankreich,Ufaransa,Francia,France,1,flag_france.png,map_france.png,geo_france_sv.mp3,geo_france_en.mp3,geo_france_de.mp3,geo_france_sw.mp3,geo_france_es.mp3,geo_france_fr.mp3
+french_guiana,,French Guiana,Französisch-Guayana,,Guayana Francesa,Guyane,2,flag_french_guiana.png,,,geo_french_guiana_en.mp3,geo_french_guiana_de.mp3,,geo_french_guiana_es.mp3,geo_french_guiana_fr.mp3
+gabon,,Gabon,Gabun,Gabon,Gabón,Gabon,2,flag_gabon.png,,,geo_gabon_en.mp3,geo_gabon_de.mp3,geo_gabon_sw.mp3,geo_gabon_es.mp3,geo_gabon_fr.mp3
+gambia,Gambia,The Gambia,Gambia,Gambia,Gambia,Gambie,2,flag_gambia.png,,geo_gambia_sv.mp3,geo_gambia_en.mp3,geo_gambia_de.mp3,geo_gambia_sw.mp3,geo_gambia_es.mp3,geo_gambia_fr.mp3
+georgia,,Georgia,Georgien,,Georgia,Géorgie,2,flag_georgia.png,map_georgia.png,,geo_georgia_en.mp3,geo_georgia_de.mp3,,geo_georgia_es.mp3,geo_georgia_fr.mp3
+germany,Tyskland,Germany,Deutschland,Ujerumani,Alemania,Allemagne,1,flag_germany.png,map_germany.png,geo_germany_sv.mp3,geo_germany_en.mp3,geo_germany_de.mp3,geo_germany_sw.mp3,geo_germany_es.mp3,geo_germany_fr.mp3
+ghana,Ghana,Ghana,Ghana,Ghana,Ghana,Ghana,2,flag_ghana.png,,geo_ghana_sv.mp3,geo_ghana_en.mp3,geo_ghana_de.mp3,geo_ghana_sw.mp3,geo_ghana_es.mp3,geo_ghana_fr.mp3
+greece,Grekland,Greece,Griechenland,Ugiriki,Grecia,Grèce,2,flag_greece.png,map_greece.png,geo_greece_sv.mp3,geo_greece_en.mp3,geo_greece_de.mp3,geo_greece_sw.mp3,geo_greece_es.mp3,geo_greece_fr.mp3
+greenland,,Greenland,Grönland,,Groenlandia,Groenland,2,flag_greenland.png,,,geo_greenland_en.mp3,geo_greenland_de.mp3,,geo_greenland_es.mp3,geo_greenland_fr.mp3
+grenada,Grenada,Grenada,Grenada,,Granada,Grenade,2,flag_grenada.png,map_grenada.png,geo_grenada_sv.mp3,geo_grenada_en.mp3,geo_grenada_de.mp3,,geo_grenada_es.mp3,geo_grenada_fr.mp3
+guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,2,flag_guatemala.png,map_guatemala.png,geo_guatemala_sv.mp3,geo_guatemala_en.mp3,geo_guatemala_de.mp3,geo_guatemala_sw.mp3,geo_guatemala_es.mp3,geo_guatemala_fr.mp3
+guinea,Guinea,Guinea,Guinea,Guinea,Guinea,Guinée,2,flag_guinea.png,,geo_guinea_sv.mp3,geo_guinea_en.mp3,geo_guinea_de.mp3,geo_guinea_sw.mp3,geo_guinea_es.mp3,geo_guinea_fr.mp3
+guinea_bissau,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,Guinea Bisau,Guinea-Bisáu,Guinée-Bissau,2,flag_guinea_bissau.png,,geo_guinea_bissau_sv.mp3,geo_guinea_bissau_en.mp3,geo_guinea_bissau_de.mp3,geo_guinea_bissau_sw.mp3,geo_guinea_bissau_es.mp3,geo_guinea_bissau_fr.mp3
+guyana,Guyana,Guyana,Guyana,,Guyana,Guyana,2,flag_guyana.png,map_guyana.png,geo_guyana_sv.mp3,geo_guyana_en.mp3,geo_guyana_de.mp3,,geo_guyana_es.mp3,geo_guyana_fr.mp3
+haiti,Haiti,Haiti,Haiti,,Haití,Haïti,2,flag_haiti.png,map_haiti.png,geo_haiti_sv.mp3,geo_haiti_en.mp3,geo_haiti_de.mp3,,geo_haiti_es.mp3,geo_haiti_fr.mp3
+honduras,Honduras,Honduras,Honduras,,Honduras,Honduras,2,flag_honduras.png,map_honduras.png,geo_honduras_sv.mp3,geo_honduras_en.mp3,geo_honduras_de.mp3,,geo_honduras_es.mp3,geo_honduras_fr.mp3
+hong_kong,,Hong Kong,Hongkong,,Hong Kong,Hong Kong,2,flag_hong_kong.png,,,geo_hong_kong_en.mp3,geo_hong_kong_de.mp3,,geo_hong_kong_es.mp3,geo_hong_kong_fr.mp3
+hungary,Ungern,Hungary,Ungarn,,Hungría,Hongrie,2,flag_hungary.png,map_hungary.png,geo_hungary_sv.mp3,geo_hungary_en.mp3,geo_hungary_de.mp3,,geo_hungary_es.mp3,geo_hungary_fr.mp3
+iceland,,Iceland,Island,,Islandia,Islande,1,flag_iceland.png,,,geo_iceland_en.mp3,geo_iceland_de.mp3,,geo_iceland_es.mp3,geo_iceland_fr.mp3
+india,Indien,India,Indien,Uhindi,India,Inde,1,flag_india.png,,geo_india_sv.mp3,geo_india_en.mp3,geo_india_de.mp3,geo_india_sw.mp3,geo_india_es.mp3,geo_india_fr.mp3
+indonesia,Indonesien,Indonesia,Indonesien,,Indonesia,Indonésie,2,flag_indonesia.png,,geo_indonesia_sv.mp3,geo_indonesia_en.mp3,geo_indonesia_de.mp3,,geo_indonesia_es.mp3,geo_indonesia_fr.mp3
+iran,Iran,Iran,Iran,Uajemi,Irán,Iran,2,flag_iran.png,,geo_iran_sv.mp3,geo_iran_en.mp3,geo_iran_de.mp3,geo_iran_sw.mp3,geo_iran_es.mp3,geo_iran_fr.mp3
+iraq,Irak,Iraq,Irak,,Irak,Irak,2,flag_iraq.png,,geo_iraq_sv.mp3,geo_iraq_en.mp3,geo_iraq_de.mp3,,geo_iraq_es.mp3,geo_iraq_fr.mp3
+ireland,Irland,Ireland,Irland,,Irlanda,Irlande,2,flag_ireland.png,map_ireland.png,geo_ireland_sv.mp3,geo_ireland_en.mp3,geo_ireland_de.mp3,,geo_ireland_es.mp3,geo_ireland_fr.mp3
+israel,Israel,Israel,Israel,,Israel,Israël,2,flag_israel.png,,geo_israel_sv.mp3,geo_israel_en.mp3,geo_israel_de.mp3,,geo_israel_es.mp3,geo_israel_fr.mp3
+italy,Italien,Italy,Italien,,Italia,Italie,1,flag_italy.png,map_italy.png,geo_italy_sv.mp3,geo_italy_en.mp3,geo_italy_de.mp3,,geo_italy_es.mp3,geo_italy_fr.mp3
+ivory_coast,Elfenbenskusten,Ivory Coast,Elfenbeinküste,Cote d'Ivoire,Costa de Marfil,Côte d'Ivoire,2,flag_ivory_coast.png,,geo_ivory_coast_sv.mp3,geo_ivory_coast_en.mp3,geo_ivory_coast_de.mp3,geo_ivory_coast_sw.mp3,geo_ivory_coast_es.mp3,geo_ivory_coast_fr.mp3
+jamaica,Jamaica,Jamaica,Jamaika,Jamaika,Jamaica,Jamaïque,2,flag_jamaica.png,map_jamaica.png,geo_jamaica_sv.mp3,geo_jamaica_en.mp3,geo_jamaica_de.mp3,geo_jamaica_sw.mp3,geo_jamaica_es.mp3,geo_jamaica_fr.mp3
+japan,Japan,Japan,Japan,Japani,Japón,Japon,1,flag_japan.png,,geo_japan_sv.mp3,geo_japan_en.mp3,geo_japan_de.mp3,geo_japan_sw.mp3,geo_japan_es.mp3,geo_japan_fr.mp3
+jordan,Jordanien,Jordan,Jordanien,Yordani,Jordania,Jordanie,2,flag_jordan.png,,geo_jordan_sv.mp3,geo_jordan_en.mp3,geo_jordan_de.mp3,geo_jordan_sw.mp3,geo_jordan_es.mp3,geo_jordan_fr.mp3
+kazakhstan,Kazakstan,Kazakhstan,Kasachstan,,Kazajistán,Kazakhstan,2,flag_kazakhstan.png,,geo_kazakhstan_sv.mp3,geo_kazakhstan_en.mp3,geo_kazakhstan_de.mp3,,geo_kazakhstan_es.mp3,geo_kazakhstan_fr.mp3
+kenya,Kenya,Kenya,Kenia,Kenya,Kenia,Kenya,1,flag_kenya.png,map_kenya.png,geo_kenya_sv.mp3,geo_kenya_en.mp3,geo_kenya_de.mp3,geo_kenya_sw.mp3,geo_kenya_es.mp3,geo_kenya_fr.mp3
+kuwait,,Kuwait,Kuwait,,Kuwait,Koweït,2,flag_kuwait.png,,,geo_kuwait_en.mp3,geo_kuwait_de.mp3,,geo_kuwait_es.mp3,geo_kuwait_fr.mp3
+kyrgyzstan,Kirgizistan,Kyrgyzstan,Kirgisistan,,Kirguistán,Kirghizistan,2,flag_kyrgyzstan.png,,geo_kyrgyzstan_sv.mp3,geo_kyrgyzstan_en.mp3,geo_kyrgyzstan_de.mp3,,geo_kyrgyzstan_es.mp3,geo_kyrgyzstan_fr.mp3
+laos,Laos,Laos,Laos,,Laos,Laos,2,flag_laos.png,,geo_laos_sv.mp3,geo_laos_en.mp3,geo_laos_de.mp3,,geo_laos_es.mp3,geo_laos_fr.mp3
+latvia,Lettland,Latvia,Lettland,,Letonia,Lettonie,2,flag_latvia.png,map_latvia.png,geo_latvia_sv.mp3,geo_latvia_en.mp3,geo_latvia_de.mp3,,geo_latvia_es.mp3,geo_latvia_fr.mp3
+lebanon,Libanon,Lebanon,Libanon,,Líbano,Liban,2,flag_lebanon.png,,geo_lebanon_sv.mp3,geo_lebanon_en.mp3,geo_lebanon_de.mp3,,geo_lebanon_es.mp3,geo_lebanon_fr.mp3
+lesotho,Lesotho,Lesotho,Lesotho,Lesotho,Lesoto,Lesotho,2,flag_lesotho.png,,geo_lesotho_sv.mp3,geo_lesotho_en.mp3,geo_lesotho_de.mp3,geo_lesotho_sw.mp3,geo_lesotho_es.mp3,geo_lesotho_fr.mp3
+liberia,Liberia,Liberia,Liberia,Liberia,Liberia,Liberia,2,flag_liberia.png,,geo_liberia_sv.mp3,geo_liberia_en.mp3,geo_liberia_de.mp3,geo_liberia_sw.mp3,geo_liberia_es.mp3,geo_liberia_fr.mp3
+liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,,,Liechtenstein,2,flag_liechtenstein.png,map_liechtenstein.png,geo_liechtenstein_sv.mp3,geo_liechtenstein_en.mp3,geo_liechtenstein_de.mp3,,,geo_liechtenstein_fr.mp3
+lithuania,,Lithuania,Litauen,,Lituania,Lituanie,2,flag_lithuania.png,,,geo_lithuania_en.mp3,geo_lithuania_de.mp3,,geo_lithuania_es.mp3,geo_lithuania_fr.mp3
+luxembourg,,Luxembourg,Luxemburg,,Luxemburgo,Luxembourg,2,flag_luxembourg.png,,,geo_luxembourg_en.mp3,geo_luxembourg_de.mp3,,geo_luxembourg_es.mp3,geo_luxembourg_fr.mp3
+madagascar,Madagaskar,Madagascar,Madagaskar,Madagaska,Madagascar,Madagascar,2,flag_madagascar.png,map_madagascar.png,geo_madagascar_sv.mp3,geo_madagascar_en.mp3,geo_madagascar_de.mp3,geo_madagascar_sw.mp3,geo_madagascar_es.mp3,geo_madagascar_fr.mp3
+malawi,Malawi,Malawi,Malawi,Malawi,Malaui,Malawi,2,flag_malawi.png,,geo_malawi_sv.mp3,geo_malawi_en.mp3,geo_malawi_de.mp3,geo_malawi_sw.mp3,geo_malawi_es.mp3,geo_malawi_fr.mp3
+malaysia,Malaysia,Malaysia,Malaysia,,Malasia,Malaisie,2,flag_malaysia.png,,geo_malaysia_sv.mp3,geo_malaysia_en.mp3,geo_malaysia_de.mp3,,geo_malaysia_es.mp3,geo_malaysia_fr.mp3
+maldives,Maldiverna,Maldives,Malediven,Maldivi,Maldivas,Maldives,2,flag_maldives.png,,geo_maldives_sv.mp3,geo_maldives_en.mp3,geo_maldives_de.mp3,geo_maldives_sw.mp3,geo_maldives_es.mp3,geo_maldives_fr.mp3
+mali,Mali,Mali,Mali,Mali,Malí,Mali,2,flag_mali.png,,geo_mali_sv.mp3,geo_mali_en.mp3,geo_mali_de.mp3,geo_mali_sw.mp3,geo_mali_es.mp3,geo_mali_fr.mp3
+malta,Malta,Malta,Malta,,Malta,Malte,2,flag_malta.png,map_malta.png,geo_malta_sv.mp3,geo_malta_en.mp3,geo_malta_de.mp3,,geo_malta_es.mp3,geo_malta_fr.mp3
+mauritania,Mauretanien,Mauritania,Mauretanien,Mauritania,Mauritania,Mauritanie,2,flag_mauritania.png,,geo_mauritania_sv.mp3,geo_mauritania_en.mp3,geo_mauritania_de.mp3,geo_mauritania_sw.mp3,geo_mauritania_es.mp3,geo_mauritania_fr.mp3
+mexico,Mexiko,Mexico,Mexiko,,México,Mexique,1,flag_mexico.png,map_mexico.png,geo_mexico_sv.mp3,geo_mexico_en.mp3,geo_mexico_de.mp3,,geo_mexico_es.mp3,geo_mexico_fr.mp3
+moldova,,Moldova,Moldau,Moldova,Moldavia,Moldavie,2,flag_moldova.png,map_moldova.png,,geo_moldova_en.mp3,geo_moldova_de.mp3,geo_moldova_sw.mp3,geo_moldova_es.mp3,geo_moldova_fr.mp3
+monaco,,Monaco,Monaco,,Mónaco,Monaco,2,flag_monaco.png,,,geo_monaco_en.mp3,geo_monaco_de.mp3,,geo_monaco_es.mp3,geo_monaco_fr.mp3
+mongolia,Mongoliet,Mongolia,Mongolei,Mongolia,Mongolia,Mongolie,2,flag_mongolia.png,,geo_mongolia_sv.mp3,geo_mongolia_en.mp3,geo_mongolia_de.mp3,geo_mongolia_sw.mp3,geo_mongolia_es.mp3,geo_mongolia_fr.mp3
+montenegro,Montenegro,Montenegro,Montenegro,,Montenegro,Monténégro,2,flag_montenegro.png,,geo_montenegro_sv.mp3,geo_montenegro_en.mp3,geo_montenegro_de.mp3,,geo_montenegro_es.mp3,geo_montenegro_fr.mp3
+morocco,Marocko,Morocco,Marokko,Moroko,Marruecos,Maroc,2,flag_morocco.png,map_morocco.png,geo_morocco_sv.mp3,geo_morocco_en.mp3,geo_morocco_de.mp3,geo_morocco_sw.mp3,geo_morocco_es.mp3,geo_morocco_fr.mp3
+myanmar,Myanmar,Myanmar,Myanmar,,Birmania,Birmanie,2,flag_myanmar.png,,geo_myanmar_sv.mp3,geo_myanmar_en.mp3,geo_myanmar_de.mp3,,geo_myanmar_es.mp3,geo_myanmar_fr.mp3
+namibia,Namibia,Namibia,Namibia,Namibia,Namibia,Namibie,2,flag_namibia.png,,geo_namibia_sv.mp3,geo_namibia_en.mp3,geo_namibia_de.mp3,geo_namibia_sw.mp3,geo_namibia_es.mp3,geo_namibia_fr.mp3
+nepal,Nepal,Nepal,Nepal,,Nepal,Népal,2,flag_nepal.png,map_nepal.png,geo_nepal_sv.mp3,geo_nepal_en.mp3,geo_nepal_de.mp3,,geo_nepal_es.mp3,geo_nepal_fr.mp3
+netherlands,Nederländerna,Netherlands,Niederlande,Uholanzi,Países Bajos,Pays-Bas,2,flag_netherlands.png,map_netherlands.png,geo_netherlands_sv.mp3,geo_netherlands_en.mp3,geo_netherlands_de.mp3,geo_netherlands_sw.mp3,geo_netherlands_es.mp3,geo_netherlands_fr.mp3
+new_zealand,Nya Zeeland,New Zealand,Neuseeland,Nyuzilandi,Nueva Zelanda,Nouvelle-Zélande,2,flag_new_zealand.png,,geo_new_zealand_sv.mp3,geo_new_zealand_en.mp3,geo_new_zealand_de.mp3,geo_new_zealand_sw.mp3,geo_new_zealand_es.mp3,geo_new_zealand_fr.mp3
+nicaragua,Nicaragua,Nicaragua,Nicaragua,,Nicaragua,Nicaragua,2,flag_nicaragua.png,map_nicaragua.png,geo_nicaragua_sv.mp3,geo_nicaragua_en.mp3,geo_nicaragua_de.mp3,,geo_nicaragua_es.mp3,geo_nicaragua_fr.mp3
+nigeria,Nigeria,Nigeria,Nigeria,Nigeria,Nigeria,Nigeria,2,flag_nigeria.png,,geo_nigeria_sv.mp3,geo_nigeria_en.mp3,geo_nigeria_de.mp3,geo_nigeria_sw.mp3,geo_nigeria_es.mp3,geo_nigeria_fr.mp3
+north_korea,Nordkorea,North Korea,Nordkorea,Korea Kaskazini,Corea del Norte,Corée du Nord,2,flag_north_korea.png,,geo_north_korea_sv.mp3,geo_north_korea_en.mp3,geo_north_korea_de.mp3,geo_north_korea_sw.mp3,geo_north_korea_es.mp3,geo_north_korea_fr.mp3
+north_macedonia,,North Macedonia,Nordmazedonien,,Macedonia del Norte,Macédoine du Nord,2,flag_north_macedonia.png,,,geo_north_macedonia_en.mp3,geo_north_macedonia_de.mp3,,geo_north_macedonia_es.mp3,geo_north_macedonia_fr.mp3
+norway,Norge,Norway,Norwegen,,Noruega,Norvège,1,flag_norway.png,map_norway.png,geo_norway_sv.mp3,geo_norway_en.mp3,geo_norway_de.mp3,,geo_norway_es.mp3,geo_norway_fr.mp3
+oman,Oman,Oman,Oman,Omani,Omán,Oman,2,flag_oman.png,,geo_oman_sv.mp3,geo_oman_en.mp3,geo_oman_de.mp3,geo_oman_sw.mp3,geo_oman_es.mp3,geo_oman_fr.mp3
+pakistan,Pakistan,Pakistan,Pakistan,,Pakistán,Pakistan,2,flag_pakistan.png,map_pakistan.png,geo_pakistan_sv.mp3,geo_pakistan_en.mp3,geo_pakistan_de.mp3,,geo_pakistan_es.mp3,geo_pakistan_fr.mp3
+palestine,,Palestine,Palästina,Palestina,Palestina,État de Palestine,2,flag_palestine.png,,,geo_palestine_en.mp3,geo_palestine_de.mp3,geo_palestine_sw.mp3,geo_palestine_es.mp3,geo_palestine_fr.mp3
+panama,,Panama,Panama,,Panamá,Panama,2,flag_panama.png,map_panama.png,,geo_panama_en.mp3,geo_panama_de.mp3,,geo_panama_es.mp3,geo_panama_fr.mp3
+paraguay,Paraguay,Paraguay,Paraguay,,Paraguay,Paraguay,2,flag_paraguay.png,map_paraguay.png,geo_paraguay_sv.mp3,geo_paraguay_en.mp3,geo_paraguay_de.mp3,,geo_paraguay_es.mp3,geo_paraguay_fr.mp3
+peru,Peru,Peru,Peru,,Perú,Pérou,2,flag_peru.png,map_peru.png,geo_peru_sv.mp3,geo_peru_en.mp3,geo_peru_de.mp3,,geo_peru_es.mp3,geo_peru_fr.mp3
+philippines,Filippinerna,Philippines,Philippinen,Ufilipino,Filipinas,Philippines,2,flag_philippines.png,,geo_philippines_sv.mp3,geo_philippines_en.mp3,geo_philippines_de.mp3,geo_philippines_sw.mp3,geo_philippines_es.mp3,geo_philippines_fr.mp3
+poland,Polen,Poland,Polen,,Polonia,Pologne,2,flag_poland.png,map_poland.png,geo_poland_sv.mp3,geo_poland_en.mp3,geo_poland_de.mp3,,geo_poland_es.mp3,geo_poland_fr.mp3
+portugal,Portugal,Portugal,Portugal,Ureno,Portugal,Portugal,2,flag_portugal.png,map_portugal.png,geo_portugal_sv.mp3,geo_portugal_en.mp3,geo_portugal_de.mp3,geo_portugal_sw.mp3,geo_portugal_es.mp3,geo_portugal_fr.mp3
+puerto_rico,,Puerto Rico,Puerto Rico,,Puerto Rico,Porto Rico,2,flag_puerto_rico.png,,,geo_puerto_rico_en.mp3,geo_puerto_rico_de.mp3,,geo_puerto_rico_es.mp3,geo_puerto_rico_fr.mp3
+qatar,Qatar,Qatar,Katar,,Catar,Qatar,2,flag_qatar.png,,geo_qatar_sv.mp3,geo_qatar_en.mp3,geo_qatar_de.mp3,,geo_qatar_es.mp3,geo_qatar_fr.mp3
+romania,Rumänien,Romania,Rumänien,,Rumanía,Roumanie,2,flag_romania.png,map_romania.png,geo_romania_sv.mp3,geo_romania_en.mp3,geo_romania_de.mp3,,geo_romania_es.mp3,geo_romania_fr.mp3
+russia,Ryssland,Russia,Russland,Urusi,Rusia,Russie,1,flag_russia.png,map_russia.png,geo_russia_sv.mp3,geo_russia_en.mp3,geo_russia_de.mp3,geo_russia_sw.mp3,geo_russia_es.mp3,geo_russia_fr.mp3
+rwanda,Rwanda,Rwanda,Ruanda,Rwanda,Ruanda,Rwanda,2,flag_rwanda.png,,geo_rwanda_sv.mp3,geo_rwanda_en.mp3,geo_rwanda_de.mp3,geo_rwanda_sw.mp3,geo_rwanda_es.mp3,geo_rwanda_fr.mp3
+saint_kitts_and_nevis,Saint Kitts och Nevis,Saint Kitts and Nevis,St. Kitts und Nevis,,San Cristóbal y Nieves,Saint-Christophe-et-Niévès,2,flag_saint_kitts_and_nevis.png,map_saint_kitts_and_nevis.png,geo_saint_kitts_and_nevis_sv.mp3,geo_saint_kitts_and_nevis_en.mp3,geo_saint_kitts_and_nevis_de.mp3,,geo_saint_kitts_and_nevis_es.mp3,geo_saint_kitts_and_nevis_fr.mp3
+saint_vincent_and_the_grenadines,Saint Vincent och Grenadinerna,Saint Vincent and the Grenadines,St. Vincent und die Grenadinen,,San Vicente y las Granadinas,Saint-Vincent-et-les-Grenadines,2,flag_saint_vincent_and_the_grenadines.png,,geo_saint_vincent_and_the_grenadines_sv.mp3,geo_saint_vincent_and_the_grenadines_en.mp3,geo_saint_vincent_and_the_grenadines_de.mp3,,geo_saint_vincent_and_the_grenadines_es.mp3,geo_saint_vincent_and_the_grenadines_fr.mp3
+san_marino,,San Marino,San Marino,,San Marino,Saint-Marin,2,flag_san_marino.png,map_san_marino.png,,geo_san_marino_en.mp3,geo_san_marino_de.mp3,,geo_san_marino_es.mp3,geo_san_marino_fr.mp3
+sao_tome_and_principe,São Tomé och Príncipe,São Tomé and Príncipe,São Tomé und Príncipe,Sao Tome na Principe,Santo Tomé y Príncipe,Sao Tomé-et-Principe,2,flag_sao_tome_and_principe.png,,geo_sao_tome_and_principe_sv.mp3,geo_sao_tome_and_principe_en.mp3,geo_sao_tome_and_principe_de.mp3,geo_sao_tome_and_principe_sw.mp3,geo_sao_tome_and_principe_es.mp3,geo_sao_tome_and_principe_fr.mp3
+saudi_arabia,Saudiarabien,Saudi Arabia,Saudi-Arabien,,Arabia Saudí,Arabie saoudite,2,flag_saudi_arabia.png,,geo_saudi_arabia_sv.mp3,geo_saudi_arabia_en.mp3,geo_saudi_arabia_de.mp3,,geo_saudi_arabia_es.mp3,geo_saudi_arabia_fr.mp3
+scotland,,Scotland,Schottland,,,Écosse,2,flag_scotland.png,,,geo_scotland_en.mp3,geo_scotland_de.mp3,,,geo_scotland_fr.mp3
+senegal,Senegal,Senegal,Senegal,Senegal,Senegal,Sénégal,2,flag_senegal.png,,geo_senegal_sv.mp3,geo_senegal_en.mp3,geo_senegal_de.mp3,geo_senegal_sw.mp3,geo_senegal_es.mp3,geo_senegal_fr.mp3
+serbia,,Serbia,Serbien,,Serbia,Serbie,2,flag_serbia.png,map_serbia.png,,geo_serbia_en.mp3,geo_serbia_de.mp3,,geo_serbia_es.mp3,geo_serbia_fr.mp3
+singapore,Singapore,Singapore,Singapur,,Singapur,Singapour,2,flag_singapore.png,,geo_singapore_sv.mp3,geo_singapore_en.mp3,geo_singapore_de.mp3,,geo_singapore_es.mp3,geo_singapore_fr.mp3
+slovakia,Slovakien,Slovakia,Slowakei,,Eslovaquia,Slovaquie,2,flag_slovakia.png,map_slovakia.png,geo_slovakia_sv.mp3,geo_slovakia_en.mp3,geo_slovakia_de.mp3,,geo_slovakia_es.mp3,geo_slovakia_fr.mp3
+slovenia,,Slovenia,Slowenien,Slovenia,Eslovenia,Slovénie,2,flag_slovenia.png,map_slovenia.png,,geo_slovenia_en.mp3,geo_slovenia_de.mp3,geo_slovenia_sw.mp3,geo_slovenia_es.mp3,geo_slovenia_fr.mp3
+somalia,Somalia,Somalia,Somalia,Somalia,Somalia,Somalie,2,flag_somalia.png,map_somalia.png,geo_somalia_sv.mp3,geo_somalia_en.mp3,geo_somalia_de.mp3,geo_somalia_sw.mp3,geo_somalia_es.mp3,geo_somalia_fr.mp3
+south_africa,Sydafrika,South Africa,Südafrika,Afrika Kusini,Sudáfrica,Afrique du Sud,1,flag_south_africa.png,,geo_south_africa_sv.mp3,geo_south_africa_en.mp3,geo_south_africa_de.mp3,geo_south_africa_sw.mp3,geo_south_africa_es.mp3,geo_south_africa_fr.mp3
+south_korea,Sydkorea,South Korea,Südkorea,Korea Kusini,Corea del Sur,Corée du Sud,2,flag_south_korea.png,,geo_south_korea_sv.mp3,geo_south_korea_en.mp3,geo_south_korea_de.mp3,geo_south_korea_sw.mp3,geo_south_korea_es.mp3,geo_south_korea_fr.mp3
+spain,Spanien,Spain,Spanien,Hispania,España,Espagne,1,flag_spain.png,map_spain.png,geo_spain_sv.mp3,geo_spain_en.mp3,geo_spain_de.mp3,geo_spain_sw.mp3,geo_spain_es.mp3,geo_spain_fr.mp3
+sri_lanka,Sri Lanka,Sri Lanka,Sri Lanka,,Sri Lanka,Sri Lanka,2,flag_sri_lanka.png,,geo_sri_lanka_sv.mp3,geo_sri_lanka_en.mp3,geo_sri_lanka_de.mp3,,geo_sri_lanka_es.mp3,geo_sri_lanka_fr.mp3
+sudan,Sudan,Sudan,Sudan,Sudan,Sudán,Soudan,2,flag_sudan.png,,geo_sudan_sv.mp3,geo_sudan_en.mp3,geo_sudan_de.mp3,geo_sudan_sw.mp3,geo_sudan_es.mp3,geo_sudan_fr.mp3
+suriname,,Suriname,Suriname,,Surinam,Suriname,2,flag_suriname.png,map_suriname.png,,geo_suriname_en.mp3,geo_suriname_de.mp3,,geo_suriname_es.mp3,geo_suriname_fr.mp3
+sweden,Sverige,Sweden,Schweden,Uswidi,Suecia,Suède,1,flag_sweden.png,map_sweden.png,geo_sweden_sv.mp3,geo_sweden_en.mp3,geo_sweden_de.mp3,geo_sweden_sw.mp3,geo_sweden_es.mp3,geo_sweden_fr.mp3
+switzerland,Schweiz,Switzerland,Schweiz,Uswisi,Suiza,Suisse,2,flag_switzerland.png,map_switzerland.png,geo_switzerland_sv.mp3,geo_switzerland_en.mp3,geo_switzerland_de.mp3,geo_switzerland_sw.mp3,geo_switzerland_es.mp3,geo_switzerland_fr.mp3
+syria,Syrien,Syria,Syrien,,Siria,Syrie,2,flag_syria.png,map_syria.png,geo_syria_sv.mp3,geo_syria_en.mp3,geo_syria_de.mp3,,geo_syria_es.mp3,geo_syria_fr.mp3
+tajikistan,Tadzjikistan,Tajikistan,Tadschikistan,,Tayikistán,Tadjikistan,2,flag_tajikistan.png,,geo_tajikistan_sv.mp3,geo_tajikistan_en.mp3,geo_tajikistan_de.mp3,,geo_tajikistan_es.mp3,geo_tajikistan_fr.mp3
+tanzania,Tanzania,Tanzania,Tansania,Tanzania,Tanzania,Tanzanie,1,flag_tanzania.png,,geo_tanzania_sv.mp3,geo_tanzania_en.mp3,geo_tanzania_de.mp3,geo_tanzania_sw.mp3,geo_tanzania_es.mp3,geo_tanzania_fr.mp3
+thailand,Thailand,Thailand,Thailand,,Tailandia,Thaïlande,2,flag_thailand.png,,geo_thailand_sv.mp3,geo_thailand_en.mp3,geo_thailand_de.mp3,,geo_thailand_es.mp3,geo_thailand_fr.mp3
+togo,Togo,Togo,Togo,Togo,Togo,Togo,2,flag_togo.png,,geo_togo_sv.mp3,geo_togo_en.mp3,geo_togo_de.mp3,geo_togo_sw.mp3,geo_togo_es.mp3,geo_togo_fr.mp3
+trinidad_and_tobago,Trinidad och Tobago,Trinidad and Tobago,Trinidad und Tobago,,Trinidad y Tobago,Trinité-et-Tobago,2,flag_trinidad_and_tobago.png,map_trinidad_and_tobago.png,geo_trinidad_and_tobago_sv.mp3,geo_trinidad_and_tobago_en.mp3,geo_trinidad_and_tobago_de.mp3,,geo_trinidad_and_tobago_es.mp3,geo_trinidad_and_tobago_fr.mp3
+tunisia,Tunisien,Tunisia,Tunesien,Tunisia,Túnez,Tunisie,2,flag_tunisia.png,,geo_tunisia_sv.mp3,geo_tunisia_en.mp3,geo_tunisia_de.mp3,geo_tunisia_sw.mp3,geo_tunisia_es.mp3,geo_tunisia_fr.mp3
+turkey,Turkiet,Turkey,Türkei,Uturuki,Turquía,Turquie,2,flag_turkey.png,map_turkey.png,geo_turkey_sv.mp3,geo_turkey_en.mp3,geo_turkey_de.mp3,geo_turkey_sw.mp3,geo_turkey_es.mp3,geo_turkey_fr.mp3
+turkmenistan,Turkmenistan,Turkmenistan,Turkmenistan,,Turkmenistán,Turkménistan,2,flag_turkmenistan.png,,geo_turkmenistan_sv.mp3,geo_turkmenistan_en.mp3,geo_turkmenistan_de.mp3,,geo_turkmenistan_es.mp3,geo_turkmenistan_fr.mp3
+ukraine,,Ukraine,Ukraine,,Ucrania,Ukraine,2,flag_ukraine.png,map_ukraine.png,,geo_ukraine_en.mp3,geo_ukraine_de.mp3,,geo_ukraine_es.mp3,geo_ukraine_fr.mp3
+united_arab_emirates,Förenade arabemiraten,United Arab Emirates,Vereinigte Arabische Emirate,,Emiratos Árabes Unidos,Émirats arabes unis,2,flag_united_arab_emirates.png,,geo_united_arab_emirates_sv.mp3,geo_united_arab_emirates_en.mp3,geo_united_arab_emirates_de.mp3,,geo_united_arab_emirates_es.mp3,geo_united_arab_emirates_fr.mp3
+united_kingdom,Storbritannien,United Kingdom,Vereinigtes Königreich,,Reino Unido,Royaume-Uni,1,flag_united_kingdom.png,map_united_kingdom.png,geo_united_kingdom_sv.mp3,geo_united_kingdom_en.mp3,geo_united_kingdom_de.mp3,,geo_united_kingdom_es.mp3,geo_united_kingdom_fr.mp3
+united_states,USA,United States,Vereinigte Staaten,Marekani,Estados Unidos,États-Unis,1,flag_united_states.png,map_united_states.png,geo_united_states_sv.mp3,geo_united_states_en.mp3,geo_united_states_de.mp3,geo_united_states_sw.mp3,geo_united_states_es.mp3,geo_united_states_fr.mp3
+uruguay,Uruguay,Uruguay,Uruguay,,Uruguay,Uruguay,2,flag_uruguay.png,map_uruguay.png,geo_uruguay_sv.mp3,geo_uruguay_en.mp3,geo_uruguay_de.mp3,,geo_uruguay_es.mp3,geo_uruguay_fr.mp3
+uzbekistan,Uzbekistan,Uzbekistan,Usbekistan,,Uzbekistán,Ouzbékistan,2,flag_uzbekistan.png,,geo_uzbekistan_sv.mp3,geo_uzbekistan_en.mp3,geo_uzbekistan_de.mp3,,geo_uzbekistan_es.mp3,geo_uzbekistan_fr.mp3
+vatican_city,,Vatican City,Vatikanstadt,,Ciudad del Vaticano,Vatican,2,flag_vatican_city.png,,,geo_vatican_city_en.mp3,geo_vatican_city_de.mp3,,geo_vatican_city_es.mp3,geo_vatican_city_fr.mp3
+venezuela,Venezuela,Venezuela,Venezuela,,Venezuela,Venezuela,2,flag_venezuela.png,map_venezuela.png,geo_venezuela_sv.mp3,geo_venezuela_en.mp3,geo_venezuela_de.mp3,,geo_venezuela_es.mp3,geo_venezuela_fr.mp3
+vietnam,Vietnam,Vietnam,Vietnam,,Vietnam,Vietnam,2,flag_vietnam.png,,geo_vietnam_sv.mp3,geo_vietnam_en.mp3,geo_vietnam_de.mp3,,geo_vietnam_es.mp3,geo_vietnam_fr.mp3
+wales,Wales,Wales,Wales,,,pays de Galles,2,flag_wales.png,,geo_wales_sv.mp3,geo_wales_en.mp3,geo_wales_de.mp3,,,geo_wales_fr.mp3
+yemen,Jemen,Yemen,Jemen,,Yemen,Yémen,2,flag_yemen.png,,geo_yemen_sv.mp3,geo_yemen_en.mp3,geo_yemen_de.mp3,,geo_yemen_es.mp3,geo_yemen_fr.mp3
+zambia,Zambia,Zambia,Sambia,Zambia,Zambia,Zambie,2,flag_zambia.png,,geo_zambia_sv.mp3,geo_zambia_en.mp3,geo_zambia_de.mp3,geo_zambia_sw.mp3,geo_zambia_es.mp3,geo_zambia_fr.mp3

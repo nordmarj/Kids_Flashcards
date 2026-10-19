@@ -177,5 +177,5 @@ def build(langs=tuple(word_decks.LANGUAGES)):
             decks.append(deck)
         out[lang] = (decks, sorted(files))
         notes = sum(len(d.notes) for d in decks)
-        print(f"{notes} {lang} places ({2 * notes} cards) in {len(decks)} geography subdecks")
+        print(f"{notes} {lang} flags and maps ({2 * notes} cards) in {len(decks)} geography subdecks")
     return out
