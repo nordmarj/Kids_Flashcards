@@ -25,7 +25,7 @@ GEOGRAPHY = ROOT / "data" / "geography"
 TOPICS = ("countries", "continents", "regions")
 
 # Model and deck IDs are fixed forever; never change or reuse one.
-MODEL_ID = 1987814188
+MODEL_ID = 1301254321  # 1987814188 had no Key field; never reuse it
 
 # language -> (root deck, package, {picture kind: (subdeck name, deck ID)})
 DECKS = {
@@ -111,7 +111,10 @@ def model(choices_js):
     return genanki.Model(
         MODEL_ID,
         "Kids Flashcards: Geography",
-        fields=[{"name": "Name"}, {"name": "Picture"}, {"name": "Audio"},
+        # Anki flags notes whose first field matches another's as duplicates,
+        # and a place's flag and map share its name, so the first field is a
+        # key the cards never show (flag_sweden, map_sweden).
+        fields=[{"name": "Key"}, {"name": "Name"}, {"name": "Picture"}, {"name": "Audio"},
                 {"name": "NameChoices"}, {"name": "PictureChoices"}, {"name": "Credits"}],
         templates=[{
             "name": "Picture to name",
@@ -168,7 +171,7 @@ def build(langs=tuple(word_decks.LANGUAGES)):
                            f"{word_decks.credit(sources[f'audio/{lang}/{audio.name}'])}")
                 deck.add_note(genanki.Note(
                     model=note_model,
-                    fields=[html.escape(p[lang]), f'<img src="{images[0].name}">',
+                    fields=[f"{kind}_{p['id']}", html.escape(p[lang]), f'<img src="{images[0].name}">',
                             f"[sound:{audio.name}]", names, pictures, credits],
                     guid=genanki.guid_for("kids_flashcards", "geography", kind, p["id"], lang),
                     tags=[f"level{p['level']}", topic, kind, f"lang_{lang}"],
