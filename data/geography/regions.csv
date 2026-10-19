@@ -1,0 +1,19 @@
+id,sv,en,de,sw,es,fr,level,flag,map,audio_sv,audio_en,audio_de,audio_sw,audio_es,audio_fr
+andalusia,,Andalusia,Andalusien,,,Andalousie,2,flag_andalusia.png,,,geo_andalusia_en.mp3,geo_andalusia_de.mp3,,,geo_andalusia_fr.mp3
+aragon,,Aragon,Aragonien,,,Aragon,2,flag_aragon.png,,,geo_aragon_en.mp3,geo_aragon_de.mp3,,,geo_aragon_fr.mp3
+asturias,,Asturias,Asturien,,,Asturies,2,flag_asturias.png,,,geo_asturias_en.mp3,geo_asturias_de.mp3,,,geo_asturias_fr.mp3
+balearic_islands,,Balearic Islands,Balearische Inseln,,Islas Baleares,Baléares,2,flag_balearic_islands.png,,,geo_balearic_islands_en.mp3,geo_balearic_islands_de.mp3,,geo_balearic_islands_es.mp3,geo_balearic_islands_fr.mp3
+basque_country,,Basque Country,Baskenland,,,Pays basque,2,flag_basque_country.png,,,geo_basque_country_en.mp3,geo_basque_country_de.mp3,,,geo_basque_country_fr.mp3
+canary_islands,,Canary Islands,Kanarische Inseln,,,îles Canaries,2,flag_canary_islands.png,,,geo_canary_islands_en.mp3,geo_canary_islands_de.mp3,,,geo_canary_islands_fr.mp3
+cantabria,,Cantabria,Kantabrien,,Cantabria,,2,flag_cantabria.png,,,geo_cantabria_en.mp3,geo_cantabria_de.mp3,,geo_cantabria_es.mp3,
+catalonia,,Catalonia,Katalonien,,,Catalogne,2,flag_catalonia.png,,,geo_catalonia_en.mp3,geo_catalonia_de.mp3,,,geo_catalonia_fr.mp3
+ceuta,,Ceuta,Ceuta,,,,2,flag_ceuta.png,,,geo_ceuta_en.mp3,geo_ceuta_de.mp3,,,
+community_of_madrid,,,Madrid,,,,2,flag_community_of_madrid.png,,,,geo_community_of_madrid_de.mp3,,,
+extremadura,,Extremadura,Extremadura,,,,2,flag_extremadura.png,,,geo_extremadura_en.mp3,geo_extremadura_de.mp3,,,
+galicia,Galicien,Galicia,Galicien,,Galicia,Galice,2,flag_galicia.png,,geo_galicia_sv.mp3,geo_galicia_en.mp3,geo_galicia_de.mp3,,geo_galicia_es.mp3,geo_galicia_fr.mp3
+la_rioja,,La Rioja,La Rioja,,,,2,flag_la_rioja.png,,,geo_la_rioja_en.mp3,geo_la_rioja_de.mp3,,,
+malaga,,Málaga,Málaga,,,Malaga,2,flag_malaga.png,,,geo_malaga_en.mp3,geo_malaga_de.mp3,,,geo_malaga_fr.mp3
+melilla,,Melilla,Melilla,,,,2,flag_melilla.png,,,geo_melilla_en.mp3,geo_melilla_de.mp3,,,
+murcia,,Murcia,Murcia,,,,2,flag_murcia.png,,,geo_murcia_en.mp3,geo_murcia_de.mp3,,,
+navarre,,Navarre,Navarra,,,,2,flag_navarre.png,,,geo_navarre_en.mp3,geo_navarre_de.mp3,,,
+valencian_community,,Valencia,Valencia,,Valencia,,2,flag_valencian_community.png,,,geo_valencian_community_en.mp3,geo_valencian_community_de.mp3,,geo_valencian_community_es.mp3,

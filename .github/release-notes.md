@@ -15,6 +15,15 @@ word and offers four pictures to tap.
 - `espanol.apkg` (Español::Palabras)
 - `francais.apkg` (Français::Mots)
 
+**Geography decks**: flags and maps. Each one has two cards: pick the right
+name for the flag or map, and hear a name and pick the right flag or map.
+Names are spoken aloud by a real person. Each language's deck has every country, continent and
+region whose name has a recording in that language.
+
+- `geography_sv.apkg` (Geografi), `geography_en.apkg` (Geography),
+  `geography_de.apkg` (Geografie), `geography_sw.apkg` (Jiografia),
+  `geography_es.apkg` (Geografía), `geography_fr.apkg` (Géographie)
+
 **Maths** (`maths_sv_en.apkg`): addition, subtraction, multiplication tables
 0–20 and division, as multiple-choice and typing cards with counting
 pictures, plus shapes in Swedish and English. For shapes in other languages,

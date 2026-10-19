@@ -1,0 +1,71 @@
+.card {
+  font-family: "Andika", "Comic Sans MS", "Trebuchet MS", sans-serif;
+  text-align: center;
+  color: #222;
+  background: #fffdf6;
+}
+.nightMode.card, .night_mode .card {
+  color: #eee;
+  background: #222;
+}
+.language {
+  font-size: 18px;
+  color: #666;
+  letter-spacing: 0.05em;
+}
+.nightMode .language, .night_mode .language {
+  color: #aaa;
+}
+.picture img {
+  width: 260px;
+  max-width: 80vw;
+  height: auto;
+  margin: 12px 0;
+  background: #fff;
+  border-radius: 16px;
+}
+.word {
+  font-size: 56px;
+  margin: 12px 0 24px;
+}
+.choices {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(120px, 190px));
+  justify-content: center;
+  gap: 16px;
+}
+.choice {
+  font: inherit;
+  font-size: 30px;
+  padding: 14px 6px;
+  border: 3px solid #888;
+  border-radius: 20px;
+  background: #fff;
+  color: #222;
+  cursor: pointer;
+}
+.choice.correct {
+  background: #b7f0c2;
+  border-color: #1a7f37;
+}
+.choice.wrong {
+  background: #f8c4c4;
+  border-color: #c62828;
+}
+.choice img {
+  width: 100%;
+  max-width: 150px;
+  height: auto;
+  display: block;
+  margin: auto;
+  background: #fff;
+  border-radius: 8px;
+}
+.pictures .choice {
+  padding: 8px;
+}
+.credits {
+  font-size: 11px;
+  color: #888;
+  margin-top: 40px;
+}

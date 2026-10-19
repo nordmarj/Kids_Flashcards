@@ -2,7 +2,7 @@
 
 Source data and build scripts for [Anki](https://apps.ankiweb.net/) flashcard
 decks for young children: picture → word and word → picture cards in Swedish, English, German,
-Swahili, Spanish and French, plus arithmetic and shapes. See [CLAUDE.md](CLAUDE.md) for how the project works.
+Swahili, Spanish and French, flags and maps (geography), plus arithmetic and shapes. See [CLAUDE.md](CLAUDE.md) for how the project works.
 
 ## Build
 
@@ -13,12 +13,15 @@ python3 scripts/build_decks.py
 
 This writes one word deck per language (`build/svenska.apkg` with
 `Svenska::Ord::…`, `build/english.apkg` with `English::Words::…`, and
-`deutsch`, `kiswahili`, `espanol`, `francais`) and `build/maths.apkg`
+`deutsch`, `kiswahili`, `espanol`, `francais`), one geography deck per
+language (`build/geography_sv.apkg` with `Geografi::Flaggor` and
+`Geografi::Kartor`, `build/geography_en.apkg` with `Geography::Flags` and
+`Geography::Maps`, and so on) and `build/maths.apkg`
 (`Maths::…`, with the shapes in every language). Import them into Anki; re-importing an updated deck keeps the
 child's progress.
 
 To build only some languages, list them: `--lang sv` or `--lang sv en`. That
-writes just those languages' word decks, plus a maths deck whose shapes are in
+writes just those languages' word and geography decks, plus a maths deck whose shapes are in
 those languages only, named after them (`build/maths_sv.apkg`). The languages
 are defined in `LANGUAGES` in `scripts/word_decks.py`.
 
