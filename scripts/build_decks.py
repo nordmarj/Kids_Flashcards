@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build Anki decks from data/ into build/*.apkg.
 
-Builds one picture → word package per language (build/svenska.apkg,
+Builds one word package (picture → word and word → picture) per language (build/svenska.apkg,
 build/english.apkg, build/deutsch.apkg, build/kiswahili.apkg,
 build/espanol.apkg, build/francais.apkg; see word_decks.py) and
 build/maths.apkg, one "Maths" deck with these subdecks:

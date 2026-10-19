@@ -3,8 +3,9 @@ Flashcard decks for young children, for [Anki](https://apps.ankiweb.net/)
 in Anki. Importing a newer release later updates the cards and keeps the
 child's progress.
 
-**Picture → word decks**: a picture, a few words to choose from, and the word
-spoken aloud by a real person.
+**Word decks**: every word spoken aloud by a real person, on two cards. One
+shows a picture and four words to choose from; the other shows and says the
+word and offers four pictures to tap.
 
 - `svenska.apkg` (Svenska::Ord)
 - `english.apkg` (English::Words)
