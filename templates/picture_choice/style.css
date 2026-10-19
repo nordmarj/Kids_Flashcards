@@ -52,6 +52,18 @@
   background: #f8c4c4;
   border-color: #c62828;
 }
+.choice img {
+  width: 100%;
+  max-width: 150px;
+  height: auto;
+  display: block;
+  margin: auto;
+  background: #fff;
+  border-radius: 8px;
+}
+.pictures .choice {
+  padding: 8px;
+}
 .credits {
   font-size: 11px;
   color: #888;
